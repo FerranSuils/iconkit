@@ -1,0 +1,604 @@
+{
+  "voicemail": {
+    "category": "communication",
+    "keywords": [
+      "buzon de voz",
+      "voicemail",
+      "mensaje",
+      "message",
+      "audio",
+      "recado"
+    ],
+    "aliases": [
+      "voice-message"
+    ],
+    "outline": "<circle cx=\"6.5\" cy=\"11\" r=\"4\"/><circle cx=\"17.5\" cy=\"11\" r=\"4\"/><line x1=\"6.5\" y1=\"15\" x2=\"17.5\" y2=\"15\"/>",
+    "solid": null
+  },
+  "call-forward": {
+    "category": "communication",
+    "keywords": [
+      "desviar llamada",
+      "call forward",
+      "telefono",
+      "phone",
+      "reenviar",
+      "transferir"
+    ],
+    "aliases": [
+      "call-transfer"
+    ],
+    "outline": "<path d=\"M4.3 4.5H6.2A1.4 1.4 0 0 1 7.6 5.7L8 8.2A1.4 1.4 0 0 1 7.2 9.7L6.1 10.3A9.5 9.5 0 0 0 10.5 14.7L11.1 13.6A1.4 1.4 0 0 1 12.6 12.8L15.1 13.2A1.4 1.4 0 0 1 16.3 14.6V16.5A1.7 1.7 0 0 1 14.4 18.2A13.4 13.4 0 0 1 2.6 6.4A1.7 1.7 0 0 1 4.3 4.5Z\"/><path d=\"M14 6H21\"/><path d=\"M18 3 21 6 18 9\"/>",
+    "solid": null
+  },
+  "call-missed": {
+    "category": "communication",
+    "keywords": [
+      "llamada perdida",
+      "missed call",
+      "telefono",
+      "phone",
+      "sin contestar",
+      "perdida"
+    ],
+    "aliases": [],
+    "outline": "<path d=\"M4.3 4.5H6.2A1.4 1.4 0 0 1 7.6 5.7L8 8.2A1.4 1.4 0 0 1 7.2 9.7L6.1 10.3A9.5 9.5 0 0 0 10.5 14.7L11.1 13.6A1.4 1.4 0 0 1 12.6 12.8L15.1 13.2A1.4 1.4 0 0 1 16.3 14.6V16.5A1.7 1.7 0 0 1 14.4 18.2A13.4 13.4 0 0 1 2.6 6.4A1.7 1.7 0 0 1 4.3 4.5Z\"/><path d=\"M15 4 21 10\"/><path d=\"M21 4 15 10\"/>",
+    "solid": null
+  },
+  "call-incoming": {
+    "category": "communication",
+    "keywords": [
+      "llamada entrante",
+      "incoming call",
+      "telefono",
+      "phone",
+      "recibir",
+      "entrante"
+    ],
+    "aliases": [
+      "call-received"
+    ],
+    "outline": "<path d=\"M4.3 4.5H6.2A1.4 1.4 0 0 1 7.6 5.7L8 8.2A1.4 1.4 0 0 1 7.2 9.7L6.1 10.3A9.5 9.5 0 0 0 10.5 14.7L11.1 13.6A1.4 1.4 0 0 1 12.6 12.8L15.1 13.2A1.4 1.4 0 0 1 16.3 14.6V16.5A1.7 1.7 0 0 1 14.4 18.2A13.4 13.4 0 0 1 2.6 6.4A1.7 1.7 0 0 1 4.3 4.5Z\"/><path d=\"M20.5 5.5 14 12\"/><path d=\"M14 7V12H19\"/>",
+    "solid": null
+  },
+  "call-outgoing": {
+    "category": "communication",
+    "keywords": [
+      "llamada saliente",
+      "outgoing call",
+      "telefono",
+      "phone",
+      "marcar",
+      "saliente"
+    ],
+    "aliases": [],
+    "outline": "<path d=\"M4.3 4.5H6.2A1.4 1.4 0 0 1 7.6 5.7L8 8.2A1.4 1.4 0 0 1 7.2 9.7L6.1 10.3A9.5 9.5 0 0 0 10.5 14.7L11.1 13.6A1.4 1.4 0 0 1 12.6 12.8L15.1 13.2A1.4 1.4 0 0 1 16.3 14.6V16.5A1.7 1.7 0 0 1 14.4 18.2A13.4 13.4 0 0 1 2.6 6.4A1.7 1.7 0 0 1 4.3 4.5Z\"/><path d=\"M14 12 20.5 5.5\"/><path d=\"M15.5 5.5H20.5V10.5\"/>",
+    "solid": null
+  },
+  "video-call-comm": {
+    "category": "communication",
+    "keywords": [
+      "videollamada",
+      "video call",
+      "camara",
+      "webcam",
+      "reunion",
+      "meeting"
+    ],
+    "aliases": [
+      "videocall"
+    ],
+    "outline": "<rect x=\"2.5\" y=\"4.5\" width=\"19\" height=\"15\" rx=\"2.5\"/><circle cx=\"12\" cy=\"10\" r=\"2.5\"/><path d=\"M7.5 16.5a4.5 4.5 0 0 1 9 0\"/>",
+    "solid": null
+  },
+  "conference-call": {
+    "category": "communication",
+    "keywords": [
+      "conferencia",
+      "conference call",
+      "reunion",
+      "meeting",
+      "video",
+      "grupo"
+    ],
+    "aliases": [
+      "group-call"
+    ],
+    "outline": "<rect x=\"2.5\" y=\"4.5\" width=\"19\" height=\"15\" rx=\"2\"/><line x1=\"12\" y1=\"4.5\" x2=\"12\" y2=\"19.5\"/><line x1=\"2.5\" y1=\"12\" x2=\"21.5\" y2=\"12\"/><path d=\"M7.2 8.6h.01M16.8 8.6h.01M7.2 15.4h.01M16.8 15.4h.01\"/><path d=\"M5.7 10.5a2.2 2.2 0 0 1 3 0M15.3 10.5a2.2 2.2 0 0 1 3 0M5.7 17.3a2.2 2.2 0 0 1 3 0M15.3 17.3a2.2 2.2 0 0 1 3 0\"/>",
+    "solid": null
+  },
+  "headset-support": {
+    "category": "communication",
+    "keywords": [
+      "auriculares",
+      "headset",
+      "soporte",
+      "support",
+      "atencion",
+      "call center"
+    ],
+    "aliases": [
+      "support-agent",
+      "call-center"
+    ],
+    "outline": "<path d=\"M21 12.5a9 9 0 1 0-18 0\"/><path d=\"M3 13.5H5A1.5 1.5 0 0 1 6.5 15V18A1.5 1.5 0 0 1 5 19.5H4A1 1 0 0 1 3 18.5Z\"/><path d=\"M21 13.5H19A1.5 1.5 0 0 0 17.5 15V18A1.5 1.5 0 0 0 19 19.5H20A1 1 0 0 0 21 18.5Z\"/><path d=\"M21 18.5V19A3 3 0 0 1 18 22H13\"/>",
+    "solid": null
+  },
+  "walkie-talkie": {
+    "category": "communication",
+    "keywords": [
+      "walkie talkie",
+      "radio",
+      "transmisor",
+      "two way radio",
+      "emisora",
+      "comunicador"
+    ],
+    "aliases": [
+      "two-way-radio"
+    ],
+    "outline": "<rect x=\"6.5\" y=\"8\" width=\"9\" height=\"13\" rx=\"1.5\"/><line x1=\"13\" y1=\"8\" x2=\"13\" y2=\"3\"/><path d=\"M8.5 11h5M8.5 13.2h5\"/><rect x=\"8.5\" y=\"15.5\" width=\"5\" height=\"3\" rx=\"0.6\"/>",
+    "solid": null
+  },
+  "intercom": {
+    "category": "communication",
+    "keywords": [
+      "intercomunicador",
+      "intercom",
+      "portero",
+      "door phone",
+      "timbre",
+      "buzzer"
+    ],
+    "aliases": [
+      "door-phone"
+    ],
+    "outline": "<rect x=\"5.5\" y=\"2.5\" width=\"13\" height=\"19\" rx=\"2.5\"/><path d=\"M9 7h.01M12 7h.01M15 7h.01M9 10h.01M12 10h.01M15 10h.01\"/><circle cx=\"12\" cy=\"16.5\" r=\"2\"/>",
+    "solid": null
+  },
+  "megaphone-comm": {
+    "category": "communication",
+    "keywords": [
+      "megafono",
+      "megaphone",
+      "altavoz",
+      "bullhorn",
+      "anuncio",
+      "announce"
+    ],
+    "aliases": [
+      "bullhorn"
+    ],
+    "outline": "<path d=\"M2.5 11 21 5.5V18.5L2.5 13Z\"/><path d=\"M6 13.5 9 14.4 8.2 17.4A1.8 1.8 0 0 1 4.7 16.5Z\"/>",
+    "solid": "<path d=\"M2.5 11 21 5.5V18.5L2.5 13Z\"/><path d=\"M6 13.5 9 14.4 8.2 17.4A1.8 1.8 0 0 1 4.7 16.5Z\"/>"
+  },
+  "broadcast-tower": {
+    "category": "communication",
+    "keywords": [
+      "torre de emision",
+      "broadcast tower",
+      "antena",
+      "radio",
+      "senal",
+      "signal"
+    ],
+    "aliases": [
+      "radio-tower",
+      "transmission-tower"
+    ],
+    "outline": "<circle cx=\"12\" cy=\"5\" r=\"1.2\"/><path d=\"M9.2 7.8a4 4 0 0 1 0-5.6\"/><path d=\"M14.8 2.2a4 4 0 0 1 0 5.6\"/><path d=\"M12 6.2 7.5 21\"/><path d=\"M12 6.2 16.5 21\"/><path d=\"M10.6 12.5h2.8M9.7 16.2h4.6\"/>",
+    "solid": null
+  },
+  "rss-feed": {
+    "category": "communication",
+    "keywords": [
+      "rss",
+      "feed",
+      "suscripcion",
+      "subscription",
+      "noticias",
+      "news"
+    ],
+    "aliases": [
+      "feed"
+    ],
+    "outline": "<path d=\"M4 11a9 9 0 0 1 9 9\"/><path d=\"M4 4a16 16 0 0 1 16 16\"/><circle cx=\"5\" cy=\"19\" r=\"1.3\"/>",
+    "solid": null
+  },
+  "podcast-mic": {
+    "category": "communication",
+    "keywords": [
+      "podcast",
+      "microfono",
+      "microphone",
+      "audio",
+      "radio",
+      "grabacion"
+    ],
+    "aliases": [
+      "podcast"
+    ],
+    "outline": "<rect x=\"8\" y=\"2.5\" width=\"8\" height=\"11\" rx=\"4\"/><path d=\"M9 6.5h6M9 9.5h6\"/><path d=\"M5.5 11a6.5 6.5 0 0 0 13 0\"/><path d=\"M12 17.5V21\"/><path d=\"M8 21h8\"/>",
+    "solid": null
+  },
+  "signal-bars": {
+    "category": "communication",
+    "keywords": [
+      "cobertura",
+      "signal bars",
+      "senal",
+      "signal",
+      "movil",
+      "cellular"
+    ],
+    "aliases": [
+      "signal-strength"
+    ],
+    "outline": "<path d=\"M4 20V17\"/><path d=\"M9.3 20V13\"/><path d=\"M14.6 20V9\"/><path d=\"M20 20V5\"/>",
+    "solid": "<rect x=\"2.9\" y=\"16\" width=\"2.2\" height=\"4\" rx=\"0.6\"/><rect x=\"8.2\" y=\"12\" width=\"2.2\" height=\"8\" rx=\"0.6\"/><rect x=\"13.5\" y=\"8\" width=\"2.2\" height=\"12\" rx=\"0.6\"/><rect x=\"18.8\" y=\"4\" width=\"2.2\" height=\"16\" rx=\"0.6\"/>"
+  },
+  "sim-card": {
+    "category": "communication",
+    "keywords": [
+      "tarjeta sim",
+      "sim card",
+      "movil",
+      "mobile",
+      "chip",
+      "operador"
+    ],
+    "aliases": [
+      "sim"
+    ],
+    "outline": "<path d=\"M6 6 9.5 2.5H16.5A1.5 1.5 0 0 1 18 4V20A1.5 1.5 0 0 1 16.5 21.5H7.5A1.5 1.5 0 0 1 6 20V6Z\"/><rect x=\"8.5\" y=\"8.5\" width=\"7\" height=\"8\" rx=\"1\"/><path d=\"M12 8.5V16.5M8.5 12.5H15.5\"/>",
+    "solid": null
+  },
+  "dial-pad": {
+    "category": "communication",
+    "keywords": [
+      "teclado telefono",
+      "dial pad",
+      "marcador",
+      "keypad",
+      "numeros",
+      "llamar"
+    ],
+    "aliases": [
+      "keypad",
+      "dialer"
+    ],
+    "outline": "<circle cx=\"6.5\" cy=\"4.5\" r=\"1.5\"/><circle cx=\"12\" cy=\"4.5\" r=\"1.5\"/><circle cx=\"17.5\" cy=\"4.5\" r=\"1.5\"/><circle cx=\"6.5\" cy=\"9.5\" r=\"1.5\"/><circle cx=\"12\" cy=\"9.5\" r=\"1.5\"/><circle cx=\"17.5\" cy=\"9.5\" r=\"1.5\"/><circle cx=\"6.5\" cy=\"14.5\" r=\"1.5\"/><circle cx=\"12\" cy=\"14.5\" r=\"1.5\"/><circle cx=\"17.5\" cy=\"14.5\" r=\"1.5\"/><circle cx=\"6.5\" cy=\"19.5\" r=\"1.5\"/><circle cx=\"12\" cy=\"19.5\" r=\"1.5\"/><circle cx=\"17.5\" cy=\"19.5\" r=\"1.5\"/>",
+    "solid": "<circle cx=\"6.5\" cy=\"4.5\" r=\"1.8\"/><circle cx=\"12\" cy=\"4.5\" r=\"1.8\"/><circle cx=\"17.5\" cy=\"4.5\" r=\"1.8\"/><circle cx=\"6.5\" cy=\"9.5\" r=\"1.8\"/><circle cx=\"12\" cy=\"9.5\" r=\"1.8\"/><circle cx=\"17.5\" cy=\"9.5\" r=\"1.8\"/><circle cx=\"6.5\" cy=\"14.5\" r=\"1.8\"/><circle cx=\"12\" cy=\"14.5\" r=\"1.8\"/><circle cx=\"17.5\" cy=\"14.5\" r=\"1.8\"/><circle cx=\"6.5\" cy=\"19.5\" r=\"1.8\"/><circle cx=\"12\" cy=\"19.5\" r=\"1.8\"/><circle cx=\"17.5\" cy=\"19.5\" r=\"1.8\"/>"
+  },
+  "contact-book": {
+    "category": "communication",
+    "keywords": [
+      "agenda",
+      "contact book",
+      "contactos",
+      "contacts",
+      "directorio",
+      "directory"
+    ],
+    "aliases": [
+      "address-book"
+    ],
+    "outline": "<rect x=\"4.5\" y=\"2.5\" width=\"14\" height=\"19\" rx=\"2\"/><path d=\"M8 2.5v19\"/><circle cx=\"13\" cy=\"9.5\" r=\"2.3\"/><path d=\"M9.8 15.6a3.2 3.2 0 0 1 6.4 0\"/><path d=\"M18.5 8.5H21v3.5h-2.5\"/>",
+    "solid": null
+  },
+  "address-card": {
+    "category": "communication",
+    "keywords": [
+      "tarjeta de contacto",
+      "address card",
+      "ficha",
+      "contact card",
+      "perfil",
+      "profile"
+    ],
+    "aliases": [
+      "contact-card"
+    ],
+    "outline": "<rect x=\"2.5\" y=\"5\" width=\"19\" height=\"14\" rx=\"2.5\"/><circle cx=\"8\" cy=\"10.5\" r=\"2.2\"/><path d=\"M5 15.5a3 3 0 0 1 6 0\"/><path d=\"M14.5 10h4M14.5 13.5h4\"/>",
+    "solid": null
+  },
+  "chat-group": {
+    "category": "communication",
+    "keywords": [
+      "chat grupal",
+      "group chat",
+      "mensajes",
+      "messages",
+      "burbujas",
+      "conversacion"
+    ],
+    "aliases": [
+      "messages"
+    ],
+    "outline": "<rect x=\"10\" y=\"3.5\" width=\"10.5\" height=\"8\" rx=\"2.5\"/><path d=\"M13.5 11.5v2.3l2.3-2.3\"/><rect x=\"3.5\" y=\"10.5\" width=\"10.5\" height=\"8\" rx=\"2.5\"/><path d=\"M6.8 18.5v2.3l2.3-2.3\"/>",
+    "solid": "<path d=\"M13 3.5h5.5A2.5 2.5 0 0 1 21 6v2.5A2.5 2.5 0 0 1 18.5 11H16l-2.5 2.2V11H13A2.5 2.5 0 0 1 10.5 8.5V6A2.5 2.5 0 0 1 13 3.5Z\"/><path d=\"M5.5 11.5H11A2.5 2.5 0 0 1 13.5 14v2.5A2.5 2.5 0 0 1 11 19H8.5L6 21.2V19H5.5A2.5 2.5 0 0 1 3 16.5V14A2.5 2.5 0 0 1 5.5 11.5Z\"/>"
+  },
+  "chat-reply": {
+    "category": "communication",
+    "keywords": [
+      "responder chat",
+      "chat reply",
+      "contestar",
+      "reply",
+      "mensaje",
+      "respuesta"
+    ],
+    "aliases": [
+      "reply"
+    ],
+    "outline": "<path d=\"M20 4.5A1.5 1.5 0 0 1 21.5 6V13.5A1.5 1.5 0 0 1 20 15H10L6 18.5V15H4A1.5 1.5 0 0 1 2.5 13.5V6A1.5 1.5 0 0 1 4 4.5Z\"/><path d=\"M10.5 7.5 7 10.5 10.5 13.5\"/><path d=\"M7 10.5H13A3.5 3.5 0 0 1 16.5 14\"/>",
+    "solid": null
+  },
+  "chat-typing": {
+    "category": "communication",
+    "keywords": [
+      "escribiendo",
+      "typing",
+      "chat",
+      "puntos",
+      "dots",
+      "mensaje"
+    ],
+    "aliases": [
+      "typing-indicator"
+    ],
+    "outline": "<path d=\"M4 4.5h16A1.5 1.5 0 0 1 21.5 6v8A1.5 1.5 0 0 1 20 15.5H9l-4.5 4V15.5H4A1.5 1.5 0 0 1 2.5 14V6A1.5 1.5 0 0 1 4 4.5Z\"/><path d=\"M8 10h.01M12 10h.01M16 10h.01\"/>",
+    "solid": "<path d=\"M4 4.5H20A1.5 1.5 0 0 1 21.5 6V14A1.5 1.5 0 0 1 20 15.5H9L4.5 19.5V15.5H4A1.5 1.5 0 0 1 2.5 14V6A1.5 1.5 0 0 1 4 4.5ZM8 8.9A1.1 1.1 0 1 0 8 11.1 1.1 1.1 0 0 0 8 8.9ZM12 8.9A1.1 1.1 0 1 0 12 11.1 1.1 1.1 0 0 0 12 8.9ZM16 8.9A1.1 1.1 0 1 0 16 11.1 1.1 1.1 0 0 0 16 8.9Z\" fill-rule=\"evenodd\"/>"
+  },
+  "mention-at": {
+    "category": "communication",
+    "keywords": [
+      "mencion",
+      "mention",
+      "arroba",
+      "at",
+      "usuario",
+      "tag"
+    ],
+    "aliases": [],
+    "outline": "<rect x=\"2.5\" y=\"2.5\" width=\"19\" height=\"19\" rx=\"5.5\"/><circle cx=\"12\" cy=\"12\" r=\"2.8\"/><path d=\"M14.6 9.4v3.8a2.2 2.2 0 0 0 4.4 0V12A6.8 6.8 0 1 0 16 17.6\"/>",
+    "solid": null
+  },
+  "hashtag-comm": {
+    "category": "communication",
+    "keywords": [
+      "almohadilla",
+      "hashtag",
+      "etiqueta",
+      "tag",
+      "tema",
+      "topic"
+    ],
+    "aliases": [
+      "pound-sign"
+    ],
+    "outline": "<path d=\"M9.5 4 7.5 20M16.5 4 14.5 20M4.5 9h15M4 15h15\"/>",
+    "solid": null
+  },
+  "thread-comm": {
+    "category": "communication",
+    "keywords": [
+      "hilo",
+      "thread",
+      "conversacion",
+      "conversation",
+      "mensajes",
+      "messages"
+    ],
+    "aliases": [
+      "conversation"
+    ],
+    "outline": "<rect x=\"2.5\" y=\"3.5\" width=\"12\" height=\"7\" rx=\"2\"/><path d=\"M5.5 7h6\"/><path d=\"M8.2 10.5v3\"/><rect x=\"9.5\" y=\"13.5\" width=\"12\" height=\"7\" rx=\"2\"/><path d=\"M12.5 17h6\"/>",
+    "solid": null
+  },
+  "forum-comm": {
+    "category": "communication",
+    "keywords": [
+      "foro",
+      "forum",
+      "discusion",
+      "discussion",
+      "comunidad",
+      "community"
+    ],
+    "aliases": [
+      "discussion"
+    ],
+    "outline": "<path d=\"M4.5 12.5A2.5 2.5 0 0 1 2.5 10V5A2.5 2.5 0 0 1 5 2.5H16.5\"/><path d=\"M8 6.5H19A2.5 2.5 0 0 1 21.5 9V13A2.5 2.5 0 0 1 19 15.5H18V18.5L14.5 15.5H8A2.5 2.5 0 0 1 5.5 13V9A2.5 2.5 0 0 1 8 6.5Z\"/><path d=\"M9 10H18M9 12.5H14\"/>",
+    "solid": null
+  },
+  "inbox-comm": {
+    "category": "communication",
+    "keywords": [
+      "bandeja de entrada",
+      "inbox",
+      "recibidos",
+      "received",
+      "correo",
+      "mail"
+    ],
+    "aliases": [
+      "received"
+    ],
+    "outline": "<path d=\"M4 12H8L9.5 14.5H14.5L16 12H20\"/><path d=\"M4 12V18A2 2 0 0 0 6 20H18A2 2 0 0 0 20 18V12\"/><path d=\"M12 3V9M9.5 6.5 12 9 14.5 6.5\"/>",
+    "solid": null
+  },
+  "outbox-comm": {
+    "category": "communication",
+    "keywords": [
+      "bandeja de salida",
+      "outbox",
+      "enviados",
+      "sent",
+      "correo",
+      "mail"
+    ],
+    "aliases": [
+      "sent"
+    ],
+    "outline": "<path d=\"M4 12H8L9.5 14.5H14.5L16 12H20\"/><path d=\"M4 12V18A2 2 0 0 0 6 20H18A2 2 0 0 0 20 18V12\"/><path d=\"M12 9V3M9.5 5.5 12 3 14.5 5.5\"/>",
+    "solid": null
+  },
+  "envelope-open-comm": {
+    "category": "communication",
+    "keywords": [
+      "sobre abierto",
+      "open envelope",
+      "correo",
+      "mail",
+      "leido",
+      "read"
+    ],
+    "aliases": [],
+    "outline": "<path d=\"M3 10.5 12 4l9 6.5V19A2 2 0 0 1 19 21H5A2 2 0 0 1 3 19Z\"/><path d=\"M3 10.5 10.8 15.9A2 2 0 0 0 13.2 15.9L21 10.5\"/>",
+    "solid": "<path d=\"M12 3.4 2.6 10.1A1 1 0 0 0 2 11V19A2.5 2.5 0 0 0 4.5 21.5H19.5A2.5 2.5 0 0 0 22 19V11A1 1 0 0 0 21.4 10.1ZM12 5.9 18.5 10.6 13 14.5A1.8 1.8 0 0 1 11 14.5L5.5 10.6Z\" fill-rule=\"evenodd\"/>"
+  },
+  "paper-plane-comm": {
+    "category": "communication",
+    "keywords": [
+      "avion de papel",
+      "paper plane",
+      "enviar",
+      "send",
+      "mensaje",
+      "message"
+    ],
+    "aliases": [
+      "send-plane"
+    ],
+    "outline": "<path d=\"m21 3-18 6.5 8 3 3 8Z\"/><path d=\"M21 3 11 12.5\"/>",
+    "solid": "<path d=\"M21 3 3 9.5l8 3 3 8Z\"/>"
+  },
+  "speech-bubbles": {
+    "category": "communication",
+    "keywords": [
+      "bocadillos",
+      "speech bubbles",
+      "dialogo",
+      "dialogue",
+      "conversacion",
+      "chat"
+    ],
+    "aliases": [
+      "speech-bubble"
+    ],
+    "outline": "<path d=\"M3 8C3 5.5 5.4 3.5 8.5 3.5S14 5.5 14 8 11.6 12.5 8.5 12.5A7 7 0 0 1 6.6 12.2L3.5 13.5 4.4 10.8A4.4 4.4 0 0 1 3 8Z\"/><path d=\"M21 14.5C21 12.7 19.2 11.2 17 11.2S13 12.7 13 14.5 14.8 17.8 17 17.8A6 6 0 0 0 18.4 17.6L20.8 18.8 20.1 16.8A3.6 3.6 0 0 0 21 14.5Z\"/>",
+    "solid": "<path d=\"M3 8C3 5.5 5.4 3.5 8.5 3.5S14 5.5 14 8 11.6 12.5 8.5 12.5A7 7 0 0 1 6.6 12.2L3.5 13.5 4.4 10.8A4.4 4.4 0 0 1 3 8Z\"/><path d=\"M21 14.5C21 12.7 19.2 11.2 17 11.2S13 12.7 13 14.5 14.8 17.8 17 17.8A6 6 0 0 0 18.4 17.6L20.8 18.8 20.1 16.8A3.6 3.6 0 0 0 21 14.5Z\"/>"
+  },
+  "translate-comm": {
+    "category": "communication",
+    "keywords": [
+      "traducir",
+      "translate",
+      "idioma",
+      "language",
+      "traduccion",
+      "idiomas"
+    ],
+    "aliases": [
+      "translate",
+      "languages"
+    ],
+    "outline": "<path d=\"M3.5 5h8\"/><path d=\"M7.5 3.5V5\"/><path d=\"M10 5c0 4-3 7-6.5 7.5\"/><path d=\"M5 8.5c0 2 2.5 4 5.5 4.2\"/><path d=\"m12.5 20.5 4-9.5 4 9.5\"/><path d=\"M13.8 17.5h5.4\"/>",
+    "solid": null
+  },
+  "satellite-dish-comm": {
+    "category": "communication",
+    "keywords": [
+      "antena parabolica",
+      "satellite dish",
+      "senal",
+      "signal",
+      "recepcion",
+      "reception"
+    ],
+    "aliases": [
+      "parabolic-antenna"
+    ],
+    "outline": "<path d=\"M3.5 10.5A7.3 7.3 0 0 0 13.5 20.5Z\"/><path d=\"M8.5 15.5 12 12\"/><path d=\"M17 13.5a6 6 0 0 0-6.5-6.5\"/><path d=\"M21 13.5A10 10 0 0 0 10.5 3\"/>",
+    "solid": null
+  },
+  "antenna-signal": {
+    "category": "communication",
+    "keywords": [
+      "antena",
+      "antenna",
+      "senal",
+      "signal",
+      "emision",
+      "broadcast"
+    ],
+    "aliases": [
+      "aerial"
+    ],
+    "outline": "<circle cx=\"12\" cy=\"7\" r=\"1.5\"/><path d=\"M12 8.5V21\"/><path d=\"M9.6 9.2a3.5 3.5 0 0 1 0-4.4\"/><path d=\"M14.4 4.8a3.5 3.5 0 0 1 0 4.4\"/><path d=\"M7.4 11a7 7 0 0 1 0-8\"/><path d=\"M16.6 3a7 7 0 0 1 0 8\"/><path d=\"M9 21h6\"/>",
+    "solid": null
+  },
+  "fax-machine": {
+    "category": "communication",
+    "keywords": [
+      "fax",
+      "maquina de fax",
+      "fax machine",
+      "oficina",
+      "office",
+      "impresora"
+    ],
+    "aliases": [
+      "fax"
+    ],
+    "outline": "<rect x=\"2.5\" y=\"8.5\" width=\"19\" height=\"10\" rx=\"2\"/><path d=\"M6.5 8.5V6A1.5 1.5 0 0 1 8 4.5H16A1.5 1.5 0 0 1 17.5 6V8.5\"/><path d=\"M8 18.5V21H16V18.5\"/><path d=\"M9.5 20.5h5\"/><circle cx=\"17.5\" cy=\"13\" r=\"1.3\"/><path d=\"M6 12h3.5M6 14.5h3.5\"/>",
+    "solid": null
+  },
+  "pager": {
+    "category": "communication",
+    "keywords": [
+      "buscapersonas",
+      "pager",
+      "busca",
+      "beeper",
+      "mensajero",
+      "localizador"
+    ],
+    "aliases": [
+      "beeper"
+    ],
+    "outline": "<rect x=\"2.5\" y=\"6\" width=\"19\" height=\"12\" rx=\"2.5\"/><rect x=\"5\" y=\"8.5\" width=\"8.5\" height=\"7\" rx=\"1\"/><path d=\"M7 12h5\"/><path d=\"M16.5 10.5h3M16.5 13.5h3\"/>",
+    "solid": "<path d=\"M4.5 6H19.5A2.5 2.5 0 0 1 22 8.5V15.5A2.5 2.5 0 0 1 19.5 18H4.5A2.5 2.5 0 0 1 2 15.5V8.5A2.5 2.5 0 0 1 4.5 6ZM6 9.5A.8.8 0 0 0 5.2 10.3V14A.8.8 0 0 0 6 14.8H12A.8.8 0 0 0 12.8 14V10.3A.8.8 0 0 0 12 9.5Z\" fill-rule=\"evenodd\"/>"
+  },
+  "telegram-comm": {
+    "category": "communication",
+    "keywords": [
+      "telegrama",
+      "telegram",
+      "enviar",
+      "send",
+      "mensaje",
+      "message"
+    ],
+    "aliases": [],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"9.5\"/><path d=\"M17.5 7.5 6.5 11.8a.4.4 0 0 0 0 .7l2.7 1 .9 3.4a.4.4 0 0 0 .7.2l1.6-1.9 2.8 2.1a.4.4 0 0 0 .6-.2l1.4-8.6a.4.4 0 0 0-.7-.1Z\"/>",
+    "solid": "<path d=\"M12 2.5a9.5 9.5 0 1 0 0 19 9.5 9.5 0 0 0 0-19Zm5.5 5-1.4 8.6a.4.4 0 0 1-.6.2l-2.8-2.1-1.6 1.9a.4.4 0 0 1-.7-.2l-.9-3.4-2.7-1a.4.4 0 0 1 0-.7L16.8 7.4a.4.4 0 0 1 .7.1Z\" fill-rule=\"evenodd\"/>"
+  },
+  "notification-dot": {
+    "category": "communication",
+    "keywords": [
+      "notificacion",
+      "notification",
+      "aviso",
+      "alert",
+      "campana",
+      "bell"
+    ],
+    "aliases": [
+      "notification-badge"
+    ],
+    "outline": "<path d=\"M18 9.2A6 6 0 0 0 6 8.5C6 12.5 4.5 14 4 14.5A.6.6 0 0 0 4.5 15.5H15.5A.6.6 0 0 0 16 14.5C15.6 14.1 14.3 12.8 14 10\"/><path d=\"M9.8 18A2.3 2.3 0 0 0 14.2 18\"/><circle cx=\"18.5\" cy=\"5\" r=\"2.5\"/>",
+    "solid": "<path d=\"M12 2.5A6 6 0 0 0 6 8.5C6 12.5 4.5 14 4 14.5A.8.8 0 0 0 4.6 15.8H15.4A.8.8 0 0 0 16 14.5C15.6 14.1 14.3 12.8 14 10.2A3.5 3.5 0 0 0 16 5.7 3.5 3.5 0 0 1 12 2.5Z\"/><path d=\"M9.5 17.5A2.5 2.5 0 0 0 14.5 17.5Z\"/><circle cx=\"18.5\" cy=\"5\" r=\"2.7\"/>"
+  }
+}

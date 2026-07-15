@@ -1,0 +1,247 @@
+{
+  "github": {
+    "category": "brands",
+    "keywords": ["github", "git", "octocat", "code", "repository", "repositorio", "codigo", "dev"],
+    "aliases": ["octocat"],
+    "outline": "<path d=\"M4 9.5 5.5 3.2a.5.5 0 0 1 .9-.2L9 6.2a8 8 0 0 1 6 0l2.6-3.2a.5.5 0 0 1 .9.2L20 9.5A7.6 7.6 0 0 1 20 12c0 4.4-3.6 8-8 8s-8-3.6-8-8a7.6 7.6 0 0 1 0-2.5Z\"/><path d=\"M9.4 12.5h.01\"/><path d=\"M14.6 12.5h.01\"/>",
+    "solid": "<path d=\"M4 9.5 5.5 3.2a.5.5 0 0 1 .9-.2L9 6.2a8 8 0 0 1 6 0l2.6-3.2a.5.5 0 0 1 .9.2L20 9.5A7.6 7.6 0 0 1 20 12c0 4.4-3.6 8-8 8s-8-3.6-8-8a7.6 7.6 0 0 1 0-2.5Z M9.4 11a1.3 1.3 0 1 0 0 2.6 1.3 1.3 0 0 0 0-2.6Z M14.6 11a1.3 1.3 0 1 0 0 2.6 1.3 1.3 0 0 0 0-2.6Z\" fill-rule=\"evenodd\"/>"
+  },
+  "gitlab": {
+    "category": "brands",
+    "keywords": ["gitlab", "git", "devops", "repository", "repositorio", "fox", "tanuki", "ci"],
+    "aliases": ["tanuki"],
+    "outline": "<polygon points=\"12,20.5 3,11 5.2,4 8.5,11 12,4 15.5,11 18.8,4 21,11\"/>",
+    "solid": "<polygon points=\"12,20.5 3,11 5.2,4 8.5,11 12,4 15.5,11 18.8,4 21,11\"/>"
+  },
+  "google": {
+    "category": "brands",
+    "keywords": ["google", "search", "buscador", "motor", "g", "buscar"],
+    "aliases": [],
+    "outline": "<path d=\"M20.5 8.5A8.5 8.5 0 1 0 20.5 15.5\"/><path d=\"M20.5 12H13\"/>",
+    "solid": null
+  },
+  "apple-brand": {
+    "category": "brands",
+    "keywords": ["apple", "mac", "ios", "iphone", "manzana", "macos"],
+    "aliases": ["mac"],
+    "outline": "<path d=\"M16.3 12.6c0-2 1.1-3 1.7-3.4a3.9 3.9 0 0 0-3.1-1.7c-1.3-.1-2.6.8-3.2.8-.7 0-1.7-.8-2.9-.7A4.1 4.1 0 0 0 5.3 9.7c-1.5 2.6-.4 6.4 1 8.5.7 1 1.6 2.2 2.7 2.1 1.1 0 1.5-.7 2.8-.7 1.3 0 1.7.7 2.8.7 1.2 0 1.9-1 2.6-2a9 9 0 0 0 1.2-2.4 3.8 3.8 0 0 1-2.3-3.5Z\"/><path d=\"M14.5 5.5A3.4 3.4 0 0 0 15.3 3a3.5 3.5 0 0 0-2.3 1.2 3.2 3.2 0 0 0-.8 2.4 2.9 2.9 0 0 0 2.3-1.1Z\"/>",
+    "solid": "<path d=\"M16.3 12.6c0-2 1.1-3 1.7-3.4a3.9 3.9 0 0 0-3.1-1.7c-1.3-.1-2.6.8-3.2.8-.7 0-1.7-.8-2.9-.7A4.1 4.1 0 0 0 5.3 9.7c-1.5 2.6-.4 6.4 1 8.5.7 1 1.6 2.2 2.7 2.1 1.1 0 1.5-.7 2.8-.7 1.3 0 1.7.7 2.8.7 1.2 0 1.9-1 2.6-2a9 9 0 0 0 1.2-2.4 3.8 3.8 0 0 1-2.3-3.5Z\"/><path d=\"M14.5 5.5A3.4 3.4 0 0 0 15.3 3a3.5 3.5 0 0 0-2.3 1.2 3.2 3.2 0 0 0-.8 2.4 2.9 2.9 0 0 0 2.3-1.1Z\"/>"
+  },
+  "microsoft": {
+    "category": "brands",
+    "keywords": ["microsoft", "windows", "ventanas", "ms", "office"],
+    "aliases": ["windows"],
+    "outline": "<rect x=\"3.5\" y=\"3.5\" width=\"7.5\" height=\"7.5\"/><rect x=\"13\" y=\"3.5\" width=\"7.5\" height=\"7.5\"/><rect x=\"3.5\" y=\"13\" width=\"7.5\" height=\"7.5\"/><rect x=\"13\" y=\"13\" width=\"7.5\" height=\"7.5\"/>",
+    "solid": "<rect x=\"3.5\" y=\"3.5\" width=\"7.5\" height=\"7.5\"/><rect x=\"13\" y=\"3.5\" width=\"7.5\" height=\"7.5\"/><rect x=\"3.5\" y=\"13\" width=\"7.5\" height=\"7.5\"/><rect x=\"13\" y=\"13\" width=\"7.5\" height=\"7.5\"/>"
+  },
+  "android-brand": {
+    "category": "brands",
+    "keywords": ["android", "robot", "google", "movil", "droid", "mobile"],
+    "aliases": ["droid"],
+    "outline": "<path d=\"M5 13a7 7 0 0 1 14 0Z\"/><path d=\"M6.5 5.5 8 7.2M17.5 5.5 16 7.2\"/><path d=\"M9.4 10.8h.01M14.6 10.8h.01\"/>",
+    "solid": "<path d=\"M5 13a7 7 0 0 1 14 0Z M9.3 10a.9.9 0 1 0 0 1.8.9.9 0 0 0 0-1.8Z M14.7 10a.9.9 0 1 0 0 1.8.9.9 0 0 0 0-1.8Z\" fill-rule=\"evenodd\"/><path d=\"M4.8 5.3 5.7 4.4 7.6 6.3 6.7 7.2Z\"/><path d=\"M19.2 5.3 18.3 4.4 16.4 6.3 17.3 7.2Z\"/>"
+  },
+  "linux-tux": {
+    "category": "brands",
+    "keywords": ["linux", "tux", "penguin", "pinguino", "unix", "os", "kernel"],
+    "aliases": ["tux", "penguin"],
+    "outline": "<path d=\"M12 3a3 3 0 0 0-3 3c0 .9.4 1.6 1 2.1-1.8.7-2.8 2.6-2.8 5 0 2.1-1 3.6-1.6 5.1-.4 1 .3 2 1.4 2 .7 0 1.2-.4 1.7-.4.4 0 .6.3.6 1h5.4c0-.7.2-1 .6-1 .5 0 1 .4 1.7.4 1.1 0 1.8-1 1.4-2-.6-1.5-1.6-3-1.6-5.1 0-2.4-1-4.3-2.8-5 .6-.5 1-1.2 1-2.1a3 3 0 0 0-3-3Z\"/><path d=\"M9.8 6.2h.01M14.2 6.2h.01\"/>",
+    "solid": "<path d=\"M12 3a3 3 0 0 0-3 3c0 .9.4 1.6 1 2.1-1.8.7-2.8 2.6-2.8 5 0 2.1-1 3.6-1.6 5.1-.4 1 .3 2 1.4 2 .7 0 1.2-.4 1.7-.4.4 0 .6.3.6 1h5.4c0-.7.2-1 .6-1 .5 0 1 .4 1.7.4 1.1 0 1.8-1 1.4-2-.6-1.5-1.6-3-1.6-5.1 0-2.4-1-4.3-2.8-5 .6-.5 1-1.2 1-2.1a3 3 0 0 0-3-3Z M12 9.5c-1.4 0-2.3 1.9-2.3 4.4s.9 4.4 2.3 4.4 2.3-1.9 2.3-4.4S13.4 9.5 12 9.5Z M10.7 5.6a.8.8 0 1 0 0 1.6.8.8 0 0 0 0-1.6Z M13.3 5.6a.8.8 0 1 0 0 1.6.8.8 0 0 0 0-1.6Z\" fill-rule=\"evenodd\"/>"
+  },
+  "chrome-brand": {
+    "category": "brands",
+    "keywords": ["chrome", "google", "browser", "navegador", "web"],
+    "aliases": [],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"8.5\"/><circle cx=\"12\" cy=\"12\" r=\"3.3\"/><path d=\"M12 8.7V3.5M14.8 13.7 19.4 16.2M9.2 13.7 4.6 16.2\"/>",
+    "solid": null
+  },
+  "firefox-brand": {
+    "category": "brands",
+    "keywords": ["firefox", "mozilla", "browser", "navegador", "fox", "zorro"],
+    "aliases": [],
+    "outline": "<path d=\"M12 21a7.5 7.5 0 0 0 7.5-7.5c0-3-1.5-5-3.3-6.4C14.8 6 14 4.6 13.5 3c-.8 1.6-.5 3-1.6 4.4-1 1.3-2.6 1.6-3.6 2.9a5 5 0 0 0-1 3.7\"/><path d=\"M7.3 8.2A7.5 7.5 0 0 0 12 21a4.6 4.6 0 0 0 4.6-4.6c0-1.8-1-3-2.2-3.9\"/>",
+    "solid": "<path d=\"M13.5 3c-.8 1.6-.5 3-1.6 4.4-1 1.3-2.6 1.6-3.6 2.9a5.2 5.2 0 0 0-1.1 3.2A7.5 7.5 0 1 0 15.8 7.1C14.8 6 14 4.6 13.5 3Z\"/>"
+  },
+  "facebook": {
+    "category": "brands",
+    "keywords": ["facebook", "fb", "social", "meta", "red social"],
+    "aliases": ["fb"],
+    "outline": "<path d=\"M15 4h-1.5A3.5 3.5 0 0 0 10 7.5V20\"/><path d=\"M7 10.8h6.5\"/>",
+    "solid": "<path d=\"M6.5 2.5h11A2 2 0 0 1 19.5 4.5v15A2 2 0 0 1 17.5 21.5H6.5A2 2 0 0 1 4.5 19.5V4.5A2 2 0 0 1 6.5 2.5Zm8.5 4h-1.8a3 3 0 0 0-3 3v1.8H8v2.6h2.2V21h2.7v-7.6h2.3l.4-2.6h-2.7V9.7c0-.6.3-.9 1-.9H15Z\" fill-rule=\"evenodd\"/>"
+  },
+  "instagram": {
+    "category": "brands",
+    "keywords": ["instagram", "ig", "social", "photo", "foto", "camara", "insta"],
+    "aliases": ["ig"],
+    "outline": "<rect x=\"3.5\" y=\"3.5\" width=\"17\" height=\"17\" rx=\"5\"/><circle cx=\"12\" cy=\"12\" r=\"4.2\"/><path d=\"M16.8 7.2h.01\"/>",
+    "solid": "<path d=\"M8 3.5h8A4.5 4.5 0 0 1 20.5 8v8a4.5 4.5 0 0 1-4.5 4.5H8A4.5 4.5 0 0 1 3.5 16V8A4.5 4.5 0 0 1 8 3.5Zm4 4.3a4.2 4.2 0 1 0 0 8.4 4.2 4.2 0 0 0 0-8.4Zm0 2a2.2 2.2 0 1 1 0 4.4 2.2 2.2 0 0 1 0-4.4Zm4.8-3.1a1.1 1.1 0 1 0 0 2.2 1.1 1.1 0 0 0 0-2.2Z\" fill-rule=\"evenodd\"/>"
+  },
+  "x-twitter": {
+    "category": "brands",
+    "keywords": ["x", "twitter", "tweet", "social", "red social", "pajaro"],
+    "aliases": ["twitter"],
+    "outline": "<path d=\"M17.5 3.5h2.8l-6.1 7 7.2 9.5h-5.6l-4.4-5.8-5 5.8H3.6l6.5-7.5L3.2 3.5h5.7l4 5.3Z\"/>",
+    "solid": "<path d=\"M17.5 3.5h2.8l-6.1 7 7.2 9.5h-5.6l-4.4-5.8-5 5.8H3.6l6.5-7.5L3.2 3.5h5.7l4 5.3Z\"/>"
+  },
+  "youtube": {
+    "category": "brands",
+    "keywords": ["youtube", "video", "play", "yt", "reproducir", "stream"],
+    "aliases": ["yt"],
+    "outline": "<rect x=\"2.5\" y=\"6\" width=\"19\" height=\"12\" rx=\"3.5\"/><path d=\"M10.5 9.2v5.6l5-2.8Z\"/>",
+    "solid": "<path d=\"M6 6h12a3.5 3.5 0 0 1 3.5 3.5v5A3.5 3.5 0 0 1 18 18H6a3.5 3.5 0 0 1-3.5-3.5v-5A3.5 3.5 0 0 1 6 6Zm4.5 3.2v5.6l5-2.8Z\" fill-rule=\"evenodd\"/>"
+  },
+  "tiktok": {
+    "category": "brands",
+    "keywords": ["tiktok", "video", "music", "musica", "social", "nota"],
+    "aliases": [],
+    "outline": "<path d=\"M13 4v11.5a3.5 3.5 0 1 1-3.5-3.5\"/><path d=\"M13 4a5 5 0 0 0 5 4\"/>",
+    "solid": "<path d=\"M13.2 3.5a5.5 5.5 0 0 0 4.8 4.6v2.6a7.8 7.8 0 0 1-3.5-1v5.1a5 5 0 1 1-5-5c.35 0 .7 0 1 .1v2.7a2.3 2.3 0 1 0 1.5 2.2V3.5Z\" fill-rule=\"evenodd\"/>"
+  },
+  "linkedin": {
+    "category": "brands",
+    "keywords": ["linkedin", "social", "work", "trabajo", "network", "profesional", "in"],
+    "aliases": [],
+    "outline": "<rect x=\"3.5\" y=\"3.5\" width=\"17\" height=\"17\" rx=\"2\"/><path d=\"M8 10.5V17\"/><path d=\"M8 7.3h.01\"/><path d=\"M11.5 17v-6.5M11.5 13.2a2.2 2.2 0 0 1 4.4 0V17\"/>",
+    "solid": "<path d=\"M5 3.5h14A1.5 1.5 0 0 1 20.5 5v14A1.5 1.5 0 0 1 19 20.5H5A1.5 1.5 0 0 1 3.5 19V5A1.5 1.5 0 0 1 5 3.5ZM7 9.5v7.5h2.3V9.5Zm1.15-3.6a1.35 1.35 0 1 0 0 2.7 1.35 1.35 0 0 0 0-2.7ZM11 9.5v7.5h2.3v-4c0-1.1.25-2.1 1.6-2.1 1.3 0 1.3 1.2 1.3 2.2V17h2.3v-4.4c0-2-.4-3.4-2.7-3.4a2.4 2.4 0 0 0-2.15 1.2h-.03V9.5Z\" fill-rule=\"evenodd\"/>"
+  },
+  "whatsapp": {
+    "category": "brands",
+    "keywords": ["whatsapp", "chat", "message", "mensaje", "phone", "telefono", "wa"],
+    "aliases": ["wa"],
+    "outline": "<path d=\"M3.4 20.6 4.75 16.6A8 8 0 1 1 7.9 19.75Z\"/><path d=\"M9.2 8.4c-.3 0-.6.1-.85.4-.3.3-.9.9-.9 2.1s.92 2.45 1.05 2.6c.13.2 1.78 2.85 4.4 3.9 2.2.85 2.65.7 3.15.65.5-.05 1.55-.65 1.77-1.25.22-.6.22-1.15.15-1.25-.07-.1-.27-.15-.52-.3-.25-.15-1.55-.75-1.8-.85-.25-.1-.4-.15-.6.15-.2.3-.65.85-.8 1-.15.15-.3.2-.55.05-.25-.15-1.05-.4-2-1.25-.75-.65-1.25-1.5-1.4-1.75-.15-.25 0-.4.1-.5.1-.1.25-.3.4-.45.13-.15.17-.25.27-.45.1-.2.05-.35 0-.5-.05-.15-.55-1.4-.77-1.9-.2-.45-.4-.4-.55-.4Z\"/>",
+    "solid": "<path d=\"M3.4 20.6 4.75 16.6A8 8 0 1 1 7.9 19.75ZM9.2 8.4c-.3 0-.6.1-.85.4-.3.3-.9.9-.9 2.1s.92 2.45 1.05 2.6c.13.2 1.78 2.85 4.4 3.9 2.2.85 2.65.7 3.15.65.5-.05 1.55-.65 1.77-1.25.22-.6.22-1.15.15-1.25-.07-.1-.27-.15-.52-.3-.25-.15-1.55-.75-1.8-.85-.25-.1-.4-.15-.6.15-.2.3-.65.85-.8 1-.15.15-.3.2-.55.05-.25-.15-1.05-.4-2-1.25-.75-.65-1.25-1.5-1.4-1.75-.15-.25 0-.4.1-.5.1-.1.25-.3.4-.45.13-.15.17-.25.27-.45.1-.2.05-.35 0-.5-.05-.15-.55-1.4-.77-1.9-.2-.45-.4-.4-.55-.4Z\" fill-rule=\"evenodd\"/>"
+  },
+  "telegram": {
+    "category": "brands",
+    "keywords": ["telegram", "message", "mensaje", "chat", "plane", "avion", "send"],
+    "aliases": [],
+    "outline": "<path d=\"M21.5 4.3 2.8 11.6a.6.6 0 0 0 .05 1.13l4.6 1.44 1.75 5.3a.6.6 0 0 0 1.03.2l2.4-2.65 4.35 3.2a.7.7 0 0 0 1.1-.43l3.1-14.7a.7.7 0 0 0-.98-.75Z\"/><path d=\"m7.55 14.1 9.8-6\"/>",
+    "solid": "<path d=\"M21.5 4.3 2.8 11.6a.6.6 0 0 0 .05 1.13l4.6 1.44 1.75 5.3a.6.6 0 0 0 1.03.2l2.4-2.65 4.35 3.2a.7.7 0 0 0 1.1-.43l3.1-14.7a.7.7 0 0 0-.98-.75ZM7.9 13.9l9.45-5.8a.2.2 0 0 1 .24.31l-7.05 6.7a.9.9 0 0 0-.27.5l-.53 2.5Z\" fill-rule=\"evenodd\"/>"
+  },
+  "discord": {
+    "category": "brands",
+    "keywords": ["discord", "chat", "game", "juego", "gaming", "voice", "comunidad"],
+    "aliases": [],
+    "outline": "<path d=\"M18.9 6.3A16 16 0 0 0 15 5l-.25.5a13 13 0 0 1 3.4 1.1c-2-1-4.2-1.35-6.15-1.35S7.85 5.5 5.85 6.5a13 13 0 0 1 3.4-1.1L9 5a16 16 0 0 0-3.9 1.3C2.6 10 2 13.6 2.3 17.2A16 16 0 0 0 6.9 19.5l.6-.85a9 9 0 0 1-1.6-.8l.4-.3a10 10 0 0 0 8.6 0l.4.3a9 9 0 0 1-1.6.8l.6.85a16 16 0 0 0 4.6-2.3c.4-4.2-.6-7.75-2.6-10.9Z\"/><path d=\"M9 13.3h.01M15 13.3h.01\"/>",
+    "solid": "<path d=\"M18.9 6.3A16 16 0 0 0 15 5l-.25.5a13 13 0 0 1 3.4 1.1c-2-1-4.2-1.35-6.15-1.35S7.85 5.5 5.85 6.5a13 13 0 0 1 3.4-1.1L9 5a16 16 0 0 0-3.9 1.3C2.6 10 2 13.6 2.3 17.2A16 16 0 0 0 6.9 19.5l.6-.85a9 9 0 0 1-1.6-.8l.4-.3a10 10 0 0 0 8.6 0l.4.3a9 9 0 0 1-1.6.8l.6.85a16 16 0 0 0 4.6-2.3c.4-4.2-.6-7.75-2.6-10.9ZM9 15c-.8 0-1.45-.75-1.45-1.65S8.2 11.7 9 11.7s1.45.75 1.45 1.65S9.8 15 9 15Zm6 0c-.8 0-1.45-.75-1.45-1.65s.65-1.65 1.45-1.65 1.45.75 1.45 1.65S15.8 15 15 15Z\" fill-rule=\"evenodd\"/>"
+  },
+  "slack-brand": {
+    "category": "brands",
+    "keywords": ["slack", "chat", "work", "trabajo", "team", "equipo", "message"],
+    "aliases": [],
+    "outline": "<rect x=\"11\" y=\"2.5\" width=\"3\" height=\"7.5\" rx=\"1.5\"/><rect x=\"14\" y=\"11\" width=\"7.5\" height=\"3\" rx=\"1.5\"/><rect x=\"10\" y=\"14\" width=\"3\" height=\"7.5\" rx=\"1.5\"/><rect x=\"2.5\" y=\"10\" width=\"7.5\" height=\"3\" rx=\"1.5\"/>",
+    "solid": "<rect x=\"11\" y=\"2.5\" width=\"3\" height=\"7.5\" rx=\"1.5\"/><rect x=\"14\" y=\"11\" width=\"7.5\" height=\"3\" rx=\"1.5\"/><rect x=\"10\" y=\"14\" width=\"3\" height=\"7.5\" rx=\"1.5\"/><rect x=\"2.5\" y=\"10\" width=\"7.5\" height=\"3\" rx=\"1.5\"/>"
+  },
+  "reddit": {
+    "category": "brands",
+    "keywords": ["reddit", "social", "forum", "foro", "snoo", "alien", "comunidad"],
+    "aliases": ["snoo"],
+    "outline": "<circle cx=\"12\" cy=\"14.5\" r=\"6.5\"/><path d=\"M12 8V4.5a1.3 1.3 0 0 1 1.3-1.3H16\"/><circle cx=\"17\" cy=\"3.2\" r=\"1.3\"/><path d=\"M9.3 13.8h.01M14.7 13.8h.01\"/><path d=\"M9.2 17a4.2 4.2 0 0 0 5.6 0\"/>",
+    "solid": "<path d=\"M12 8a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13Z M9.4 12.6a1.15 1.15 0 1 0 0 2.3 1.15 1.15 0 0 0 0-2.3Z M14.6 12.6a1.15 1.15 0 1 0 0 2.3 1.15 1.15 0 0 0 0-2.3Z M8.6 16.3a.7.7 0 0 0-.5 1.2 5.4 5.4 0 0 0 7.8 0 .7.7 0 0 0-1-.98 4 4 0 0 1-5.8 0 .7.7 0 0 0-.5-.22Z\" fill-rule=\"evenodd\"/><path d=\"M11.6 8.2 12.7 4.1a1 1 0 0 1 1-.75H16v1.6h-2.1l-.95 3.6Z\"/><circle cx=\"17\" cy=\"3.2\" r=\"1.5\"/>"
+  },
+  "pinterest": {
+    "category": "brands",
+    "keywords": ["pinterest", "social", "pin", "board", "tablero", "idea"],
+    "aliases": [],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M10.5 18 12.5 9.5\"/><path d=\"M9.8 12.2a3 3 0 1 1 3.4 1.7c-1.3.3-2.4-.4-2.7-1.4\"/>",
+    "solid": "<path d=\"M12 3a9 9 0 1 0 0 18 9 9 0 0 0 0-18ZM10 17.5V7.5h3.2a2.75 2.75 0 0 1 0 5.5H12v4.5Z\" fill-rule=\"evenodd\"/>"
+  },
+  "twitch": {
+    "category": "brands",
+    "keywords": ["twitch", "stream", "game", "juego", "gaming", "video", "directo"],
+    "aliases": [],
+    "outline": "<path d=\"M5 3 3.5 6.5V18H7.5v3l3-3H14l5.5-5.5V3Z\"/><path d=\"M14.8 8v3.5M10.8 8v3.5\"/>",
+    "solid": "<path d=\"M5 3 3.5 6.5V18H7.5v3l3-3H14l5.5-5.5V3ZM10 8.2a.9.9 0 0 1 1.8 0v3a.9.9 0 0 1-1.8 0Zm4 0a.9.9 0 0 1 1.8 0v3a.9.9 0 0 1-1.8 0Z\" fill-rule=\"evenodd\"/>"
+  },
+  "spotify-brand": {
+    "category": "brands",
+    "keywords": ["spotify", "music", "musica", "audio", "podcast", "stream", "cancion"],
+    "aliases": [],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7 9.8a11 11 0 0 1 10 1.2\"/><path d=\"M7.7 13a8 8 0 0 1 8 .9\"/><path d=\"M8.3 16a5.5 5.5 0 0 1 6.4.7\"/>",
+    "solid": "<path d=\"M12 3a9 9 0 1 0 0 18 9 9 0 0 0 0-18Zm5 8.9a1 1 0 0 1-.5-.13 10 10 0 0 0-9-.5 1 1 0 1 1-.8-1.84 12 12 0 0 1 10.8.6 1 1 0 0 1-.5 1.87Zm-1.2 3a.9.9 0 0 1-.45-.12 8.5 8.5 0 0 0-7.4-.45.9.9 0 1 1-.7-1.66 10.3 10.3 0 0 1 9 .55.9.9 0 0 1-.45 1.68Zm-1.3 2.6a.8.8 0 0 1-.4-.1 6.5 6.5 0 0 0-5.6-.4.8.8 0 1 1-.6-1.48 8 8 0 0 1 7 .5.8.8 0 0 1-.4 1.48Z\" fill-rule=\"evenodd\"/>"
+  },
+  "figma-brand": {
+    "category": "brands",
+    "keywords": ["figma", "design", "diseno", "ui", "ux", "prototype"],
+    "aliases": [],
+    "outline": "<path d=\"M12 3.5H9.4a2.8 2.8 0 0 0 0 5.6H12Z\"/><path d=\"M12 3.5h2.6a2.8 2.8 0 0 1 0 5.6H12Z\"/><path d=\"M12 9.1H9.4a2.8 2.8 0 0 0 0 5.6H12Z\"/><circle cx=\"14.8\" cy=\"11.9\" r=\"2.8\"/><circle cx=\"9.4\" cy=\"17.5\" r=\"2.8\"/>",
+    "solid": "<path d=\"M12 3.5H9.4a2.8 2.8 0 0 0 0 5.6H12Z\"/><path d=\"M12 3.5h2.6a2.8 2.8 0 0 1 0 5.6H12Z\"/><path d=\"M12 9.1H9.4a2.8 2.8 0 0 0 0 5.6H12Z\"/><circle cx=\"14.8\" cy=\"11.9\" r=\"2.8\"/><circle cx=\"9.4\" cy=\"17.5\" r=\"2.8\"/>"
+  },
+  "dribbble": {
+    "category": "brands",
+    "keywords": ["dribbble", "design", "diseno", "portfolio", "basketball", "creative"],
+    "aliases": [],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M6 4.5c4 3.5 7.3 8.2 8.8 15.6\"/><path d=\"M3.3 13.8c6-1 11.2 0 15.2 3.2\"/><path d=\"M20.6 9.4c-5 1.6-11.2 1-16.7-1.6\"/>",
+    "solid": null
+  },
+  "npm-brand": {
+    "category": "brands",
+    "keywords": ["npm", "node", "package", "paquete", "registry", "javascript"],
+    "aliases": [],
+    "outline": "<rect x=\"2.5\" y=\"6.5\" width=\"19\" height=\"11\" rx=\"1.5\"/><path d=\"M5 15v-4h3v4\"/><path d=\"M10.2 17v-6h2.3a1.6 1.6 0 0 1 0 3.2h-2.3\"/><path d=\"M14.5 15v-4h4v4M16.5 11v4\"/>",
+    "solid": null
+  },
+  "docker-brand": {
+    "category": "brands",
+    "keywords": ["docker", "container", "contenedor", "devops", "whale", "ballena"],
+    "aliases": [],
+    "outline": "<rect x=\"5.5\" y=\"9\" width=\"2.6\" height=\"2.6\"/><rect x=\"8.6\" y=\"9\" width=\"2.6\" height=\"2.6\"/><rect x=\"11.7\" y=\"9\" width=\"2.6\" height=\"2.6\"/><rect x=\"8.6\" y=\"6\" width=\"2.6\" height=\"2.6\"/><rect x=\"11.7\" y=\"6\" width=\"2.6\" height=\"2.6\"/><path d=\"M2.8 12h14.4c.3 1.6-.3 2.9-1.3 3.7-1.1 1-2.8 1.6-4.6 1.6-3 0-5.2-1-6.6-2.5A6 6 0 0 1 2.8 12Z\"/><path d=\"M18 10.2a2 2 0 0 1 2.9-.3 2.3 2.3 0 0 0-2.4-2\"/>",
+    "solid": "<rect x=\"5.5\" y=\"9\" width=\"2.6\" height=\"2.6\"/><rect x=\"8.6\" y=\"9\" width=\"2.6\" height=\"2.6\"/><rect x=\"11.7\" y=\"9\" width=\"2.6\" height=\"2.6\"/><rect x=\"8.6\" y=\"6\" width=\"2.6\" height=\"2.6\"/><rect x=\"11.7\" y=\"6\" width=\"2.6\" height=\"2.6\"/><path d=\"M2.5 12h14.8a.5.5 0 0 1 .5.5c0 1.4-.6 2.6-1.6 3.4-1.1 1-2.8 1.6-4.7 1.6-3 0-5.2-1-6.6-2.5A6.2 6.2 0 0 1 2.4 12.6.5.5 0 0 1 2.5 12Z\"/><path d=\"M18 10.2a2 2 0 0 1 2.9-.3 2.3 2.3 0 0 0-2.4-2 2 2 0 0 0-.5 2.3Z\"/>"
+  },
+  "react-brand": {
+    "category": "brands",
+    "keywords": ["react", "javascript", "framework", "atom", "atomo", "ui", "js"],
+    "aliases": [],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"2\"/><ellipse cx=\"12\" cy=\"12\" rx=\"9.5\" ry=\"3.7\"/><path d=\"M7.25 3.77A9.5 3.7 60 0 1 16.75 20.23 9.5 3.7 60 0 1 7.25 3.77Z\"/><path d=\"M16.75 3.77A9.5 3.7 120 0 1 7.25 20.23 9.5 3.7 120 0 1 16.75 3.77Z\"/>",
+    "solid": null
+  },
+  "vuejs": {
+    "category": "brands",
+    "keywords": ["vue", "vuejs", "javascript", "framework", "js", "ui"],
+    "aliases": ["vue"],
+    "outline": "<path d=\"M2.5 4.5 12 20.5 21.5 4.5H17L12 12.5 7 4.5Z\"/>",
+    "solid": "<path d=\"M2.5 4.5 12 20.5 21.5 4.5H17L12 12.5 7 4.5Z\"/>"
+  },
+  "wordpress-brand": {
+    "category": "brands",
+    "keywords": ["wordpress", "wp", "blog", "cms", "web"],
+    "aliases": ["wp"],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M6.5 8.5 9.5 16.5 12 9.5 14.5 16.5 17.5 8.5\"/>",
+    "solid": null
+  },
+  "paypal-brand": {
+    "category": "brands",
+    "keywords": ["paypal", "payment", "pago", "money", "dinero", "checkout"],
+    "aliases": [],
+    "outline": "<path d=\"M7 20 9 5h4.2a3.4 3.4 0 0 1 0 6.8H9.7\"/><path d=\"M10.5 20l2-11h3.4a3.2 3.2 0 0 1 0 6.4h-3\"/>",
+    "solid": "<path d=\"M6.6 20.5a.5.5 0 0 1-.5-.6L8.3 5.4a.7.7 0 0 1 .7-.6h4.8c2.7 0 4.6 1.8 4.2 4.6-.45 3-2.8 4.7-5.7 4.7h-2.1a.7.7 0 0 0-.7.6l-.7 4.6a.7.7 0 0 1-.7.6Z\"/><path d=\"M17.4 9.2a3 3 0 0 1 1.9 3.3c-.5 2.6-2.4 4-5 4h-1.3a.7.7 0 0 0-.7.6l-.6 3.6a.6.6 0 0 1-.6.5H9.3a.5.5 0 0 1-.5-.6l.5-2.9a.7.7 0 0 1 .7-.6h2.4c2.9 0 5.1-1.7 5.5-4.7a4 4 0 0 0-.5-3.2Z\"/>"
+  },
+  "visa": {
+    "category": "brands",
+    "keywords": ["visa", "card", "tarjeta", "payment", "pago", "credit", "credito"],
+    "aliases": [],
+    "outline": "<path d=\"M3.5 9 5.5 15 7.5 9\"/><path d=\"M9.7 9 8.9 15\"/><path d=\"M15.3 9.7a2 2 0 0 0-1.7-.8c-1 0-1.9.5-1.9 1.3 0 1.7 3.3 1 3.3 2.7 0 .8-.9 1.3-1.9 1.3a2 2 0 0 1-1.7-.8\"/><path d=\"M16.5 15 18.7 9 20.9 15M17.3 13h2.8\"/>",
+    "solid": null
+  },
+  "steam-brand": {
+    "category": "brands",
+    "keywords": ["steam", "game", "juego", "gaming", "valve", "store"],
+    "aliases": [],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"9\"/><circle cx=\"16\" cy=\"8\" r=\"2.3\"/><circle cx=\"8.5\" cy=\"15\" r=\"2.8\"/><path d=\"M13.9 9.6 10.4 13.3\"/>",
+    "solid": null
+  },
+  "stackoverflow": {
+    "category": "brands",
+    "keywords": ["stackoverflow", "code", "codigo", "developer", "programacion", "qa", "help"],
+    "aliases": ["so"],
+    "outline": "<path d=\"M6.5 14.5v5h11v-5\"/><path d=\"M9 16h6.5\"/><path d=\"M9.3 13.3 15.7 14.7\"/><path d=\"M10.1 10.6 16.3 13\"/><path d=\"M11.4 8.2 17 11.3\"/><path d=\"M13.3 6.1 18 10.4\"/>",
+    "solid": "<path d=\"M6.3 14.3h1.8v3.2h7.8v-3.2h1.8v5H6.3Z\"/><path d=\"M8.8 15.1h6.4v1.6H8.8Z\"/><path d=\"M9.1 12.5 15.4 13.9 15.1 15.5 8.8 14.1Z\"/><path d=\"M9.9 9.9 16.1 12.3 15.5 13.8 9.3 11.4Z\"/><path d=\"M11.2 7.6 16.9 11.7 16 13 10.3 8.9Z\"/><path d=\"M13.2 5.6 17.8 10.8 16.6 11.9 12 6.7Z\"/>"
+  },
+  "medium-brand": {
+    "category": "brands",
+    "keywords": ["medium", "blog", "article", "articulo", "write", "publish"],
+    "aliases": [],
+    "outline": "<circle cx=\"7\" cy=\"12\" r=\"4.5\"/><ellipse cx=\"15\" cy=\"12\" rx=\"2\" ry=\"4.5\"/><ellipse cx=\"19.5\" cy=\"12\" rx=\"0.9\" ry=\"4.2\"/>",
+    "solid": "<circle cx=\"7\" cy=\"12\" r=\"4.5\"/><ellipse cx=\"15\" cy=\"12\" rx=\"2\" ry=\"4.5\"/><ellipse cx=\"19.5\" cy=\"12\" rx=\"0.9\" ry=\"4.2\"/>"
+  }
+}

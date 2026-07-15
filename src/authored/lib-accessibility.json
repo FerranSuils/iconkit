@@ -1,0 +1,310 @@
+{
+  "wheelchair-access": {
+    "category": "accessibility",
+    "keywords": ["wheelchair", "disability", "accessible", "silla de ruedas", "discapacidad", "accesible", "movilidad"],
+    "aliases": ["disabled-access", "wheelchair-user", "isa"],
+    "outline": "<circle cx=\"12.5\" cy=\"4.3\" r=\"2\"/><path d=\"M12.5 6.8v5.7h4.3l2.2 5.2\"/><path d=\"M12.5 9.4h3.8\"/><circle cx=\"11\" cy=\"16\" r=\"5.2\"/>",
+    "solid": null
+  },
+  "blind-cane": {
+    "category": "accessibility",
+    "keywords": ["blind", "cane", "white cane", "ciego", "baston", "invidente", "vision"],
+    "aliases": ["white-cane", "visually-impaired"],
+    "outline": "<circle cx=\"9\" cy=\"4\" r=\"2\"/><path d=\"M9 6.5v6l-1.8 7.5M9 12.5l1.8 7.5\"/><path d=\"M9 8.6 11.8 9.9\"/><path d=\"M11 9 16.5 21\"/>",
+    "solid": null
+  },
+  "deaf-ear": {
+    "category": "accessibility",
+    "keywords": ["deaf", "hearing", "ear", "sordo", "oido", "audicion", "hearing loss"],
+    "aliases": ["deaf", "hearing-impaired", "ear-off"],
+    "outline": "<path d=\"M7 10a5 5 0 0 1 10 0c0 2.2-1.4 3.2-2.6 4.2-1 .8-1.9 1.6-1.9 3.3a2.5 2.5 0 0 1-5 0\"/><path d=\"M9.5 10a2.5 2.5 0 0 1 5 0c0 1.2-.8 1.8-1.5 2.4\"/><path d=\"M4.5 4.5 19.5 19.5\"/>",
+    "solid": null
+  },
+  "sign-language": {
+    "category": "accessibility",
+    "keywords": ["sign", "hands", "asl", "lengua de signos", "senas", "manos", "lsc"],
+    "aliases": ["asl", "hands-signing", "bsl"],
+    "outline": "<path d=\"M8.5 11.5V6.8a1.2 1.2 0 0 1 2.4 0v3.4M10.9 10.2V5.8a1.2 1.2 0 0 1 2.4 0v4M13.3 10.2V6.6a1.2 1.2 0 0 1 2.4 0V12.5M15.7 9.4a1.2 1.2 0 0 1 2.3.6c0 4.2-2.2 8-6 8-1.8 0-3-.7-4.2-2l-2.2-2.8a1.3 1.3 0 0 1 1.9-1.8l1 1\"/><path d=\"M4 5.5l1.4 1.2M3.2 9h1.9\"/>",
+    "solid": null
+  },
+  "braille": {
+    "category": "accessibility",
+    "keywords": ["braille", "dots", "blind", "puntos", "tactil", "ciego", "reading"],
+    "aliases": ["braille-cell", "tactile-dots"],
+    "outline": "<circle cx=\"8.5\" cy=\"6\" r=\"1.3\"/><circle cx=\"8.5\" cy=\"12\" r=\"1.3\"/><circle cx=\"8.5\" cy=\"18\" r=\"1.3\"/><circle cx=\"15.5\" cy=\"6\" r=\"1.3\"/><circle cx=\"15.5\" cy=\"12\" r=\"1.3\"/><circle cx=\"15.5\" cy=\"18\" r=\"1.3\"/>",
+    "solid": "<circle cx=\"8.5\" cy=\"6\" r=\"1.5\"/><circle cx=\"8.5\" cy=\"12\" r=\"1.5\"/><circle cx=\"8.5\" cy=\"18\" r=\"1.5\"/><circle cx=\"15.5\" cy=\"6\" r=\"1.5\"/><circle cx=\"15.5\" cy=\"12\" r=\"1.5\"/><circle cx=\"15.5\" cy=\"18\" r=\"1.5\"/>"
+  },
+  "hearing-aid": {
+    "category": "accessibility",
+    "keywords": ["hearing", "aid", "ear", "audifono", "audicion", "sordera", "device"],
+    "aliases": ["hearing-device", "ear-aid"],
+    "outline": "<path d=\"M9.5 8a4.5 4.5 0 0 1 8.5-2\"/><path d=\"M9.5 8c0 2.2-2 3.3-2 6.2A4.3 4.3 0 0 0 11.8 18.5c1.4 0 2.4-1 2.4-2.4 0-2 1.8-2.6 1.8-4.6a3.5 3.5 0 0 0-6.5-1.7\"/><path d=\"M19 5.5c1 1 1 3 0 4\"/>",
+    "solid": null
+  },
+  "closed-captions": {
+    "category": "accessibility",
+    "keywords": ["captions", "cc", "subtitles", "subtitulos", "closed captions", "texto", "deaf"],
+    "aliases": ["cc", "captions", "subtitles"],
+    "outline": "<rect x=\"3\" y=\"5\" width=\"18\" height=\"14\" rx=\"2.5\"/><path d=\"M10 10.2a2.5 2.5 0 0 0-3.5 2.3 2.5 2.5 0 0 0 3.5 2.3\"/><path d=\"M17 10.2a2.5 2.5 0 0 0-3.5 2.3 2.5 2.5 0 0 0 3.5 2.3\"/>",
+    "solid": null
+  },
+  "audio-description": {
+    "category": "accessibility",
+    "keywords": ["audio", "description", "blind", "descripcion", "audiodescripcion", "narracion", "ad"],
+    "aliases": ["ad", "described-video"],
+    "outline": "<path d=\"M2.5 11S5.6 6.5 10 6.5 17.5 11 17.5 11 14.4 15.5 10 15.5 2.5 11 2.5 11Z\"/><circle cx=\"10\" cy=\"11\" r=\"2.2\"/><path d=\"M20 7.5a5 5 0 0 1 0 7M17.5 9a2.6 2.6 0 0 1 0 4\"/>",
+    "solid": null
+  },
+  "universal-access": {
+    "category": "accessibility",
+    "keywords": ["accessibility", "universal", "access", "accesibilidad", "acceso", "a11y", "persona"],
+    "aliases": ["accessibility", "a11y", "access"],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"9.3\"/><circle cx=\"12\" cy=\"7\" r=\"1.5\"/><path d=\"M7.6 10.2h8.8\"/><path d=\"M12 8.5v4l-2 4.8M12 12.5l2 4.8\"/>",
+    "solid": "<path d=\"M12 2.5a9.5 9.5 0 1 0 0 19 9.5 9.5 0 0 0 0-19ZM12 5.5a1.6 1.6 0 1 1 0 3.2 1.6 1.6 0 0 1 0-3.2ZM11.2 8.7h1.6v.9h3.6v1.4h-3.6v2.6h-1.6v-2.6H7.6V9.6h3.6z M11 12.2h2l1.9 4.9-1.15.45L12 13.4l-1.75 4.15-1.15-.45z\" fill-rule=\"evenodd\"/>"
+  },
+  "low-vision": {
+    "category": "accessibility",
+    "keywords": ["low vision", "sight", "eye", "baja vision", "vista", "ver", "partial"],
+    "aliases": ["partial-sight", "low-sight"],
+    "outline": "<path d=\"M2.5 12S6 6.5 12 6.5c1.6 0 3 .4 4.3 1\"/><path d=\"M21.5 12s-3.5 5.5-9.5 5.5c-1 0-2-.15-2.9-.4\"/><path d=\"M9.6 9.6a3.2 3.2 0 0 0 3.9 4.9\"/><path d=\"M14.5 12.7A3.2 3.2 0 0 0 12 8.8\"/>",
+    "solid": null
+  },
+  "service-dog": {
+    "category": "accessibility",
+    "keywords": ["service", "dog", "assistance", "perro de servicio", "perro", "asistencia", "guia"],
+    "aliases": ["assistance-dog", "support-dog"],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"5.2\"/><path d=\"M8 8.5C6 7.9 4.4 8.9 4.4 10.9c0 1.8 1.3 3 3.1 3.3\"/><path d=\"M16 8.5c2-.6 3.6.4 3.6 2.4 0 1.8-1.3 3-3.1 3.3\"/><circle cx=\"10.2\" cy=\"11.5\" r=\".7\"/><circle cx=\"13.8\" cy=\"11.5\" r=\".7\"/><path d=\"M12 13.3v.9M10.8 15a1.8 1.8 0 0 0 2.4 0\"/><path d=\"M8.5 18.5h7\"/><path d=\"M12 17.5v3M10.5 19h3\"/>",
+    "solid": "<path d=\"M12 7.8a5.2 5.2 0 1 0 0 10.4 5.2 5.2 0 1 0 0-10.4Zm-2 3.6a1 1 0 1 0 0 2 1 1 0 1 0 0-2Zm4 0a1 1 0 1 0 0 2 1 1 0 1 0 0-2Zm-2 3a1 1 0 1 0 0 2 1 1 0 1 0 0-2Z\" fill-rule=\"evenodd\"/><path d=\"M7.8 9.6C5.6 9 4.2 10 4.2 11.9c0 1.6 1.1 2.7 2.8 3.1Z\"/><path d=\"M16.2 9.6C18.4 9 19.8 10 19.8 11.9c0 1.6-1.1 2.7-2.8 3.1Z\"/>"
+  },
+  "elevator-access": {
+    "category": "accessibility",
+    "keywords": ["elevator", "lift", "accessible", "ascensor", "elevador", "subir", "bajar"],
+    "aliases": ["lift", "accessible-lift"],
+    "outline": "<rect x=\"4\" y=\"3\" width=\"16\" height=\"18\" rx=\"2\"/><path d=\"M12 6v12\"/><path d=\"M8 15V9m-1.6 1.8L8 8.4l1.6 2.4\"/><path d=\"M16 9v6m1.6-1.8L16 15.6l-1.6-2.4\"/>",
+    "solid": null
+  },
+  "ramp-access": {
+    "category": "accessibility",
+    "keywords": ["ramp", "wheelchair", "incline", "rampa", "acceso", "pendiente", "silla"],
+    "aliases": ["wheelchair-ramp", "access-ramp"],
+    "outline": "<path d=\"M3 20.5h18\"/><path d=\"M4.5 20.5 19 9\"/><circle cx=\"10.5\" cy=\"7.5\" r=\"1.6\"/><path d=\"M10.5 9.3v3.2h2.6l1.2 2.5\"/><path d=\"M10.5 11h2.2\"/><circle cx=\"9.5\" cy=\"15\" r=\"2.7\"/>",
+    "solid": null
+  },
+  "accessible-parking": {
+    "category": "accessibility",
+    "keywords": ["parking", "disabled", "handicap", "aparcamiento reservado", "discapacitados", "estacionamiento", "silla"],
+    "aliases": ["disabled-parking", "handicap-parking"],
+    "outline": "<rect x=\"3.5\" y=\"3.5\" width=\"17\" height=\"17\" rx=\"3\"/><circle cx=\"12\" cy=\"8\" r=\"1.3\"/><path d=\"M8.5 10.3h7\"/><path d=\"M12 9.3v3.2l-1.6 4M12 12.5l1.6 4\"/>",
+    "solid": "<path d=\"M6.5 3.5h11a3 3 0 0 1 3 3v11a3 3 0 0 1-3 3h-11a3 3 0 0 1-3-3v-11a3 3 0 0 1 3-3ZM12 6.4a1.4 1.4 0 1 1 0 2.8 1.4 1.4 0 0 1 0-2.8ZM11.2 9.5h1.6v.6h3.1v1.3h-3.1v2.8h-1.6v-2.8H8.1v-1.3h3.1z M11 13h2l1.5 3.8-1.15.45L12 14l-1.35 3.25-1.15-.45z\" fill-rule=\"evenodd\"/>"
+  },
+  "walking-frame": {
+    "category": "accessibility",
+    "keywords": ["walker", "frame", "zimmer", "andador", "caminador", "movilidad", "apoyo"],
+    "aliases": ["walker", "zimmer-frame", "rollator"],
+    "outline": "<path d=\"M6.5 6v9l-2 4.5M17.5 6v9l2 4.5\"/><path d=\"M5 6h3M16 6h3\"/><path d=\"M6.5 10h11\"/><path d=\"M9 15h6\"/>",
+    "solid": null
+  },
+  "prosthetic-leg": {
+    "category": "accessibility",
+    "keywords": ["prosthetic", "leg", "amputee", "protesis", "pierna", "amputado", "ortopedia"],
+    "aliases": ["prosthesis", "artificial-leg", "amputee"],
+    "outline": "<path d=\"M8 4h8l-1 5.5a3.2 3.2 0 0 1-6 0Z\"/><path d=\"M12 9.5v8.5\"/><path d=\"M9.5 18h5.5a2 2 0 0 1 0 4H9.5Z\"/>",
+    "solid": null
+  },
+  "hearing-loop": {
+    "category": "accessibility",
+    "keywords": ["hearing loop", "induction", "t-coil", "bucle magnetico", "induccion", "audicion", "telecoil"],
+    "aliases": ["induction-loop", "t-coil", "telecoil"],
+    "outline": "<rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"3\"/><path d=\"M7.5 10.5a3.3 3.3 0 0 1 6.6 0c0 1.4-1 2-1.6 2.5-.5.4-.8.9-.8 1.6a1.5 1.5 0 0 1-3 0\"/><path d=\"M12.5 7.5h5M15 7.5v5\"/>",
+    "solid": null
+  },
+  "tactile-paving": {
+    "category": "accessibility",
+    "keywords": ["tactile", "paving", "blind", "pavimento tactil", "podotactil", "ciego", "bumps"],
+    "aliases": ["truncated-domes", "detectable-warning"],
+    "outline": "<rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/><circle cx=\"8\" cy=\"8\" r=\"1\"/><circle cx=\"12\" cy=\"8\" r=\"1\"/><circle cx=\"16\" cy=\"8\" r=\"1\"/><circle cx=\"8\" cy=\"12\" r=\"1\"/><circle cx=\"12\" cy=\"12\" r=\"1\"/><circle cx=\"16\" cy=\"12\" r=\"1\"/><circle cx=\"8\" cy=\"16\" r=\"1\"/><circle cx=\"12\" cy=\"16\" r=\"1\"/><circle cx=\"16\" cy=\"16\" r=\"1\"/>",
+    "solid": "<path d=\"M5 3h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2ZM8 6.8a1.2 1.2 0 1 0 0 2.4 1.2 1.2 0 0 0 0-2.4ZM12 6.8a1.2 1.2 0 1 0 0 2.4 1.2 1.2 0 0 0 0-2.4ZM16 6.8a1.2 1.2 0 1 0 0 2.4 1.2 1.2 0 0 0 0-2.4ZM8 10.8a1.2 1.2 0 1 0 0 2.4 1.2 1.2 0 0 0 0-2.4ZM12 10.8a1.2 1.2 0 1 0 0 2.4 1.2 1.2 0 0 0 0-2.4ZM16 10.8a1.2 1.2 0 1 0 0 2.4 1.2 1.2 0 0 0 0-2.4ZM8 14.8a1.2 1.2 0 1 0 0 2.4 1.2 1.2 0 0 0 0-2.4ZM12 14.8a1.2 1.2 0 1 0 0 2.4 1.2 1.2 0 0 0 0-2.4ZM16 14.8a1.2 1.2 0 1 0 0 2.4 1.2 1.2 0 0 0 0-2.4Z\" fill-rule=\"evenodd\"/>"
+  },
+  "large-text": {
+    "category": "accessibility",
+    "keywords": ["large text", "font size", "bigger", "texto grande", "tamano", "fuente", "zoom"],
+    "aliases": ["big-text", "font-size", "text-size"],
+    "outline": "<path d=\"M3 18 7 7l4 11M4.2 14.5h5.6\"/><path d=\"M14 18l2.7-7 2.7 7M15 15.7h3.4\"/>",
+    "solid": null
+  },
+  "high-contrast": {
+    "category": "accessibility",
+    "keywords": ["contrast", "high contrast", "display", "contraste", "alto contraste", "pantalla", "vision"],
+    "aliases": ["contrast", "contrast-mode"],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M12 3v18\"/><path d=\"M12 6.2 15.8 10M12 9.5 17.5 15M12 13 15.8 16.8M12 16.5 13.7 18.2\"/>",
+    "solid": "<path d=\"M12 2.8a9.2 9.2 0 1 0 0 18.4 9.2 9.2 0 0 0 0-18.4Zm0 2a7.2 7.2 0 1 1 0 14.4 7.2 7.2 0 0 1 0-14.4Z\" fill-rule=\"evenodd\"/><path d=\"M12 4.8a7.2 7.2 0 0 1 0 14.4Z\"/>"
+  },
+  "screen-reader": {
+    "category": "accessibility",
+    "keywords": ["screen reader", "voiceover", "tts", "lector de pantalla", "narrador", "voz", "nvda"],
+    "aliases": ["voiceover", "narrator", "reader"],
+    "outline": "<rect x=\"3\" y=\"4\" width=\"12\" height=\"14\" rx=\"2\"/><path d=\"M6 8h6M6 11h6M6 14h4\"/><path d=\"M16.5 9a3 3 0 0 1 0 6M18.5 7.5a5 5 0 0 1 0 9\"/>",
+    "solid": null
+  },
+  "voice-control": {
+    "category": "accessibility",
+    "keywords": ["voice", "control", "command", "control por voz", "comando", "microfono", "hablar"],
+    "aliases": ["voice-command", "voice-input"],
+    "outline": "<rect x=\"9\" y=\"3\" width=\"6\" height=\"11\" rx=\"3\"/><path d=\"M6 11a6 6 0 0 0 12 0\"/><path d=\"M12 17v3M9 20h6\"/><path d=\"M4 8v3M20 8v3\"/>",
+    "solid": "<path d=\"M12 2.5A3.5 3.5 0 0 0 8.5 6v5a3.5 3.5 0 0 0 7 0V6A3.5 3.5 0 0 0 12 2.5Z\"/><path d=\"M6 11a6 6 0 0 0 12 0 1 1 0 0 0-2 0 4 4 0 0 1-8 0 1 1 0 0 0-2 0Z\"/><path d=\"M11 16.9V20H9a1 1 0 0 0 0 2h6a1 1 0 0 0 0-2h-2v-3.1a1 1 0 0 0-2 0Z\"/>"
+  },
+  "magnifier-access": {
+    "category": "accessibility",
+    "keywords": ["magnifier", "zoom", "enlarge", "lupa", "ampliar", "aumento", "vision"],
+    "aliases": ["screen-magnifier", "zoom-tool"],
+    "outline": "<circle cx=\"10.5\" cy=\"10.5\" r=\"6.5\"/><path d=\"m20 20-4.5-4.5\"/><path d=\"M8 9.5h5M8 12h3\"/>",
+    "solid": null
+  },
+  "easy-read": {
+    "category": "accessibility",
+    "keywords": ["easy read", "simple", "plain language", "lectura facil", "sencillo", "texto claro", "cognitive"],
+    "aliases": ["easy-to-read", "plain-language"],
+    "outline": "<path d=\"M6.5 3h7l4.5 4.5V19a1.5 1.5 0 0 1-1.5 1.5H6.5A1.5 1.5 0 0 1 5 19V4.5A1.5 1.5 0 0 1 6.5 3Z\"/><path d=\"M13 3v4.5h4.5\"/><rect x=\"7.5\" y=\"10\" width=\"4\" height=\"3.5\" rx=\"0.5\"/><path d=\"M13.5 11h3M13.5 13h3M8 16.5h8\"/>",
+    "solid": null
+  },
+  "adhd-mind": {
+    "category": "accessibility",
+    "keywords": ["adhd", "attention", "focus", "tdah", "atencion", "mente", "hiperactividad"],
+    "aliases": ["attention-deficit", "add", "focus"],
+    "outline": "<path d=\"M12 3a6 6 0 0 0-3.6 10.8c.6.5 1.1 1.2 1.1 2V17h5v-1.2c0-.8.5-1.5 1.1-2A6 6 0 0 0 12 3Z\"/><path d=\"M10 20h4M10.5 22h3\"/><path d=\"M9.5 9.5l1.5 1.5 2-2.5 1.5 1.5\"/>",
+    "solid": null
+  },
+  "autism-awareness": {
+    "category": "accessibility",
+    "keywords": ["autism", "neurodiversity", "spectrum", "autismo", "neurodivergencia", "espectro", "infinito"],
+    "aliases": ["autism", "neurodiversity", "asd"],
+    "outline": "<path d=\"M7 9a3 3 0 1 0 0 6c1.6 0 2.7-1.1 3.6-2.3L12 11.2l1.4 1.5c.9 1.2 2 2.3 3.6 2.3a3 3 0 1 0 0-6c-1.6 0-2.7 1.1-3.6 2.3L12 12.8l-1.4-1.5C9.7 10.1 8.6 9 7 9Z\"/>",
+    "solid": null
+  },
+  "dyslexia": {
+    "category": "accessibility",
+    "keywords": ["dyslexia", "reading", "letters", "dislexia", "lectura", "letras", "learning"],
+    "aliases": ["reading-difficulty", "learning-disability"],
+    "outline": "<path d=\"M6 4v10\"/><path d=\"M6 9.5h2.2a2.2 2.2 0 0 1 0 4.4H6\"/><path d=\"M18 4v10\"/><path d=\"M18 9.5h-2.2a2.2 2.2 0 0 0 0 4.4H18\"/><path d=\"M5 18c1-1 2 1 3.5 0s2.5 1 4 0 2.5 1 3.5 0\"/>",
+    "solid": null
+  },
+  "mobility-scooter": {
+    "category": "accessibility",
+    "keywords": ["mobility scooter", "scooter", "electric", "scooter de movilidad", "electrico", "movilidad", "disability"],
+    "aliases": ["electric-scooter", "disability-scooter"],
+    "outline": "<circle cx=\"6.5\" cy=\"18\" r=\"2.4\"/><circle cx=\"17.5\" cy=\"18\" r=\"2.4\"/><path d=\"M8.5 16.5h8\"/><path d=\"M10 16.5V8.5h3.5\"/><path d=\"M16 16.5V8.5h-2\"/>",
+    "solid": null
+  },
+  "guide-dog": {
+    "category": "accessibility",
+    "keywords": ["guide dog", "blind", "harness", "perro guia", "lazarillo", "ciego", "arnes"],
+    "aliases": ["seeing-eye-dog", "guide-dog-harness"],
+    "outline": "<circle cx=\"10.5\" cy=\"13\" r=\"5\"/><path d=\"M6.8 9.5C4.9 8.9 3.5 9.9 3.5 11.7c0 1.6 1.2 2.7 2.8 3\"/><path d=\"M14.2 9.5c1.9-.6 3.3.4 3.3 2.2 0 1.6-1.2 2.7-2.8 3\"/><circle cx=\"8.9\" cy=\"12.5\" r=\".7\"/><circle cx=\"12.1\" cy=\"12.5\" r=\".7\"/><path d=\"M10.5 14.3v.8M9.5 15.7a1.6 1.6 0 0 0 2 0\"/><path d=\"M14.5 11l4-4a1.6 1.6 0 0 1 2.3 2.3l-3.3 3.3\"/>",
+    "solid": "<path d=\"M10.5 7.8a5.2 5.2 0 1 0 0 10.4 5.2 5.2 0 1 0 0-10.4Zm-2 3.6a1 1 0 1 0 0 2 1 1 0 1 0 0-2Zm4 0a1 1 0 1 0 0 2 1 1 0 1 0 0-2Zm-2 3a1 1 0 1 0 0 2 1 1 0 1 0 0-2Z\" fill-rule=\"evenodd\"/><path d=\"M6.3 9.6C4.1 9 2.7 10 2.7 11.9c0 1.6 1.1 2.7 2.8 3.1Z\"/><path d=\"M14.7 9.6C16.9 9 18.3 10 18.3 11.9c0 1.6-1.1 2.7-2.8 3.1Z\"/>"
+  },
+  "accessible-toilet": {
+    "category": "accessibility",
+    "keywords": ["toilet", "restroom", "accessible", "aseo accesible", "bano", "wc", "silla"],
+    "aliases": ["accessible-restroom", "disabled-toilet", "wc"],
+    "outline": "<rect x=\"4.5\" y=\"2.5\" width=\"15\" height=\"19\" rx=\"2.5\"/><circle cx=\"12\" cy=\"7\" r=\"1.5\"/><path d=\"M12 8.8v3.4h2.6l1.2 2.6\"/><path d=\"M12 10.5h2.3\"/><circle cx=\"10.8\" cy=\"14.5\" r=\"2.6\"/>",
+    "solid": "<path d=\"M7 2.5h10a2.5 2.5 0 0 1 2.5 2.5v14a2.5 2.5 0 0 1-2.5 2.5H7A2.5 2.5 0 0 1 4.5 19V5A2.5 2.5 0 0 1 7 2.5ZM12 5.6a1.4 1.4 0 1 1 0 2.8 1.4 1.4 0 0 1 0-2.8ZM11.2 8.6h1.6v.6h3.1v1.3h-3.1v2.7h-1.6v-2.7H8.1V9.2h3.1z M11 12.1h2l1.5 3.8-1.15.45L12 13.1l-1.35 3.25-1.15-.45z\" fill-rule=\"evenodd\"/>"
+  },
+  "subtitle-cc": {
+    "category": "accessibility",
+    "keywords": ["subtitle", "subtitles", "captions", "subtitulos", "texto", "pelicula", "cc"],
+    "aliases": ["subtitles", "captioning"],
+    "outline": "<rect x=\"3\" y=\"4\" width=\"18\" height=\"16\" rx=\"2.5\"/><path d=\"M6 13.5h6M14 13.5h4M6 16.5h4M12 16.5h6\"/>",
+    "solid": "<path d=\"M5.5 4h13a2.5 2.5 0 0 1 2.5 2.5v11a2.5 2.5 0 0 1-2.5 2.5h-13A2.5 2.5 0 0 1 3 17.5v-11A2.5 2.5 0 0 1 5.5 4ZM6 12.8h6v1.4H6zM13.5 12.8H18v1.4h-4.5zM6 15.8h4v1.4H6zM11.5 15.8H18v1.4h-6.5z\" fill-rule=\"evenodd\"/>"
+  },
+  "transcript": {
+    "category": "accessibility",
+    "keywords": ["transcript", "transcription", "text", "transcripcion", "texto", "audio", "documento"],
+    "aliases": ["transcription", "text-record"],
+    "outline": "<rect x=\"4.5\" y=\"3\" width=\"15\" height=\"18\" rx=\"2\"/><path d=\"M8 7.5v1.5M9.7 6.8v2.9M11.4 7.8v.9M13.1 6.5v3.5M14.8 7.5v1.5M16.5 7v2\"/><path d=\"M8 13h8M8 16.5h5\"/>",
+    "solid": null
+  },
+  "one-handed": {
+    "category": "accessibility",
+    "keywords": ["one handed", "hand", "single hand", "una mano", "mano", "accesibilidad", "reach"],
+    "aliases": ["single-hand", "one-hand-mode"],
+    "outline": "<path d=\"M8.5 10V5a1.5 1.5 0 0 1 3 0v4.5\"/><path d=\"M11.5 9.5V4a1.5 1.5 0 0 1 3 0v5.5\"/><path d=\"M14.5 10V6a1.5 1.5 0 0 1 3 0v8a6 6 0 0 1-6 6 6 6 0 0 1-4.4-1.9l-3-3.3a1.6 1.6 0 0 1 2.3-2.2L8 14V8.5a1.5 1.5 0 0 1 3 0V10\"/>",
+    "solid": null
+  },
+  "seizure-safe": {
+    "category": "accessibility",
+    "keywords": ["seizure", "epilepsy", "safe", "convulsiones", "epilepsia", "seguro", "flashing"],
+    "aliases": ["epilepsy-safe", "no-flashing", "photosensitive"],
+    "outline": "<path d=\"M12 3 5 5.5v5.2c0 4.4 3 7.7 7 9.3 4-1.6 7-4.9 7-9.3V5.5Z\"/><path d=\"m9 12 2 2 4-4.5\"/>",
+    "solid": "<path d=\"M11.6 2.6 4.6 5.1a1 1 0 0 0-.6.9v4.7c0 4.8 3.2 8.4 7.6 10.2a1 1 0 0 0 .8 0c4.4-1.8 7.6-5.4 7.6-10.2V6a1 1 0 0 0-.6-.9l-7-2.5a1 1 0 0 0-.8 0Zm3.5 6.9-4 4.6a1 1 0 0 1-1.45.05L8 12.5a1 1 0 0 1 1.4-1.42l1 1 3.3-3.8a1 1 0 0 1 1.5 1.3Z\" fill-rule=\"evenodd\"/>"
+  },
+  "cognitive-access": {
+    "category": "accessibility",
+    "keywords": ["cognitive", "mind", "brain", "cognitivo", "mente", "cerebro", "comprension"],
+    "aliases": ["cognitive-accessibility", "cognition"],
+    "outline": "<path d=\"M8.5 20.5v-2.2a2 2 0 0 0-.5-1.3 6.5 6.5 0 1 1 8 0 2 2 0 0 0-.5 1.3v2.2\"/><circle cx=\"12\" cy=\"9.5\" r=\"1.8\"/><path d=\"M12 6.2v1M12 11.8v1M8.9 9.5h1M14.1 9.5h1M9.8 7.3l.7.7M13.5 11l.7.7M14.2 7.3l-.7.7M9.8 11.7l.7.7\"/>",
+    "solid": null
+  },
+  "motor-disability": {
+    "category": "accessibility",
+    "keywords": ["motor", "movement", "hand", "motriz", "movimiento", "mano", "destreza"],
+    "aliases": ["motor-impairment", "dexterity", "mobility-impairment"],
+    "outline": "<path d=\"M9 12V6.5a1.4 1.4 0 0 1 2.8 0V11M11.8 11V5.5a1.4 1.4 0 0 1 2.8 0V11M14.6 11.5V7a1.4 1.4 0 0 1 2.8 0v6.2a5.3 5.3 0 0 1-5.3 5.3A5 5 0 0 1 8.3 17l-2.6-2.7a1.4 1.4 0 0 1 2-2l1.5 1.4V9.5a1.4 1.4 0 0 1 2.8 0\"/><path d=\"M4.5 4.6A5.5 5.5 0 0 0 3 8.3\"/><path d=\"m2.6 7.3.4 1.3 1.3-.5\"/>",
+    "solid": null
+  },
+  "assistive-tech": {
+    "category": "accessibility",
+    "keywords": ["assistive", "technology", "device", "tecnologia asistiva", "dispositivo", "ayuda tecnica", "aac"],
+    "aliases": ["assistive-technology", "at-device", "aac"],
+    "outline": "<rect x=\"5.5\" y=\"2.5\" width=\"13\" height=\"19\" rx=\"3\"/><circle cx=\"12\" cy=\"8\" r=\"2.4\"/><path d=\"M8.5 15h7M8.5 17.8h4.5\"/>",
+    "solid": null
+  },
+  "text-to-speech": {
+    "category": "accessibility",
+    "keywords": ["text to speech", "tts", "speak", "texto a voz", "sintesis", "leer", "voz"],
+    "aliases": ["tts", "read-aloud", "speak"],
+    "outline": "<rect x=\"3.5\" y=\"4\" width=\"10\" height=\"16\" rx=\"1.8\"/><path d=\"M6.5 8h4M6.5 11h4M6.5 14h3\"/><path d=\"M16 10v4l2.5 2V8z\"/><path d=\"M20 10.5a3 3 0 0 1 0 3\"/>",
+    "solid": null
+  },
+  "speech-to-text": {
+    "category": "accessibility",
+    "keywords": ["speech to text", "dictation", "stt", "voz a texto", "dictado", "transcribir", "microfono"],
+    "aliases": ["stt", "dictation", "voice-typing"],
+    "outline": "<rect x=\"10.5\" y=\"4\" width=\"10\" height=\"16\" rx=\"1.8\"/><path d=\"M13.5 8h4M13.5 11h4M13.5 14h3\"/><rect x=\"4.5\" y=\"4.5\" width=\"4\" height=\"7\" rx=\"2\"/><path d=\"M3 10a3.5 3.5 0 0 0 7 0M6.5 13.5v2\"/>",
+    "solid": null
+  },
+  "keyboard-access": {
+    "category": "accessibility",
+    "keywords": ["keyboard", "navigation", "focus", "teclado", "navegacion", "foco", "tab"],
+    "aliases": ["keyboard-navigation", "keyboard-nav"],
+    "outline": "<rect x=\"2.5\" y=\"5.5\" width=\"19\" height=\"13\" rx=\"2\"/><path d=\"M6 9h.01M9.5 9h.01M13 9h.01M16.5 9h.01\"/><rect x=\"5\" y=\"12.5\" width=\"4\" height=\"3\" rx=\"0.7\"/><path d=\"M11 13.5h6M11 15.5h4\"/>",
+    "solid": null
+  },
+  "switch-access": {
+    "category": "accessibility",
+    "keywords": ["switch", "button", "assistive", "conmutador", "boton", "interruptor", "pulsador"],
+    "aliases": ["assistive-switch", "switch-control", "access-switch"],
+    "outline": "<circle cx=\"12\" cy=\"10\" r=\"6.5\"/><circle cx=\"12\" cy=\"10\" r=\"2.5\"/><path d=\"M12 16.5v2a2 2 0 0 0 2 2h4\"/>",
+    "solid": "<path d=\"M12 3a7 7 0 1 0 0 14 7 7 0 0 0 0-14Zm0 4.5a2.5 2.5 0 1 1 0 5 2.5 2.5 0 0 1 0-5Z\" fill-rule=\"evenodd\"/><path d=\"M11 16.4v2.1a2.5 2.5 0 0 0 2.5 2.5H18a1 1 0 0 0 0-2h-4.5a.5 .5 0 0 1-.5-.5v-2.1a1 1 0 0 0-2 0Z\"/>"
+  },
+  "eye-tracking": {
+    "category": "accessibility",
+    "keywords": ["eye tracking", "gaze", "eye", "seguimiento ocular", "mirada", "ojo", "control"],
+    "aliases": ["gaze-control", "eye-gaze", "eye-tracker"],
+    "outline": "<path d=\"M4 12s3-5.5 8-5.5 8 5.5 8 5.5-3 5.5-8 5.5-8-5.5-8-5.5Z\"/><circle cx=\"12\" cy=\"12\" r=\"2.3\"/><path d=\"M3 4.5V3h1.8M21 4.5V3h-1.8M3 19.5V21h1.8M21 19.5V21h-1.8\"/>",
+    "solid": null
+  },
+  "accessible-entrance": {
+    "category": "accessibility",
+    "keywords": ["entrance", "door", "accessible", "entrada accesible", "puerta", "acceso", "silla"],
+    "aliases": ["accessible-door", "step-free-entrance"],
+    "outline": "<path d=\"M4 20.5V4.5A1.5 1.5 0 0 1 5.5 3h9A1.5 1.5 0 0 1 16 4.5v16\"/><path d=\"M3 20.5h14\"/><circle cx=\"10\" cy=\"8\" r=\"1.4\"/><path d=\"M6.8 10.5h6.4\"/><path d=\"M10 9.4v3.2l-1.5 3.6M10 12.6l1.5 3.6\"/>",
+    "solid": null
+  },
+  "braille-display": {
+    "category": "accessibility",
+    "keywords": ["braille display", "refreshable", "device", "linea braille", "dispositivo", "pantalla braille", "pins"],
+    "aliases": ["refreshable-braille", "braille-terminal"],
+    "outline": "<rect x=\"2.5\" y=\"7\" width=\"19\" height=\"10\" rx=\"2\"/><circle cx=\"6\" cy=\"10.5\" r=\"0.9\"/><circle cx=\"6\" cy=\"13.5\" r=\"0.9\"/><circle cx=\"9\" cy=\"10.5\" r=\"0.9\"/><circle cx=\"9\" cy=\"13.5\" r=\"0.9\"/><circle cx=\"12\" cy=\"10.5\" r=\"0.9\"/><circle cx=\"12\" cy=\"13.5\" r=\"0.9\"/><circle cx=\"15\" cy=\"10.5\" r=\"0.9\"/><circle cx=\"15\" cy=\"13.5\" r=\"0.9\"/><circle cx=\"18\" cy=\"10.5\" r=\"0.9\"/><circle cx=\"18\" cy=\"13.5\" r=\"0.9\"/>",
+    "solid": "<path d=\"M4.5 7h15a2 2 0 0 1 2 2v6a2 2 0 0 1-2 2h-15a2 2 0 0 1-2-2V9a2 2 0 0 1 2-2ZM6 9.6a1 1 0 1 0 0 2 1 1 0 0 0 0-2ZM6 12.6a1 1 0 1 0 0 2 1 1 0 0 0 0-2ZM9 9.6a1 1 0 1 0 0 2 1 1 0 0 0 0-2ZM9 12.6a1 1 0 1 0 0 2 1 1 0 0 0 0-2ZM12 9.6a1 1 0 1 0 0 2 1 1 0 0 0 0-2ZM12 12.6a1 1 0 1 0 0 2 1 1 0 0 0 0-2ZM15 9.6a1 1 0 1 0 0 2 1 1 0 0 0 0-2ZM15 12.6a1 1 0 1 0 0 2 1 1 0 0 0 0-2ZM18 9.6a1 1 0 1 0 0 2 1 1 0 0 0 0-2ZM18 12.6a1 1 0 1 0 0 2 1 1 0 0 0 0-2Z\" fill-rule=\"evenodd\"/>"
+  }
+}

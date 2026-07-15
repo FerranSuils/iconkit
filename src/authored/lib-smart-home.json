@@ -1,0 +1,678 @@
+{
+  "smart-bulb": {
+    "category": "smart-home",
+    "keywords": [
+      "bombilla inteligente",
+      "smart bulb",
+      "luz",
+      "light",
+      "wifi bulb",
+      "iluminacion",
+      "lighting"
+    ],
+    "aliases": [
+      "connected-bulb"
+    ],
+    "outline": "<path d=\"M15 14.5c.2-1 .7-1.8 1.5-2.6a6 6 0 1 0-9 0c.8.8 1.3 1.6 1.5 2.6\"/><path d=\"M10 8.2a2.8 2.8 0 0 1 4 0\"/><path d=\"M12 10.5h.01\"/><path d=\"M9.5 18h5\"/><path d=\"M10.5 21h3\"/>",
+    "solid": "<path fill-rule=\"evenodd\" d=\"M12 2.5a6 6 0 0 0-4.2 10.3c.7.7 1.1 1.5 1.3 2.4l.1.8h5.6l.1-.8c.2-.9.6-1.7 1.3-2.4A6 6 0 0 0 12 2.5ZM12 10.6a1.1 1.1 0 1 0 0-2.2 1.1 1.1 0 0 0 0 2.2Z\"/><rect x=\"9\" y=\"17.3\" width=\"6\" height=\"1.8\" rx=\"0.9\"/><rect x=\"10\" y=\"20.2\" width=\"4\" height=\"1.8\" rx=\"0.9\"/>"
+  },
+  "smart-plug": {
+    "category": "smart-home",
+    "keywords": [
+      "enchufe inteligente",
+      "smart plug",
+      "socket",
+      "toma corriente",
+      "outlet",
+      "energia",
+      "power"
+    ],
+    "aliases": [
+      "wifi-plug"
+    ],
+    "outline": "<rect x=\"3.5\" y=\"3.5\" width=\"17\" height=\"17\" rx=\"4\"/><circle cx=\"12\" cy=\"12\" r=\"5\"/><path d=\"M10 11v2\"/><path d=\"M14 11v2\"/>",
+    "solid": "<path fill-rule=\"evenodd\" d=\"M7.5 3.5h9a4 4 0 0 1 4 4v9a4 4 0 0 1-4 4h-9a4 4 0 0 1-4-4v-9a4 4 0 0 1 4-4Zm4.5 13.5a5 5 0 1 0 0-10 5 5 0 0 0 0 10Z\"/><rect x=\"9.15\" y=\"10.2\" width=\"1.7\" height=\"3.6\" rx=\"0.85\"/><rect x=\"13.15\" y=\"10.2\" width=\"1.7\" height=\"3.6\" rx=\"0.85\"/>"
+  },
+  "smart-thermostat": {
+    "category": "smart-home",
+    "keywords": [
+      "termostato",
+      "thermostat",
+      "temperatura",
+      "temperature",
+      "climatizacion",
+      "heating",
+      "clima"
+    ],
+    "aliases": [],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"8.5\"/><path d=\"M8.11 16.5a6 6 0 1 1 7.78 0\"/><path d=\"M12 12V8.5\"/><path d=\"M12 12h.01\"/>",
+    "solid": null
+  },
+  "smart-lock-home": {
+    "category": "smart-home",
+    "keywords": [
+      "cerradura inteligente",
+      "smart lock",
+      "candado",
+      "seguridad",
+      "security",
+      "keyless",
+      "puerta"
+    ],
+    "aliases": [
+      "keypad-lock"
+    ],
+    "outline": "<rect x=\"5\" y=\"10\" width=\"14\" height=\"11\" rx=\"2\"/><path d=\"M8 10V7a4 4 0 0 1 8 0v3\"/><path d=\"M9 15.5h.01\"/><path d=\"M12 15.5h.01\"/><path d=\"M15 15.5h.01\"/>",
+    "solid": "<path d=\"M8 11V7a4 4 0 0 1 8 0v4h-2V7a2 2 0 0 0-4 0v4Z\"/><path fill-rule=\"evenodd\" d=\"M7 10h10a2 2 0 0 1 2 2v7a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2v-7a2 2 0 0 1 2-2Zm2 6.5a1 1 0 1 0 0-2 1 1 0 0 0 0 2Zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2Zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z\"/>"
+  },
+  "video-doorbell": {
+    "category": "smart-home",
+    "keywords": [
+      "videoportero",
+      "doorbell",
+      "timbre",
+      "camara puerta",
+      "entrada",
+      "ring",
+      "video"
+    ],
+    "aliases": [
+      "doorbell-camera"
+    ],
+    "outline": "<rect x=\"8\" y=\"2.5\" width=\"8\" height=\"19\" rx=\"3\"/><circle cx=\"12\" cy=\"8\" r=\"2.2\"/><path d=\"M12 8h.01\"/><circle cx=\"12\" cy=\"16.5\" r=\"1.2\"/>",
+    "solid": "<path fill-rule=\"evenodd\" d=\"M11 2.5h2a3 3 0 0 1 3 3v13a3 3 0 0 1-3 3h-2a3 3 0 0 1-3-3v-13a3 3 0 0 1 3-3Zm1 7.9a2.4 2.4 0 1 0 0-4.8 2.4 2.4 0 0 0 0 4.8Zm0 7.4a1.3 1.3 0 1 0 0-2.6 1.3 1.3 0 0 0 0 2.6Z\"/><circle cx=\"12\" cy=\"8\" r=\"1\"/>"
+  },
+  "indoor-camera": {
+    "category": "smart-home",
+    "keywords": [
+      "camara interior",
+      "indoor camera",
+      "vigilancia",
+      "surveillance",
+      "seguridad hogar",
+      "webcam",
+      "monitor"
+    ],
+    "aliases": [
+      "security-camera-indoor"
+    ],
+    "outline": "<circle cx=\"12\" cy=\"8.5\" r=\"5.5\"/><circle cx=\"12\" cy=\"8.5\" r=\"2.2\"/><path d=\"M12 14v6.5\"/><path d=\"M8 20.5h8\"/>",
+    "solid": "<path fill-rule=\"evenodd\" d=\"M12 3a5.5 5.5 0 1 1 0 11 5.5 5.5 0 0 1 0-11Zm0 3.3a2.2 2.2 0 1 0 0 4.4 2.2 2.2 0 0 0 0-4.4Z\"/><rect x=\"11\" y=\"14\" width=\"2\" height=\"5.5\" rx=\"1\"/><rect x=\"7.5\" y=\"19.5\" width=\"9\" height=\"2\" rx=\"1\"/>"
+  },
+  "motion-sensor": {
+    "category": "smart-home",
+    "keywords": [
+      "sensor movimiento",
+      "motion sensor",
+      "pir",
+      "deteccion",
+      "detection",
+      "presencia",
+      "alarma"
+    ],
+    "aliases": [
+      "pir-sensor"
+    ],
+    "outline": "<rect x=\"3\" y=\"9\" width=\"6\" height=\"6\" rx=\"1.5\"/><circle cx=\"6\" cy=\"12\" r=\"1.2\"/><path d=\"M13 8.5a5.5 5.5 0 0 1 0 7\"/><path d=\"M16 5.5a10.5 10.5 0 0 1 0 13\"/>",
+    "solid": null
+  },
+  "door-sensor": {
+    "category": "smart-home",
+    "keywords": [
+      "sensor puerta",
+      "door sensor",
+      "contacto",
+      "contact sensor",
+      "apertura",
+      "entry",
+      "magnetico"
+    ],
+    "aliases": [
+      "contact-sensor"
+    ],
+    "outline": "<rect x=\"4\" y=\"3\" width=\"11\" height=\"18\" rx=\"1.5\"/><path d=\"M12.5 12h.01\"/><rect x=\"18\" y=\"8.5\" width=\"3\" height=\"7\" rx=\"1.2\"/>",
+    "solid": null
+  },
+  "window-sensor": {
+    "category": "smart-home",
+    "keywords": [
+      "sensor ventana",
+      "window sensor",
+      "apertura",
+      "opening",
+      "contacto",
+      "seguridad",
+      "alarm"
+    ],
+    "aliases": [],
+    "outline": "<rect x=\"4\" y=\"4\" width=\"16\" height=\"16\" rx=\"1.5\"/><path d=\"M12 4v16\"/><path d=\"M4 12h16\"/><circle cx=\"16\" cy=\"8\" r=\"1.8\"/>",
+    "solid": null
+  },
+  "leak-sensor": {
+    "category": "smart-home",
+    "keywords": [
+      "sensor fuga",
+      "leak sensor",
+      "agua",
+      "water leak",
+      "inundacion",
+      "flood",
+      "humedad"
+    ],
+    "aliases": [
+      "water-leak-sensor"
+    ],
+    "outline": "<path d=\"M12 3.5c2.6 3 4.5 5.4 4.5 8a4.5 4.5 0 0 1-9 0c0-2.6 1.9-5 4.5-8Z\"/><path d=\"M4 20.5c2.5-1.5 5.5-1.5 8 0s5.5 1.5 8 0\"/>",
+    "solid": "<path d=\"M12 3.5c2.6 3 4.5 5.4 4.5 8a4.5 4.5 0 0 1-9 0c0-2.6 1.9-5 4.5-8Z\"/><rect x=\"4.5\" y=\"19.5\" width=\"15\" height=\"2\" rx=\"1\"/>"
+  },
+  "co-detector": {
+    "category": "smart-home",
+    "keywords": [
+      "detector monoxido",
+      "co detector",
+      "carbon monoxide",
+      "gas",
+      "seguridad",
+      "safety",
+      "alarma"
+    ],
+    "aliases": [
+      "carbon-monoxide-detector"
+    ],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"8.5\"/><circle cx=\"12\" cy=\"12\" r=\"4.5\"/><path d=\"M12 5v1.5\"/><path d=\"M12 17.5V19\"/><path d=\"M5 12h1.5\"/><path d=\"M17.5 12H19\"/><path d=\"M12 12h.01\"/>",
+    "solid": null
+  },
+  "smoke-alarm-smart": {
+    "category": "smart-home",
+    "keywords": [
+      "detector humo",
+      "smoke detector",
+      "alarma incendio",
+      "fire alarm",
+      "humo",
+      "safety",
+      "techo"
+    ],
+    "aliases": [
+      "smoke-detector-ceiling"
+    ],
+    "outline": "<path d=\"M3 4h18\"/><path d=\"M7 4a5 5 0 0 0 10 0\"/><path d=\"M12 6.5h.01\"/><path d=\"M8.5 13.5c-1 1.3 1 2.4 0 3.7\"/><path d=\"M12 14.5c-1 1.3 1 2.4 0 3.7\"/><path d=\"M15.5 13.5c-1 1.3 1 2.4 0 3.7\"/>",
+    "solid": null
+  },
+  "smart-speaker-home": {
+    "category": "smart-home",
+    "keywords": [
+      "altavoz inteligente",
+      "smart speaker",
+      "asistente",
+      "echo",
+      "musica",
+      "music",
+      "voz"
+    ],
+    "aliases": [
+      "voice-speaker"
+    ],
+    "outline": "<rect x=\"7\" y=\"3\" width=\"10\" height=\"18\" rx=\"3\"/><path d=\"M7 7.5h10\"/><path d=\"M10.5 12h.01\"/><path d=\"M13.5 12h.01\"/><path d=\"M10.5 15h.01\"/><path d=\"M13.5 15h.01\"/>",
+    "solid": "<path fill-rule=\"evenodd\" d=\"M10 3h4a3 3 0 0 1 3 3v12a3 3 0 0 1-3 3h-4a3 3 0 0 1-3-3V6a3 3 0 0 1 3-3Zm-.4 3.6a.9.9 0 0 0 0 1.8h4.8a.9.9 0 0 0 0-1.8Zm.9 6.35a.95.95 0 1 0 0-1.9.95.95 0 0 0 0 1.9Zm3 0a.95.95 0 1 0 0-1.9.95.95 0 0 0 0 1.9Zm-3 3a.95.95 0 1 0 0-1.9.95.95 0 0 0 0 1.9Zm3 0a.95.95 0 1 0 0-1.9.95.95 0 0 0 0 1.9Z\"/>"
+  },
+  "home-hub": {
+    "category": "smart-home",
+    "keywords": [
+      "hub domotica",
+      "home hub",
+      "central",
+      "gateway",
+      "puente",
+      "bridge",
+      "domotica"
+    ],
+    "aliases": [
+      "smart-home-hub"
+    ],
+    "outline": "<path d=\"M4 10.5 12 3.5l8 7\"/><path d=\"M6 9v10.5A1.5 1.5 0 0 0 7.5 21h9a1.5 1.5 0 0 0 1.5-1.5V9\"/><path d=\"M9.2 12.6a4 4 0 0 1 5.6 0\"/><circle cx=\"12\" cy=\"15.5\" r=\"1.3\"/>",
+    "solid": null
+  },
+  "smart-display": {
+    "category": "smart-home",
+    "keywords": [
+      "pantalla inteligente",
+      "smart display",
+      "panel",
+      "tablet hogar",
+      "dashboard",
+      "widget",
+      "screen"
+    ],
+    "aliases": [
+      "home-dashboard"
+    ],
+    "outline": "<rect x=\"3\" y=\"4.5\" width=\"18\" height=\"12\" rx=\"2\"/><circle cx=\"7.8\" cy=\"10.5\" r=\"2\"/><path d=\"M12.5 8.8H18\"/><path d=\"M12.5 12.2h3.8\"/><path d=\"M12 16.5v2\"/><path d=\"M8.5 20.5h7\"/>",
+    "solid": null
+  },
+  "smart-switch": {
+    "category": "smart-home",
+    "keywords": [
+      "interruptor inteligente",
+      "smart switch",
+      "luz",
+      "light switch",
+      "pared",
+      "wall",
+      "encender"
+    ],
+    "aliases": [
+      "wall-switch-smart"
+    ],
+    "outline": "<rect x=\"6\" y=\"3\" width=\"12\" height=\"18\" rx=\"2.5\"/><rect x=\"9.5\" y=\"7\" width=\"5\" height=\"6.5\" rx=\"1.5\"/><path d=\"M12 17.2h.01\"/>",
+    "solid": "<path fill-rule=\"evenodd\" d=\"M8.5 3h7A2.5 2.5 0 0 1 18 5.5v13a2.5 2.5 0 0 1-2.5 2.5h-7A2.5 2.5 0 0 1 6 18.5v-13A2.5 2.5 0 0 1 8.5 3ZM11 7a1.5 1.5 0 0 0-1.5 1.5V12a1.5 1.5 0 0 0 1.5 1.5h2a1.5 1.5 0 0 0 1.5-1.5V8.5A1.5 1.5 0 0 0 13 7Zm1 11.3a1.1 1.1 0 1 0 0-2.2 1.1 1.1 0 0 0 0 2.2Z\"/>"
+  },
+  "dimmer-control": {
+    "category": "smart-home",
+    "keywords": [
+      "regulador",
+      "dimmer",
+      "intensidad",
+      "brightness",
+      "atenuar",
+      "luz",
+      "slider"
+    ],
+    "aliases": [
+      "light-dimmer"
+    ],
+    "outline": "<path d=\"M3 12h5\"/><circle cx=\"12\" cy=\"12\" r=\"3.5\"/><path d=\"M16 12h5\"/><path d=\"M12 6.8V4.8\"/><path d=\"M8.3 8.3 6.9 6.9\"/><path d=\"M15.7 8.3l1.4-1.4\"/>",
+    "solid": null
+  },
+  "scene-lighting": {
+    "category": "smart-home",
+    "keywords": [
+      "escena luz",
+      "lighting scene",
+      "ambiente",
+      "ambience",
+      "lampara",
+      "lamp",
+      "mood"
+    ],
+    "aliases": [
+      "mood-lighting"
+    ],
+    "outline": "<path d=\"M8 3.5h8l3 7H5Z\"/><path d=\"M12 10.5V18\"/><path d=\"M8 20.5h8\"/><path d=\"M6.5 12.5 5 14\"/><path d=\"M17.5 12.5 19 14\"/>",
+    "solid": "<path d=\"M8 3.5h8l3 7H5Z\"/><rect x=\"11\" y=\"10.5\" width=\"2\" height=\"7.5\" rx=\"1\"/><rect x=\"7.5\" y=\"19.5\" width=\"9\" height=\"2\" rx=\"1\"/>"
+  },
+  "smart-blinds": {
+    "category": "smart-home",
+    "keywords": [
+      "persiana inteligente",
+      "smart blinds",
+      "estor",
+      "ventana",
+      "window shade",
+      "motorizada",
+      "cortina"
+    ],
+    "aliases": [
+      "window-blinds-smart"
+    ],
+    "outline": "<path d=\"M3.5 4.5h17\"/><path d=\"M5 8h14\"/><path d=\"M5 11.5h14\"/><path d=\"M5 15h7\"/><path d=\"M16.5 11.5V17\"/><circle cx=\"16.5\" cy=\"18.5\" r=\"1.4\"/>",
+    "solid": null
+  },
+  "smart-curtain": {
+    "category": "smart-home",
+    "keywords": [
+      "cortina inteligente",
+      "smart curtain",
+      "motorizada",
+      "drapes",
+      "ventana",
+      "window",
+      "automatica"
+    ],
+    "aliases": [
+      "motorized-curtain"
+    ],
+    "outline": "<path d=\"M3 4h18\"/><path d=\"M12 4c0 5.5-3 10-7.5 12\"/><path d=\"M12 4c0 5.5 3 10 7.5 12\"/><path d=\"M8.5 20.5h7\"/>",
+    "solid": null
+  },
+  "garage-door-smart": {
+    "category": "smart-home",
+    "keywords": [
+      "puerta garaje",
+      "garage door",
+      "porton",
+      "automatica",
+      "coche",
+      "car",
+      "apertura"
+    ],
+    "aliases": [
+      "garage-smart"
+    ],
+    "outline": "<path d=\"M3 20.5V9.5L12 4l9 5.5V20.5\"/><path d=\"M6.5 20.5V12.5h11v8\"/><path d=\"M6.5 15.2h11\"/><path d=\"M6.5 17.9h11\"/><path d=\"M12 9.9h.01\"/>",
+    "solid": null
+  },
+  "smart-garage-remote": {
+    "category": "smart-home",
+    "keywords": [
+      "mando garaje",
+      "garage remote",
+      "control remoto",
+      "remote control",
+      "apertura",
+      "opener",
+      "llavero"
+    ],
+    "aliases": [
+      "garage-opener"
+    ],
+    "outline": "<rect x=\"8\" y=\"9\" width=\"8\" height=\"12\" rx=\"2.5\"/><circle cx=\"12\" cy=\"13.5\" r=\"1.2\"/><circle cx=\"12\" cy=\"17.5\" r=\"1.2\"/><path d=\"M9.2 6.6a4 4 0 0 1 5.6 0\"/><path d=\"M7 4.4a7.5 7.5 0 0 1 10 0\"/>",
+    "solid": null
+  },
+  "robot-mower": {
+    "category": "smart-home",
+    "keywords": [
+      "cortacesped robot",
+      "robot mower",
+      "jardin",
+      "lawn",
+      "cesped",
+      "grass",
+      "automatico"
+    ],
+    "aliases": [
+      "lawn-mower-robot"
+    ],
+    "outline": "<rect x=\"4\" y=\"4\" width=\"16\" height=\"16\" rx=\"5\"/><circle cx=\"12\" cy=\"12\" r=\"3.6\"/><path d=\"M9.5 14.5l5-5\"/><path d=\"M16.8 7.2h.01\"/>",
+    "solid": null
+  },
+  "smart-meter-home": {
+    "category": "smart-home",
+    "keywords": [
+      "contador inteligente",
+      "smart meter",
+      "consumo",
+      "electricidad",
+      "electricity",
+      "medidor",
+      "kwh"
+    ],
+    "aliases": [
+      "utility-meter"
+    ],
+    "outline": "<rect x=\"4\" y=\"4\" width=\"16\" height=\"16\" rx=\"2.5\"/><path d=\"M8.5 13a3.5 3.5 0 0 1 7 0\"/><path d=\"M12 13l2-2.4\"/><path d=\"M9 16.5h6\"/>",
+    "solid": null
+  },
+  "energy-monitor-home": {
+    "category": "smart-home",
+    "keywords": [
+      "monitor energia",
+      "energy monitor",
+      "consumo hogar",
+      "casa",
+      "power usage",
+      "electricidad",
+      "eficiencia"
+    ],
+    "aliases": [
+      "power-monitor-home"
+    ],
+    "outline": "<path d=\"M4 11 12 4l8 7\"/><path d=\"M6 9.5V19a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V9.5\"/><polyline points=\"12.8,10.5 10.2,14.8 13.8,14.8 11.2,19\"/>",
+    "solid": null
+  },
+  "smart-radiator": {
+    "category": "smart-home",
+    "keywords": [
+      "radiador inteligente",
+      "smart radiator",
+      "calefaccion",
+      "heating",
+      "valvula",
+      "valve",
+      "invierno"
+    ],
+    "aliases": [
+      "radiator-valve"
+    ],
+    "outline": "<rect x=\"4\" y=\"6\" width=\"3\" height=\"11.5\" rx=\"1.5\"/><rect x=\"8.5\" y=\"6\" width=\"3\" height=\"11.5\" rx=\"1.5\"/><rect x=\"13\" y=\"6\" width=\"3\" height=\"11.5\" rx=\"1.5\"/><rect x=\"17.5\" y=\"6\" width=\"3\" height=\"11.5\" rx=\"1.5\"/><circle cx=\"19\" cy=\"3.6\" r=\"1.4\"/><path d=\"M5.5 17.5v3\"/><path d=\"M19 17.5v3\"/>",
+    "solid": null
+  },
+  "floor-heating": {
+    "category": "smart-home",
+    "keywords": [
+      "suelo radiante",
+      "floor heating",
+      "calefaccion suelo",
+      "underfloor",
+      "calor",
+      "warm",
+      "radiante"
+    ],
+    "aliases": [
+      "underfloor-heating"
+    ],
+    "outline": "<path d=\"M3 17.5h18\"/><path d=\"M3 21h18\"/><path d=\"M8 17.5V21\"/><path d=\"M13 17.5V21\"/><path d=\"M18 17.5V21\"/><path d=\"M7 15c-1.2-1.4 1.2-2.9 0-4.3-1.2-1.4 1.2-2.9 0-4.2\"/><path d=\"M12 15c-1.2-1.4 1.2-2.9 0-4.3-1.2-1.4 1.2-2.9 0-4.2\"/><path d=\"M17 15c-1.2-1.4 1.2-2.9 0-4.3-1.2-1.4 1.2-2.9 0-4.2\"/>",
+    "solid": null
+  },
+  "smart-ac": {
+    "category": "smart-home",
+    "keywords": [
+      "aire acondicionado",
+      "air conditioning",
+      "climatizacion",
+      "cooling",
+      "split",
+      "frio",
+      "hvac"
+    ],
+    "aliases": [
+      "air-conditioner-smart"
+    ],
+    "outline": "<rect x=\"3\" y=\"4\" width=\"18\" height=\"7\" rx=\"2\"/><path d=\"M6 8.2h12\"/><path d=\"M17 6.1h.01\"/><path d=\"M7 14c-.9 1.5.9 3 0 4.5\"/><path d=\"M12 14c-.9 1.5.9 3 0 4.5\"/><path d=\"M17 14c-.9 1.5.9 3 0 4.5\"/>",
+    "solid": null
+  },
+  "air-purifier-smart": {
+    "category": "smart-home",
+    "keywords": [
+      "purificador aire",
+      "air purifier",
+      "filtro",
+      "filter",
+      "calidad aire",
+      "hepa",
+      "limpio"
+    ],
+    "aliases": [
+      "hepa-purifier"
+    ],
+    "outline": "<rect x=\"7\" y=\"4\" width=\"10\" height=\"17\" rx=\"2.5\"/><path d=\"M9.5 7h5\"/><circle cx=\"12\" cy=\"12.5\" r=\"3\"/><path d=\"M12 18.5h.01\"/>",
+    "solid": "<path fill-rule=\"evenodd\" d=\"M9.5 4h5A2.5 2.5 0 0 1 17 6.5v12a2.5 2.5 0 0 1-2.5 2.5h-5A2.5 2.5 0 0 1 7 18.5v-12A2.5 2.5 0 0 1 9.5 4Zm.2 2.1a.9.9 0 0 0 0 1.8h4.6a.9.9 0 0 0 0-1.8ZM12 15.5a3 3 0 1 0 0-6 3 3 0 0 0 0 6Zm0 4a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z\"/>"
+  },
+  "humidity-sensor": {
+    "category": "smart-home",
+    "keywords": [
+      "sensor humedad",
+      "humidity sensor",
+      "higrometro",
+      "hygrometer",
+      "ambiente",
+      "moisture",
+      "clima"
+    ],
+    "aliases": [
+      "hygrometer"
+    ],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"8.5\"/><path d=\"M12 7.5c1.7 2 3 3.7 3 5.4a3 3 0 0 1-6 0c0-1.7 1.3-3.4 3-5.4Z\"/>",
+    "solid": "<path fill-rule=\"evenodd\" d=\"M12 3.5a8.5 8.5 0 1 1 0 17 8.5 8.5 0 0 1 0-17Zm0 4c-1.7 2-3 3.7-3 5.4a3 3 0 0 0 6 0c0-1.7-1.3-3.4-3-5.4Z\"/>"
+  },
+  "smart-irrigation": {
+    "category": "smart-home",
+    "keywords": [
+      "riego inteligente",
+      "smart irrigation",
+      "aspersor",
+      "sprinkler",
+      "jardin",
+      "garden",
+      "agua"
+    ],
+    "aliases": [
+      "sprinkler-smart"
+    ],
+    "outline": "<path d=\"M3 20.5h18\"/><rect x=\"10.6\" y=\"15.5\" width=\"2.8\" height=\"5\" rx=\"1\"/><path d=\"M12 12.8V9.8\"/><path d=\"M9.2 13.6 7.4 11.2\"/><path d=\"M14.8 13.6l1.8-2.4\"/><path d=\"M5 8.2h.01\"/><path d=\"M12 6h.01\"/><path d=\"M19 8.2h.01\"/>",
+    "solid": null
+  },
+  "pet-feeder-smart": {
+    "category": "smart-home",
+    "keywords": [
+      "comedero mascota",
+      "pet feeder",
+      "alimentador",
+      "comida perro",
+      "gato",
+      "cat",
+      "dog"
+    ],
+    "aliases": [
+      "automatic-feeder"
+    ],
+    "outline": "<path d=\"M3.5 13.5h17\"/><path d=\"M4.5 13.5a7.5 7.5 0 0 0 15 0\"/><circle cx=\"9\" cy=\"9.5\" r=\"1\"/><circle cx=\"15\" cy=\"9.5\" r=\"1\"/><circle cx=\"12\" cy=\"5.5\" r=\"1\"/>",
+    "solid": "<path d=\"M4.5 13.5h15a7.5 7.5 0 0 1-15 0Z\"/><rect x=\"3.5\" y=\"12.5\" width=\"17\" height=\"2\" rx=\"1\"/><circle cx=\"9\" cy=\"9.5\" r=\"1.3\"/><circle cx=\"15\" cy=\"9.5\" r=\"1.3\"/><circle cx=\"12\" cy=\"5.5\" r=\"1.3\"/>"
+  },
+  "smart-fridge-panel": {
+    "category": "smart-home",
+    "keywords": [
+      "nevera inteligente",
+      "smart fridge",
+      "frigorifico",
+      "refrigerator",
+      "cocina",
+      "kitchen",
+      "pantalla"
+    ],
+    "aliases": [
+      "fridge-screen"
+    ],
+    "outline": "<rect x=\"6\" y=\"2.5\" width=\"12\" height=\"19\" rx=\"2\"/><path d=\"M6 9.5h12\"/><path d=\"M8.7 5.2v2\"/><path d=\"M8.7 12v3\"/><rect x=\"12.8\" y=\"12\" width=\"3.4\" height=\"5\" rx=\"0.8\"/>",
+    "solid": null
+  },
+  "voice-assistant": {
+    "category": "smart-home",
+    "keywords": [
+      "asistente voz",
+      "voice assistant",
+      "hablar",
+      "speech",
+      "comando",
+      "command",
+      "alexa"
+    ],
+    "aliases": [
+      "home-assistant-voice"
+    ],
+    "outline": "<path d=\"M6.5 3.5h11A2.5 2.5 0 0 1 20 6v7a2.5 2.5 0 0 1-2.5 2.5h-4.7L9 19v-3.5H6.5A2.5 2.5 0 0 1 4 13V6a2.5 2.5 0 0 1 2.5-2.5Z\"/><path d=\"M8.5 8.5v2\"/><path d=\"M12 7.5v4\"/><path d=\"M15.5 8.5v2\"/>",
+    "solid": "<path fill-rule=\"evenodd\" d=\"M6.5 3.5h11A2.5 2.5 0 0 1 20 6v7a2.5 2.5 0 0 1-2.5 2.5h-4.7L9 19v-3.5H6.5A2.5 2.5 0 0 1 4 13V6a2.5 2.5 0 0 1 2.5-2.5Zm2 4.1a.9.9 0 0 0-.9.9v2a.9.9 0 0 0 1.8 0v-2a.9.9 0 0 0-.9-.9Zm3.5-1a.9.9 0 0 0-.9.9v4a.9.9 0 0 0 1.8 0v-4a.9.9 0 0 0-.9-.9Zm3.5 1a.9.9 0 0 0-.9.9v2a.9.9 0 0 0 1.8 0v-2a.9.9 0 0 0-.9-.9Z\"/>"
+  },
+  "home-automation": {
+    "category": "smart-home",
+    "keywords": [
+      "domotica",
+      "home automation",
+      "automatizacion",
+      "ajustes casa",
+      "smart home",
+      "control",
+      "engranaje"
+    ],
+    "aliases": [
+      "automation-settings"
+    ],
+    "outline": "<path d=\"M4 10.5 12 3.5l8 7\"/><path d=\"M6 9v10.5A1.5 1.5 0 0 0 7.5 21h9a1.5 1.5 0 0 0 1.5-1.5V9\"/><circle cx=\"12\" cy=\"13.5\" r=\"2.6\"/><path d=\"M12 9.2v1.7\"/><path d=\"M12 16.1v1.7\"/><path d=\"M7.9 13.5h1.7\"/><path d=\"M14.4 13.5h1.7\"/>",
+    "solid": null
+  },
+  "zigbee-signal": {
+    "category": "smart-home",
+    "keywords": [
+      "zigbee",
+      "protocolo",
+      "protocol",
+      "red malla",
+      "mesh network",
+      "inalambrico",
+      "wireless"
+    ],
+    "aliases": [
+      "mesh-protocol"
+    ],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"9\"/><polyline points=\"8.2,8.6 15.8,8.6 8.2,15.4 15.8,15.4\"/>",
+    "solid": null
+  },
+  "home-network": {
+    "category": "smart-home",
+    "keywords": [
+      "red hogar",
+      "home network",
+      "lan",
+      "nodos",
+      "nodes",
+      "conexion",
+      "router"
+    ],
+    "aliases": [
+      "lan-home"
+    ],
+    "outline": "<path d=\"M3.5 10.5 12 3l8.5 7.5\"/><path d=\"M5.5 9.2V19.5A1.5 1.5 0 0 0 7 21h10a1.5 1.5 0 0 0 1.5-1.5V9.2\"/><circle cx=\"12\" cy=\"11.8\" r=\"1.3\"/><circle cx=\"9\" cy=\"16.8\" r=\"1.3\"/><circle cx=\"15\" cy=\"16.8\" r=\"1.3\"/><path d=\"M11.4 13 9.6 15.7\"/><path d=\"M12.6 13l1.8 2.7\"/>",
+    "solid": null
+  },
+  "smart-alarm-panel": {
+    "category": "smart-home",
+    "keywords": [
+      "panel alarma",
+      "alarm panel",
+      "teclado",
+      "keypad",
+      "seguridad",
+      "security",
+      "armar"
+    ],
+    "aliases": [
+      "security-keypad"
+    ],
+    "outline": "<rect x=\"5.5\" y=\"3\" width=\"13\" height=\"18\" rx=\"2.5\"/><rect x=\"8.2\" y=\"6\" width=\"7.6\" height=\"4\" rx=\"1\"/><path d=\"M9.5 13h.01\"/><path d=\"M12 13h.01\"/><path d=\"M14.5 13h.01\"/><path d=\"M9.5 16.5h.01\"/><path d=\"M12 16.5h.01\"/><path d=\"M14.5 16.5h.01\"/>",
+    "solid": "<path fill-rule=\"evenodd\" d=\"M8 3h8a2.5 2.5 0 0 1 2.5 2.5v13A2.5 2.5 0 0 1 16 21H8a2.5 2.5 0 0 1-2.5-2.5v-13A2.5 2.5 0 0 1 8 3Zm1.2 3a1 1 0 0 0-1 1v2a1 1 0 0 0 1 1h5.6a1 1 0 0 0 1-1V7a1 1 0 0 0-1-1Zm.3 8a1 1 0 1 0 0-2 1 1 0 0 0 0 2Zm2.5 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2Zm2.5 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2Zm-5 3.5a1 1 0 1 0 0-2 1 1 0 0 0 0 2Zm2.5 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2Zm2.5 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z\"/>"
+  },
+  "presence-detection": {
+    "category": "smart-home",
+    "keywords": [
+      "deteccion presencia",
+      "presence detection",
+      "ocupacion",
+      "occupancy",
+      "radar",
+      "persona",
+      "sensor"
+    ],
+    "aliases": [
+      "occupancy-sensor"
+    ],
+    "outline": "<circle cx=\"9\" cy=\"7.5\" r=\"2.6\"/><path d=\"M4.5 20.5c0-3.6 2-5.6 4.5-5.6s4.5 2 4.5 5.6\"/><path d=\"M14.2 8a3.2 3.2 0 0 1 0 4\"/><path d=\"M16.5 5.5a6.5 6.5 0 0 1 0 9\"/>",
+    "solid": null
+  },
+  "night-mode-home": {
+    "category": "smart-home",
+    "keywords": [
+      "modo noche",
+      "night mode",
+      "dormir",
+      "sleep",
+      "luna",
+      "moon",
+      "casa"
+    ],
+    "aliases": [
+      "sleep-mode-house"
+    ],
+    "outline": "<path d=\"M4 10.5 12 3.5l8 7\"/><path d=\"M6 9v10.5A1.5 1.5 0 0 0 7.5 21h9a1.5 1.5 0 0 0 1.5-1.5V9\"/><path d=\"M12 10a3 3 0 0 0 4.5 4.5 4.5 4.5 0 1 1-4.5-4.5Z\"/>",
+    "solid": null
+  }
+}

@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <Nullable>enable</Nullable>
+    <RootNamespace>IconKitLib</RootNamespace>
+    <AssemblyName>IconKit</AssemblyName>
+
+    <PackageId>IconKit</PackageId>
+    <Version>1.0.1</Version>
+    <Authors>Ferran Suils Mora</Authors>
+    <Description>IconKit — 3000+ monochrome vector icons (outline &amp; solid), single source of truth, currentColor, for every stack.</Description>
+    <Copyright>Copyright (c) 2026 Ferran Suils Mora</Copyright>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://suils.es</PackageProjectUrl>
+    <RepositoryUrl>https://iconkit.suils.es</RepositoryUrl>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageTags>icons;svg;vector;outline;solid;blazor;razor;ui</PackageTags>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="README.md" Pack="true" PackagePath="\" />
+    <None Include="LICENSE" Pack="true" PackagePath="\" />
+    <!-- Componente Blazor como contenido: el consumidor lo copia a su proyecto. -->
+    <None Include="IkIcon.razor" Pack="true" PackagePath="content\IkIcon.razor;contentFiles\any\any\IkIcon.razor" />
+  </ItemGroup>
+
+</Project>

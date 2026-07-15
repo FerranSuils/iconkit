@@ -1,0 +1,747 @@
+{
+  "wedding-rings": {
+    "category": "wedding",
+    "keywords": [
+      "anillos",
+      "rings",
+      "boda",
+      "wedding",
+      "alianzas",
+      "matrimonio",
+      "marriage",
+      "pareja"
+    ],
+    "aliases": [
+      "wedding-bands-pair",
+      "two-rings"
+    ],
+    "outline": "<circle cx=\"9.2\" cy=\"14.8\" r=\"5\"/><circle cx=\"14.8\" cy=\"14.8\" r=\"5\"/><path d=\"M14.8 4.6 16.8 7 14.8 9.4 12.8 7Z\"/>",
+    "solid": "<path d=\"M7.7 10.5A4.3 4.3 0 1 0 7.7 19.1 4.3 4.3 0 0 0 7.7 10.5Zm0 2.2a2.1 2.1 0 1 1 0 4.2 2.1 2.1 0 0 1 0-4.2ZM16.3 10.5A4.3 4.3 0 1 0 16.3 19.1 4.3 4.3 0 0 0 16.3 10.5Zm0 2.2a2.1 2.1 0 1 1 0 4.2 2.1 2.1 0 0 1 0-4.2Z\" fill-rule=\"evenodd\"/><path d=\"M16.3 5.4 18.3 7.8 16.3 10.2 14.3 7.8Z\"/>"
+  },
+  "wedding-cake": {
+    "category": "wedding",
+    "keywords": [
+      "tarta",
+      "pastel",
+      "cake",
+      "boda",
+      "wedding",
+      "pisos",
+      "tiered",
+      "celebracion"
+    ],
+    "aliases": [
+      "tiered-wedding-cake",
+      "cake-heart"
+    ],
+    "outline": "<rect x=\"8.5\" y=\"6.5\" width=\"7\" height=\"4\" rx=\"1\"/><rect x=\"6\" y=\"10.5\" width=\"12\" height=\"4.5\" rx=\"1\"/><rect x=\"4\" y=\"15\" width=\"16\" height=\"5.5\" rx=\"1.5\"/><path d=\"M3.5 20.5h17\"/><path d=\"M12 6.5C12 6.5 9.8 5.2 9.8 3.7A1.3 1.3 0 0 1 12 2.9 1.3 1.3 0 0 1 14.2 3.7C14.2 5.2 12 6.5 12 6.5Z\"/>",
+    "solid": "<rect x=\"8.5\" y=\"6.5\" width=\"7\" height=\"4\" rx=\"1\"/><rect x=\"6\" y=\"10.5\" width=\"12\" height=\"4.5\" rx=\"1\"/><rect x=\"4\" y=\"15\" width=\"16\" height=\"5.5\" rx=\"1.5\"/><path d=\"M3.5 20h17v1.3h-17Z\"/><path d=\"M12 6.5C12 6.5 9.8 5.2 9.8 3.7A1.3 1.3 0 0 1 12 2.9 1.3 1.3 0 0 1 14.2 3.7C14.2 5.2 12 6.5 12 6.5Z\"/>"
+  },
+  "wedding-dress": {
+    "category": "wedding",
+    "keywords": [
+      "vestido",
+      "dress",
+      "novia",
+      "bride",
+      "gown",
+      "boda",
+      "wedding",
+      "traje"
+    ],
+    "aliases": [
+      "bridal-gown",
+      "bride-dress"
+    ],
+    "outline": "<path d=\"M8 5 Q10 7 12 6.2 Q14 7 16 5 L14.5 11 C16 14 18 18 18 20.5 L6 20.5 C6 18 8 14 9.5 11 Z\"/><path d=\"M9.5 11 Q12 12.2 14.5 11\"/><path d=\"M12 12.5V20\"/>",
+    "solid": "<path d=\"M8 5 Q10 7 12 6.2 Q14 7 16 5 L14.5 11 C16 14 18 18 18 20.5 L6 20.5 C6 18 8 14 9.5 11 Z\"/>"
+  },
+  "tuxedo": {
+    "category": "wedding",
+    "keywords": [
+      "esmoquin",
+      "tuxedo",
+      "novio",
+      "groom",
+      "traje",
+      "suit",
+      "boda",
+      "wedding",
+      "pajarita"
+    ],
+    "aliases": [
+      "tux",
+      "groom-suit"
+    ],
+    "outline": "<path d=\"M7.5 3.5 5.6 5.1A2 2 0 0 0 5 6.5V20a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V6.5a2 2 0 0 0-.6-1.4L16.5 3.5\"/><path d=\"M7.5 3.5 12 7.5 16.5 3.5\"/><path d=\"M10.3 6.6 12 7.5 10.3 8.4Z\"/><path d=\"M13.7 6.6 12 7.5 13.7 8.4Z\"/><path d=\"M12 10.5h.01M12 13h.01M12 15.5h.01\"/>",
+    "solid": null
+  },
+  "bridal-bouquet": {
+    "category": "wedding",
+    "keywords": [
+      "ramo",
+      "bouquet",
+      "flores",
+      "flowers",
+      "novia",
+      "bride",
+      "boda",
+      "wedding"
+    ],
+    "aliases": [
+      "wedding-bouquet",
+      "flower-bunch"
+    ],
+    "outline": "<circle cx=\"9\" cy=\"7.5\" r=\"2.1\"/><circle cx=\"12.5\" cy=\"6\" r=\"2.1\"/><circle cx=\"15.5\" cy=\"8\" r=\"2.1\"/><circle cx=\"10.5\" cy=\"10.3\" r=\"1.9\"/><circle cx=\"14\" cy=\"10.8\" r=\"1.9\"/><path d=\"M10.5 12 12 20M13.5 12.5 12 20M12 12.5 12 20\"/><path d=\"M9.5 15.5 14.5 16.5\"/><path d=\"M9.5 15.5 8 18M14.5 16.5 16 19\"/>",
+    "solid": "<circle cx=\"9\" cy=\"7.5\" r=\"2.3\"/><circle cx=\"12.5\" cy=\"6\" r=\"2.3\"/><circle cx=\"15.5\" cy=\"8\" r=\"2.3\"/><circle cx=\"10.5\" cy=\"10.3\" r=\"2.1\"/><circle cx=\"14\" cy=\"10.8\" r=\"2.1\"/><path d=\"M10.3 13H13.7L12.6 20.5H11.4Z\"/>"
+  },
+  "wedding-arch": {
+    "category": "wedding",
+    "keywords": [
+      "arco",
+      "arch",
+      "ceremonia",
+      "ceremony",
+      "flores",
+      "boda",
+      "wedding",
+      "altar"
+    ],
+    "aliases": [
+      "floral-arch",
+      "ceremony-arch"
+    ],
+    "outline": "<path d=\"M4 21V10a8 8 0 0 1 16 0v11\"/><path d=\"M2.5 21h19\"/><circle cx=\"6.3\" cy=\"4.5\" r=\"1.6\"/><circle cx=\"8.6\" cy=\"3.1\" r=\"1.4\"/><circle cx=\"17.7\" cy=\"4.5\" r=\"1.6\"/><circle cx=\"15.4\" cy=\"3.1\" r=\"1.4\"/>",
+    "solid": null
+  },
+  "wedding-invitation": {
+    "category": "wedding",
+    "keywords": [
+      "invitacion",
+      "invitation",
+      "tarjeta",
+      "card",
+      "boda",
+      "wedding",
+      "corazon",
+      "heart"
+    ],
+    "aliases": [
+      "wedding-card",
+      "invite-card"
+    ],
+    "outline": "<rect x=\"5\" y=\"3\" width=\"14\" height=\"18\" rx=\"1.5\"/><path d=\"M8 6.5h8\"/><path d=\"M9.5 9h5\"/><path d=\"M12 15.8C12 15.8 9.7 14.4 9.7 12.8A1.35 1.35 0 0 1 12 12 1.35 1.35 0 0 1 14.3 12.8C14.3 14.4 12 15.8 12 15.8Z\"/><path d=\"M8.5 18.5h7\"/>",
+    "solid": "<path d=\"M6.5 3H17.5A1.5 1.5 0 0 1 19 4.5V19.5A1.5 1.5 0 0 1 17.5 21H6.5A1.5 1.5 0 0 1 5 19.5V4.5A1.5 1.5 0 0 1 6.5 3ZM8 5.8h8v1.3H8ZM9.5 8.4h5v1.2h-5ZM8.5 17.9h7v1.2h-7ZM12 15.6C12 15.6 9.9 14.3 9.9 12.9A1.2 1.2 0 0 1 12 12.2 1.2 1.2 0 0 1 14.1 12.9C14.1 14.3 12 15.6 12 15.6Z\" fill-rule=\"evenodd\"/>"
+  },
+  "save-the-date": {
+    "category": "wedding",
+    "keywords": [
+      "fecha",
+      "date",
+      "calendario",
+      "calendar",
+      "reserva",
+      "boda",
+      "wedding",
+      "agenda"
+    ],
+    "aliases": [
+      "date-calendar",
+      "reserve-date"
+    ],
+    "outline": "<rect x=\"3.5\" y=\"5\" width=\"17\" height=\"15.5\" rx=\"2\"/><path d=\"M3.5 9h17\"/><path d=\"M8 3.5v3M16 3.5v3\"/><path d=\"M6.7 12h.01M9.6 12h.01M17.3 12h.01M14.4 12h.01\"/><path d=\"M12 19C12 19 8.8 17.1 8.8 14.9A1.9 1.9 0 0 1 12 13.7 1.9 1.9 0 0 1 15.2 14.9C15.2 17.1 12 19 12 19Z\"/>",
+    "solid": "<path d=\"M5.5 5H7V3.7A1 1 0 0 1 9 3.7V5H15V3.7A1 1 0 0 1 17 3.7V5H18.5A2 2 0 0 1 20.5 7V18.5A2 2 0 0 1 18.5 20.5H5.5A2 2 0 0 1 3.5 18.5V7A2 2 0 0 1 5.5 5ZM4.5 8.5V10H19.5V8.5ZM12 18.6C12 18.6 9.2 16.9 9.2 14.9A1.7 1.7 0 0 1 12 13.8 1.7 1.7 0 0 1 14.8 14.9C14.8 16.9 12 18.6 12 18.6Z\" fill-rule=\"evenodd\"/>"
+  },
+  "champagne-toast": {
+    "category": "wedding",
+    "keywords": [
+      "champan",
+      "champagne",
+      "brindis",
+      "toast",
+      "copas",
+      "flutes",
+      "boda",
+      "wedding",
+      "celebrar"
+    ],
+    "aliases": [
+      "champagne-flutes",
+      "bubbly-toast"
+    ],
+    "outline": "<path d=\"M6.5 4H9.5L8.9 11.5A1.5 2 0 0 1 7.1 11.5Z\"/><path d=\"M8 11.5V19M6.4 19H9.6\"/><path d=\"M14.5 4H17.5L16.9 11.5A1.5 2 0 0 1 15.1 11.5Z\"/><path d=\"M16 11.5V19M14.4 19H17.6\"/><path d=\"M7.7 6.5h.01M8.4 8.5h.01M16.3 6.5h.01M15.6 8.5h.01\"/><path d=\"M11 7 12 5.5 13 7 12 8.5Z\"/>",
+    "solid": "<path d=\"M6.5 4H9.5L8.9 11.5A1.5 2 0 0 1 7.1 11.5Z\"/><path d=\"M14.5 4H17.5L16.9 11.5A1.5 2 0 0 1 15.1 11.5Z\"/><rect x=\"7.6\" y=\"11\" width=\"0.9\" height=\"8\"/><rect x=\"15.6\" y=\"11\" width=\"0.9\" height=\"8\"/><rect x=\"6.3\" y=\"18.5\" width=\"3.4\" height=\"1\" rx=\"0.5\"/><rect x=\"14.3\" y=\"18.5\" width=\"3.4\" height=\"1\" rx=\"0.5\"/><path d=\"M11 7 12 5.4 13 7 12 8.6Z\"/>"
+  },
+  "wedding-bells": {
+    "category": "wedding",
+    "keywords": [
+      "campanas",
+      "bells",
+      "boda",
+      "wedding",
+      "lazo",
+      "bow",
+      "ceremonia",
+      "sonar"
+    ],
+    "aliases": [
+      "marriage-bells",
+      "bells-bow"
+    ],
+    "outline": "<path d=\"M4.6 13.5a3.4 3.4 0 0 1 6.8 0c0 2.7 1.1 3.6 1.1 3.6H3.5S4.6 16.2 4.6 13.5Z\"/><path d=\"M6.5 17.4a1.5 1.5 0 0 0 3 0\"/><path d=\"M12.6 13.5a3.4 3.4 0 0 1 6.8 0c0 2.7 1.1 3.6 1.1 3.6h-8S12.6 16.2 12.6 13.5Z\"/><path d=\"M14.5 17.4a1.5 1.5 0 0 0 3 0\"/><path d=\"M12 7.2 8 10.2M12 7.2 16 10.2\"/><path d=\"M12 7.2C10.8 5.6 8.8 6 9.3 7.6 9.6 8.6 11.1 7.9 12 7.2ZM12 7.2C13.2 5.6 15.2 6 14.7 7.6 14.4 8.6 12.9 7.9 12 7.2Z\"/><circle cx=\"12\" cy=\"7.2\" r=\"0.7\"/>",
+    "solid": "<path d=\"M4.6 13.5a3.4 3.4 0 0 1 6.8 0c0 2.7 1.1 3.6 1.1 3.6H3.5S4.6 16.2 4.6 13.5Z\"/><path d=\"M12.6 13.5a3.4 3.4 0 0 1 6.8 0c0 2.7 1.1 3.6 1.1 3.6h-8S12.6 16.2 12.6 13.5Z\"/><circle cx=\"8\" cy=\"17.8\" r=\"1.1\"/><circle cx=\"16\" cy=\"17.8\" r=\"1.1\"/><path d=\"M11.7 7.3 12.3 7.5 8.4 10.4 7.9 9.9Z\"/><path d=\"M12.3 7.3 11.7 7.5 15.6 10.4 16.1 9.9Z\"/><path d=\"M12 7.2C10.8 5.6 8.8 6 9.3 7.6 9.6 8.6 11.1 7.9 12 7.2ZM12 7.2C13.2 5.6 15.2 6 14.7 7.6 14.4 8.6 12.9 7.9 12 7.2Z\"/><circle cx=\"12\" cy=\"7.2\" r=\"0.9\"/>"
+  },
+  "love-birds": {
+    "category": "wedding",
+    "keywords": [
+      "palomas",
+      "birds",
+      "aves",
+      "love",
+      "amor",
+      "pajaros",
+      "boda",
+      "wedding",
+      "pareja"
+    ],
+    "aliases": [
+      "lovebirds",
+      "two-birds"
+    ],
+    "outline": "<path d=\"M9.5 11.5c-2 0-3.5 1.5-3.5 3.3 0 1.4 1 2.4 2.3 2.4h1.8c1.2 0 2-.9 2-2.1V13Z\"/><path d=\"M9.5 11.5 11 10.6\"/><path d=\"M6.4 13.2 4.3 12.4 5.7 14.4\"/><path d=\"M8.2 13.2h.01\"/><path d=\"M14.5 11.5c2 0 3.5 1.5 3.5 3.3 0 1.4-1 2.4-2.3 2.4h-1.8c-1.2 0-2-.9-2-2.1V13Z\"/><path d=\"M14.5 11.5 13 10.6\"/><path d=\"M17.6 13.2 19.7 12.4 18.3 14.4\"/><path d=\"M15.8 13.2h.01\"/><path d=\"M12 8C12 8 9.8 6.6 9.8 5.1A1.35 1.35 0 0 1 12 4.3 1.35 1.35 0 0 1 14.2 5.1C14.2 6.6 12 8 12 8Z\"/><path d=\"M4.5 18h15\"/>",
+    "solid": "<path d=\"M9.5 11.2c-2.2 0-3.9 1.6-3.9 3.6 0 1.5 1.1 2.6 2.6 2.6h1.8c1.4 0 2.4-1 2.4-2.4V12.8Z\"/><path d=\"M6.4 13.2 4.1 12.3 5.8 14.6Z\"/><path d=\"M14.5 11.2c2.2 0 3.9 1.6 3.9 3.6 0 1.5-1.1 2.6-2.6 2.6h-1.8c-1.4 0-2.4-1-2.4-2.4V12.8Z\"/><path d=\"M17.6 13.2 19.9 12.3 18.2 14.6Z\"/><path d=\"M12 8C12 8 9.8 6.6 9.8 5.1A1.35 1.35 0 0 1 12 4.3 1.35 1.35 0 0 1 14.2 5.1C14.2 6.6 12 8 12 8Z\"/><path d=\"M4.5 17.6h15v1.1h-15Z\"/>"
+  },
+  "heart-balloon": {
+    "category": "wedding",
+    "keywords": [
+      "globo",
+      "balloon",
+      "corazon",
+      "heart",
+      "amor",
+      "love",
+      "boda",
+      "wedding"
+    ],
+    "aliases": [
+      "love-balloon",
+      "heart-balloons"
+    ],
+    "outline": "<path d=\"M12 14.8C12 14.8 5.5 10.8 5.5 6.4A3.6 3.6 0 0 1 12 4.1 3.6 3.6 0 0 1 18.5 6.4C18.5 10.8 12 14.8 12 14.8Z\"/><path d=\"M11.2 14.6 12 16 12.8 14.6Z\"/><path d=\"M12 16.2c-1 1.1.9 1.9 0 3s.9 1.9 0 2.8\"/>",
+    "solid": "<path d=\"M12 14.8C12 14.8 5.5 10.8 5.5 6.4A3.6 3.6 0 0 1 12 4.1 3.6 3.6 0 0 1 18.5 6.4C18.5 10.8 12 14.8 12 14.8Z\"/><path d=\"M11.2 14.6 12 16.2 12.8 14.6Z\"/><path d=\"M11.7 16.2C10.9 17.2 12.5 18 11.7 19 10.9 20 12.5 20.8 11.7 21.8A.4 .4 0 0 0 12.4 21.8C13.2 20.8 11.6 20 12.4 19 13.2 18 11.6 17.2 12.4 16.2A.4 .4 0 0 0 11.7 16.2Z\"/>"
+  },
+  "engagement-ring": {
+    "category": "wedding",
+    "keywords": [
+      "anillo",
+      "ring",
+      "compromiso",
+      "engagement",
+      "diamante",
+      "diamond",
+      "pedida",
+      "boda",
+      "wedding"
+    ],
+    "aliases": [
+      "solitaire-ring",
+      "proposal-ring"
+    ],
+    "outline": "<circle cx=\"12\" cy=\"15.7\" r=\"5.2\"/><path d=\"M9 6 12 2.8 15 6 12 9.6Z\"/><path d=\"M9 6h6M10.5 6 12 9.6 13.5 6\"/><path d=\"M10.6 9.3 11.3 10.6M13.4 9.3 12.7 10.6\"/>",
+    "solid": "<path d=\"M12 10.5A5.2 5.2 0 1 0 12 20.9 5.2 5.2 0 0 0 12 10.5Zm0 2.6a2.6 2.6 0 1 1 0 5.2 2.6 2.6 0 0 1 0-5.2Z\" fill-rule=\"evenodd\"/><path d=\"M9 6 12 2.8 15 6 12 9.7Z\"/>"
+  },
+  "wedding-veil": {
+    "category": "wedding",
+    "keywords": [
+      "velo",
+      "veil",
+      "novia",
+      "bride",
+      "tocado",
+      "boda",
+      "wedding",
+      "peineta"
+    ],
+    "aliases": [
+      "bridal-veil",
+      "veil-comb"
+    ],
+    "outline": "<path d=\"M8 5.2C5.5 9 4.8 15 6.3 20.5H17.7C19.2 15 18.5 9 16 5.2\"/><path d=\"M8 5.2Q12 3.4 16 5.2\"/><path d=\"M12 5.5V20.5\"/><path d=\"M9 12Q12 13 15 12M8 16.5Q12 18 16 16.5\"/><path d=\"M9 5.1V4M12 4.6V3.3M15 5.1V4\"/>",
+    "solid": null
+  },
+  "boutonniere": {
+    "category": "wedding",
+    "keywords": [
+      "flor",
+      "boutonniere",
+      "solapa",
+      "lapel",
+      "novio",
+      "groom",
+      "ojal",
+      "boda",
+      "wedding"
+    ],
+    "aliases": [
+      "lapel-flower",
+      "buttonhole-flower"
+    ],
+    "outline": "<circle cx=\"10.5\" cy=\"8\" r=\"3.3\"/><path d=\"M9 8a1.5 1.5 0 0 1 3 0 1.5 1.5 0 0 1-2.1 1.4\"/><path d=\"M12.8 10.5 15.5 18.5\"/><path d=\"M13.7 13.2c-1.7-.6-3.2.2-3.7 1.9 1.7.6 3.2-.2 3.7-1.9Z\"/><path d=\"M12 17 17 15\"/><circle cx=\"17.3\" cy=\"14.8\" r=\"1\"/>",
+    "solid": "<circle cx=\"10.5\" cy=\"8\" r=\"3.3\"/><path d=\"M13.7 13.2c-1.7-.6-3.2.2-3.7 1.9 1.7.6 3.2-.2 3.7-1.9Z\"/><path d=\"M12.4 10.4 15.9 18.3 14.6 18.8 11.6 11Z\"/><circle cx=\"17.3\" cy=\"14.8\" r=\"1.2\"/>"
+  },
+  "wedding-car": {
+    "category": "wedding",
+    "keywords": [
+      "coche",
+      "car",
+      "auto",
+      "boda",
+      "wedding",
+      "recien casados",
+      "just married",
+      "corazon"
+    ],
+    "aliases": [
+      "bridal-car",
+      "getaway-car"
+    ],
+    "outline": "<circle cx=\"7.5\" cy=\"17\" r=\"1.8\"/><circle cx=\"15.5\" cy=\"17\" r=\"1.8\"/><path d=\"M9.3 17H13.7\"/><path d=\"M5.7 17H3.6A1.1 1.1 0 0 1 2.5 15.9V14.2A1.4 1.4 0 0 1 3.6 12.8L6 12.2 7.7 9.9A2.2 2.2 0 0 1 9.5 9H13A2.2 2.2 0 0 1 14.6 9.65L17 12l1.5.4A1.5 1.5 0 0 1 19.6 13.85V15.9A1.1 1.1 0 0 1 18.5 17H17.3\"/><path d=\"M8.2 9.4 8 12.2H17.5\"/><path d=\"M12 8.4C12 8.4 10.4 7.3 10.4 6.1A1 1 0 0 1 12 5.4 1 1 0 0 1 13.6 6.1C13.6 7.3 12 8.4 12 8.4Z\"/><path d=\"M20.5 18.5h.01M22 19h.01M20.8 20.3h.01\"/>",
+    "solid": "<path d=\"M2.5 15.4v-1.7a1.8 1.8 0 0 1 1.35-1.75l2.75-.7 1.95-2.45A2.3 2.3 0 0 1 10.3 8h3A2.3 2.3 0 0 1 14.9 8.65L17.4 11l1.9.55A1.8 1.8 0 0 1 20.5 13.3v1.9a.9.9 0 0 1-.9.9H3.4a.9.9 0 0 1-.9-.9Z\"/><path d=\"M7.5 14.8a2.1 2.1 0 1 0 0 4.2 2.1 2.1 0 0 0 0-4.2Zm0 1.05a1.05 1.05 0 1 1 0 2.1 1.05 1.05 0 0 1 0-2.1ZM15.5 14.8a2.1 2.1 0 1 0 0 4.2 2.1 2.1 0 0 0 0-4.2Zm0 1.05a1.05 1.05 0 1 1 0 2.1 1.05 1.05 0 0 1 0-2.1Z\" fill-rule=\"evenodd\"/><path d=\"M12 7.4C12 7.4 10.4 6.3 10.4 5.1A1 1 0 0 1 12 4.4 1 1 0 0 1 13.6 5.1C13.6 6.3 12 7.4 12 7.4Z\"/><circle cx=\"20.6\" cy=\"18.4\" r=\"0.7\"/><circle cx=\"22\" cy=\"18.9\" r=\"0.6\"/><circle cx=\"20.9\" cy=\"20.2\" r=\"0.6\"/>"
+  },
+  "wedding-venue": {
+    "category": "wedding",
+    "keywords": [
+      "lugar",
+      "venue",
+      "salon",
+      "hall",
+      "edificio",
+      "building",
+      "boda",
+      "wedding",
+      "recepcion"
+    ],
+    "aliases": [
+      "reception-hall",
+      "banquet-hall"
+    ],
+    "outline": "<path d=\"M4 9.5 12 4.5 20 9.5\"/><path d=\"M6 9.5V20H18V9.5\"/><path d=\"M9.5 20V13.5A2.5 2.5 0 0 1 14.5 13.5V20\"/><path d=\"M12 8.7C12 8.7 10.6 7.8 10.6 6.7A.9 .9 0 0 1 12 6.1 .9 .9 0 0 1 13.4 6.7C13.4 7.8 12 8.7 12 8.7Z\"/><path d=\"M3 20.5h18\"/>",
+    "solid": "<path d=\"M12 3.9 3 9.5 3.9 11 5 10.3V20A1 1 0 0 0 6 21H18A1 1 0 0 0 19 20V10.3L20.1 11 21 9.5ZM9.5 20V13.6A2.5 2.5 0 0 1 14.5 13.6V20ZM12 8.6C12 8.6 10.7 7.8 10.7 6.7A.85 .85 0 0 1 12 6.2 .85 .85 0 0 1 13.3 6.7C13.3 7.8 12 8.6 12 8.6Z\" fill-rule=\"evenodd\"/><path d=\"M2.8 20.4h18.4v1.2H2.8Z\"/>"
+  },
+  "first-dance": {
+    "category": "wedding",
+    "keywords": [
+      "baile",
+      "dance",
+      "pareja",
+      "couple",
+      "novios",
+      "boda",
+      "wedding",
+      "vals"
+    ],
+    "aliases": [
+      "couple-dance",
+      "bridal-dance"
+    ],
+    "outline": "<circle cx=\"7.5\" cy=\"6\" r=\"2\"/><path d=\"M7.5 8V13\"/><path d=\"M7.5 9.2 12 7.2\"/><path d=\"M7.5 10.5 10.5 12.5\"/><path d=\"M7.5 13 6 20M7.5 13 9 16.5 9.8 20\"/><circle cx=\"16.5\" cy=\"6\" r=\"2\"/><path d=\"M16.5 8V11\"/><path d=\"M16.5 9.2 12 7.2\"/><path d=\"M16.5 10.5 13.5 12.5\"/><path d=\"M16.5 11 13 20H20Z\"/>",
+    "solid": null
+  },
+  "wedding-favor": {
+    "category": "wedding",
+    "keywords": [
+      "detalle",
+      "favor",
+      "regalo",
+      "gift",
+      "invitados",
+      "guests",
+      "boda",
+      "wedding",
+      "obsequio"
+    ],
+    "aliases": [
+      "party-favor",
+      "guest-gift"
+    ],
+    "outline": "<rect x=\"6\" y=\"10\" width=\"9\" height=\"9.5\" rx=\"1.2\"/><path d=\"M6 13.2h9\"/><path d=\"M10.5 10V19.5\"/><path d=\"M10.5 10C9.5 8.4 7.6 8.6 8 10 8.3 10.9 9.7 10.4 10.5 10ZM10.5 10C11.5 8.4 13.4 8.6 13 10 12.7 10.9 11.3 10.4 10.5 10Z\"/><path d=\"M13.5 11 18 15.5\"/><path d=\"M18 15.5 20.5 15.8 20.2 18.3 17.7 18Z\"/><path d=\"M18.9 16.8h.01\"/>",
+    "solid": "<path d=\"M6 11.2A1.2 1.2 0 0 1 7.2 10H9.7V19.5H7.2A1.2 1.2 0 0 1 6 18.3ZM11.3 10H13.8A1.2 1.2 0 0 1 15 11.2V18.3A1.2 1.2 0 0 1 13.8 19.5H11.3Z\"/><path d=\"M10.5 10C9.5 8.4 7.6 8.6 8 10 8.3 10.9 9.7 10.4 10.5 10ZM10.5 10C11.5 8.4 13.4 8.6 13 10 12.7 10.9 11.3 10.4 10.5 10Z\"/><path d=\"M13.8 11.4 18.3 15.6 17.6 16.3 13.3 12.1Z\"/><path d=\"M17.8 15.3 20.6 15.6 20.3 18.4 17.5 18.1ZM18.9 16.4a.5 .5 0 1 0 0 1 .5 .5 0 0 0 0-1Z\" fill-rule=\"evenodd\"/>"
+  },
+  "unity-candle": {
+    "category": "wedding",
+    "keywords": [
+      "vela",
+      "candle",
+      "unidad",
+      "unity",
+      "ceremonia",
+      "ceremony",
+      "boda",
+      "wedding",
+      "llama"
+    ],
+    "aliases": [
+      "ceremony-candle",
+      "candle-set"
+    ],
+    "outline": "<rect x=\"10\" y=\"8\" width=\"4\" height=\"12\" rx=\"0.5\"/><path d=\"M12 3.2c1.3 1.4 1.9 2.5 1.9 3.6a1.9 1.9 0 0 1-3.8 0c0-1.1.6-2.2 1.9-3.6Z\"/><rect x=\"5.5\" y=\"11\" width=\"2.4\" height=\"9\" rx=\"0.5\"/><path d=\"M6.7 8.4c.9 1 1.3 1.7 1.3 2.4a1.3 1.3 0 0 1-2.6 0c0-.7.4-1.4 1.3-2.4Z\"/><rect x=\"16.1\" y=\"11\" width=\"2.4\" height=\"9\" rx=\"0.5\"/><path d=\"M17.3 8.4c.9 1 1.3 1.7 1.3 2.4a1.3 1.3 0 0 1-2.6 0c0-.7.4-1.4 1.3-2.4Z\"/><path d=\"M4 20h16\"/>",
+    "solid": "<rect x=\"10\" y=\"8\" width=\"4\" height=\"12\" rx=\"0.5\"/><rect x=\"11.6\" y=\"6.8\" width=\"0.8\" height=\"1.4\"/><path d=\"M12 3.2c1.3 1.4 1.9 2.5 1.9 3.6a1.9 1.9 0 0 1-3.8 0c0-1.1.6-2.2 1.9-3.6Z\"/><rect x=\"5.5\" y=\"11\" width=\"2.4\" height=\"9\" rx=\"0.5\"/><path d=\"M6.7 8.4c.9 1 1.3 1.7 1.3 2.4a1.3 1.3 0 0 1-2.6 0c0-.7.4-1.4 1.3-2.4Z\"/><rect x=\"16.1\" y=\"11\" width=\"2.4\" height=\"9\" rx=\"0.5\"/><path d=\"M17.3 8.4c.9 1 1.3 1.7 1.3 2.4a1.3 1.3 0 0 1-2.6 0c0-.7.4-1.4 1.3-2.4Z\"/><path d=\"M4 19.4h16v1.3H4Z\"/>"
+  },
+  "marriage-certificate": {
+    "category": "wedding",
+    "keywords": [
+      "certificado",
+      "certificate",
+      "acta",
+      "matrimonio",
+      "marriage",
+      "documento",
+      "boda",
+      "wedding",
+      "sello"
+    ],
+    "aliases": [
+      "marriage-license",
+      "wedding-certificate"
+    ],
+    "outline": "<rect x=\"3.5\" y=\"4\" width=\"17\" height=\"13\" rx=\"1.5\"/><path d=\"M6.5 7.5h11M6.5 10h7M6.5 12.5h4\"/><circle cx=\"16\" cy=\"13.5\" r=\"2.6\"/><path d=\"M16 14.6C16 14.6 14.6 13.8 14.6 12.8A.8 .8 0 0 1 16 12.3 .8 .8 0 0 1 17.4 12.8C17.4 13.8 16 14.6 16 14.6Z\"/><path d=\"M14.3 15.5 13.3 20l2.7-1.5L18.7 20l-1-4.5\"/>",
+    "solid": "<path d=\"M5 4H19A1.5 1.5 0 0 1 20.5 5.5V15.5A1.5 1.5 0 0 1 19 17H5A1.5 1.5 0 0 1 3.5 15.5V5.5A1.5 1.5 0 0 1 5 4ZM6.5 7.3h11v1.4h-11ZM6.5 9.8h7v1.3h-7ZM6.5 12.2h4v1.3h-4Z\" fill-rule=\"evenodd\"/><path d=\"M14.2 15.6 13.2 20.2 16 18.6 18.8 20.2 17.8 15.6Z\"/><path d=\"M16 11a3 3 0 1 0 0 6 3 3 0 0 0 0-6Zm0 4.4c-1-.6-1.5-1.2-1.5-1.9a.75 .75 0 0 1 1.5-.4 .75 .75 0 0 1 1.5.4c0 .7-.5 1.3-1.5 1.9Z\" fill-rule=\"evenodd\"/>"
+  },
+  "honeymoon-suitcase": {
+    "category": "wedding",
+    "keywords": [
+      "luna de miel",
+      "honeymoon",
+      "maleta",
+      "suitcase",
+      "viaje",
+      "travel",
+      "boda",
+      "wedding",
+      "equipaje"
+    ],
+    "aliases": [
+      "honeymoon-luggage",
+      "travel-case"
+    ],
+    "outline": "<rect x=\"4.5\" y=\"8\" width=\"15\" height=\"12\" rx=\"2\"/><path d=\"M9 8V6.3A1.6 1.6 0 0 1 10.6 4.7h2.8A1.6 1.6 0 0 1 15 6.3V8\"/><path d=\"M12 16.6C12 16.6 9.2 14.8 9.2 12.7A1.75 1.75 0 0 1 12 11.6 1.75 1.75 0 0 1 14.8 12.7C14.8 14.8 12 16.6 12 16.6Z\"/><path d=\"M8 20v1M16 20v1\"/>",
+    "solid": "<path d=\"M9 4.2h6A1.8 1.8 0 0 1 16.8 6V8h-2V6.3A.3 .3 0 0 0 14.5 6h-5A.3 .3 0 0 0 9.2 6.3V8h-2V6A1.8 1.8 0 0 1 9 4.2Z\" fill-rule=\"evenodd\"/><path d=\"M6.5 8h11A2.5 2.5 0 0 1 20 10.5V18a2.5 2.5 0 0 1-2.5 2.5H6.5A2.5 2.5 0 0 1 4 18v-7.5A2.5 2.5 0 0 1 6.5 8Zm5.5 2.4a1.6 1.6 0 0 0-2.7 1.15c0 1.9 2.7 3.65 2.7 3.65s2.7-1.75 2.7-3.65A1.6 1.6 0 0 0 12 10.4Z\" fill-rule=\"evenodd\"/><path d=\"M7.5 20.3h1.6v1.2H7.5ZM14.9 20.3h1.6v1.2h-1.6Z\"/>"
+  },
+  "wedding-camera": {
+    "category": "wedding",
+    "keywords": [
+      "camara",
+      "camera",
+      "foto",
+      "photo",
+      "fotografia",
+      "boda",
+      "wedding",
+      "recuerdo"
+    ],
+    "aliases": [
+      "photo-camera-heart",
+      "love-camera"
+    ],
+    "outline": "<path d=\"M9.5 5H14.5L16.5 7.5H20A2 2 0 0 1 22 9.5V18A2 2 0 0 1 20 20H4A2 2 0 0 1 2 18V9.5A2 2 0 0 1 4 7.5H7.5L9.5 5Z\"/><path d=\"M12 17.3C12 17.3 8.6 15.2 8.6 12.6A2.15 2.15 0 0 1 12 11.2 2.15 2.15 0 0 1 15.4 12.6C15.4 15.2 12 17.3 12 17.3Z\"/>",
+    "solid": "<path d=\"M9.5 5H14.5L16.5 7.5H20A2 2 0 0 1 22 9.5V18A2 2 0 0 1 20 20H4A2 2 0 0 1 2 18V9.5A2 2 0 0 1 4 7.5H7.5L9.5 5ZM12 17.1C12 17.1 8.8 15.1 8.8 12.6A2 2 0 0 1 12 11.3 2 2 0 0 1 15.2 12.6C15.2 15.1 12 17.1 12 17.1Z\" fill-rule=\"evenodd\"/>"
+  },
+  "ring-box": {
+    "category": "wedding",
+    "keywords": [
+      "caja",
+      "box",
+      "anillo",
+      "ring",
+      "joyero",
+      "jewelry",
+      "boda",
+      "wedding",
+      "propuesta"
+    ],
+    "aliases": [
+      "ring-case",
+      "proposal-box"
+    ],
+    "outline": "<rect x=\"4.5\" y=\"11\" width=\"15\" height=\"9\" rx=\"1.5\"/><path d=\"M4.5 14h15\"/><circle cx=\"12\" cy=\"16\" r=\"2.6\"/><path d=\"M12 8.2 13.7 10.4 12 12.6 10.3 10.4Z\"/><path d=\"M10.6 10.4h2.8\"/>",
+    "solid": "<path d=\"M6 11H18A1.5 1.5 0 0 1 19.5 12.5V18.5A1.5 1.5 0 0 1 18 20H6A1.5 1.5 0 0 1 4.5 18.5V12.5A1.5 1.5 0 0 1 6 11ZM12 13.4a2.6 2.6 0 1 0 0 5.2 2.6 2.6 0 0 0 0-5.2Z\" fill-rule=\"evenodd\"/><path d=\"M12 8.2 13.7 10.4 12 12.6 10.3 10.4Z\"/>"
+  },
+  "flower-girl-basket": {
+    "category": "wedding",
+    "keywords": [
+      "cesta",
+      "basket",
+      "flores",
+      "flowers",
+      "petalos",
+      "petals",
+      "boda",
+      "wedding",
+      "nina"
+    ],
+    "aliases": [
+      "petal-basket",
+      "flower-basket"
+    ],
+    "outline": "<path d=\"M6 12.5h12l-1 6a2 2 0 0 1-2 1.6H9a2 2 0 0 1-2-1.6Z\"/><path d=\"M7.5 12.5a4.5 4.5 0 0 1 9 0\"/><path d=\"M7.3 15.5h9.4M8 18h8\"/><circle cx=\"9.5\" cy=\"11.4\" r=\"1.1\"/><circle cx=\"12\" cy=\"10.6\" r=\"1.2\"/><circle cx=\"14.5\" cy=\"11.4\" r=\"1.1\"/><path d=\"M4.7 16h.01M19.3 17h.01M6.5 19.5h.01\"/>",
+    "solid": "<path d=\"M6 12h12a.6 .6 0 0 1 .6.7l-.95 5.8A2.5 2.5 0 0 1 15.2 20.7H8.8A2.5 2.5 0 0 1 6.35 18.5L5.4 12.7A.6 .6 0 0 1 6 12Z\"/><path d=\"M7.5 12.5a4.5 4.5 0 0 1 9 0h-1.6a2.9 2.9 0 0 0-5.8 0Z\"/><circle cx=\"9.5\" cy=\"11.2\" r=\"1.3\"/><circle cx=\"12\" cy=\"10.3\" r=\"1.4\"/><circle cx=\"14.5\" cy=\"11.2\" r=\"1.3\"/><circle cx=\"4.7\" cy=\"16\" r=\"0.7\"/><circle cx=\"19.3\" cy=\"17\" r=\"0.7\"/>"
+  },
+  "wedding-vows": {
+    "category": "wedding",
+    "keywords": [
+      "votos",
+      "vows",
+      "promesas",
+      "libro",
+      "book",
+      "juramento",
+      "boda",
+      "wedding",
+      "lectura"
+    ],
+    "aliases": [
+      "vow-book",
+      "marriage-vows"
+    ],
+    "outline": "<path d=\"M12 7C10.2 5.7 7 5.5 4.8 6.3A1 1 0 0 0 4.2 7.2V18.3A.8 .8 0 0 0 5.3 19C7.3 18.3 10.3 18.5 12 19.8 13.7 18.5 16.7 18.3 18.7 19A.8 .8 0 0 0 19.8 18.3V7.2A1 1 0 0 0 19.2 6.3C17 5.5 13.8 5.7 12 7Z\"/><path d=\"M12 7V19.8\"/><path d=\"M6.5 10H9.5M6.5 12.5H9.5M6.5 15H8.5\"/><path d=\"M16 16.6C16 16.6 14.5 15.8 14.5 14.7A.8 .8 0 0 1 16 14.2 .8 .8 0 0 1 17.5 14.7C17.5 15.8 16 16.6 16 16.6Z\"/>",
+    "solid": "<path d=\"M11.3 7.6C9.5 6.4 6.9 6.3 5 7A1 1 0 0 0 4.3 8V18.2A.7 .7 0 0 0 5.3 18.8C7 18.2 9.6 18.3 11.3 19.4ZM12.7 7.6V19.4C14.4 18.3 17 18.2 18.7 18.8A.7 .7 0 0 0 19.7 18.2V8A1 1 0 0 0 19 7C17.1 6.3 14.5 6.4 12.7 7.6Z\" fill-rule=\"evenodd\"/>"
+  },
+  "toast-glasses": {
+    "category": "wedding",
+    "keywords": [
+      "copas",
+      "glasses",
+      "brindis",
+      "toast",
+      "vino",
+      "wine",
+      "salud",
+      "boda",
+      "wedding"
+    ],
+    "aliases": [
+      "cheers-glasses",
+      "wine-toast"
+    ],
+    "outline": "<path d=\"M6 4.5H10.5L9.9 8.6A1.65 1.65 0 0 1 6.6 8.6Z\"/><path d=\"M8.25 8.9V19M6.3 19H10.2\"/><path d=\"M13.5 4.5H18L17.4 8.6A1.65 1.65 0 0 1 14.1 8.6Z\"/><path d=\"M15.75 8.9V19M13.8 19H17.7\"/><path d=\"M11.3 6.8 12 5.6 12.7 6.8 12 8Z\"/>",
+    "solid": "<path d=\"M6 4.5H10.5L9.9 8.6A1.65 1.65 0 0 1 6.6 8.6Z\"/><path d=\"M13.5 4.5H18L17.4 8.6A1.65 1.65 0 0 1 14.1 8.6Z\"/><rect x=\"7.85\" y=\"8.6\" width=\"0.8\" height=\"10.4\"/><rect x=\"15.35\" y=\"8.6\" width=\"0.8\" height=\"10.4\"/><rect x=\"6.3\" y=\"18.6\" width=\"3.9\" height=\"0.9\" rx=\"0.4\"/><rect x=\"13.8\" y=\"18.6\" width=\"3.9\" height=\"0.9\" rx=\"0.4\"/><path d=\"M11.3 6.8 12 5.6 12.7 6.8 12 8Z\"/>"
+  },
+  "bride-groom": {
+    "category": "wedding",
+    "keywords": [
+      "novios",
+      "bride",
+      "groom",
+      "pareja",
+      "couple",
+      "novia",
+      "novio",
+      "boda",
+      "wedding"
+    ],
+    "aliases": [
+      "married-couple",
+      "newlyweds"
+    ],
+    "outline": "<circle cx=\"7.8\" cy=\"8\" r=\"2.4\"/><path d=\"M7.8 4.4C5.6 4.9 4.6 7.2 5.2 9.6M7.8 4.4C10 4.9 11 7.2 10.4 9.6\"/><path d=\"M3.8 20c0-2.9 1.8-4.8 4-4.8s4 1.9 4 4.8\"/><circle cx=\"16.2\" cy=\"8\" r=\"2.4\"/><path d=\"M13.6 6h5.2\"/><path d=\"M14.4 6 14.7 3h3l.3 3\"/><path d=\"M12.2 20c0-2.9 1.8-4.8 4-4.8s4 1.9 4 4.8\"/>",
+    "solid": "<path d=\"M7.8 15.2c-2.2 0-4 1.9-4 4.8H11.8c0-2.9-1.8-4.8-4-4.8Z\"/><circle cx=\"7.8\" cy=\"8\" r=\"2.4\"/><path d=\"M7.8 4.2C5.4 4.7 4.3 7.2 5 9.8L6 9.4C5.5 7.4 6.3 5.6 8 5.1 9.7 5.6 10.5 7.4 10 9.4L11 9.8C11.7 7.2 10.2 4.7 7.8 4.2Z\"/><path d=\"M16.2 15.2c-2.2 0-4 1.9-4 4.8H20.2c0-2.9-1.8-4.8-4-4.8Z\"/><circle cx=\"16.2\" cy=\"8\" r=\"2.4\"/><path d=\"M13.6 5.3h5.2v1.4h-5.2Z\"/><path d=\"M14.6 5.3 14.9 3h2.6l.3 2.3Z\"/>"
+  },
+  "wedding-altar": {
+    "category": "wedding",
+    "keywords": [
+      "altar",
+      "ceremonia",
+      "ceremony",
+      "columnas",
+      "pillars",
+      "flores",
+      "boda",
+      "wedding",
+      "chuppah"
+    ],
+    "aliases": [
+      "ceremony-altar",
+      "wedding-pillars"
+    ],
+    "outline": "<path d=\"M6.5 20V8.5M17.5 20V8.5\"/><path d=\"M6.5 8.5Q12 5.3 17.5 8.5\"/><circle cx=\"12\" cy=\"6.3\" r=\"1.1\"/><circle cx=\"9\" cy=\"7\" r=\"1\"/><circle cx=\"15\" cy=\"7\" r=\"1\"/><path d=\"M5.2 8.5H7.8M16.2 8.5H18.8\"/><path d=\"M5 20H8M16 20H19\"/><path d=\"M3 20.5H21\"/>",
+    "solid": "<rect x=\"5.9\" y=\"8.5\" width=\"1.8\" height=\"11.7\"/><rect x=\"16.3\" y=\"8.5\" width=\"1.8\" height=\"11.7\"/><path d=\"M6.5 8.6C9.4 6.9 14.6 6.9 17.5 8.6L17.1 9.8C14.5 8.2 9.5 8.2 6.9 9.8Z\"/><circle cx=\"12\" cy=\"6.3\" r=\"1.3\"/><circle cx=\"9\" cy=\"7\" r=\"1.2\"/><circle cx=\"15\" cy=\"7\" r=\"1.2\"/><rect x=\"4.8\" y=\"7.9\" width=\"3\" height=\"1.1\" rx=\"0.3\"/><rect x=\"16.2\" y=\"7.9\" width=\"3\" height=\"1.1\" rx=\"0.3\"/><rect x=\"3\" y=\"20\" width=\"18\" height=\"1.3\" rx=\"0.4\"/>"
+  },
+  "love-letter": {
+    "category": "wedding",
+    "keywords": [
+      "carta",
+      "letter",
+      "amor",
+      "love",
+      "sobre",
+      "envelope",
+      "boda",
+      "wedding",
+      "corazon"
+    ],
+    "aliases": [
+      "love-note",
+      "sealed-letter"
+    ],
+    "outline": "<rect x=\"3\" y=\"5.5\" width=\"18\" height=\"13\" rx=\"2\"/><path d=\"M3.5 6 12 12 20.5 6\"/><path d=\"M12 13.3C12 13.3 10.3 12.2 10.3 11A1.05 1.05 0 0 1 12 10.3 1.05 1.05 0 0 1 13.7 11C13.7 12.2 12 13.3 12 13.3Z\"/>",
+    "solid": "<path d=\"M5 5.5H19A2 2 0 0 1 21 7.5V16.5A2 2 0 0 1 19 18.5H5A2 2 0 0 1 3 16.5V7.5A2 2 0 0 1 5 5.5ZM5.3 7.4 12 12.1 18.7 7.4Z\" fill-rule=\"evenodd\"/><path d=\"M12 13.4C12 13.4 10.2 12.2 10.2 11A1.1 1.1 0 0 1 12 10.2 1.1 1.1 0 0 1 13.8 11C13.8 12.2 12 13.4 12 13.4Z\"/>"
+  },
+  "diamond-ring": {
+    "category": "wedding",
+    "keywords": [
+      "diamante",
+      "diamond",
+      "anillo",
+      "ring",
+      "joya",
+      "jewel",
+      "boda",
+      "wedding",
+      "brillante"
+    ],
+    "aliases": [
+      "gem-ring",
+      "brilliant-ring"
+    ],
+    "outline": "<ellipse cx=\"12\" cy=\"16.2\" rx=\"5\" ry=\"4.3\"/><path d=\"M9 7 12 3.4 15 7 12 11.2Z\"/><path d=\"M9 7H15M10.5 7 12 11.2 13.5 7\"/><path d=\"M10.5 10.5 11.3 12M13.5 10.5 12.7 12\"/>",
+    "solid": "<path d=\"M12 11.7a5 4.3 0 1 0 0 8.6 5 4.3 0 0 0 0-8.6Zm0 2.3a2.7 2 0 1 1 0 4 2.7 2 0 0 1 0-4Z\" fill-rule=\"evenodd\"/><path d=\"M9 7 12 3.4 15 7 12 11.3Z\"/>"
+  },
+  "wedding-band": {
+    "category": "wedding",
+    "keywords": [
+      "alianza",
+      "band",
+      "anillo",
+      "ring",
+      "oro",
+      "gold",
+      "boda",
+      "wedding",
+      "casado"
+    ],
+    "aliases": [
+      "plain-band",
+      "gold-band"
+    ],
+    "outline": "<circle cx=\"12\" cy=\"12.5\" r=\"8\"/><circle cx=\"12\" cy=\"12.5\" r=\"5\"/><path d=\"M12 6.2C12 6.2 11 5.6 11 4.9A.55 .55 0 0 1 12 4.6 .55 .55 0 0 1 13 4.9C13 5.6 12 6.2 12 6.2Z\"/>",
+    "solid": "<path d=\"M12 4.5a8 8 0 1 0 0 16 8 8 0 0 0 0-16Zm0 3a5 5 0 1 1 0 10 5 5 0 0 1 0-10ZM12 6.5C12 6.5 11.1 6 11.1 5.3A.5 .5 0 0 1 12 5.1 .5 .5 0 0 1 12.9 5.3C12.9 6 12 6.5 12 6.5Z\" fill-rule=\"evenodd\"/>"
+  },
+  "gift-registry": {
+    "category": "wedding",
+    "keywords": [
+      "lista",
+      "registry",
+      "regalos",
+      "gifts",
+      "boda",
+      "wedding",
+      "checklist",
+      "portapapeles"
+    ],
+    "aliases": [
+      "wedding-registry",
+      "gift-list"
+    ],
+    "outline": "<rect x=\"4.5\" y=\"4.5\" width=\"15\" height=\"16\" rx=\"2\"/><path d=\"M9 4.5V4A1.5 1.5 0 0 1 10.5 2.5H13.5A1.5 1.5 0 0 1 15 4V4.5\"/><rect x=\"6.8\" y=\"7.8\" width=\"4\" height=\"3.6\" rx=\"0.4\"/><path d=\"M8.8 7.8V11.4M6.8 9.3H10.8\"/><path d=\"M13.2 9H16.5M13.2 11H16.5\"/><path d=\"M6.8 15 7.6 15.8 9.1 14.3\"/><path d=\"M11.5 15.2H16.2\"/><path d=\"M6.8 18 7.6 18.8 9.1 17.3\"/><path d=\"M11.5 18.2H16.2\"/>",
+    "solid": null
+  },
+  "seating-chart": {
+    "category": "wedding",
+    "keywords": [
+      "mesa",
+      "table",
+      "asientos",
+      "seating",
+      "plano",
+      "chart",
+      "invitados",
+      "boda",
+      "wedding"
+    ],
+    "aliases": [
+      "table-plan",
+      "seating-plan"
+    ],
+    "outline": "<circle cx=\"12\" cy=\"11\" r=\"3.8\"/><path d=\"M12 12.2C12 12.2 10.5 11.1 10.5 10.1A.85 .85 0 0 1 12 9.5 .85 .85 0 0 1 13.5 10.1C13.5 11.1 12 12.2 12 12.2Z\"/><circle cx=\"12\" cy=\"4.4\" r=\"1.4\"/><circle cx=\"18.2\" cy=\"7.7\" r=\"1.4\"/><circle cx=\"18.2\" cy=\"14.3\" r=\"1.4\"/><circle cx=\"12\" cy=\"17.6\" r=\"1.4\"/><circle cx=\"5.8\" cy=\"14.3\" r=\"1.4\"/><circle cx=\"5.8\" cy=\"7.7\" r=\"1.4\"/>",
+    "solid": "<path d=\"M12 7.2a3.8 3.8 0 1 0 0 7.6 3.8 3.8 0 0 0 0-7.6ZM12 12.2C12 12.2 10.5 11.1 10.5 10.1A.85 .85 0 0 1 12 9.5 .85 .85 0 0 1 13.5 10.1C13.5 11.1 12 12.2 12 12.2Z\" fill-rule=\"evenodd\"/><circle cx=\"12\" cy=\"4.4\" r=\"1.5\"/><circle cx=\"18.2\" cy=\"7.7\" r=\"1.5\"/><circle cx=\"18.2\" cy=\"14.3\" r=\"1.5\"/><circle cx=\"12\" cy=\"17.6\" r=\"1.5\"/><circle cx=\"5.8\" cy=\"14.3\" r=\"1.5\"/><circle cx=\"5.8\" cy=\"7.7\" r=\"1.5\"/>"
+  },
+  "wedding-photographer": {
+    "category": "wedding",
+    "keywords": [
+      "fotografo",
+      "photographer",
+      "camara",
+      "camera",
+      "tripode",
+      "tripod",
+      "boda",
+      "wedding",
+      "foto"
+    ],
+    "aliases": [
+      "photo-tripod",
+      "camera-tripod"
+    ],
+    "outline": "<rect x=\"6.5\" y=\"4\" width=\"11\" height=\"7.5\" rx=\"1.5\"/><path d=\"M12 9.6C12 9.6 9.6 8 9.6 6.4A1.5 1.5 0 0 1 12 5.3 1.5 1.5 0 0 1 14.4 6.4C14.4 8 12 9.6 12 9.6Z\"/><path d=\"M12 11.5 8 21M12 11.5 16 21M12 11.5 12 21M9.6 17H14.4\"/>",
+    "solid": "<path d=\"M8 4H16A1.5 1.5 0 0 1 17.5 5.5V10A1.5 1.5 0 0 1 16 11.5H8A1.5 1.5 0 0 1 6.5 10V5.5A1.5 1.5 0 0 1 8 4ZM12 9.5C12 9.5 9.7 8 9.7 6.5A1.4 1.4 0 0 1 12 5.4 1.4 1.4 0 0 1 14.3 6.5C14.3 8 12 9.5 12 9.5Z\" fill-rule=\"evenodd\"/><path d=\"M11.5 11.3 8.2 21 9.5 21 12 13.5 14.5 21 15.8 21 12.5 11.3Z\"/><rect x=\"11.4\" y=\"12\" width=\"1.2\" height=\"9\"/>"
+  },
+  "garter": {
+    "category": "wedding",
+    "keywords": [
+      "liga",
+      "garter",
+      "novia",
+      "bride",
+      "encaje",
+      "lace",
+      "boda",
+      "wedding",
+      "lazo"
+    ],
+    "aliases": [
+      "bridal-garter",
+      "wedding-garter"
+    ],
+    "outline": "<ellipse cx=\"12\" cy=\"10.5\" rx=\"7.5\" ry=\"2.7\"/><path d=\"M4.5 10.5V13.5A7.5 2.7 0 0 0 19.5 13.5V10.5\"/><path d=\"M5.6 13.8q1.15 1.2 2.3 0 1.15 1.2 2.3 0 1.15 1.2 2.3 0 1.15 1.2 2.3 0 1.15 1.2 2.3 0\"/><path d=\"M12 8.2C10.9 6.7 8.9 7 9.3 8.5 9.6 9.5 11.1 8.9 12 8.2ZM12 8.2C13.1 6.7 15.1 7 14.7 8.5 14.4 9.5 12.9 8.9 12 8.2Z\"/><circle cx=\"12\" cy=\"8.3\" r=\"0.7\"/>",
+    "solid": "<path d=\"M4.5 10.5A7.5 2.7 0 0 1 19.5 10.5V13.5A7.5 2.7 0 0 1 4.5 13.5ZM12 8.4A6.6 2.1 0 0 0 12 12.6 6.6 2.1 0 0 0 12 8.4Z\" fill-rule=\"evenodd\"/><path d=\"M12 8.3C10.9 6.8 8.9 7.1 9.3 8.6 9.6 9.6 11.1 9 12 8.3ZM12 8.3C13.1 6.8 15.1 7.1 14.7 8.6 14.4 9.6 12.9 9 12 8.3Z\"/><circle cx=\"12\" cy=\"8.4\" r=\"0.9\"/>"
+  },
+  "confetti-heart": {
+    "category": "wedding",
+    "keywords": [
+      "confeti",
+      "confetti",
+      "corazones",
+      "hearts",
+      "amor",
+      "love",
+      "boda",
+      "wedding",
+      "celebrar"
+    ],
+    "aliases": [
+      "heart-confetti",
+      "love-confetti"
+    ],
+    "outline": "<path d=\"M6 6C6 6 4.6 5.2 4.6 4.2A.75 .75 0 0 1 6 3.7 .75 .75 0 0 1 7.4 4.2C7.4 5.2 6 6 6 6Z\"/><path d=\"M18 8C18 8 16.6 7.2 16.6 6.2A.75 .75 0 0 1 18 5.7 .75 .75 0 0 1 19.4 6.2C19.4 7.2 18 8 18 8Z\"/><path d=\"M12 19C12 19 10.6 18.2 10.6 17.2A.75 .75 0 0 1 12 16.7 .75 .75 0 0 1 13.4 17.2C13.4 18.2 12 19 12 19Z\"/><path d=\"M8 13C8 13 6.6 12.2 6.6 11.2A.75 .75 0 0 1 8 10.7 .75 .75 0 0 1 9.4 11.2C9.4 12.2 8 13 8 13Z\"/><path d=\"M15 12.5h.01M20 14h.01M11 8h.01M16 18h.01M4 10h.01M9 18.5h.01\"/>",
+    "solid": "<path d=\"M6 6C6 6 4.6 5.2 4.6 4.2A.75 .75 0 0 1 6 3.7 .75 .75 0 0 1 7.4 4.2C7.4 5.2 6 6 6 6Z\"/><path d=\"M18 8C18 8 16.6 7.2 16.6 6.2A.75 .75 0 0 1 18 5.7 .75 .75 0 0 1 19.4 6.2C19.4 7.2 18 8 18 8Z\"/><path d=\"M12 19C12 19 10.6 18.2 10.6 17.2A.75 .75 0 0 1 12 16.7 .75 .75 0 0 1 13.4 17.2C13.4 18.2 12 19 12 19Z\"/><path d=\"M8 13C8 13 6.6 12.2 6.6 11.2A.75 .75 0 0 1 8 10.7 .75 .75 0 0 1 9.4 11.2C9.4 12.2 8 13 8 13Z\"/><circle cx=\"15\" cy=\"12.5\" r=\"0.9\"/><circle cx=\"20\" cy=\"14\" r=\"0.9\"/><circle cx=\"11\" cy=\"8\" r=\"0.9\"/><circle cx=\"16\" cy=\"18\" r=\"0.9\"/><circle cx=\"4.5\" cy=\"10\" r=\"0.9\"/><circle cx=\"9\" cy=\"18.5\" r=\"0.9\"/>"
+  },
+  "just-married": {
+    "category": "wedding",
+    "keywords": [
+      "recien casados",
+      "just married",
+      "cartel",
+      "banner",
+      "letrero",
+      "sign",
+      "boda",
+      "wedding"
+    ],
+    "aliases": [
+      "married-sign",
+      "just-married-banner"
+    ],
+    "outline": "<rect x=\"3.5\" y=\"6.5\" width=\"17\" height=\"9.5\" rx=\"1.5\"/><path d=\"M4.8 6.5 3 3M19.2 6.5 21 3\"/><path d=\"M12 12C12 12 10.1 10.8 10.1 9.5A1.2 1.2 0 0 1 12 8.8 1.2 1.2 0 0 1 13.9 9.5C13.9 10.8 12 12 12 12Z\"/><path d=\"M6.5 13.8H17.5\"/>",
+    "solid": "<path d=\"M5 6.5H19A1.5 1.5 0 0 1 20.5 8V14.5A1.5 1.5 0 0 1 19 16H5A1.5 1.5 0 0 1 3.5 14.5V8A1.5 1.5 0 0 1 5 6.5ZM12 12C12 12 10.1 10.8 10.1 9.5A1.2 1.2 0 0 1 12 8.8 1.2 1.2 0 0 1 13.9 9.5C13.9 10.8 12 12 12 12ZM6.5 13.2H17.5V14.2H6.5Z\" fill-rule=\"evenodd\"/><path d=\"M4.7 6.6 3.4 3.4 2.4 3.8 4 6.9Z\"/><path d=\"M19.3 6.6 20.6 3.4 21.6 3.8 20 6.9Z\"/>"
+  }
+}

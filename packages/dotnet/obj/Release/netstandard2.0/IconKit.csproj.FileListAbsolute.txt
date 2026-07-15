@@ -1,0 +1,10 @@
+D:\Documents\iconkit\packages\dotnet\bin\Release\netstandard2.0\IconKit.deps.json
+D:\Documents\iconkit\packages\dotnet\bin\Release\netstandard2.0\IconKit.dll
+D:\Documents\iconkit\packages\dotnet\bin\Release\netstandard2.0\IconKit.pdb
+D:\Documents\iconkit\packages\dotnet\obj\Release\netstandard2.0\IconKit.csproj.AssemblyReference.cache
+D:\Documents\iconkit\packages\dotnet\obj\Release\netstandard2.0\IconKit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\iconkit\packages\dotnet\obj\Release\netstandard2.0\IconKit.AssemblyInfoInputs.cache
+D:\Documents\iconkit\packages\dotnet\obj\Release\netstandard2.0\IconKit.AssemblyInfo.cs
+D:\Documents\iconkit\packages\dotnet\obj\Release\netstandard2.0\IconKit.csproj.CoreCompileInputs.cache
+D:\Documents\iconkit\packages\dotnet\obj\Release\netstandard2.0\IconKit.dll
+D:\Documents\iconkit\packages\dotnet\obj\Release\netstandard2.0\IconKit.pdb

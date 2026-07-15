@@ -1,0 +1,18 @@
+{
+  "name": "iconkit",
+  "version": "1.0.0",
+  "description": "IconKit — biblioteca de iconos universal (una fuente, todas las tecnologías).",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "node build/index.js",
+    "sheet": "node build/render-sheet.js",
+    "validate": "node build/validate.js"
+  },
+  "devDependencies": {
+    "oslllo-svg-fixer": "^6.0.1",
+    "svg2ttf": "^6.0.3",
+    "svgicons2svgfont": "^12.0.0",
+    "ttf2woff2": "^5.0.0"
+  }
+}

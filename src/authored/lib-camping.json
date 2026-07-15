@@ -1,0 +1,686 @@
+{
+  "tent-camp": {
+    "category": "camping",
+    "keywords": [
+      "tent",
+      "camp",
+      "shelter",
+      "tienda",
+      "carpa",
+      "acampada",
+      "refugio"
+    ],
+    "aliases": [
+      "camping-tent",
+      "dome-tent"
+    ],
+    "outline": "<path d=\"M12 5.5 3.5 19h17Z\"/><path d=\"M10 3.8 12 5.5 14 3.8\"/><path d=\"M12 10.5 9 19h6Z\"/><path d=\"M2.5 19h19\"/>",
+    "solid": "<path d=\"M12.87 5.4a1 1 0 0 0-1.74 0L3.9 18.4A1 1 0 0 0 4.77 20H9.4a.5.5 0 0 0 .48-.36L11.5 14a.55.55 0 0 1 1 0l1.62 5.64a.5.5 0 0 0 .48.36h4.63a1 1 0 0 0 .87-1.6Z\" fill-rule=\"evenodd\"/><rect x=\"2.5\" y=\"19.2\" width=\"19\" height=\"1.7\" rx=\"0.85\"/>"
+  },
+  "campfire-camp": {
+    "category": "camping",
+    "keywords": [
+      "campfire",
+      "fire",
+      "flames",
+      "hoguera",
+      "fogata",
+      "fuego",
+      "llama"
+    ],
+    "aliases": [
+      "camp-fire",
+      "fire-pit"
+    ],
+    "outline": "<path d=\"M12 3.5c2.8 2.6 4 4.8 4 7a4 4 0 0 1-8 0c0-1.4.6-2.5 1.5-3.4.4 1 .9 1.4 1.5 1.6C11 8 11.3 6 12 3.5Z\"/><path d=\"M5 19 19 16M5 16 19 19\"/>",
+    "solid": "<path d=\"M12 3c3 2.8 4.3 5 4.3 7.2A4.3 4.3 0 0 1 7.7 10.2c0-1.3.5-2.4 1.4-3.3.3.9.8 1.3 1.4 1.5C11.2 7.6 11.4 5.8 12 3Z\"/><path d=\"M4.6 17.4 18.9 14.7a.9.9 0 0 1 .33 1.77L4.93 19.17a.9.9 0 0 1-.33-1.77Z\"/><path d=\"M5.1 14.7 19.4 17.4a.9.9 0 0 1-.33 1.77L4.77 16.47a.9.9 0 0 1 .33-1.77Z\"/>"
+  },
+  "sleeping-bag": {
+    "category": "camping",
+    "keywords": [
+      "sleeping bag",
+      "bedroll",
+      "camp",
+      "saco de dormir",
+      "saco",
+      "acampada",
+      "dormir"
+    ],
+    "aliases": [
+      "bedroll",
+      "mummy-bag"
+    ],
+    "outline": "<rect x=\"6\" y=\"2.5\" width=\"12\" height=\"19\" rx=\"6\"/><path d=\"M7.2 6.8a6 6 0 0 1 9.6 0\"/><path d=\"M12 8v8.4\"/><circle cx=\"12\" cy=\"17.6\" r=\"1.2\"/>",
+    "solid": "<path d=\"M12 2.5a6 6 0 0 0-6 6v7a6 6 0 0 0 12 0v-7a6 6 0 0 0-6-6Zm0 5.2a.7.7 0 0 1 .7.7v6.2a.7.7 0 0 1-1.4 0V8.4a.7.7 0 0 1 .7-.7Z\" fill-rule=\"evenodd\"/>"
+  },
+  "camp-backpack": {
+    "category": "camping",
+    "keywords": [
+      "backpack",
+      "rucksack",
+      "hiking",
+      "mochila",
+      "macuto",
+      "senderismo",
+      "excursion"
+    ],
+    "aliases": [
+      "hiking-backpack",
+      "rucksack-camp"
+    ],
+    "outline": "<path d=\"M10 6V5.5a2 2 0 0 1 4 0V6\"/><path d=\"M9 6h6a3 3 0 0 1 3 3v9a3 3 0 0 1-3 3H9a3 3 0 0 1-3-3V9a3 3 0 0 1 3-3Z\"/><path d=\"M6 11H4.5A1.5 1.5 0 0 0 4 13.9L5 17M18 11h1.5A1.5 1.5 0 0 1 20 13.9L19 17\"/><path d=\"M9 11h6\"/><rect x=\"9.5\" y=\"13.5\" width=\"5\" height=\"5\" rx=\"1\"/>",
+    "solid": "<path d=\"M10 6.3V5.5a2 2 0 0 1 4 0v.8h-1.6V5.5a.4.4 0 0 0-.8 0v.8Z\"/><path d=\"M9 6.3h6a3 3 0 0 1 3 3v9a3 3 0 0 1-3 3H9a3 3 0 0 1-3-3v-9a3 3 0 0 1 3-3Zm1 4.2a.75.75 0 0 0 0 1.5h4a.75.75 0 0 0 0-1.5Zm.5 3a1 1 0 0 0-1 1v3.5h5V14.5a1 1 0 0 0-1-1Z\" fill-rule=\"evenodd\"/><path d=\"M6 10.6v1.5H4.8L5.6 16a.75.75 0 0 1-1.47.32L3.1 13.5A2 2 0 0 1 5.05 10.6Z\"/><path d=\"M18 10.6h1a2 2 0 0 1 1.95 2.9L19.87 16.3a.75.75 0 0 1-1.47-.3L19.2 12.1H18Z\"/>"
+  },
+  "camp-compass": {
+    "category": "camping",
+    "keywords": [
+      "compass",
+      "navigation",
+      "bearing",
+      "brujula",
+      "compas",
+      "orientacion",
+      "norte"
+    ],
+    "aliases": [
+      "camping-compass",
+      "orienteering"
+    ],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M12 3v1.5M12 19.5V21M3 12h1.5M19.5 12H21\"/><path d=\"M15.5 8.5 10.5 10.5 8.5 15.5 13.5 13.5Z\"/>",
+    "solid": "<path d=\"M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20Zm0 2a8 8 0 1 1 0 16 8 8 0 0 1 0-16Z\" fill-rule=\"evenodd\"/><path d=\"M15.8 8.2a.4.4 0 0 1 .53.53l-1.9 4.75a1 1 0 0 1-.56.56l-4.75 1.9a.4.4 0 0 1-.53-.53l1.9-4.75a1 1 0 0 1 .56-.56Z\"/>"
+  },
+  "camp-lantern": {
+    "category": "camping",
+    "keywords": [
+      "lantern",
+      "lamp",
+      "light",
+      "farol",
+      "linterna",
+      "luz",
+      "camping"
+    ],
+    "aliases": [
+      "camping-lantern",
+      "gas-lantern"
+    ],
+    "outline": "<path d=\"M10 3.5a2 2 0 0 1 4 0V5\"/><path d=\"M9 5.5h6l-.8 1.8H9.8Z\"/><rect x=\"8\" y=\"7.3\" width=\"8\" height=\"9.4\" rx=\"1.5\"/><path d=\"M8.2 16.7 7.5 20h9l-.7-3.3\"/><path d=\"M12 10.2c1.3 1.1 1.7 1.9 1.7 2.9a1.7 1.7 0 0 1-3.4 0c0-.7.3-1.2.9-1.8.1.5.4.8.8 1Z\"/>",
+    "solid": "<path d=\"M10 3.5a2 2 0 0 1 4 0V5h-1.5v-1.5a.5.5 0 0 0-1 0V5H10Z\"/><path d=\"M9.3 5.5h5.4a.5.5 0 0 1 .48.63L14.7 7.3H9.3l-.48-1.17A.5.5 0 0 1 9.3 5.5Z\"/><path d=\"M9 7.3h6A1.5 1.5 0 0 1 16.5 8.8v6.4A1.5 1.5 0 0 1 15 16.7H9a1.5 1.5 0 0 1-1.5-1.5V8.8A1.5 1.5 0 0 1 9 7.3Zm3 2.9c-.6.6-.9 1.1-.9 1.8a1.7 1.7 0 0 0 3.4 0c0-1-.4-1.8-1.7-2.9-.4.2-.7.5-.8 1Z\" fill-rule=\"evenodd\"/><path d=\"M8.4 16.7h7.2l.6 2.8a.5.5 0 0 1-.49.6H8.29a.5.5 0 0 1-.49-.6Z\"/>"
+  },
+  "camping-stove": {
+    "category": "camping",
+    "keywords": [
+      "stove",
+      "burner",
+      "cooking",
+      "hornillo",
+      "estufa",
+      "cocina",
+      "gas"
+    ],
+    "aliases": [
+      "camp-stove",
+      "gas-burner"
+    ],
+    "outline": "<rect x=\"4.5\" y=\"12.5\" width=\"15\" height=\"6.5\" rx=\"1.5\"/><path d=\"M8 12.5V11a4 4 0 0 1 8 0v1.5\"/><path d=\"M12 5c1.1 1 1.5 1.8 1.5 2.7A1.5 1.5 0 0 1 10.5 7.7c0-.6.3-1.1.8-1.6.1.5.4.7.7.9Z\"/><circle cx=\"16.3\" cy=\"15.7\" r=\"1.1\"/><path d=\"M7 15.7h5\"/>",
+    "solid": "<path d=\"M12 4.6c1.3 1.2 1.8 2.1 1.8 3.1A1.8 1.8 0 0 1 10.2 7.7c0-.7.3-1.3.9-1.9.1.5.4.9.9 1.1C10.9 6 11.2 5.4 12 4.6Z\"/><path d=\"M8 8.5a4 4 0 0 1 8 0V11h-.05a2 2 0 0 0-1.95-1.6h-4A2 2 0 0 0 8.05 11H8Z\" fill-rule=\"evenodd\"/><path d=\"M6 12h12a1.5 1.5 0 0 1 1.5 1.5v4A1.5 1.5 0 0 1 18 19H6a1.5 1.5 0 0 1-1.5-1.5v-4A1.5 1.5 0 0 1 6 12Zm1 2.9a.75.75 0 0 0 0 1.5h4a.75.75 0 0 0 0-1.5Zm9.3-.4a1.1 1.1 0 1 0 0 2.2 1.1 1.1 0 0 0 0-2.2Z\" fill-rule=\"evenodd\"/>"
+  },
+  "cooler-box": {
+    "category": "camping",
+    "keywords": [
+      "cooler",
+      "icebox",
+      "chest",
+      "nevera",
+      "hielera",
+      "frio",
+      "bebidas"
+    ],
+    "aliases": [
+      "ice-chest",
+      "esky"
+    ],
+    "outline": "<rect x=\"3.5\" y=\"8\" width=\"17\" height=\"11\" rx=\"2\"/><path d=\"M3.5 12h17\"/><path d=\"M8 8V6.5A1.5 1.5 0 0 1 9.5 5h5A1.5 1.5 0 0 1 16 6.5V8\"/><path d=\"M11 12v2h2v-2\"/><path d=\"M6 15.5v1M18 15.5v1\"/>",
+    "solid": "<path d=\"M9.5 4.5h5A2 2 0 0 1 16.5 6.5V7.5h-1.7V6.5a.3.3 0 0 0-.3-.3H9.5a.3.3 0 0 0-.3.3V7.5H7.5V6.5A2 2 0 0 1 9.5 4.5Z\"/><path d=\"M4 7.5h16a1.5 1.5 0 0 1 1.5 1.5v2.3H2.5V9A1.5 1.5 0 0 1 4 7.5Z\"/><path d=\"M2.5 13h8.7v1a.8.8 0 0 0 1.6 0v-1h8.7v5.5A1.5 1.5 0 0 1 20 20H4a1.5 1.5 0 0 1-1.5-1.5Z\" fill-rule=\"evenodd\"/>"
+  },
+  "hammock": {
+    "category": "camping",
+    "keywords": [
+      "hammock",
+      "swing",
+      "rest",
+      "hamaca",
+      "columpio",
+      "descanso",
+      "relax"
+    ],
+    "aliases": [
+      "camp-hammock",
+      "swing-bed"
+    ],
+    "outline": "<path d=\"M4 4.5v15M20 4.5v15\"/><path d=\"M4 8.5c5 6 11 6 16 0\"/><path d=\"M7 10.6v1.7M10 11.9v1.7M12.5 12.1v1.7M15 11.6v1.7M17.5 10.4v1.7\"/>",
+    "solid": null
+  },
+  "canteen-bottle": {
+    "category": "camping",
+    "keywords": [
+      "canteen",
+      "flask",
+      "water",
+      "cantimplora",
+      "agua",
+      "botella",
+      "hidratacion"
+    ],
+    "aliases": [
+      "field-canteen",
+      "water-canteen"
+    ],
+    "outline": "<path d=\"M10 6.5V5a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v1.5\"/><rect x=\"9.3\" y=\"6.3\" width=\"5.4\" height=\"2\" rx=\"0.5\"/><circle cx=\"12\" cy=\"13.5\" r=\"6.8\"/><path d=\"M9 11c1.5-1 4.5-1 6 0\"/>",
+    "solid": "<path d=\"M10 5a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v1.3h-1.6V5.5h-.8V6.3H10Z\"/><rect x=\"9.3\" y=\"6.1\" width=\"5.4\" height=\"2.2\" rx=\"0.6\"/><path d=\"M12 6.9a7 7 0 1 0 0 14 7 7 0 0 0 0-14Zm-3.4 4.6c1.9-1.15 4.9-1.15 6.8 0a.8.8 0 0 1-.82 1.37c-1.4-.85-3.76-.85-5.16 0A.8.8 0 0 1 8.6 11.5Z\" fill-rule=\"evenodd\"/>"
+  },
+  "hiking-boots": {
+    "category": "camping",
+    "keywords": [
+      "boots",
+      "hiking",
+      "footwear",
+      "botas",
+      "montana",
+      "senderismo",
+      "calzado"
+    ],
+    "aliases": [
+      "trekking-boots",
+      "mountain-boots"
+    ],
+    "outline": "<path d=\"M8.5 5.5A1.75 1.75 0 0 1 12 5.5V11l5 1.9a4 4 0 0 1 2.7 3.8.9.9 0 0 1-.9.9H3.4V16.1a3.3 3.3 0 0 1 1.8-2.95L8.5 11.5Z\"/><path d=\"M8.7 7.8l2.6.9M8.7 9.6l2.6.9\"/><path d=\"M5 16.9v1.2M8 16.9v1.2M11 16.9v1.2M14 16.9v1.2M17 16.9v1.2\"/>",
+    "solid": "<path d=\"M8 5a1 1 0 0 1 2 0v6.1a.6.6 0 0 0 .36.55l6.5 2.8A4.6 4.6 0 0 1 19.6 18.5a.85.85 0 0 1-.85.9H4.4A1.9 1.9 0 0 1 2.5 17.5v-.3a3.8 3.8 0 0 1 2.1-3.4L8 12.1Zm.4 3.1a.55.55 0 1 0 0 1.1.55.55 0 0 0 0-1.1Zm0 2.2a.55.55 0 1 0 0 1.1.55.55 0 0 0 0-1.1Z\" fill-rule=\"evenodd\"/>"
+  },
+  "trail-sign": {
+    "category": "camping",
+    "keywords": [
+      "trail",
+      "sign",
+      "direction",
+      "sendero",
+      "senal",
+      "ruta",
+      "indicador"
+    ],
+    "aliases": [
+      "trail-marker",
+      "hiking-sign"
+    ],
+    "outline": "<path d=\"M12 3.5V21\"/><path d=\"M12 6h5.5l2.5 1.8-2.5 1.8H12\"/><path d=\"M12 11.5H6.5L4 13.3l2.5 1.8H12\"/><path d=\"M9.5 21h5\"/>",
+    "solid": "<rect x=\"11.1\" y=\"3.5\" width=\"1.8\" height=\"17.5\" rx=\"0.9\"/><path d=\"M12 5.7h5.6a1 1 0 0 1 .58.19l2.1 1.5a.5.5 0 0 1 0 .82l-2.1 1.5a1 1 0 0 1-.58.19H12Z\"/><path d=\"M12 11.2H6.4a1 1 0 0 0-.58.19l-2.1 1.5a.5.5 0 0 0 0 .82l2.1 1.5a1 1 0 0 0 .58.19H12Z\"/><path d=\"M9 20.2h6a.8.8 0 0 1 0 1.6H9a.8.8 0 0 1 0-1.6Z\"/>"
+  },
+  "camp-binoculars": {
+    "category": "camping",
+    "keywords": [
+      "binoculars",
+      "view",
+      "observe",
+      "prismaticos",
+      "binoculares",
+      "observar",
+      "mirar"
+    ],
+    "aliases": [
+      "field-binoculars",
+      "spyglass"
+    ],
+    "outline": "<circle cx=\"7\" cy=\"14\" r=\"4.5\"/><circle cx=\"17\" cy=\"14\" r=\"4.5\"/><path d=\"M6 9.7 6.3 6A1.6 1.6 0 0 1 7.9 4.5h.7A1.6 1.6 0 0 1 10.2 6l.4 4M18 9.7 17.7 6a1.6 1.6 0 0 0-1.6-1.5h-.7A1.6 1.6 0 0 0 13.8 6l-.4 4\"/><path d=\"M10.8 11.5h2.4M11 13.5h2\"/>",
+    "solid": "<path d=\"M7 9.2a4.8 4.8 0 1 0 3.4 1.42V6a1.7 1.7 0 0 0-1.7-1.7H7.9A1.7 1.7 0 0 0 6.2 5.9L5.8 10.2A4.8 4.8 0 0 1 7 9.2Zm0 2.3a2.5 2.5 0 1 1 0 5 2.5 2.5 0 0 1 0-5Z\" fill-rule=\"evenodd\"/><path d=\"M17 9.2a4.8 4.8 0 1 1-3.4 1.42V6a1.7 1.7 0 0 1 1.7-1.7h.8A1.7 1.7 0 0 1 17.8 5.9l.4 4.3A4.8 4.8 0 0 0 17 9.2Zm0 2.3a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5Z\" fill-rule=\"evenodd\"/><rect x=\"10.6\" y=\"11.2\" width=\"2.8\" height=\"1.5\" rx=\"0.5\"/>"
+  },
+  "fishing-rod": {
+    "category": "camping",
+    "keywords": [
+      "fishing",
+      "rod",
+      "angling",
+      "pesca",
+      "cana",
+      "pescar",
+      "anzuelo"
+    ],
+    "aliases": [
+      "fishing-pole",
+      "angling-rod"
+    ],
+    "outline": "<path d=\"M4 20c9-1.5 13.6-7.2 15.8-15.5\"/><circle cx=\"6\" cy=\"16.4\" r=\"1.7\"/><path d=\"M6 18.1v1.6\"/><path d=\"M19.6 4.3 17.8 11.4\"/><path d=\"M17.8 11.4a1.7 1.7 0 0 1-2.9 1.1\"/>",
+    "solid": null
+  },
+  "canoe-camp": {
+    "category": "camping",
+    "keywords": [
+      "canoe",
+      "paddle",
+      "boat",
+      "canoa",
+      "piragua",
+      "remo",
+      "rio"
+    ],
+    "aliases": [
+      "camp-canoe",
+      "open-canoe"
+    ],
+    "outline": "<path d=\"M2 10.5c2.5 4.6 6 6.7 10 6.7s7.5-2.1 10-6.7\"/><path d=\"M2 10.5c2.5 1.9 6 2.6 10 2.6s7.5-.7 10-2.6\"/><path d=\"M8 12.9v2.2M12 13.1v2.4M16 12.9v2.2\"/>",
+    "solid": "<path d=\"M2.4 10a.6.6 0 0 0-.86.74C3.6 15.6 7.2 18 12 18s8.4-2.4 10.46-7.26A.6.6 0 0 0 21.6 10c-2.4 1.75-5.85 2.4-9.6 2.4S4.8 11.75 2.4 10Zm5.6 3.4a.6.6 0 0 1 .6.6v1.5a.6.6 0 0 1-1.2 0V14a.6.6 0 0 1 .6-.6Zm8 0a.6.6 0 0 1 .6.6v1.5a.6.6 0 0 1-1.2 0V14a.6.6 0 0 1 .6-.6Z\" fill-rule=\"evenodd\"/>"
+  },
+  "camp-mountain": {
+    "category": "camping",
+    "keywords": [
+      "mountain",
+      "peak",
+      "summit",
+      "montana",
+      "pico",
+      "cima",
+      "cumbre"
+    ],
+    "aliases": [
+      "summit-flag",
+      "peak-camp"
+    ],
+    "outline": "<path d=\"M13 19.5 16.8 12.5l3.7 7\"/><path d=\"M2 19.5 10 6l7.2 13.5Z\"/><path d=\"M7.2 10.6 9 12.4l1.2-1.1 1.6 1.6\"/><path d=\"M10 6V3M10 3.2l2.6.9L10 5.1\"/>",
+    "solid": "<path d=\"M9.13 6.4a1 1 0 0 1 1.74 0l7 12.1a1 1 0 0 1-.87 1.5H3a1 1 0 0 1-.87-1.5ZM10 9.4l-2 2.2 1.9 1.7 1.1-1 1.6 1.5L10 9.4Z\" fill-rule=\"evenodd\"/><path d=\"M9.2 6.2V3a.8.8 0 0 1 1.1-.74l2.5.87a.5.5 0 0 1 .04.93L10.8 5.8v.4Z\"/><path d=\"M13.5 19.5 16.8 13l3.5 6.5Z\"/>"
+  },
+  "trail-map": {
+    "category": "camping",
+    "keywords": [
+      "map",
+      "trail",
+      "route",
+      "mapa",
+      "sendero",
+      "ruta",
+      "navegacion"
+    ],
+    "aliases": [
+      "hiking-map",
+      "trekking-map"
+    ],
+    "outline": "<path d=\"M9 4.5 3 6.5v13l6-2 6 2 6-2v-13l-6 2Z\"/><path d=\"M9 4.5v13M15 6.5v13\"/><circle cx=\"6.4\" cy=\"15.6\" r=\"0.6\"/><circle cx=\"8.3\" cy=\"13.9\" r=\"0.6\"/><circle cx=\"10.4\" cy=\"13.4\" r=\"0.6\"/><circle cx=\"12.2\" cy=\"11.8\" r=\"0.6\"/><path d=\"M16.5 8.5a2 2 0 0 1 2 2c0 1.4-2 3.3-2 3.3s-2-1.9-2-3.3a2 2 0 0 1 2-2Z\"/>",
+    "solid": "<path d=\"M8.7 3.6a1 1 0 0 1 .62 0l5.68 1.9 5.68-1.9A1 1 0 0 1 22 4.55v13a1 1 0 0 1-.68.95l-6 2a1 1 0 0 1-.64 0l-5.68-1.9-5.68 1.9A1 1 0 0 1 2 19.5v-13a1 1 0 0 1 .68-.95ZM8 6.2 4 7.5v10.6l4-1.33Zm8 11.6 4-1.33V5.9l-4 1.33Z\" fill-rule=\"evenodd\"/><circle cx=\"6.4\" cy=\"15.6\" r=\"0.7\"/><circle cx=\"8.4\" cy=\"14\" r=\"0.7\"/><circle cx=\"10.5\" cy=\"13.4\" r=\"0.7\"/><path d=\"M16.5 8.3a2.2 2.2 0 0 1 2.2 2.2c0 1.5-2.2 3.6-2.2 3.6s-2.2-2.1-2.2-3.6a2.2 2.2 0 0 1 2.2-2.2Zm0 1.5a.8.8 0 1 0 0 1.6.8.8 0 0 0 0-1.6Z\" fill-rule=\"evenodd\"/>"
+  },
+  "camp-flashlight": {
+    "category": "camping",
+    "keywords": [
+      "flashlight",
+      "torch",
+      "light",
+      "linterna",
+      "foco",
+      "luz",
+      "haz"
+    ],
+    "aliases": [
+      "camp-torch",
+      "hand-torch"
+    ],
+    "outline": "<path d=\"M8 7.3 4.3 9v6l3.7 1.7Z\"/><path d=\"M8 7.8h8.5A1.8 1.8 0 0 1 18.3 9.6v4.8A1.8 1.8 0 0 1 16.5 16.2H8Z\"/><path d=\"M4.3 9 1.8 8M4.3 12H1.6M4.3 15l-2.5 1\"/><path d=\"M12 16.2v.8\"/>",
+    "solid": "<path d=\"M8.4 7 4.7 8.7A1 1 0 0 0 4.1 9.6v4.8a1 1 0 0 0 .6.9L8.4 17a.5.5 0 0 0 .7-.46V7.46A.5.5 0 0 0 8.4 7Z\"/><path d=\"M9.3 7.9h7.2A1.8 1.8 0 0 1 18.3 9.7v4.6A1.8 1.8 0 0 1 16.5 16.1H9.3Z\"/><path d=\"M3.6 8.9 1.9 8.2a.7.7 0 0 0-.5 1.3l1.7.7ZM3.4 12H1.6a.7.7 0 0 0 0 1.4h1.8ZM3.1 14.9l-1.7.7a.7.7 0 0 0 .5 1.3l1.7-.7Z\"/>"
+  },
+  "firewood-stack": {
+    "category": "camping",
+    "keywords": [
+      "firewood",
+      "logs",
+      "wood",
+      "lena",
+      "troncos",
+      "madera",
+      "fuego"
+    ],
+    "aliases": [
+      "log-pile",
+      "woodpile"
+    ],
+    "outline": "<circle cx=\"6.8\" cy=\"15\" r=\"2.7\"/><circle cx=\"12\" cy=\"15\" r=\"2.7\"/><circle cx=\"17.2\" cy=\"15\" r=\"2.7\"/><circle cx=\"9.4\" cy=\"10.3\" r=\"2.7\"/><circle cx=\"14.6\" cy=\"10.3\" r=\"2.7\"/><path d=\"M6.8 15h.02M12 15h.02M17.2 15h.02M9.4 10.3h.02M14.6 10.3h.02\"/>",
+    "solid": "<path d=\"M6.8 12.2a2.8 2.8 0 1 0 0 5.6 2.8 2.8 0 0 0 0-5.6Zm0 2a.8.8 0 1 0 0 1.6.8.8 0 0 0 0-1.6Z M12 12.2a2.8 2.8 0 1 0 0 5.6 2.8 2.8 0 0 0 0-5.6Zm0 2a.8.8 0 1 0 0 1.6.8.8 0 0 0 0-1.6Z M17.2 12.2a2.8 2.8 0 1 0 0 5.6 2.8 2.8 0 0 0 0-5.6Zm0 2a.8.8 0 1 0 0 1.6.8.8 0 0 0 0-1.6Z M9.4 7.5a2.8 2.8 0 1 0 0 5.6 2.8 2.8 0 0 0 0-5.6Zm0 2a.8.8 0 1 0 0 1.6.8.8 0 0 0 0-1.6Z M14.6 7.5a2.8 2.8 0 1 0 0 5.6 2.8 2.8 0 0 0 0-5.6Zm0 2a.8.8 0 1 0 0 1.6.8.8 0 0 0 0-1.6Z\" fill-rule=\"evenodd\"/>"
+  },
+  "marshmallow-stick": {
+    "category": "camping",
+    "keywords": [
+      "marshmallow",
+      "roast",
+      "stick",
+      "malvavisco",
+      "nube",
+      "brocheta",
+      "asar"
+    ],
+    "aliases": [
+      "roasting-stick",
+      "smore"
+    ],
+    "outline": "<path d=\"M3 9h8.5\"/><rect x=\"11\" y=\"6.7\" width=\"5\" height=\"4.6\" rx=\"1.5\"/><path d=\"M16 9h1.8\"/><path d=\"M13.5 13.5c1.1.9 1.5 1.6 1.5 2.6a1.5 1.5 0 0 1-3 0c0-.7.3-1.2.9-1.8.1.5.4.8.6 1Z\"/>",
+    "solid": "<rect x=\"11\" y=\"6.7\" width=\"5\" height=\"4.6\" rx=\"1.5\"/><path d=\"M2.2 8.2h9.8v1.6H2.2a.8.8 0 0 1 0-1.6Z\"/><path d=\"M15 8.2h2.8a.8.8 0 0 1 0 1.6H15Z\"/><path d=\"M13.5 13c1.3 1 1.8 1.9 1.8 3a1.8 1.8 0 0 1-3.6 0c0-.8.4-1.4 1-2 .1.5.4.8.8 1Z\"/>"
+  },
+  "picnic-table": {
+    "category": "camping",
+    "keywords": [
+      "picnic",
+      "table",
+      "bench",
+      "mesa",
+      "picnic",
+      "banco",
+      "merienda"
+    ],
+    "aliases": [
+      "camp-table",
+      "picnic-bench"
+    ],
+    "outline": "<path d=\"M2.5 8.5h19\"/><path d=\"M4 13.5h16\"/><path d=\"M7 8.5 4 18.5M7 8.5 9.5 18.5M17 8.5 20 18.5M17 8.5 14.5 18.5\"/>",
+    "solid": null
+  },
+  "camp-rope": {
+    "category": "camping",
+    "keywords": [
+      "rope",
+      "cord",
+      "coil",
+      "cuerda",
+      "soga",
+      "rollo",
+      "nudo"
+    ],
+    "aliases": [
+      "camping-rope",
+      "rope-loop"
+    ],
+    "outline": "<ellipse cx=\"12\" cy=\"13.5\" rx=\"6.5\" ry=\"4.5\"/><ellipse cx=\"12\" cy=\"13.5\" rx=\"3.4\" ry=\"2.2\"/><path d=\"M18 11c1.6-.8 2.3-2.4 2-4.2\"/><path d=\"M6.2 11.2 5 8\"/>",
+    "solid": "<path d=\"M12 8.8c-3.9 0-7 2.1-7 4.7s3.1 4.7 7 4.7 7-2.1 7-4.7-3.1-4.7-7-4.7Zm0 2.4c1.9 0 3.4 1 3.4 2.3S13.9 15.8 12 15.8 8.6 14.8 8.6 13.5 10.1 11.2 12 11.2Z\" fill-rule=\"evenodd\"/><path d=\"M17.8 10.4c1.7-.9 2.5-2.6 2.1-4.6l-1.57.32c.28 1.4-.25 2.5-1.35 3.1Z\"/>"
+  },
+  "carabiner": {
+    "category": "camping",
+    "keywords": [
+      "carabiner",
+      "clip",
+      "climbing",
+      "mosqueton",
+      "escalada",
+      "gancho",
+      "seguridad"
+    ],
+    "aliases": [
+      "clip-hook",
+      "snap-hook"
+    ],
+    "outline": "<rect x=\"6.5\" y=\"3.5\" width=\"8\" height=\"17\" rx=\"4\"/><path d=\"M9.2 4.2V13a1 1 0 0 0 1 1\"/><circle cx=\"10.2\" cy=\"14\" r=\"0.6\"/>",
+    "solid": null
+  },
+  "tent-stake": {
+    "category": "camping",
+    "keywords": [
+      "stake",
+      "peg",
+      "tent",
+      "estaca",
+      "piqueta",
+      "clavija",
+      "anclaje"
+    ],
+    "aliases": [
+      "tent-peg",
+      "ground-peg"
+    ],
+    "outline": "<path d=\"M13.4 6.4 11 19.3\"/><path d=\"M13.4 6.4A2.2 2.2 0 0 0 9.7 4.8\"/><path d=\"M9.9 5 4.5 7.7\"/><path d=\"M6 13.4c3.4 1.1 6.8 1.1 10.2 0\"/>",
+    "solid": null
+  },
+  "camp-chair": {
+    "category": "camping",
+    "keywords": [
+      "chair",
+      "folding",
+      "seat",
+      "silla",
+      "plegable",
+      "asiento",
+      "camping"
+    ],
+    "aliases": [
+      "folding-chair",
+      "camping-chair"
+    ],
+    "outline": "<path d=\"M6.5 5.5 8.3 13h7.4l1.8-7.5\"/><path d=\"M7.6 13 16.4 21M16.4 13 7.6 21\"/><path d=\"M8 9.6h8\"/><path d=\"M6.2 9h2M15.8 9h2\"/>",
+    "solid": null
+  },
+  "camp-thermos": {
+    "category": "camping",
+    "keywords": [
+      "thermos",
+      "flask",
+      "insulated",
+      "termo",
+      "botella",
+      "bebida",
+      "caliente"
+    ],
+    "aliases": [
+      "vacuum-flask",
+      "thermos-flask"
+    ],
+    "outline": "<path d=\"M9 3.5h6a.5.5 0 0 1 .5.5v1.6a1 1 0 0 1-.1.45L15 7v11.5A2 2 0 0 1 13 20.5h-2A2 2 0 0 1 9 18.5V7l-.4-.95A1 1 0 0 1 8.5 5.6V4a.5.5 0 0 1 .5-.5Z\"/><path d=\"M8.7 8.5h6.6\"/><path d=\"M10.5 3.5v3.5h3V3.5\"/>",
+    "solid": "<path d=\"M9 3.2h6a.7.7 0 0 1 .7.7v1.7a1.2 1.2 0 0 1-.13.55L15.2 7.2v11.3A2.3 2.3 0 0 1 12.9 20.8h-1.8A2.3 2.3 0 0 1 8.8 18.5V7.2l-.37-1.05A1.2 1.2 0 0 1 8.3 5.6V3.9a.7.7 0 0 1 .7-.7Zm-.2 4.6v1.5h6.4V7.8Z\" fill-rule=\"evenodd\"/>"
+  },
+  "swiss-army-knife": {
+    "category": "camping",
+    "keywords": [
+      "knife",
+      "multitool",
+      "blade",
+      "navaja",
+      "multiusos",
+      "cuchillo",
+      "herramienta"
+    ],
+    "aliases": [
+      "pocket-knife",
+      "multi-tool"
+    ],
+    "outline": "<rect x=\"3\" y=\"12.2\" width=\"12.5\" height=\"4.6\" rx=\"2.3\"/><path d=\"M13.8 12.2 21 7.5c.6 2.2-.6 4.2-3.2 5.1\"/><circle cx=\"13.6\" cy=\"14.5\" r=\"1\"/><path d=\"M6 12.2V8.4\"/><path d=\"M5 8.4h2\"/>",
+    "solid": "<path d=\"M5.4 11.9h9.5a2.4 2.4 0 0 1 0 4.8H5.4a2.4 2.4 0 0 1 0-4.8Zm8.2 1.5a.9.9 0 1 0 0 1.8.9.9 0 0 0 0-1.8Z\" fill-rule=\"evenodd\"/><path d=\"M14 11.7 20.9 7.2a.5.5 0 0 1 .78.45c0 2.2-1.25 4-3.75 4.9a1 1 0 0 1-.33.06H14.5a.5.5 0 0 1-.5-.5Z\"/><rect x=\"5.1\" y=\"7.6\" width=\"1.7\" height=\"4.8\" rx=\"0.85\"/>"
+  },
+  "bonfire-logs": {
+    "category": "camping",
+    "keywords": [
+      "bonfire",
+      "fire",
+      "logs",
+      "fogata",
+      "hoguera",
+      "fuego",
+      "lena"
+    ],
+    "aliases": [
+      "camp-bonfire",
+      "fire-logs"
+    ],
+    "outline": "<path d=\"M12 3c2.4 2.9 3.6 5 3.6 7.1a3.6 3.6 0 0 1-7.2 0c0-1.4.5-2.6 1.5-3.5.3 1 .8 1.5 1.5 1.7C10.9 7.9 11.2 5.8 12 3Z\"/><path d=\"M5.5 19.5 18.5 14.5M18.5 19.5 5.5 14.5\"/>",
+    "solid": "<path d=\"M12 2.6c2.7 3.1 4 5.4 4 7.7a4 4 0 0 1-8 0c0-1.6.6-2.9 1.7-3.9.3 1.1.9 1.6 1.6 1.9C10.7 7.7 11 5.6 12 2.6Z\"/><path d=\"M5.1 18.5 17.7 13.6a1 1 0 0 1 .72 1.87L5.82 20.37a1 1 0 0 1-.72-1.87Z\"/><path d=\"M6.3 13.6 18.9 18.5a1 1 0 0 1-.72 1.87L5.58 15.47A1 1 0 0 1 6.3 13.6Z\"/>"
+  },
+  "camp-mug": {
+    "category": "camping",
+    "keywords": [
+      "mug",
+      "cup",
+      "enamel",
+      "taza",
+      "jarro",
+      "tazon",
+      "bebida"
+    ],
+    "aliases": [
+      "enamel-mug",
+      "tin-mug"
+    ],
+    "outline": "<path d=\"M5 8.5h9.5v7.5A3 3 0 0 1 11.5 19h-3.5A3 3 0 0 1 5 16Z\"/><path d=\"M14.5 10.5h2.3a2.4 2.4 0 0 1 0 4.8h-2.3\"/><path d=\"M5 10.6h9.5\"/><path d=\"M8 6c-.6-1 .6-1.6 0-2.6M11.5 6c-.6-1 .6-1.6 0-2.6\"/>",
+    "solid": "<path d=\"M4.3 8.7A.5.5 0 0 1 4.8 8.2h9.9a.5.5 0 0 1 .5.5v7.2A3.2 3.2 0 0 1 12 19.1H7A3.2 3.2 0 0 1 4.3 15.9Zm.6 2.1v.8h9.7v-.8Z\" fill-rule=\"evenodd\"/><path d=\"M15 10.6h1.9a2.7 2.7 0 0 1 0 5.4H15v-1.7h1.9a1 1 0 0 0 0-2H15Z\" fill-rule=\"evenodd\"/>"
+  },
+  "headlamp": {
+    "category": "camping",
+    "keywords": [
+      "headlamp",
+      "headtorch",
+      "light",
+      "frontal",
+      "linterna",
+      "cabeza",
+      "luz"
+    ],
+    "aliases": [
+      "head-torch",
+      "head-lamp"
+    ],
+    "outline": "<path d=\"M4.5 13a7.5 7.5 0 0 1 15 0\"/><path d=\"M4.5 13v2M19.5 13v2\"/><rect x=\"8.5\" y=\"11.5\" width=\"7\" height=\"6\" rx=\"1.5\"/><circle cx=\"12\" cy=\"14.5\" r=\"1.8\"/><path d=\"M12 18.5v1.8M9 18l-.8 1.4M15 18l.8 1.4\"/>",
+    "solid": "<path d=\"M12 4.5A8.2 8.2 0 0 0 3.8 12.7a.9.9 0 0 0 1.8 0 6.4 6.4 0 0 1 12.8 0 .9.9 0 0 0 1.8 0A8.2 8.2 0 0 0 12 4.5Z\"/><path d=\"M8.5 11h7A1.5 1.5 0 0 1 17 12.5v3.5A1.5 1.5 0 0 1 15.5 17.5h-7A1.5 1.5 0 0 1 7 16v-3.5A1.5 1.5 0 0 1 8.5 11Zm3.5 1.9a1.6 1.6 0 1 0 0 3.2 1.6 1.6 0 0 0 0-3.2Z\" fill-rule=\"evenodd\"/><path d=\"M11.2 18.5h1.6v1.7a.8.8 0 0 1-1.6 0ZM8.4 18.1l1.4.8-.85 1.5a.8.8 0 0 1-1.4-.8Zm7.2 0 .85 1.5a.8.8 0 0 1-1.4.8l-.85-1.5Z\"/>"
+  },
+  "bug-spray": {
+    "category": "camping",
+    "keywords": [
+      "bug spray",
+      "repellent",
+      "insect",
+      "repelente",
+      "insectos",
+      "spray",
+      "mosquitos"
+    ],
+    "aliases": [
+      "insect-repellent",
+      "mosquito-spray"
+    ],
+    "outline": "<rect x=\"7.5\" y=\"7.5\" width=\"7\" height=\"12.5\" rx=\"1.5\"/><path d=\"M9 7.5V6a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v1.5\"/><rect x=\"9.7\" y=\"3\" width=\"2.6\" height=\"2.2\" rx=\"0.4\"/><path d=\"M12.3 3.8h1.4\"/><path d=\"M15.2 3.8h.02M15.2 5.5h.02M16.7 2.9h.02M16.7 4.6h.02M16.7 6.3h.02\"/><path d=\"M8 11h6\"/>",
+    "solid": "<rect x=\"9.6\" y=\"2.9\" width=\"2.8\" height=\"2.4\" rx=\"0.5\"/><path d=\"M12.4 3.6h1.5a.7.7 0 0 1 0 1.4h-1.5Z\"/><path d=\"M9 5h4a1.5 1.5 0 0 1 1.5 1.5v.8H7.5V6.5A1.5 1.5 0 0 1 9 5Z\"/><path d=\"M8 7.5h6A1.5 1.5 0 0 1 15.5 9v9.5A1.5 1.5 0 0 1 14 20H8a1.5 1.5 0 0 1-1.5-1.5V9A1.5 1.5 0 0 1 8 7.5Zm.5 3a.7.7 0 0 0 0 1.4h5a.7.7 0 0 0 0-1.4Z\" fill-rule=\"evenodd\"/><circle cx=\"15.2\" cy=\"3.7\" r=\"0.55\"/><circle cx=\"15.2\" cy=\"5.5\" r=\"0.55\"/><circle cx=\"16.8\" cy=\"2.8\" r=\"0.55\"/><circle cx=\"16.8\" cy=\"4.6\" r=\"0.55\"/><circle cx=\"16.8\" cy=\"6.4\" r=\"0.55\"/>"
+  },
+  "trekking-pole": {
+    "category": "camping",
+    "keywords": [
+      "trekking pole",
+      "hiking",
+      "stick",
+      "baston",
+      "senderismo",
+      "trekking",
+      "apoyo"
+    ],
+    "aliases": [
+      "hiking-pole",
+      "walking-pole"
+    ],
+    "outline": "<path d=\"M7.6 3.9 15 20.1\"/><path d=\"M7.6 3.9 6.6 6.3\"/><path d=\"M8 4.9A2.6 2.6 0 0 0 10.4 7.5\"/><path d=\"M11.4 15.2 15.4 13.9\"/>",
+    "solid": null
+  },
+  "campsite-sign": {
+    "category": "camping",
+    "keywords": [
+      "campsite",
+      "campground",
+      "sign",
+      "camping",
+      "campamento",
+      "senal",
+      "zona"
+    ],
+    "aliases": [
+      "campground-sign",
+      "camp-sign"
+    ],
+    "outline": "<rect x=\"4\" y=\"3\" width=\"16\" height=\"12\" rx=\"2\"/><path d=\"M12 6.5 8.5 12h7Z\"/><path d=\"M8 12.2h8\"/><path d=\"M12 15v6\"/><path d=\"M9 21h6\"/>",
+    "solid": "<path d=\"M6 3h12A2 2 0 0 1 20 5v8A2 2 0 0 1 18 15H6A2 2 0 0 1 4 13V5A2 2 0 0 1 6 3Zm6 3.2L8.3 11.7a.5.5 0 0 0 .42.8h6.56a.5.5 0 0 0 .42-.8Z\" fill-rule=\"evenodd\"/><rect x=\"11.1\" y=\"15\" width=\"1.8\" height=\"5.2\" rx=\"0.5\"/><path d=\"M9 20.2h6a.8.8 0 0 1 0 1.6H9a.8.8 0 0 1 0-1.6Z\"/>"
+  },
+  "rv-camper": {
+    "category": "camping",
+    "keywords": [
+      "rv",
+      "camper",
+      "motorhome",
+      "autocaravana",
+      "caravana",
+      "furgoneta",
+      "viaje"
+    ],
+    "aliases": [
+      "camper-van",
+      "motorhome"
+    ],
+    "outline": "<path d=\"M2 15.5V8.5a1.5 1.5 0 0 1 1.5-1.5h13A3.5 3.5 0 0 1 20 10.5v5\"/><path d=\"M2 15.5h3M9 15.5h5.5M18.5 15.5H22\"/><rect x=\"4\" y=\"9.5\" width=\"4.5\" height=\"3\" rx=\"0.6\"/><rect x=\"14.5\" y=\"9.5\" width=\"4\" height=\"3\" rx=\"0.6\"/><rect x=\"8\" y=\"4.5\" width=\"4.5\" height=\"2.7\" rx=\"0.5\"/><circle cx=\"7\" cy=\"15.8\" r=\"2.3\"/><circle cx=\"16.5\" cy=\"15.8\" r=\"2.3\"/>",
+    "solid": "<path d=\"M8 4.2h4.5a.8.8 0 0 1 .8.8v1.9H7.2V5a.8.8 0 0 1 .8-.8Z\"/><path d=\"M3.5 6.8h13A3.8 3.8 0 0 1 20.3 10.6v4.9H19.4a2.9 2.9 0 0 0-5.8 0H10.4a2.9 2.9 0 0 0-5.8 0H3.5A1.5 1.5 0 0 1 2 14V8.3A1.5 1.5 0 0 1 3.5 6.8Zm.5 3a.6.6 0 0 0-.6.6v1.8a.6.6 0 0 0 .6.6h3.9a.6.6 0 0 0 .6-.6V10.4a.6.6 0 0 0-.6-.6Zm10.6 0a.6.6 0 0 0-.6.6v1.8a.6.6 0 0 0 .6.6h3.4a.6.6 0 0 0 .6-.6V10.4a.6.6 0 0 0-.6-.6Z\" fill-rule=\"evenodd\"/><circle cx=\"7\" cy=\"15.8\" r=\"2.4\"/><circle cx=\"16.5\" cy=\"15.8\" r=\"2.4\"/>"
+  },
+  "first-aid-camp": {
+    "category": "camping",
+    "keywords": [
+      "first aid",
+      "medical",
+      "kit",
+      "botiquin",
+      "primeros auxilios",
+      "emergencia",
+      "salud"
+    ],
+    "aliases": [
+      "camp-first-aid",
+      "medical-kit"
+    ],
+    "outline": "<rect x=\"2.5\" y=\"7\" width=\"19\" height=\"12.5\" rx=\"2.5\"/><path d=\"M9 7V5.5A1.5 1.5 0 0 1 10.5 4h3A1.5 1.5 0 0 1 15 5.5V7\"/><path d=\"M12 10v6M9 13h6\"/>",
+    "solid": "<path d=\"M9 6.8V5.5A1.5 1.5 0 0 1 10.5 4h3A1.5 1.5 0 0 1 15 5.5V6.8h-1.7V5.5a.3.3 0 0 0-.3-.3h-2a.3.3 0 0 0-.3.3V6.8Z\"/><path d=\"M5 7h14A2.5 2.5 0 0 1 21.5 9.5v7A2.5 2.5 0 0 1 19 19H5a2.5 2.5 0 0 1-2.5-2.5v-7A2.5 2.5 0 0 1 5 7Zm6 3v2H9a1 1 0 0 0 0 2h2v2a1 1 0 0 0 2 0v-2h2a1 1 0 0 0 0-2h-2v-2a1 1 0 0 0-2 0Z\" fill-rule=\"evenodd\"/>"
+  },
+  "water-filter": {
+    "category": "camping",
+    "keywords": [
+      "water filter",
+      "purifier",
+      "filter",
+      "filtro de agua",
+      "purificador",
+      "filtro",
+      "potable"
+    ],
+    "aliases": [
+      "water-purifier",
+      "camp-filter"
+    ],
+    "outline": "<path d=\"M5.5 6h13a.5.5 0 0 1 .4.8L14.5 13v4.5a2.5 2.5 0 0 1-5 0V13L5.1 6.8A.5.5 0 0 1 5.5 6Z\"/><path d=\"M8 9h8\"/><circle cx=\"10\" cy=\"11\" r=\"0.6\"/><circle cx=\"12\" cy=\"11.4\" r=\"0.6\"/><circle cx=\"14\" cy=\"11\" r=\"0.6\"/><circle cx=\"11\" cy=\"12.4\" r=\"0.6\"/><circle cx=\"13\" cy=\"12.4\" r=\"0.6\"/><path d=\"M12 19c.9 1.1 1.3 1.8 1.3 2.4a1.3 1.3 0 0 1-2.6 0c0-.6.4-1.3 1.3-2.4Z\"/>",
+    "solid": "<path d=\"M5.5 5.8h13a.8.8 0 0 1 .64 1.28L14.8 13.2v4.3a2.8 2.8 0 0 1-5.6 0V13.2L4.86 7.08A.8.8 0 0 1 5.5 5.8Zm2.9 3.4 1.2 1.65a.5.5 0 0 0 .4.2h4a.5.5 0 0 0 .4-.2l1.2-1.65Z\" fill-rule=\"evenodd\"/><path d=\"M12 18.8c1 1.2 1.4 2 1.4 2.6a1.4 1.4 0 0 1-2.8 0c0-.6.4-1.4 1.4-2.6Z\"/>"
+  },
+  "paracord": {
+    "category": "camping",
+    "keywords": [
+      "paracord",
+      "cord",
+      "bracelet",
+      "paracord",
+      "cordino",
+      "pulsera",
+      "cuerda"
+    ],
+    "aliases": [
+      "paracord-bracelet",
+      "survival-cord"
+    ],
+    "outline": "<path d=\"M11.2 5.1A7 7 0 1 1 8.3 18.7\"/><rect x=\"4.3\" y=\"9.4\" width=\"6.2\" height=\"5.2\" rx=\"1.3\"/><path d=\"M6.5 9.4 8 5.8M6.5 14.6 8 18.2\"/><path d=\"M10.5 12H12.2\"/><path d=\"M18.4 9.3 17 10.3M19 12h-1.7M18.4 14.7 17 13.7\"/>",
+    "solid": null
+  },
+  "camp-axe": {
+    "category": "camping",
+    "keywords": [
+      "axe",
+      "hatchet",
+      "chop",
+      "hacha",
+      "hachuela",
+      "cortar",
+      "lena"
+    ],
+    "aliases": [
+      "hatchet",
+      "camp-hatchet"
+    ],
+    "outline": "<path d=\"M11 9 16.5 20.5\"/><path d=\"M11 9C9 6.5 9 4 11.2 3c.3 2 1.6 2.8 3.6 2.8 1.8 0 2.8 1.4 2.4 3.2-.4 1.8-2 2.6-4 2.2Z\"/>",
+    "solid": "<path d=\"M10.4 9.3 15.9 20.4a1 1 0 0 1-1.8.9L8.6 10.2Z\"/><path d=\"M11.1 9.4C8.8 6.6 8.9 3.9 11.3 2.8a.5.5 0 0 1 .7.5c-.13 1.6.95 2.25 2.9 2.3 1.95.05 3.15 1.55 2.75 3.45C17.25 10.9 15.4 11.7 13.3 11.3A6 6 0 0 1 11.1 9.4Z\"/>"
+  }
+}

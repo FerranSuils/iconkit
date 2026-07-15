@@ -1,0 +1,810 @@
+{
+  "crane-construction": {
+    "category": "construction",
+    "keywords": [
+      "grua",
+      "torre",
+      "obra",
+      "elevacion",
+      "crane",
+      "tower",
+      "lifting",
+      "hoist",
+      "pluma",
+      "jib",
+      "carga",
+      "load"
+    ],
+    "aliases": [
+      "tower-crane",
+      "construction-crane"
+    ],
+    "outline": "<path d=\"M6 21V5\"/><path d=\"M3 21h6\"/><path d=\"M3 5h18\"/><path d=\"M17 5v4\"/><rect x=\"14.2\" y=\"9\" width=\"5.6\" height=\"5\" rx=\"1\"/>",
+    "solid": null
+  },
+  "bulldozer": {
+    "category": "construction",
+    "keywords": [
+      "bulldozer",
+      "topadora",
+      "oruga",
+      "obra",
+      "dozer",
+      "earthmover",
+      "crawler",
+      "blade"
+    ],
+    "aliases": [
+      "dozer",
+      "crawler-dozer"
+    ],
+    "outline": "<path d=\"M6 15.5h9.5a2 2 0 0 1 2 2v.5a2 2 0 0 1-2 2H6a2.25 2.25 0 0 1 0-4.5Z\"/><path d=\"M8 15.5v-3.3a1 1 0 0 1 1-1h3.4a1 1 0 0 1 .82.43l1.6 2.3a1 1 0 0 1 .18.57v1\"/><path d=\"M3.8 12.2c-.8 2.7-.8 5.3 0 7.8\"/><path d=\"M4.2 15.8 8 16.8\"/><path d=\"M8.5 17.8h.01M11 17.8h.01M13.5 17.8h.01\"/>",
+    "solid": "<path d=\"M4 11.5a1 1 0 0 1 1 1v7a1 1 0 0 1-2 0v-7a1 1 0 0 1 1-1Z\"/><path d=\"M9 11a1 1 0 0 0-1 1v2.5h7.5v-.7a1 1 0 0 0-.18-.57l-1.6-2.3a1 1 0 0 0-.82-.43Z\"/><path d=\"M6 15.5h9.5a2 2 0 0 1 2 2v.5a2 2 0 0 1-2 2H6a2.25 2.25 0 0 1 0-4.5Zm2.5 1.6a.85.85 0 1 0 0 1.7.85.85 0 0 0 0-1.7Zm3.5 0a.85.85 0 1 0 0 1.7.85.85 0 0 0 0-1.7Zm3.3 0a.85.85 0 1 0 0 1.7.85.85 0 0 0 0-1.7Z\" fill-rule=\"evenodd\"/>"
+  },
+  "excavator": {
+    "category": "construction",
+    "keywords": [
+      "excavadora",
+      "retroexcavadora",
+      "obra",
+      "pala",
+      "excavator",
+      "digger",
+      "boom",
+      "bucket"
+    ],
+    "aliases": [
+      "digger",
+      "backhoe"
+    ],
+    "outline": "<path d=\"M4 17.5h9a2 2 0 0 1 0 4H4a2 2 0 0 1 0-4Z\"/><path d=\"M6 19.5h.01M9 19.5h.01M12 19.5h.01\"/><path d=\"M5.5 17.5v-4a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1v3\"/><path d=\"M6.6 14h3v2.2h-3z\"/><path d=\"M11 13.5 16 8.5l3 4.8\"/><path d=\"M17.5 12.7 21 14.3l-1.1 3.1-3.5-1.3z\"/>",
+    "solid": null
+  },
+  "cement-mixer": {
+    "category": "construction",
+    "keywords": [
+      "hormigonera",
+      "mezcladora",
+      "cemento",
+      "camion",
+      "concrete",
+      "mixer",
+      "truck",
+      "drum"
+    ],
+    "aliases": [
+      "concrete-mixer",
+      "mixer-truck"
+    ],
+    "outline": "<circle cx=\"8\" cy=\"18.3\" r=\"1.9\"/><circle cx=\"16.5\" cy=\"18.3\" r=\"1.9\"/><path d=\"M2.5 18.3h3.6M10 18.3h4.6M18.4 18.3H20\"/><path d=\"M2.5 16V12a1 1 0 0 1 1-1H6v5.5\"/><path d=\"M3.4 12.2h2v2h-2z\"/><path d=\"M7 8.5h5.5a4.25 4.25 0 0 1 0 8.5H7z\"/><path d=\"M8.6 10.2 12 15.8M12.6 9.6 8.6 15\"/>",
+    "solid": null
+  },
+  "jackhammer": {
+    "category": "construction",
+    "keywords": [
+      "martillo",
+      "neumatico",
+      "romper",
+      "demoler",
+      "jackhammer",
+      "pneumatic",
+      "breaker",
+      "drill"
+    ],
+    "aliases": [
+      "pneumatic-drill",
+      "breaker"
+    ],
+    "outline": "<path d=\"M8.5 4.5h7\"/><path d=\"M10 4.5v2.5M14 4.5v2.5\"/><path d=\"M9.5 7h5a1 1 0 0 1 1 1v4.5a1 1 0 0 1-1 1h-5a1 1 0 0 1-1-1V8a1 1 0 0 1 1-1z\"/><path d=\"M15.5 9.5c1.9 0 1.1 2.2 3 2.2\"/><path d=\"M11 13.5h2v2.6l-1 1.9-1-1.9z\"/><path d=\"M5.5 20.5h13\"/><path d=\"M9 20 10.3 18.7M15 20l-1.3-1.3\"/>",
+    "solid": null
+  },
+  "blueprint": {
+    "category": "construction",
+    "keywords": [
+      "plano",
+      "planos",
+      "arquitectura",
+      "diseno",
+      "blueprint",
+      "plan",
+      "draft",
+      "schematic"
+    ],
+    "aliases": [
+      "floor-plan",
+      "draft"
+    ],
+    "outline": "<rect x=\"3.5\" y=\"4\" width=\"17\" height=\"16\" rx=\"1.5\"/><path d=\"M7 15v-2.5l2.5-2 2.5 2V15\"/><path d=\"M7 17.5h10\"/><path d=\"M7.5 17.5v1M16.5 17.5v1\"/><path d=\"M13.5 8h4M15.5 8v3\"/>",
+    "solid": null
+  },
+  "scaffold": {
+    "category": "construction",
+    "keywords": [
+      "andamio",
+      "andamiaje",
+      "obra",
+      "estructura",
+      "scaffold",
+      "scaffolding",
+      "frame",
+      "platform"
+    ],
+    "aliases": [
+      "scaffolding"
+    ],
+    "outline": "<path d=\"M5 20V5M12 20V5M19 20V5\"/><path d=\"M4 5.5h16M4 12.5h16M4 19.5h16\"/><path d=\"M5 12.5 12 5.5M12 12.5 19 5.5M5 19.5 12 12.5M12 19.5 19 12.5\"/>",
+    "solid": null
+  },
+  "brick-wall": {
+    "category": "construction",
+    "keywords": [
+      "pared",
+      "muro",
+      "ladrillos",
+      "albanileria",
+      "brick",
+      "wall",
+      "masonry",
+      "bricks"
+    ],
+    "aliases": [
+      "wall",
+      "bricks"
+    ],
+    "outline": "<rect x=\"3.5\" y=\"5.5\" width=\"17\" height=\"13\" rx=\"1\"/><path d=\"M3.5 9.7h17M3.5 14.3h17\"/><path d=\"M9 5.5v4.2M15 5.5v4.2M6 9.7v4.6M12 9.7v4.6M18 9.7v4.6M9 14.3v4.2M15 14.3v4.2\"/>",
+    "solid": "<path d=\"M4 5.5h16a.5.5 0 0 1 .5.5v12a.5.5 0 0 1-.5.5H4a.5.5 0 0 1-.5-.5V6a.5.5 0 0 1 .5-.5ZM3.5 9.3h17v.7h-17ZM3.5 13.9h17v.7h-17ZM8.6 5.5h.8v3.8h-.8ZM14.6 5.5h.8v3.8h-.8ZM5.6 10h.8v3.9h-.8ZM11.6 10h.8v3.9h-.8ZM17.6 10h.8v3.9h-.8ZM8.6 14.6h.8v3.9h-.8ZM14.6 14.6h.8v3.9h-.8Z\" fill-rule=\"evenodd\"/>"
+  },
+  "cement-bag": {
+    "category": "construction",
+    "keywords": [
+      "saco",
+      "bolsa",
+      "cemento",
+      "mortero",
+      "cement",
+      "bag",
+      "sack",
+      "concrete"
+    ],
+    "aliases": [
+      "cement-sack",
+      "sack"
+    ],
+    "outline": "<path d=\"M7.5 6.5 9 5h6l1.5 1.5\"/><path d=\"M7 7.5c0-.6.4-1 1-1h8c.6 0 1 .4 1 1l.8 11.5a1.8 1.8 0 0 1-1.8 2H8a1.8 1.8 0 0 1-1.8-2z\"/><path d=\"M9 6.5h6\"/><path d=\"M9 11h6M9.5 13.5h5\"/>",
+    "solid": "<path d=\"M8.7 4.5h6.6a1 1 0 0 1 .7.3l1.4 1.4a1 1 0 0 1 .3.78l-.6 11.6A2 2 0 0 1 15.8 20.5H8.2a2 2 0 0 1-2-1.9L5.6 7.02a1 1 0 0 1 .3-.8l1.4-1.4a1 1 0 0 1 .7-.3ZM9 9.5h6a.8.8 0 0 1 0 1.6H9a.8.8 0 0 1 0-1.6Z\" fill-rule=\"evenodd\"/>"
+  },
+  "concrete-block": {
+    "category": "construction",
+    "keywords": [
+      "bloque",
+      "hormigon",
+      "cemento",
+      "mamposteria",
+      "concrete",
+      "block",
+      "cinder",
+      "masonry"
+    ],
+    "aliases": [
+      "cinder-block",
+      "breeze-block",
+      "cmu"
+    ],
+    "outline": "<rect x=\"3.5\" y=\"7\" width=\"17\" height=\"10\" rx=\"1\"/><rect x=\"6\" y=\"9.5\" width=\"4.5\" height=\"5\" rx=\"0.5\"/><rect x=\"13.5\" y=\"9.5\" width=\"4.5\" height=\"5\" rx=\"0.5\"/>",
+    "solid": "<path d=\"M4.5 7A1 1 0 0 0 3.5 8v8a1 1 0 0 0 1 1h15a1 1 0 0 0 1-1V8a1 1 0 0 0-1-1Zm2 2.5h3.5a.5.5 0 0 1 .5.5v4a.5.5 0 0 1-.5.5H6.5a.5.5 0 0 1-.5-.5v-4a.5.5 0 0 1 .5-.5Zm7.5 0h3.5a.5.5 0 0 1 .5.5v4a.5.5 0 0 1-.5.5H14a.5.5 0 0 1-.5-.5v-4a.5.5 0 0 1 .5-.5Z\" fill-rule=\"evenodd\"/>"
+  },
+  "road-work": {
+    "category": "construction",
+    "keywords": [
+      "obras",
+      "carretera",
+      "trabajo",
+      "excavando",
+      "roadwork",
+      "roadworks",
+      "digging",
+      "worker",
+      "pala",
+      "shovel",
+      "senal",
+      "sign",
+      "triangulo",
+      "triangle"
+    ],
+    "aliases": [
+      "roadworks",
+      "men-at-work",
+      "roadwork-sign"
+    ],
+    "outline": "<path d=\"M12.2 4.7 3.1 18.4a1.6 1.6 0 0 0 1.35 2.5h15.1a1.6 1.6 0 0 0 1.35-2.5L13.8 4.7a1.9 1.9 0 0 0-1.6-.9 1.9 1.9 0 0 0-1.6.9z\"/><path d=\"M12 10.2v4.1\"/><path d=\"M10.7 10.2h2.6\"/><path d=\"M9.9 14.3h4.2v.9a2.1 2.1 0 0 1-4.2 0z\"/>",
+    "solid": null
+  },
+  "traffic-cone-construction": {
+    "category": "construction",
+    "keywords": [
+      "cono",
+      "trafico",
+      "obra",
+      "seguridad",
+      "cone",
+      "traffic",
+      "safety",
+      "pylon"
+    ],
+    "aliases": [
+      "traffic-pylon",
+      "safety-cone",
+      "construction-cone"
+    ],
+    "outline": "<path d=\"M11.2 5.5a.8.8 0 0 1 1.6 0l2.7 12H8.5z\"/><path d=\"M9.8 11h4.4M9 14.5h6\"/><path d=\"M6 17.5h12a1 1 0 0 1 1 1v.8a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1v-.8a1 1 0 0 1 1-1z\"/>",
+    "solid": "<path d=\"M11.2 5.4a.8.8 0 0 1 1.6 0l.5 2.1h-2.6ZM10.4 8.5h3.2l.6 2.5h-4.4ZM9.9 12h4.2l.9 4H9Z\" fill-rule=\"evenodd\"/><path d=\"M6 17.5h12a1.3 1.3 0 0 1 1.3 1.3v.5a1.3 1.3 0 0 1-1.3 1.3H6a1.3 1.3 0 0 1-1.3-1.3v-.5A1.3 1.3 0 0 1 6 17.5Z\"/>"
+  },
+  "barrier-construction": {
+    "category": "construction",
+    "keywords": [
+      "barrera",
+      "valla",
+      "barricada",
+      "obra",
+      "barrier",
+      "barricade",
+      "roadblock",
+      "fence"
+    ],
+    "aliases": [
+      "barricade",
+      "road-barrier"
+    ],
+    "outline": "<rect x=\"3.5\" y=\"7.5\" width=\"17\" height=\"4\" rx=\"0.5\"/><path d=\"M5 7.5 8 11.5M9 7.5 12 11.5M13 7.5 16 11.5M17 7.5 20 11.5\"/><path d=\"M6.5 11.5 5 19M6.5 11.5 8 19M17.5 11.5 19 19M17.5 11.5 16 19\"/>",
+    "solid": "<path d=\"M4 7.5h16a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-.5.5H4a.5.5 0 0 1-.5-.5V8a.5.5 0 0 1 .5-.5Zm3.2 1-2 3h1.6l2-3Zm4 0-2 3h1.6l2-3Zm4 0-2 3h1.6l2-3Z\" fill-rule=\"evenodd\"/><path d=\"M6.5 11.5 4.8 19M6.5 11.5 8.2 19M17.5 11.5 19.2 19M17.5 11.5 15.8 19\"/>"
+  },
+  "safety-vest": {
+    "category": "construction",
+    "keywords": [
+      "chaleco",
+      "seguridad",
+      "reflectante",
+      "obra",
+      "vest",
+      "safety",
+      "hivis",
+      "reflective"
+    ],
+    "aliases": [
+      "hi-vis-vest",
+      "reflective-vest",
+      "safety-jacket"
+    ],
+    "outline": "<path d=\"M8.5 4.5 12 7.5 15.5 4.5\"/><path d=\"M8.5 4.5 5.7 6 4.3 9.6 7 11.2V20h4\"/><path d=\"M15.5 4.5 18.3 6l1.4 3.6L17 11.2V20h-4\"/><path d=\"M12 7.5V20\"/><path d=\"M7.2 13.8h3.6M13.2 13.8h3.6M7.2 16.4h3.6M13.2 16.4h3.6\"/>",
+    "solid": "<path d=\"M8.6 4 12 6.9 15.4 4a1 1 0 0 1 .5.1L18.6 5.4a1 1 0 0 1 .5.5l1.4 3.6a1 1 0 0 1-.4 1.2l-2 1.2V20a1 1 0 0 1-1 1H7a1 1 0 0 1-1-1v-8.3L4 10.7a1 1 0 0 1-.4-1.2L5 5.9a1 1 0 0 1 .5-.5L8.1 4.1a1 1 0 0 1 .5-.1ZM11.4 8.5h1.2V20h-1.2ZM7 12.8h3.6v1.5H7ZM13.4 12.8H17v1.5h-3.6ZM7 15.6h3.6v1.5H7ZM13.4 15.6H17v1.5h-3.6Z\" fill-rule=\"evenodd\"/>"
+  },
+  "level-tool2": {
+    "category": "construction",
+    "keywords": [
+      "nivel",
+      "burbuja",
+      "nivelar",
+      "herramienta",
+      "level",
+      "spirit",
+      "bubble",
+      "builders"
+    ],
+    "aliases": [
+      "bubble-level2",
+      "spirit-level2",
+      "builders-level"
+    ],
+    "outline": "<rect x=\"2.5\" y=\"9\" width=\"19\" height=\"6\" rx=\"1.5\"/><circle cx=\"8\" cy=\"12\" r=\"1.7\"/><circle cx=\"16\" cy=\"12\" r=\"1.7\"/><path d=\"M7 12h2M15 12h2M12 9.5v5\"/>",
+    "solid": "<path d=\"M4 9a1.5 1.5 0 0 0-1.5 1.5v3A1.5 1.5 0 0 0 4 15h16a1.5 1.5 0 0 0 1.5-1.5v-3A1.5 1.5 0 0 0 20 9Zm4 1.3a1.7 1.7 0 1 1 0 3.4 1.7 1.7 0 0 1 0-3.4Zm8 0a1.7 1.7 0 1 1 0 3.4 1.7 1.7 0 0 1 0-3.4Z\" fill-rule=\"evenodd\"/><circle cx=\"8\" cy=\"12\" r=\".7\"/><circle cx=\"16\" cy=\"12\" r=\".7\"/>"
+  },
+  "plumb-bob": {
+    "category": "construction",
+    "keywords": [
+      "plomada",
+      "plomo",
+      "vertical",
+      "nivel",
+      "plumb",
+      "bob",
+      "plumbline",
+      "weight"
+    ],
+    "aliases": [
+      "plumb-line",
+      "plummet"
+    ],
+    "outline": "<path d=\"M8.5 3h7\"/><path d=\"M12 3.5v7\"/><path d=\"M10 10.5h4l-.7 4.2L12 19.5l-1.3-4.8z\"/><path d=\"M11.2 10.5v-1a.8.8 0 0 1 1.6 0v1\"/>",
+    "solid": "<path d=\"M8.5 2.4h7a.8.8 0 0 1 0 1.6H8.5a.8.8 0 0 1 0-1.6Z\"/><path d=\"M11.5 4h1v6h-1z\"/><path d=\"M9.8 10a.6.6 0 0 0-.6.7l.9 4.5a1 1 0 0 0 .15.4l1.3 2a.5.5 0 0 0 .84 0l1.3-2a1 1 0 0 0 .15-.4l.9-4.5a.6.6 0 0 0-.6-.7z\"/>"
+  },
+  "steel-beam": {
+    "category": "construction",
+    "keywords": [
+      "viga",
+      "acero",
+      "hierro",
+      "estructura",
+      "beam",
+      "steel",
+      "girder",
+      "ibeam"
+    ],
+    "aliases": [
+      "i-beam",
+      "girder",
+      "rsj"
+    ],
+    "outline": "<path d=\"M5 8H13V9.8H9.8V14.2H13V16H5V14.2H8.2V9.8H5Z\"/><path d=\"M5 8 7 6h8l-2 2\"/><path d=\"M13 8 15 6v8l-2 2\"/>",
+    "solid": "<path d=\"M5 8h8v1.8H9.8v4.4H13V16H5v-1.8h3.2V9.8H5Z\"/><path d=\"M7 6h8l-2 2H5Z\"/><path d=\"M15 6v8l-2 2V8Z\"/>"
+  },
+  "pillar-column": {
+    "category": "construction",
+    "keywords": [
+      "columna",
+      "pilar",
+      "pilastra",
+      "estructura",
+      "column",
+      "pillar",
+      "support",
+      "classical"
+    ],
+    "aliases": [
+      "column",
+      "pilaster",
+      "structural-post"
+    ],
+    "outline": "<path d=\"M4.5 5.5h15\"/><path d=\"M6 8h12\"/><path d=\"M6 8v10M18 8v10\"/><path d=\"M9.5 8v10M12 8v10M14.5 8v10\"/><path d=\"M6 18h12\"/><path d=\"M4.5 20.5h15\"/>",
+    "solid": "<path d=\"M4.5 5h15a.9.9 0 0 1 0 1.8H4.5a.9.9 0 0 1 0-1.8Z\"/><path d=\"M6 8h12v9.5H6Zm2.3.6h.5v8.3h-.5Zm2.4 0h.5v8.3h-.5Zm2.4 0h.5v8.3h-.5Zm2.4 0h.5v8.3h-.5Z\" fill-rule=\"evenodd\"/><path d=\"M4.5 19.3h15a.9.9 0 0 1 0 1.8H4.5a.9.9 0 0 1 0-1.8Z\"/>"
+  },
+  "foundation": {
+    "category": "construction",
+    "keywords": [
+      "cimientos",
+      "cimentacion",
+      "zapata",
+      "base",
+      "foundation",
+      "footing",
+      "slab",
+      "groundwork"
+    ],
+    "aliases": [
+      "footing",
+      "groundwork",
+      "base-slab"
+    ],
+    "outline": "<path d=\"M6.5 4h11v9h-11z\"/><path d=\"M4 13h16v3.2H4z\"/><path d=\"M3 16.2h18\"/><path d=\"M6 16.2 4.3 19M10 16.2 8.3 19M14 16.2 12.3 19M18 16.2 16.3 19\"/>",
+    "solid": null
+  },
+  "dump-truck": {
+    "category": "construction",
+    "keywords": [
+      "volquete",
+      "camion",
+      "basculante",
+      "carga",
+      "dump",
+      "truck",
+      "tipper",
+      "load"
+    ],
+    "aliases": [
+      "tipper-truck",
+      "dumper"
+    ],
+    "outline": "<path d=\"M3 8.5 4.8 6.9 6.6 8.4 8.4 6.9 10.2 8.4 12 6.9V16.2H3z\"/><path d=\"M12 10h4.6a1 1 0 0 1 .82.43l2.3 3.2a1 1 0 0 1 .18.57v2H12z\"/><path d=\"M13.7 11.2v2.8h3.5\"/><circle cx=\"7\" cy=\"18\" r=\"1.9\"/><circle cx=\"16.5\" cy=\"18\" r=\"1.9\"/><path d=\"M3 16.2h1.6M9 16.2h5.6M18.4 16.2H20\"/>",
+    "solid": "<path d=\"M2.4 8.5a.6.6 0 0 1 1-.5l1.4 1.2 1.4-1.2a.6.6 0 0 1 .8 0l1.4 1.2 1.4-1.2a.6.6 0 0 1 .96.44V16.5H2.4Z\"/><path d=\"M12 10h4.6a1 1 0 0 1 .82.43l2.3 3.2a1 1 0 0 1 .18.57v2.3H12Zm1.7 1.2v2.8h3.3Z\" fill-rule=\"evenodd\"/><path d=\"M7 15.9a2.1 2.1 0 1 0 0 4.2 2.1 2.1 0 0 0 0-4.2Zm0 1.05a1.05 1.05 0 1 1 0 2.1 1.05 1.05 0 0 1 0-2.1ZM16.5 15.9a2.1 2.1 0 1 0 0 4.2 2.1 2.1 0 0 0 0-4.2Zm0 1.05a1.05 1.05 0 1 1 0 2.1 1.05 1.05 0 0 1 0-2.1Z\" fill-rule=\"evenodd\"/>"
+  },
+  "drill-construction": {
+    "category": "construction",
+    "keywords": [
+      "taladro",
+      "percutor",
+      "broca",
+      "obra",
+      "drill",
+      "hammerdrill",
+      "masonry",
+      "boring"
+    ],
+    "aliases": [
+      "hammer-drill",
+      "masonry-drill",
+      "rotary-hammer"
+    ],
+    "outline": "<path d=\"M3 9.2a1 1 0 0 1 1-1h5.5a1 1 0 0 1 1 1v.3H12a.9.9 0 0 1 .9.9v1.2a.9.9 0 0 1-.9.9h-1.5v.3a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z\"/><path d=\"M4.8 13.8v1.7A1.5 1.5 0 0 0 6.3 17h1.4a1.5 1.5 0 0 0 1.5-1.5v-1.7\"/><path d=\"M12.9 11.4h3.1\"/><path d=\"M16 9.3h4.5v4.8H16z\"/><path d=\"M16 11.7h2.2\"/><path d=\"M18.4 9.3v4.8\"/>",
+    "solid": null
+  },
+  "welding-torch": {
+    "category": "construction",
+    "keywords": [
+      "soldar",
+      "soldadura",
+      "soplete",
+      "llama",
+      "torch",
+      "welding",
+      "weld",
+      "blowtorch",
+      "chispas",
+      "sparks"
+    ],
+    "aliases": [
+      "blowtorch",
+      "welder",
+      "soldering-torch"
+    ],
+    "outline": "<path d=\"M4.6 16.4 12.8 8.2a1.7 1.7 0 0 1 2.4 2.4L7 18.8a1.7 1.7 0 0 1-2.4-2.4z\"/><path d=\"M16.6 6.8l1.8-1.8\"/><path d=\"M17.6 10.4h2.9\"/><path d=\"M13.2 5.4V2.6\"/>",
+    "solid": null
+  },
+  "saw-construction": {
+    "category": "construction",
+    "keywords": [
+      "sierra",
+      "circular",
+      "disco",
+      "cortar",
+      "saw",
+      "blade",
+      "cutting",
+      "power"
+    ],
+    "aliases": [
+      "circular-saw",
+      "power-saw",
+      "disc-saw"
+    ],
+    "outline": "<circle cx=\"9.5\" cy=\"11\" r=\"5.3\"/><circle cx=\"9.5\" cy=\"11\" r=\"1\"/><path d=\"M9.5 5.7v1.3M13.3 8.8l-.9.9M14.8 11h-1.3M13.3 13.2l-.9-.9M9.5 16.3v-1.3M5.7 13.2l.9-.9M4.2 11h1.3M5.7 8.8l.9.9\"/><path d=\"M4 16.3h9\"/><path d=\"M13 8h3.5a1.5 1.5 0 0 1 1.5 1.5V12h-3.2\"/><path d=\"M13.5 8c.8-1.4 3-1.4 3.8 0\"/>",
+    "solid": null
+  },
+  "measuring-tape2": {
+    "category": "construction",
+    "keywords": [
+      "cinta",
+      "metrica",
+      "medir",
+      "metro",
+      "tape",
+      "measure",
+      "measuring",
+      "retractable"
+    ],
+    "aliases": [
+      "tape-measure2",
+      "retractable-tape",
+      "tape-ruler"
+    ],
+    "outline": "<rect x=\"2.5\" y=\"11.5\" width=\"8.5\" height=\"8\" rx=\"1.5\"/><circle cx=\"6.75\" cy=\"15.5\" r=\"1.9\"/><path d=\"M11 12.5h8.5a1 1 0 0 1 1 1v1.8H11z\"/><path d=\"M13 12.5v1M15 12.5v1M17 12.5v1M19 12.5v1\"/><path d=\"M20.5 13.6v1.7\"/>",
+    "solid": null
+  },
+  "paint-construction": {
+    "category": "construction",
+    "keywords": [
+      "pintura",
+      "pintar",
+      "rodillo",
+      "pared",
+      "paint",
+      "painting",
+      "roller",
+      "decorating"
+    ],
+    "aliases": [
+      "painting",
+      "wall-painting",
+      "paint-work"
+    ],
+    "outline": "<rect x=\"5\" y=\"3.5\" width=\"11\" height=\"4\" rx=\"1.2\"/><path d=\"M16 5.5h1.2a1 1 0 0 1 1 1v1a1.5 1.5 0 0 1-1.5 1.5H12.5a1 1 0 0 0-1 1v1.5\"/><rect x=\"10.3\" y=\"11.5\" width=\"2.4\" height=\"8.5\" rx=\"1.2\"/><path d=\"M5 8v3a1 1 0 0 0 1 1h9a1 1 0 0 0 1-1V8\"/><path d=\"M6.5 9.5v1M9 9.5v1M11.5 9.5v1M14 9.5v1\"/>",
+    "solid": null
+  },
+  "tiles-floor": {
+    "category": "construction",
+    "keywords": [
+      "baldosas",
+      "azulejos",
+      "suelo",
+      "piso",
+      "tiles",
+      "flooring",
+      "tiling",
+      "floor"
+    ],
+    "aliases": [
+      "tiling",
+      "floor-tiles",
+      "flooring"
+    ],
+    "outline": "<path d=\"M8 6h8l4 13H4z\"/><path d=\"M6.7 11.3h10.6M5.4 15.4h13.2\"/><path d=\"M12 6v13M10 6 7.5 19M14 6l2.5 13\"/>",
+    "solid": null
+  },
+  "roof-construction": {
+    "category": "construction",
+    "keywords": [
+      "techo",
+      "tejado",
+      "cubierta",
+      "armadura",
+      "roof",
+      "roofing",
+      "truss",
+      "rafters"
+    ],
+    "aliases": [
+      "roofing",
+      "roof-truss",
+      "rafters"
+    ],
+    "outline": "<path d=\"M2.5 12.5 12 4.5l9.5 8\"/><path d=\"M4.5 12.5h15\"/><path d=\"M12 5v7.5\"/><path d=\"M8 9 12 12.5M16 9 12 12.5\"/>",
+    "solid": "<path d=\"M11.35 4.23a1 1 0 0 1 1.3 0l9.5 8a1 1 0 0 1-1.3 1.54L12 6.31l-8.85 7.46a1 1 0 0 1-1.3-1.54Z\" fill-rule=\"evenodd\"/>"
+  },
+  "window-install": {
+    "category": "construction",
+    "keywords": [
+      "ventana",
+      "instalar",
+      "montaje",
+      "obra",
+      "window",
+      "install",
+      "installation",
+      "glazing"
+    ],
+    "aliases": [
+      "window-installation",
+      "glazing",
+      "fit-window"
+    ],
+    "outline": "<rect x=\"4\" y=\"7\" width=\"16\" height=\"13\" rx=\"1\"/><path d=\"M12 7v13M4 13.5h16\"/><path d=\"M12 2.5v3M10.3 3.8 12 5.5l1.7-1.7\"/>",
+    "solid": "<path d=\"M4.5 7A1.5 1.5 0 0 0 3 8.5v11A1.5 1.5 0 0 0 4.5 21h15a1.5 1.5 0 0 0 1.5-1.5v-11A1.5 1.5 0 0 0 19.5 7Zm.5 2h6v3.5H5Zm8 0h6v3.5h-6Zm-8 5.5h6V18H5Zm8 0h6V18h-6Z\" fill-rule=\"evenodd\"/><path d=\"M12 2.3a.9.9 0 0 1 .9.9v.7l.9-.9a.9.9 0 0 1 1.28 1.28l-2.45 2.44a.9.9 0 0 1-1.27 0L8.9 4.28a.9.9 0 0 1 1.28-1.28l.92.9V3.2a.9.9 0 0 1 .9-.9Z\"/>"
+  },
+  "door-install": {
+    "category": "construction",
+    "keywords": [
+      "puerta",
+      "instalar",
+      "montaje",
+      "obra",
+      "door",
+      "install",
+      "installation",
+      "hang"
+    ],
+    "aliases": [
+      "door-installation",
+      "hang-door",
+      "fit-door"
+    ],
+    "outline": "<rect x=\"5.5\" y=\"3.5\" width=\"9\" height=\"17\" rx=\"0.6\"/><path d=\"M12 11.3v2.4\"/><path d=\"M3.5 20.5h17\"/><path d=\"M18.5 7.5V13M16.8 11.3l1.7 1.7 1.7-1.7\"/>",
+    "solid": "<path d=\"M6.5 3.5h7A1.5 1.5 0 0 1 15 5v15.5H5V5a1.5 1.5 0 0 1 1.5-1.5Zm5.5 7.8a.9.9 0 0 0-.9.9v1.6a.9.9 0 0 0 1.8 0v-1.6a.9.9 0 0 0-.9-.9Z\" fill-rule=\"evenodd\"/><path d=\"M3.5 20h17a.8.8 0 0 1 0 1.6h-17a.8.8 0 0 1 0-1.6Z\"/><path d=\"M18.5 7a.8.8 0 0 1 .8.8v3.9l.9-.9a.8.8 0 0 1 1.14 1.14l-2.27 2.27a.8.8 0 0 1-1.14 0L15.66 11.94a.8.8 0 0 1 1.14-1.14l.9.9V7.8A.8.8 0 0 1 18.5 7Z\"/>"
+  },
+  "electrical-wiring": {
+    "category": "construction",
+    "keywords": [
+      "cableado",
+      "cables",
+      "electrico",
+      "instalacion",
+      "wiring",
+      "electrical",
+      "wires",
+      "cabling",
+      "enchufe",
+      "plug",
+      "rayo",
+      "bolt"
+    ],
+    "aliases": [
+      "wiring",
+      "electrical-cables",
+      "electrics"
+    ],
+    "outline": "<path d=\"M5 2.5v3\"/><path d=\"M9 2.5v3\"/><path d=\"M3.5 5.5h7v2a3.5 3.5 0 0 1-7 0z\"/><path d=\"M7 11v4.5a3.5 3.5 0 0 0 3.5 3.5H13\"/><path d=\"M17.8 3.5 13.2 10.5h2.6L14.9 16.5 19.5 9.5h-2.6z\"/>",
+    "solid": null
+  },
+  "pipe-plumbing": {
+    "category": "construction",
+    "keywords": [
+      "tuberia",
+      "tubo",
+      "fontaneria",
+      "caneria",
+      "pipe",
+      "plumbing",
+      "plumber",
+      "fitting"
+    ],
+    "aliases": [
+      "plumbing",
+      "pipe-fitting",
+      "pipework"
+    ],
+    "outline": "<path d=\"M4 8h7.5A2.5 2.5 0 0 1 14 10.5V20.5\"/><path d=\"M4 12h5.5A.5.5 0 0 1 10 12.5V20.5\"/><path d=\"M4 8V12\"/><path d=\"M10 20.5h4\"/><path d=\"M3 7h1.6v6H3z\"/><path d=\"M9 20.3h6v1.6H9z\"/>",
+    "solid": null
+  },
+  "insulation": {
+    "category": "construction",
+    "keywords": [
+      "aislamiento",
+      "aislante",
+      "termico",
+      "lana",
+      "insulation",
+      "thermal",
+      "batt",
+      "insulating"
+    ],
+    "aliases": [
+      "thermal-insulation",
+      "insulating-batt",
+      "wall-insulation"
+    ],
+    "outline": "<path d=\"M4 4.5v15M20 4.5v15\"/><path d=\"M4 7.5q4 2.2 8 0t8 0M4 11q4 2.2 8 0t8 0M4 14.5q4 2.2 8 0t8 0M4 18q4 2.2 8 0t8 0\"/>",
+    "solid": null
+  },
+  "rebar": {
+    "category": "construction",
+    "keywords": [
+      "varilla",
+      "acero",
+      "corrugado",
+      "refuerzo",
+      "rebar",
+      "reinforcement",
+      "reinforcing",
+      "bars",
+      "ribbed"
+    ],
+    "aliases": [
+      "reinforcing-bar",
+      "reinforcement-steel",
+      "rebars"
+    ],
+    "outline": "<path d=\"M3 13 13 3\"/><path d=\"M4.95 9.35l1.7 1.7M7.15 7.15l1.7 1.7M9.35 4.95l1.7 1.7\"/><path d=\"M5.5 18.5 18.5 5.5\"/><path d=\"M7.9 14.4l1.7 1.7M11.15 11.15l1.7 1.7M14.4 7.9l1.7 1.7\"/><path d=\"M11 21 21 11\"/><path d=\"M12.95 17.35l1.7 1.7M15.15 15.15l1.7 1.7M17.35 12.95l1.7 1.7\"/>",
+    "solid": null
+  },
+  "mortar-trowel": {
+    "category": "construction",
+    "keywords": [
+      "paleta",
+      "llana",
+      "albanil",
+      "mortero",
+      "trowel",
+      "masonry",
+      "mortar",
+      "plaster"
+    ],
+    "aliases": [
+      "brick-trowel",
+      "masonry-trowel",
+      "pointing-trowel"
+    ],
+    "outline": "<path d=\"M2.8 12 12 8.3v7.4z\"/><path d=\"M12 10.7h2.2M12 13.3h2.2\"/><rect x=\"13.8\" y=\"9.8\" width=\"5.2\" height=\"4.4\" rx=\"1.6\"/><path d=\"M5.5 11.2q1.6-.8 3.2 0\"/>",
+    "solid": "<path d=\"M2.4 12a.6.6 0 0 1 .38-.56L11.7 7.9a.6.6 0 0 1 .8.56v7.08a.6.6 0 0 1-.8.56L2.78 12.56A.6.6 0 0 1 2.4 12Z\"/><path d=\"M15.5 9.8h1.5A2 2 0 0 1 19 11.8v.4a2 2 0 0 1-2 2h-1.5a1.5 1.5 0 0 1-1.5-1.5v-1.4a1.5 1.5 0 0 1 1.5-1.5Z\"/><path d=\"M12.5 10.5h2v3h-2z\"/>"
+  },
+  "surveyor": {
+    "category": "construction",
+    "keywords": [
+      "topografo",
+      "teodolito",
+      "tripode",
+      "medicion",
+      "surveyor",
+      "theodolite",
+      "surveying",
+      "tripod"
+    ],
+    "aliases": [
+      "theodolite",
+      "total-station",
+      "surveying-level"
+    ],
+    "outline": "<path d=\"M12 12.8 6.5 21M12 12.8 17.5 21M12 12.8V21\"/><path d=\"M9.8 12.5 10.7 9.2h2.6l.9 3.3z\"/><rect x=\"6.8\" y=\"6.4\" width=\"10.4\" height=\"2.8\" rx=\"1.4\"/><path d=\"M11.6 9.2v3.3\"/>",
+    "solid": null
+  },
+  "demolition": {
+    "category": "construction",
+    "keywords": [
+      "demolicion",
+      "derribo",
+      "bola",
+      "obra",
+      "demolition",
+      "wrecking",
+      "teardown",
+      "knockdown"
+    ],
+    "aliases": [
+      "wrecking-ball",
+      "teardown",
+      "knockdown"
+    ],
+    "outline": "<path d=\"M13.5 6.5H20\"/><circle cx=\"7.5\" cy=\"14.5\" r=\"3.3\"/><path d=\"M9.7 12.1 14.8 6.9\"/><path d=\"M10.6 11l.9.9M12.4 9.1l.9.9\"/><path d=\"M15 21v-5.3h5.5V21\"/><path d=\"M15 15.7l1.4-1 1.4 1 1.4-1 1.3 1\"/><path d=\"M15 18.3h5.5\"/>",
+    "solid": null
+  },
+  "warning-sign-construction": {
+    "category": "construction",
+    "keywords": [
+      "senal",
+      "advertencia",
+      "obras",
+      "peligro",
+      "warning",
+      "sign",
+      "hazard",
+      "construction",
+      "exclamacion",
+      "exclamation"
+    ],
+    "aliases": [
+      "construction-sign",
+      "hazard-triangle",
+      "caution-sign"
+    ],
+    "outline": "<path d=\"M12.2 4.7 3.1 18.4a1.6 1.6 0 0 0 1.35 2.5h15.1a1.6 1.6 0 0 0 1.35-2.5L13.8 4.7a1.9 1.9 0 0 0-1.6-.9 1.9 1.9 0 0 0-1.6.9z\"/><path d=\"M12.4 9.5v4.6\"/><path d=\"M12.4 17.4h.01\"/>",
+    "solid": null
+  },
+  "crane-hook": {
+    "category": "construction",
+    "keywords": [
+      "gancho",
+      "grua",
+      "izar",
+      "carga",
+      "hook",
+      "lifting",
+      "rigging",
+      "crane",
+      "argolla",
+      "shackle"
+    ],
+    "aliases": [
+      "lifting-hook",
+      "cargo-hook",
+      "rigging-hook"
+    ],
+    "outline": "<circle cx=\"11.8\" cy=\"3.9\" r=\"1.9\"/><path d=\"M11.8 5.8v4.5\"/><path d=\"M11.8 10.3a5.1 5.1 0 1 0 5.1 5.1V13.2\"/>",
+    "solid": null
+  },
+  "ladder-construction": {
+    "category": "construction",
+    "keywords": [
+      "escalera",
+      "tijera",
+      "peldanos",
+      "obra",
+      "ladder",
+      "stepladder",
+      "aframe",
+      "steps"
+    ],
+    "aliases": [
+      "stepladder",
+      "step-ladder",
+      "a-frame-ladder"
+    ],
+    "outline": "<path d=\"M11 4.5 7 20M13 4.5 17 20\"/><path d=\"M10.9 4.5h2.2\"/><path d=\"M9.8 8.5h4.4M9 12h6M8.1 15.5h7.8\"/><path d=\"M12.6 5 18.5 19.5\"/>",
+    "solid": null
+  },
+  "toolbelt": {
+    "category": "construction",
+    "keywords": [
+      "cinturon",
+      "herramientas",
+      "porta",
+      "obra",
+      "toolbelt",
+      "belt",
+      "pouch",
+      "utility"
+    ],
+    "aliases": [
+      "tool-belt",
+      "utility-belt",
+      "tool-pouch"
+    ],
+    "outline": "<path d=\"M3 8.6c6-1.7 12-1.7 18 0v2.5c-6-1.7-12-1.7-18 0z\"/><rect x=\"10\" y=\"7.9\" width=\"4\" height=\"3.6\" rx=\"0.6\"/><path d=\"M4.6 10.9v4.6a1.1 1.1 0 0 0 1.1 1.1h2.4a1.1 1.1 0 0 0 1.1-1.1v-4.2\"/><path d=\"M14.8 10.5v5a1.1 1.1 0 0 0 1.1 1.1h2.4a1.1 1.1 0 0 0 1.1-1.1v-4.6\"/><path d=\"M6.9 11V8\"/><path d=\"M16 11v-2.5h2\"/>",
+    "solid": "<path d=\"M3 8.6c6-1.7 12-1.7 18 0v2.5c-6-1.7-12-1.7-18 0Zm7 .3a.6.6 0 0 0-.6.6v1.4a.6.6 0 0 0 .6.6h4a.6.6 0 0 0 .6-.6V9.5a.6.6 0 0 0-.6-.6Z\" fill-rule=\"evenodd\"/><path d=\"M4.6 11.2h4.6v4.3a1.1 1.1 0 0 1-1.1 1.1H5.7a1.1 1.1 0 0 1-1.1-1.1Z\"/><path d=\"M14.8 10.9h4.6v4.6a1.1 1.1 0 0 1-1.1 1.1h-2.4a1.1 1.1 0 0 1-1.1-1.1Z\"/><path d=\"M6.3 8.5h1.2v2.5H6.3z\"/><path d=\"M15.7 8.3h2.3v1.2h-1.1v1.4h-1.2z\"/>"
+  }
+}

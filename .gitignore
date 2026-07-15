@@ -1,0 +1,23 @@
+# Dependencias
+node_modules/
+
+# Salida generada por el build
+dist/
+.font-tmp/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Sistema operativo
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editores
+.vscode/
+.idea/
+
+# Variables de entorno
+.env
+.env.*

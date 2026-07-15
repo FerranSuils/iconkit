@@ -1,0 +1,317 @@
+{
+  "circle-shape": {
+    "category": "shapes-symbols",
+    "keywords": ["circle", "round", "circulo", "redondo", "ring", "disc"],
+    "aliases": ["circle", "round"],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"9\"/>",
+    "solid": "<circle cx=\"12\" cy=\"12\" r=\"9.5\"/>"
+  },
+  "square-shape": {
+    "category": "shapes-symbols",
+    "keywords": ["square", "box", "cuadrado", "caja", "rect", "shape"],
+    "aliases": ["square", "box"],
+    "outline": "<rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/>",
+    "solid": "<rect x=\"2.5\" y=\"2.5\" width=\"19\" height=\"19\" rx=\"2.5\"/>"
+  },
+  "triangle-shape": {
+    "category": "shapes-symbols",
+    "keywords": ["triangle", "triangulo", "shape", "forma", "delta"],
+    "aliases": ["triangle"],
+    "outline": "<path d=\"M12 3.5 20.5 19.5H3.5Z\"/>",
+    "solid": "<path d=\"M12 3 21 20H3Z\"/>"
+  },
+  "diamond-shape": {
+    "category": "shapes-symbols",
+    "keywords": ["diamond", "diamante", "gem", "rombo", "suit", "shape"],
+    "aliases": ["diamond", "gem-shape"],
+    "outline": "<path d=\"M12 2.5 19 12 12 21.5 5 12Z\"/>",
+    "solid": "<path d=\"M12 2.5 19 12 12 21.5 5 12Z\"/>"
+  },
+  "hexagon": {
+    "category": "shapes-symbols",
+    "keywords": ["hexagon", "hexagono", "six", "seis", "polygon", "shape"],
+    "aliases": ["six-sided"],
+    "outline": "<path d=\"M12 3 20 7.5v9L12 21 4 16.5v-9Z\"/>",
+    "solid": "<path d=\"M12 3 20 7.5v9L12 21 4 16.5v-9Z\"/>"
+  },
+  "pentagon": {
+    "category": "shapes-symbols",
+    "keywords": ["pentagon", "pentagono", "five", "cinco", "polygon", "shape"],
+    "aliases": ["five-sided"],
+    "outline": "<path d=\"M12 2.5 21 9.1 17.6 19.7 6.4 19.7 3 9.1Z\"/>",
+    "solid": "<path d=\"M12 2.5 21 9.1 17.6 19.7 6.4 19.7 3 9.1Z\"/>"
+  },
+  "octagon": {
+    "category": "shapes-symbols",
+    "keywords": ["octagon", "octagono", "eight", "ocho", "stop", "polygon"],
+    "aliases": ["eight-sided", "stop-shape"],
+    "outline": "<path d=\"M9 3h6l6 6v6l-6 6H9l-6-6V9Z\"/>",
+    "solid": "<path d=\"M9 3h6l6 6v6l-6 6H9l-6-6V9Z\"/>"
+  },
+  "cross-symbol": {
+    "category": "shapes-symbols",
+    "keywords": ["cross", "cruz", "religion", "christian", "faith", "crucifix"],
+    "aliases": ["latin-cross", "crucifix"],
+    "outline": "<path d=\"M12 3v18M7 8h10\"/>",
+    "solid": null
+  },
+  "infinity-symbol": {
+    "category": "shapes-symbols",
+    "keywords": ["infinity", "infinito", "loop", "forever", "lemniscate", "endless"],
+    "aliases": ["infinite", "loop"],
+    "outline": "<path d=\"M9.83 9.17a4 4 0 1 0 0 5.66 10 10 0 0 0 1.17-1.17l2-2.83a10 10 0 0 1 1.17-1.17 4 4 0 1 1 0 5.66 10 10 0 0 1-1.17-1.17l-2-2.83a10 10 0 0 0-1.17-1.17\"/>",
+    "solid": null
+  },
+  "asterisk-symbol": {
+    "category": "shapes-symbols",
+    "keywords": ["asterisk", "asterisco", "star", "footnote", "multiply", "required"],
+    "aliases": ["asterisk", "star-symbol"],
+    "outline": "<path d=\"M12 4v16M5 8l14 8M19 8 5 16\"/>",
+    "solid": null
+  },
+  "hash-symbol": {
+    "category": "shapes-symbols",
+    "keywords": ["hash", "hashtag", "pound", "number", "numeral", "almohadilla"],
+    "aliases": ["hashtag", "pound", "number-sign"],
+    "outline": "<path d=\"M9 4 7 20M17 4 15 20M5.5 9h13M4.5 15h13\"/>",
+    "solid": null
+  },
+  "ampersand": {
+    "category": "shapes-symbols",
+    "keywords": ["ampersand", "and", "y", "et", "symbol", "conjunction"],
+    "aliases": ["and-symbol"],
+    "outline": "<path d=\"M16.5 20 8 10.5a3 3 0 1 1 4.3-1.3c-.5 1.2-1.7 2-3 2.8C6.8 13.4 5 15 5 17.2A3.8 3.8 0 0 0 12 19.3L15.5 13\"/>",
+    "solid": null
+  },
+  "copyright-symbol": {
+    "category": "shapes-symbols",
+    "keywords": ["copyright", "copyright", "derechos", "author", "legal", "rights"],
+    "aliases": ["copyright"],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M14.5 9.5a3.2 3.2 0 1 0 0 5\"/>",
+    "solid": null
+  },
+  "registered-symbol": {
+    "category": "shapes-symbols",
+    "keywords": ["registered", "registrado", "trademark", "brand", "legal", "rights"],
+    "aliases": ["registered", "r-circle"],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M10 16V8h3a2 2 0 0 1 0 4h-3m3 0 2 4\"/>",
+    "solid": null
+  },
+  "trademark-symbol": {
+    "category": "shapes-symbols",
+    "keywords": ["trademark", "tm", "marca", "brand", "legal", "registrada"],
+    "aliases": ["tm", "trademark"],
+    "outline": "<path d=\"M4 8h5M6.5 8v8M12 16V8l3 4 3-4v8\"/>",
+    "solid": null
+  },
+  "recycle-symbol": {
+    "category": "shapes-symbols",
+    "keywords": ["recycle", "reciclar", "reuse", "environment", "arrows", "sustainable"],
+    "aliases": ["recycling", "reuse"],
+    "outline": "<path d=\"M10.52 3.63A8.5 8.5 0 0 1 20.37 10.52\"/><path d=\"m20.37 10.52-2.4-.5 1.9-1.9\"/><path d=\"M19.99 14.91A8.5 8.5 0 0 1 9.09 19.99\"/><path d=\"m9.09 19.99.5-2.4-2.4.5\"/><path d=\"M5.49 17.46A8.5 8.5 0 0 1 6.54 5.49\"/><path d=\"m6.54 5.49 1.9 1.6-2.3.9\"/>",
+    "solid": null
+  },
+  "yin-yang": {
+    "category": "shapes-symbols",
+    "keywords": ["yin", "yang", "balance", "tao", "equilibrio", "zen"],
+    "aliases": ["taijitu", "tao"],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M12 3a4.5 4.5 0 0 0 0 9 4.5 4.5 0 0 1 0 9\"/><circle cx=\"12\" cy=\"7.5\" r=\"1\"/><circle cx=\"12\" cy=\"16.5\" r=\"1\"/>",
+    "solid": null
+  },
+  "peace-symbol": {
+    "category": "shapes-symbols",
+    "keywords": ["peace", "paz", "symbol", "pacifism", "antiwar", "hippie"],
+    "aliases": ["peace", "cnd"],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M12 3v18M12 12 5.6 18.4M12 12l6.4 6.4\"/>",
+    "solid": null
+  },
+  "biohazard": {
+    "category": "shapes-symbols",
+    "keywords": ["biohazard", "biopeligro", "danger", "toxic", "hazard", "warning"],
+    "aliases": ["bio-hazard", "toxic"],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"2.2\"/><circle cx=\"12\" cy=\"7\" r=\"3.5\"/><circle cx=\"7.5\" cy=\"15\" r=\"3.5\"/><circle cx=\"16.5\" cy=\"15\" r=\"3.5\"/>",
+    "solid": null
+  },
+  "radioactive-symbol": {
+    "category": "shapes-symbols",
+    "keywords": ["radioactive", "radiactivo", "nuclear", "radiation", "hazard", "trefoil"],
+    "aliases": ["radiation", "nuclear"],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"2\"/><polygon points=\"13.75,8.97 16.5,4.2 7.5,4.2 10.25,8.97\"/><polygon points=\"13.75,15.03 16.5,19.8 21,12 15.5,12\"/><polygon points=\"8.5,12 3,12 7.5,19.8 10.25,15.03\"/>",
+    "solid": "<circle cx=\"12\" cy=\"12\" r=\"2\"/><polygon points=\"13.75,8.97 16.5,4.2 7.5,4.2 10.25,8.97\"/><polygon points=\"13.75,15.03 16.5,19.8 21,12 15.5,12\"/><polygon points=\"8.5,12 3,12 7.5,19.8 10.25,15.03\"/>"
+  },
+  "gender-male": {
+    "category": "shapes-symbols",
+    "keywords": ["male", "man", "mars", "masculino", "hombre", "gender"],
+    "aliases": ["mars", "man"],
+    "outline": "<circle cx=\"10\" cy=\"14\" r=\"6\"/><path d=\"M14.2 9.8 20 4M15 4h5v5\"/>",
+    "solid": null
+  },
+  "gender-female": {
+    "category": "shapes-symbols",
+    "keywords": ["female", "woman", "venus", "femenino", "mujer", "gender"],
+    "aliases": ["venus", "woman"],
+    "outline": "<circle cx=\"12\" cy=\"9\" r=\"6\"/><path d=\"M12 15v6M9 18h6\"/>",
+    "solid": null
+  },
+  "gender-trans": {
+    "category": "shapes-symbols",
+    "keywords": ["transgender", "trans", "gender", "genero", "identity", "symbol"],
+    "aliases": ["transgender", "trans"],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"5\"/><path d=\"M15.5 8.5 20 4M15.5 4H20v4.5\"/><path d=\"M12 17v4M9.5 19h5\"/><path d=\"M8.5 8.5 4 4M8.5 4H4v4.5\"/>",
+    "solid": null
+  },
+  "cube-3d": {
+    "category": "shapes-symbols",
+    "keywords": ["cube", "cubo", "box", "3d", "caja", "isometric"],
+    "aliases": ["box", "cube"],
+    "outline": "<path d=\"M12 3 20 7.5v9L12 21 4 16.5v-9Z\"/><path d=\"m4 7.5 8 4.5 8-4.5M12 12v9\"/>",
+    "solid": null
+  },
+  "sphere-3d": {
+    "category": "shapes-symbols",
+    "keywords": ["sphere", "esfera", "ball", "orb", "3d", "globe"],
+    "aliases": ["ball", "orb"],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"9\"/><ellipse cx=\"12\" cy=\"12\" rx=\"9\" ry=\"3.4\"/>",
+    "solid": "<circle cx=\"12\" cy=\"12\" r=\"9.5\"/>"
+  },
+  "pyramid-3d": {
+    "category": "shapes-symbols",
+    "keywords": ["pyramid", "piramide", "3d", "triangle", "tetrahedron", "egypt"],
+    "aliases": ["pyramid"],
+    "outline": "<path d=\"M12 3 4 18l8 3 8-3Z\"/><path d=\"M12 3v18\"/>",
+    "solid": null
+  },
+  "cylinder-3d": {
+    "category": "shapes-symbols",
+    "keywords": ["cylinder", "cilindro", "3d", "tube", "can", "database"],
+    "aliases": ["cylinder", "tube"],
+    "outline": "<path d=\"M5 6v12a7 3 0 0 0 14 0V6\"/><ellipse cx=\"12\" cy=\"6\" rx=\"7\" ry=\"3\"/>",
+    "solid": null
+  },
+  "cone-3d": {
+    "category": "shapes-symbols",
+    "keywords": ["cone", "cono", "3d", "triangle", "traffic", "ice-cream"],
+    "aliases": ["cone"],
+    "outline": "<path d=\"M12 3 4.5 18M12 3l7.5 15\"/><ellipse cx=\"12\" cy=\"18\" rx=\"7.5\" ry=\"3\"/>",
+    "solid": null
+  },
+  "blocks-shape": {
+    "category": "shapes-symbols",
+    "keywords": ["blocks", "bloques", "grid", "squares", "group", "cubos"],
+    "aliases": ["blocks", "grid-blocks"],
+    "outline": "<rect x=\"3\" y=\"3\" width=\"7.5\" height=\"7.5\" rx=\"1.5\"/><rect x=\"13.5\" y=\"3\" width=\"7.5\" height=\"7.5\" rx=\"1.5\"/><rect x=\"3\" y=\"13.5\" width=\"7.5\" height=\"7.5\" rx=\"1.5\"/><rect x=\"13.5\" y=\"13.5\" width=\"7.5\" height=\"7.5\" rx=\"1.5\"/>",
+    "solid": "<rect x=\"3\" y=\"3\" width=\"7.5\" height=\"7.5\" rx=\"1.5\"/><rect x=\"13.5\" y=\"3\" width=\"7.5\" height=\"7.5\" rx=\"1.5\"/><rect x=\"3\" y=\"13.5\" width=\"7.5\" height=\"7.5\" rx=\"1.5\"/><rect x=\"13.5\" y=\"13.5\" width=\"7.5\" height=\"7.5\" rx=\"1.5\"/>"
+  },
+  "rhombus": {
+    "category": "shapes-symbols",
+    "keywords": ["rhombus", "rombo", "lozenge", "losange", "diamond", "shape"],
+    "aliases": ["lozenge"],
+    "outline": "<path d=\"M12 5 21 12 12 19 3 12Z\"/>",
+    "solid": "<path d=\"M12 5 21 12 12 19 3 12Z\"/>"
+  },
+  "parallelogram": {
+    "category": "shapes-symbols",
+    "keywords": ["parallelogram", "paralelogramo", "slant", "skew", "shape", "geometry"],
+    "aliases": ["parallelogram"],
+    "outline": "<path d=\"M8 5h13l-5 14H3Z\"/>",
+    "solid": "<path d=\"M8 5h13l-5 14H3Z\"/>"
+  },
+  "trapezoid": {
+    "category": "shapes-symbols",
+    "keywords": ["trapezoid", "trapecio", "trapezium", "shape", "geometry", "quadrilateral"],
+    "aliases": ["trapezium"],
+    "outline": "<path d=\"M7 6h10l4 12H3Z\"/>",
+    "solid": "<path d=\"M7 6h10l4 12H3Z\"/>"
+  },
+  "oval-shape": {
+    "category": "shapes-symbols",
+    "keywords": ["oval", "ovalo", "ellipse", "elipse", "egg", "round"],
+    "aliases": ["ellipse", "oval"],
+    "outline": "<ellipse cx=\"12\" cy=\"12\" rx=\"9\" ry=\"6\"/>",
+    "solid": "<ellipse cx=\"12\" cy=\"12\" rx=\"9.5\" ry=\"6.5\"/>"
+  },
+  "semicircle": {
+    "category": "shapes-symbols",
+    "keywords": ["semicircle", "semicirculo", "half-circle", "dome", "arch", "medio"],
+    "aliases": ["half-circle", "dome"],
+    "outline": "<path d=\"M3 16a9 9 0 0 1 18 0Z\"/>",
+    "solid": "<path d=\"M3 16a9 9 0 0 1 18 0Z\"/>"
+  },
+  "spiral": {
+    "category": "shapes-symbols",
+    "keywords": ["spiral", "espiral", "swirl", "coil", "whirl", "helix"],
+    "aliases": ["swirl", "coil"],
+    "outline": "<path d=\"M12 12a1.5 1.5 0 0 0 1.5-1.5 3 3 0 0 0-3-3 4.5 4.5 0 0 0-4.5 4.5 6 6 0 0 0 6 6 7.5 7.5 0 0 0 7.5-7.5A9 9 0 0 0 12 3\"/>",
+    "solid": null
+  },
+  "wave-shape": {
+    "category": "shapes-symbols",
+    "keywords": ["wave", "onda", "sine", "ola", "curve", "water"],
+    "aliases": ["wave", "sine"],
+    "outline": "<path d=\"M3 12q3-7 6 0t6 0 6 0\"/>",
+    "solid": null
+  },
+  "zigzag": {
+    "category": "shapes-symbols",
+    "keywords": ["zigzag", "zigzag", "jagged", "sierra", "chevrons", "line"],
+    "aliases": ["zig-zag"],
+    "outline": "<polyline points=\"3,16 7.5,8 12,16 16.5,8 21,16\"/>",
+    "solid": null
+  },
+  "heart-shape": {
+    "category": "shapes-symbols",
+    "keywords": ["heart", "corazon", "love", "amor", "shape", "forma"],
+    "aliases": ["love-shape"],
+    "outline": "<path d=\"M12 20C12 20 3.5 14.5 3.5 8.8A4.6 4.6 0 0 1 12 6a4.6 4.6 0 0 1 8.5 2.8C20.5 14.5 12 20 12 20Z\"/>",
+    "solid": "<path d=\"M12 20.5C12 20.5 3 15 3 8.6A4.9 4.9 0 0 1 12 5.8a4.9 4.9 0 0 1 9 2.8C21 15 12 20.5 12 20.5Z\"/>"
+  },
+  "star-4point": {
+    "category": "shapes-symbols",
+    "keywords": ["star", "estrella", "sparkle", "four", "cuatro", "shine"],
+    "aliases": ["sparkle", "four-point-star"],
+    "outline": "<path d=\"M12 3 14 10 21 12 14 14 12 21 10 14 3 12 10 10Z\"/>",
+    "solid": "<path d=\"M12 3 14 10 21 12 14 14 12 21 10 14 3 12 10 10Z\"/>"
+  },
+  "star-6point": {
+    "category": "shapes-symbols",
+    "keywords": ["star", "estrella", "six", "seis", "hexagram", "david"],
+    "aliases": ["hexagram", "star-of-david"],
+    "outline": "<polygon points=\"12,3 14,8.54 19.79,7.5 16,12 19.79,16.5 14,15.46 12,21 10,15.46 4.21,16.5 8,12 4.21,7.5 10,8.54\"/>",
+    "solid": "<polygon points=\"12,3 14,8.54 19.79,7.5 16,12 19.79,16.5 14,15.46 12,21 10,15.46 4.21,16.5 8,12 4.21,7.5 10,8.54\"/>"
+  },
+  "cross-plus": {
+    "category": "shapes-symbols",
+    "keywords": ["plus", "cross", "medical", "health", "cruz", "hospital"],
+    "aliases": ["medical-cross", "greek-cross"],
+    "outline": "<path d=\"M9.5 3.5h5v6h6v5h-6v6h-5v-6h-6v-5h6Z\"/>",
+    "solid": "<path d=\"M9.5 3.5h5v6h6v5h-6v6h-5v-6h-6v-5h6Z\"/>"
+  },
+  "arrows-symbol": {
+    "category": "shapes-symbols",
+    "keywords": ["arrows", "flechas", "move", "mover", "directions", "expand"],
+    "aliases": ["move", "four-arrows"],
+    "outline": "<path d=\"M12 2v20M2 12h20\"/><path d=\"m9 5 3-3 3 3M9 19l3 3 3-3M5 9l-3 3 3 3M19 9l3 3-3 3\"/>",
+    "solid": null
+  },
+  "checkmark-symbol": {
+    "category": "shapes-symbols",
+    "keywords": ["check", "tick", "done", "correcto", "verified", "palomita"],
+    "aliases": ["tick", "checkmark"],
+    "outline": "<path d=\"m4 13 5 5 11-12\"/>",
+    "solid": null
+  },
+  "prohibited": {
+    "category": "shapes-symbols",
+    "keywords": ["prohibited", "prohibido", "no", "forbidden", "block", "denied"],
+    "aliases": ["no-entry", "forbidden", "block"],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M5.64 5.64 18.36 18.36\"/>",
+    "solid": null
+  },
+  "degree-symbol": {
+    "category": "shapes-symbols",
+    "keywords": ["degree", "grado", "temperature", "angle", "temperatura", "angulo"],
+    "aliases": ["deg", "degrees"],
+    "outline": "<circle cx=\"12\" cy=\"7.5\" r=\"3.5\"/>",
+    "solid": null
+  }
+}

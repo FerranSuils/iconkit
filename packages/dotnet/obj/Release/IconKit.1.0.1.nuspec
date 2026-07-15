@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>IconKit</id>
+    <version>1.0.1</version>
+    <authors>Ferran Suils Mora</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <readme>README.md</readme>
+    <projectUrl>https://suils.es/</projectUrl>
+    <description>IconKit — 3000+ monochrome vector icons (outline &amp; solid), single source of truth, currentColor, for every stack.</description>
+    <copyright>Copyright (c) 2026 Ferran Suils Mora</copyright>
+    <tags>icons svg vector outline solid blazor razor ui</tags>
+    <repository type="git" url="https://iconkit.suils.es" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+    <contentFiles>
+      <files include="any/any/IkIcon.razor" buildAction="None" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="D:\Documents\iconkit\packages\dotnet\bin\Release\netstandard2.0\IconKit.dll" target="lib\netstandard2.0\IconKit.dll" />
+    <file src="D:\Documents\iconkit\packages\dotnet\README.md" target="\README.md" />
+    <file src="D:\Documents\iconkit\packages\dotnet\LICENSE" target="\LICENSE" />
+    <file src="D:\Documents\iconkit\packages\dotnet\IkIcon.razor" target="content\IkIcon.razor" />
+    <file src="D:\Documents\iconkit\packages\dotnet\IkIcon.razor" target="contentFiles\any\any\IkIcon.razor" />
+  </files>
+</package>

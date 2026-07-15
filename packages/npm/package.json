@@ -1,0 +1,77 @@
+{
+  "name": "@ferran_suils/iconkit",
+  "version": "1.0.1",
+  "description": "IconKit — 3000+ monochrome vector icons (outline & solid), single source of truth, currentColor, for every stack.",
+  "author": "Ferran Suils Mora <ferran@suils.es>",
+  "license": "MIT",
+  "homepage": "https://suils.es",
+  "keywords": [
+    "icons",
+    "icon",
+    "svg",
+    "icon-font",
+    "outline",
+    "solid",
+    "react",
+    "vue",
+    "angular",
+    "svelte",
+    "web-components",
+    "flutter",
+    "currentcolor",
+    "vector",
+    "sprite",
+    "mask",
+    "ui",
+    "design-system"
+  ],
+  "type": "module",
+  "sideEffects": [
+    "**/*.css",
+    "./web-component/iconkit.js"
+  ],
+  "main": "./web-component/iconkit.js",
+  "unpkg": "./web-component/iconkit.js",
+  "jsdelivr": "./web-component/iconkit.js",
+  "svelte": "./svelte/Icon.svelte",
+  "exports": {
+    ".": "./web-component/iconkit.js",
+    "./web-component": "./web-component/iconkit.js",
+    "./react": {
+      "types": "./react/index.d.ts",
+      "default": "./react/index.js"
+    },
+    "./vue": "./vue/index.js",
+    "./svelte": {
+      "svelte": "./svelte/Icon.svelte",
+      "default": "./svelte/Icon.svelte"
+    },
+    "./svelte/icons": "./svelte/icons.js",
+    "./angular/*": "./angular/*",
+    "./css": "./css/iconkit.css",
+    "./css/*": "./css/*",
+    "./svg/*": "./svg/*",
+    "./manifest.json": "./manifest.json",
+    "./package.json": "./package.json",
+    "./font/*": "./font/*"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "peerDependencies": {
+    "react": ">=17",
+    "vue": ">=3.2",
+    "svelte": ">=3.55"
+  },
+  "peerDependenciesMeta": {
+    "react": {
+      "optional": true
+    },
+    "vue": {
+      "optional": true
+    },
+    "svelte": {
+      "optional": true
+    }
+  }
+}

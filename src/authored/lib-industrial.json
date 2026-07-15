@@ -1,0 +1,699 @@
+{
+  "conveyor-belt2": {
+    "category": "industrial",
+    "keywords": [
+      "conveyor",
+      "belt",
+      "cinta",
+      "transportadora",
+      "rollers",
+      "logistics"
+    ],
+    "aliases": [
+      "conveyor",
+      "belt-conveyor"
+    ],
+    "outline": "<rect x=\"8\" y=\"6\" width=\"8\" height=\"6\" rx=\"1\"/><rect x=\"2\" y=\"12\" width=\"20\" height=\"3\" rx=\"1.5\"/><circle cx=\"6\" cy=\"18\" r=\"2\"/><circle cx=\"12\" cy=\"18\" r=\"2\"/><circle cx=\"18\" cy=\"18\" r=\"2\"/>",
+    "solid": null
+  },
+  "robot-arm": {
+    "category": "industrial",
+    "keywords": [
+      "robot",
+      "arm",
+      "brazo",
+      "robotico",
+      "manipulator",
+      "automation",
+      "gripper"
+    ],
+    "aliases": [
+      "robotic-arm",
+      "manipulator"
+    ],
+    "outline": "<path d=\"M4 20.5h6\"/><path d=\"M7 20.5V15l6-5 4 2\"/><circle cx=\"7\" cy=\"15\" r=\"0.6\"/><circle cx=\"13\" cy=\"10\" r=\"0.6\"/><path d=\"M17 12l1.5-1M17 12l.7 1.8\"/>",
+    "solid": null
+  },
+  "forklift-industrial": {
+    "category": "industrial",
+    "keywords": [
+      "forklift",
+      "carretilla",
+      "elevadora",
+      "lift",
+      "truck",
+      "warehouse",
+      "montacargas"
+    ],
+    "aliases": [
+      "forklift",
+      "lift-truck"
+    ],
+    "outline": "<circle cx=\"6\" cy=\"17.5\" r=\"2\"/><circle cx=\"13\" cy=\"17.5\" r=\"2\"/><path d=\"M4 15.5V9.5a1 1 0 0 1 1-1h4l2.5 4v3\"/><path d=\"M15 4.5v13\"/><path d=\"M15 17h4\"/><rect x=\"16\" y=\"6\" width=\"4.5\" height=\"4.5\" rx=\"0.5\"/>",
+    "solid": null
+  },
+  "pallet-industrial": {
+    "category": "industrial",
+    "keywords": [
+      "pallet",
+      "palet",
+      "pale",
+      "cargo",
+      "load",
+      "shipping",
+      "skid"
+    ],
+    "aliases": [
+      "pallet",
+      "skid"
+    ],
+    "outline": "<rect x=\"6\" y=\"4.5\" width=\"12\" height=\"6\" rx=\"1\"/><rect x=\"2.5\" y=\"11\" width=\"19\" height=\"3\" rx=\"0.5\"/><path d=\"M4.5 14v4.5M12 14v4.5M19.5 14v4.5\"/><path d=\"M3.5 18.5h17\"/>",
+    "solid": null
+  },
+  "shipping-container": {
+    "category": "industrial",
+    "keywords": [
+      "container",
+      "contenedor",
+      "shipping",
+      "cargo",
+      "freight",
+      "intermodal",
+      "transporte"
+    ],
+    "aliases": [
+      "container",
+      "freight-container"
+    ],
+    "outline": "<rect x=\"2.5\" y=\"7\" width=\"19\" height=\"10\" rx=\"1\"/><path d=\"M5.5 8v8M8.5 8v8M11.5 8v8M14.5 8v8M17.5 8v8\"/>",
+    "solid": "<path d=\"M3.5 6.5h17a1 1 0 0 1 1 1v9a1 1 0 0 1-1 1h-17a1 1 0 0 1-1-1v-9a1 1 0 0 1 1-1ZM6 10h1v6H6ZM9 10h1v6H9ZM12 10h1v6h-1ZM15 10h1v6h-1ZM18 10h1v6h-1Z\" fill-rule=\"evenodd\"/>"
+  },
+  "crane-industrial": {
+    "category": "industrial",
+    "keywords": [
+      "crane",
+      "grua",
+      "tower",
+      "lifting",
+      "construction",
+      "hoist",
+      "elevar"
+    ],
+    "aliases": [
+      "crane",
+      "tower-crane"
+    ],
+    "outline": "<path d=\"M6 21h4\"/><path d=\"M8 21V4\"/><path d=\"M3 8 8 4l13 4\"/><path d=\"M17.3 8v3\"/><rect x=\"15.8\" y=\"11\" width=\"3.4\" height=\"2.8\" rx=\"0.3\"/>",
+    "solid": null
+  },
+  "assembly-line": {
+    "category": "industrial",
+    "keywords": [
+      "assembly",
+      "line",
+      "ensamblaje",
+      "montaje",
+      "production",
+      "manufacturing",
+      "linea"
+    ],
+    "aliases": [
+      "assembly",
+      "manufacturing-line"
+    ],
+    "outline": "<path d=\"M2 16h20\"/><circle cx=\"5\" cy=\"18.3\" r=\"1.3\"/><circle cx=\"12\" cy=\"18.3\" r=\"1.3\"/><circle cx=\"19\" cy=\"18.3\" r=\"1.3\"/><rect x=\"3.5\" y=\"12.5\" width=\"3.5\" height=\"3.5\" rx=\"0.5\"/><rect x=\"10\" y=\"11\" width=\"4\" height=\"5\" rx=\"0.5\"/><rect x=\"16.5\" y=\"12.5\" width=\"4\" height=\"3.5\" rx=\"0.5\"/><path d=\"M12 3.5v4\"/><path d=\"M10.3 7.5h3.4\"/>",
+    "solid": null
+  },
+  "welding-industrial": {
+    "category": "industrial",
+    "keywords": [
+      "welding",
+      "soldadura",
+      "weld",
+      "torch",
+      "soldar",
+      "spark",
+      "metal",
+      "careta",
+      "mascara",
+      "helmet",
+      "mask",
+      "visor"
+    ],
+    "aliases": [
+      "welding",
+      "welder"
+    ],
+    "outline": "<rect x=\"3.5\" y=\"3\" width=\"10.5\" height=\"18\" rx=\"3\"/><rect x=\"6\" y=\"8.6\" width=\"5.5\" height=\"2.8\" rx=\"1.4\"/><path d=\"M18.5 13v4\"/><path d=\"M16.5 15h4\"/><path d=\"M18.5 5v3\"/><path d=\"M17 6.5h3\"/>",
+    "solid": null
+  },
+  "cnc-machine": {
+    "category": "industrial",
+    "keywords": [
+      "cnc",
+      "machine",
+      "maquina",
+      "router",
+      "milling",
+      "spindle",
+      "mecanizado"
+    ],
+    "aliases": [
+      "cnc",
+      "cnc-router"
+    ],
+    "outline": "<rect x=\"3\" y=\"4\" width=\"18\" height=\"16\" rx=\"2\"/><path d=\"M6 8h12\"/><path d=\"M12 8v3\"/><path d=\"M10.8 11h2.4L12 13.5Z\"/><rect x=\"7\" y=\"15.5\" width=\"10\" height=\"2.5\" rx=\"0.5\"/>",
+    "solid": null
+  },
+  "3d-printer": {
+    "category": "industrial",
+    "keywords": [
+      "3d",
+      "printer",
+      "impresora",
+      "printing",
+      "fdm",
+      "additive",
+      "prototype"
+    ],
+    "aliases": [
+      "printer-3d",
+      "fdm-printer"
+    ],
+    "outline": "<rect x=\"4\" y=\"3\" width=\"16\" height=\"14\" rx=\"1.5\"/><path d=\"M4 8.5h16\"/><rect x=\"9.5\" y=\"6.8\" width=\"5\" height=\"3\" rx=\"0.5\"/><path d=\"M12 9.8v2\"/><path d=\"M6.5 15.5h11\"/><path d=\"M10 15.5v-2.5h4v2.5\"/>",
+    "solid": null
+  },
+  "laser-cutter": {
+    "category": "industrial",
+    "keywords": [
+      "laser",
+      "cutter",
+      "cortadora",
+      "cutting",
+      "engraver",
+      "corte",
+      "beam"
+    ],
+    "aliases": [
+      "laser",
+      "laser-cutting"
+    ],
+    "outline": "<rect x=\"8\" y=\"3.5\" width=\"8\" height=\"4\" rx=\"1\"/><path d=\"M12 7.5v6\"/><path d=\"M10.5 10.8 12 13.5 13.5 10.8\"/><rect x=\"2.5\" y=\"15\" width=\"19\" height=\"4.5\" rx=\"1\"/><path d=\"M12 15v4.5\"/>",
+    "solid": null
+  },
+  "mold-injection": {
+    "category": "industrial",
+    "keywords": [
+      "mold",
+      "injection",
+      "molde",
+      "inyeccion",
+      "moulding",
+      "plastic",
+      "casting",
+      "cavidad",
+      "cavity"
+    ],
+    "aliases": [
+      "injection-molding",
+      "mould"
+    ],
+    "outline": "<path d=\"M8.5 9.2V6A1.5 1.5 0 0 0 7 4.5H4A1.5 1.5 0 0 0 2.5 6v12A1.5 1.5 0 0 0 4 19.5h3A1.5 1.5 0 0 0 8.5 18v-3.2a2.8 2.8 0 0 1 0-5.6z\"/><path d=\"M15.5 9.2V6A1.5 1.5 0 0 1 17 4.5h3A1.5 1.5 0 0 1 21.5 6v12a1.5 1.5 0 0 1-1.5 1.5h-3a1.5 1.5 0 0 1-1.5-1.5v-3.2a2.8 2.8 0 0 0 0-5.6z\"/><circle cx=\"12\" cy=\"12\" r=\"2.1\"/>",
+    "solid": null
+  },
+  "hydraulic-press": {
+    "category": "industrial",
+    "keywords": [
+      "hydraulic",
+      "press",
+      "prensa",
+      "hidraulica",
+      "stamping",
+      "forming",
+      "pressing"
+    ],
+    "aliases": [
+      "press",
+      "stamping-press"
+    ],
+    "outline": "<path d=\"M4 4v16M20 4v16\"/><path d=\"M4 4h16\"/><rect x=\"9.5\" y=\"4\" width=\"5\" height=\"4.5\" rx=\"0.5\"/><path d=\"M12 8.5v3\"/><rect x=\"5.5\" y=\"11.5\" width=\"13\" height=\"2.5\" rx=\"0.5\"/><rect x=\"8\" y=\"16\" width=\"8\" height=\"3\" rx=\"0.5\"/><path d=\"M3 20h18\"/>",
+    "solid": null
+  },
+  "valve-industrial": {
+    "category": "industrial",
+    "keywords": [
+      "valve",
+      "valvula",
+      "handwheel",
+      "pipe",
+      "flow",
+      "gate",
+      "caudal"
+    ],
+    "aliases": [
+      "valve",
+      "gate-valve"
+    ],
+    "outline": "<path d=\"M2.5 16h4.5M17 16h4.5\"/><rect x=\"7\" y=\"12.5\" width=\"10\" height=\"7\" rx=\"1\"/><path d=\"M12 12.5V9\"/><circle cx=\"12\" cy=\"6.5\" r=\"3\"/><path d=\"M9 6.5h6M12 3.5v6\"/>",
+    "solid": null
+  },
+  "industrial-pipe": {
+    "category": "industrial",
+    "keywords": [
+      "pipe",
+      "tuberia",
+      "piping",
+      "elbow",
+      "plumbing",
+      "conduit",
+      "tubo",
+      "codo",
+      "brida",
+      "flange"
+    ],
+    "aliases": [
+      "pipe",
+      "piping"
+    ],
+    "outline": "<path d=\"M4.5 6v5a8.5 8.5 0 0 0 8.5 8.5h5\"/><path d=\"M9.5 6v5a3.5 3.5 0 0 0 3.5 3.5h5\"/><rect x=\"3\" y=\"3\" width=\"8\" height=\"3\" rx=\"1\"/><rect x=\"18\" y=\"13\" width=\"3\" height=\"8\" rx=\"1\"/>",
+    "solid": null
+  },
+  "storage-tank": {
+    "category": "industrial",
+    "keywords": [
+      "tank",
+      "tanque",
+      "storage",
+      "silo",
+      "almacenamiento",
+      "vessel",
+      "deposito"
+    ],
+    "aliases": [
+      "tank",
+      "silo"
+    ],
+    "outline": "<path d=\"M5 6.5v11\"/><path d=\"M19 6.5v11\"/><path d=\"M5 6.5a7 2.2 0 0 1 14 0\"/><path d=\"M5 17.5a7 2.2 0 0 0 14 0\"/><path d=\"M7.5 19v2M16.5 19v2\"/><path d=\"M5 12a7 2.2 0 0 0 14 0\"/>",
+    "solid": "<path d=\"M12 4C8 4 5 5.3 5 7v10c0 1.7 3 3 7 3s7-1.3 7-3V7c0-1.7-3-3-7-3Zm0 2c3.2 0 5 .9 5 1v.1c-.4.8-2.4 1.4-5 1.4S7.4 7.9 7 7.1V7c0-.1 1.8-1 5-1Z\" fill-rule=\"evenodd\"/>"
+  },
+  "boiler": {
+    "category": "industrial",
+    "keywords": [
+      "boiler",
+      "caldera",
+      "heater",
+      "furnace",
+      "steam",
+      "vessel",
+      "calentador"
+    ],
+    "aliases": [
+      "furnace",
+      "steam-boiler"
+    ],
+    "outline": "<rect x=\"6\" y=\"4.5\" width=\"12\" height=\"13\" rx=\"2.5\"/><path d=\"M6 8h12\"/><circle cx=\"12\" cy=\"12\" r=\"2.3\"/><path d=\"M12 12 13.4 10.7\"/><path d=\"M9 17.5v2.5M15 17.5v2.5\"/><path d=\"M12 4.5V2.5h3.5\"/>",
+    "solid": null
+  },
+  "gauge-pressure": {
+    "category": "industrial",
+    "keywords": [
+      "gauge",
+      "pressure",
+      "manometro",
+      "presion",
+      "dial",
+      "meter",
+      "medidor"
+    ],
+    "aliases": [
+      "pressure-gauge",
+      "manometer"
+    ],
+    "outline": "<circle cx=\"12\" cy=\"10.5\" r=\"7\"/><circle cx=\"12\" cy=\"10.5\" r=\"0.9\"/><path d=\"M12 10.5 15.5 7.5\"/><path d=\"M12 4v1.4M18.5 10.5h-1.4M5.5 10.5H6.9\"/><path d=\"M9.8 16.8 9 20.5h6l-.8-3.7\"/>",
+    "solid": null
+  },
+  "factory-worker": {
+    "category": "industrial",
+    "keywords": [
+      "worker",
+      "trabajador",
+      "operario",
+      "hardhat",
+      "helmet",
+      "operator",
+      "obrero"
+    ],
+    "aliases": [
+      "worker",
+      "operator"
+    ],
+    "outline": "<path d=\"M6 9h12\"/><path d=\"M8 9a4 4 0 0 1 8 0\"/><circle cx=\"12\" cy=\"12\" r=\"3\"/><path d=\"M5.5 21c0-3.6 2.9-6 6.5-6s6.5 2.4 6.5 6\"/>",
+    "solid": "<path d=\"M12 4a5 5 0 0 0-5 5H5.5a1 1 0 0 0 0 2h13a1 1 0 0 0 0-2H17a5 5 0 0 0-5-5Z\"/><circle cx=\"12\" cy=\"13\" r=\"3\"/><path d=\"M12 16.5c-3.7 0-6.6 2.3-6.6 5.5h13.2c0-3.2-2.9-5.5-6.6-5.5Z\"/>"
+  },
+  "warehouse-industrial": {
+    "category": "industrial",
+    "keywords": [
+      "warehouse",
+      "almacen",
+      "storage",
+      "depot",
+      "logistics",
+      "nave",
+      "deposito"
+    ],
+    "aliases": [
+      "warehouse",
+      "depot"
+    ],
+    "outline": "<path d=\"M2.5 20.5v-9a9.5 5.5 0 0 1 19 0v9\"/><path d=\"M1.5 20.5h21\"/><rect x=\"8.5\" y=\"13\" width=\"7\" height=\"7.5\" rx=\"0.5\"/><path d=\"M8.5 15.5h7M8.5 18h7\"/>",
+    "solid": null
+  },
+  "quality-control": {
+    "category": "industrial",
+    "keywords": [
+      "quality",
+      "control",
+      "calidad",
+      "inspection",
+      "check",
+      "inspeccion",
+      "qc"
+    ],
+    "aliases": [
+      "qc",
+      "inspection"
+    ],
+    "outline": "<circle cx=\"10.5\" cy=\"10.5\" r=\"6.5\"/><path d=\"m19.5 19.5-4-4\"/><path d=\"m7.7 10.7 2 2 3.8-4\"/>",
+    "solid": null
+  },
+  "barcode-industrial": {
+    "category": "industrial",
+    "keywords": [
+      "barcode",
+      "codigo",
+      "barras",
+      "scan",
+      "label",
+      "sku",
+      "etiqueta"
+    ],
+    "aliases": [
+      "barcode",
+      "product-code"
+    ],
+    "outline": "<path d=\"M4 7.5v9M6.5 7.5v9M9 7.5v9M11.5 7.5v9M15 7.5v9M17.5 7.5v9M20 7.5v9\"/><path d=\"M4 4H2.5v1.5M20 4h1.5v1.5M4 20H2.5v-1.5M20 20h1.5v-1.5\"/>",
+    "solid": null
+  },
+  "machinery-gear": {
+    "category": "industrial",
+    "keywords": [
+      "gear",
+      "engranaje",
+      "cog",
+      "machinery",
+      "maquinaria",
+      "mechanical",
+      "rueda"
+    ],
+    "aliases": [
+      "cog",
+      "gear-wheel"
+    ],
+    "outline": "<path d=\"M18.9 10.34L21.24 10.91L21.24 13.09L18.9 13.66L18.05 15.71L19.3 17.76L17.76 19.3L15.71 18.05L13.66 18.9L13.09 21.24L10.91 21.24L10.34 18.9L8.29 18.05L6.24 19.3L4.7 17.76L5.95 15.71L5.1 13.66L2.76 13.09L2.76 10.91L5.1 10.34L5.95 8.29L4.7 6.24L6.24 4.7L8.29 5.95L10.34 5.1L10.91 2.76L13.09 2.76L13.66 5.1L15.71 5.95L17.76 4.7L19.3 6.24L18.05 8.29Z\"/><circle cx=\"12\" cy=\"12\" r=\"2.6\"/>",
+    "solid": "<path d=\"M18.9 10.34L21.24 10.91L21.24 13.09L18.9 13.66L18.05 15.71L19.3 17.76L17.76 19.3L15.71 18.05L13.66 18.9L13.09 21.24L10.91 21.24L10.34 18.9L8.29 18.05L6.24 19.3L4.7 17.76L5.95 15.71L5.1 13.66L2.76 13.09L2.76 10.91L5.1 10.34L5.95 8.29L4.7 6.24L6.24 4.7L8.29 5.95L10.34 5.1L10.91 2.76L13.09 2.76L13.66 5.1L15.71 5.95L17.76 4.7L19.3 6.24L18.05 8.29ZM9.4 12a2.6 2.6 0 1 0 5.2 0a2.6 2.6 0 1 0 -5.2 0Z\" fill-rule=\"evenodd\"/>"
+  },
+  "production-line": {
+    "category": "industrial",
+    "keywords": [
+      "production",
+      "line",
+      "produccion",
+      "flow",
+      "manufacturing",
+      "proceso",
+      "fabricacion"
+    ],
+    "aliases": [
+      "product-flow",
+      "manufacturing"
+    ],
+    "outline": "<rect x=\"2.5\" y=\"8\" width=\"5\" height=\"5\" rx=\"0.6\"/><rect x=\"9.5\" y=\"8\" width=\"5\" height=\"5\" rx=\"0.6\"/><rect x=\"16.5\" y=\"8\" width=\"5\" height=\"5\" rx=\"0.6\"/><path d=\"M7.6 10.5h1.5M8.4 9.8 9.4 10.5l-1 .8M14.6 10.5h1.5M15.4 9.8l1 .7-1 .8\"/><path d=\"M2 17h20\"/><circle cx=\"5\" cy=\"19.3\" r=\"1\"/><circle cx=\"12\" cy=\"19.3\" r=\"1\"/><circle cx=\"19\" cy=\"19.3\" r=\"1\"/>",
+    "solid": null
+  },
+  "packaging-machine": {
+    "category": "industrial",
+    "keywords": [
+      "packaging",
+      "machine",
+      "empaquetado",
+      "embalaje",
+      "sealing",
+      "box",
+      "package",
+      "cinta",
+      "conveyor",
+      "prensa",
+      "press"
+    ],
+    "aliases": [
+      "packaging",
+      "box-sealer"
+    ],
+    "outline": "<path d=\"M12 2.5V6\"/><path d=\"M8 6h8\"/><rect x=\"7.5\" y=\"9.5\" width=\"9\" height=\"7.5\" rx=\"0.8\"/><path d=\"M3 17h18\"/><circle cx=\"7.5\" cy=\"20\" r=\"1.5\"/><circle cx=\"16.5\" cy=\"20\" r=\"1.5\"/>",
+    "solid": null
+  },
+  "industrial-robot": {
+    "category": "industrial",
+    "keywords": [
+      "robot",
+      "industrial",
+      "bot",
+      "automation",
+      "automatizacion",
+      "android",
+      "machine"
+    ],
+    "aliases": [
+      "robot",
+      "factory-robot"
+    ],
+    "outline": "<rect x=\"6\" y=\"7.5\" width=\"12\" height=\"10\" rx=\"2\"/><circle cx=\"9.5\" cy=\"11.5\" r=\"1.3\"/><circle cx=\"14.5\" cy=\"11.5\" r=\"1.3\"/><path d=\"M9.5 15h5\"/><path d=\"M12 7.5V5\"/><circle cx=\"12\" cy=\"4\" r=\"1.2\"/><path d=\"M6 10.5H4.2a1 1 0 0 0-1 1v1.5a1 1 0 0 0 1 1H6M18 10.5h1.8a1 1 0 0 1 1 1V13a1 1 0 0 1-1 1H18\"/><path d=\"M9 17.5v2.5M15 17.5v2.5\"/>",
+    "solid": "<path d=\"M8 7.5h8a2 2 0 0 1 2 2v6a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2v-6a2 2 0 0 1 2-2Zm1.5 2.7a1.3 1.3 0 1 0 0 2.6 1.3 1.3 0 0 0 0-2.6Zm5 0a1.3 1.3 0 1 0 0 2.6 1.3 1.3 0 0 0 0-2.6ZM9.5 14.4a.6.6 0 0 0 0 1.2h5a.6.6 0 0 0 0-1.2Z\" fill-rule=\"evenodd\"/><circle cx=\"12\" cy=\"4\" r=\"1.3\"/><path d=\"M11.4 5h1.2v2.7h-1.2Z\"/><path d=\"M6 10.8H4.2a1 1 0 0 0-1 1V13a1 1 0 0 0 1 1H6ZM18 10.8h1.8a1 1 0 0 1 1 1V13a1 1 0 0 1-1 1H18Z\"/><path d=\"M8.8 17.5h1.6v2.6H8.8ZM13.6 17.5h1.6v2.6h-1.6Z\"/>"
+  },
+  "control-panel": {
+    "category": "industrial",
+    "keywords": [
+      "control",
+      "panel",
+      "consola",
+      "dashboard",
+      "buttons",
+      "knobs",
+      "tablero"
+    ],
+    "aliases": [
+      "console",
+      "operator-panel"
+    ],
+    "outline": "<rect x=\"3\" y=\"4\" width=\"18\" height=\"16\" rx=\"2\"/><rect x=\"6\" y=\"7\" width=\"12\" height=\"4\" rx=\"0.5\"/><circle cx=\"8\" cy=\"15.5\" r=\"1.7\"/><path d=\"M8 15.5 9 14.7\"/><circle cx=\"13\" cy=\"15.5\" r=\"1.7\"/><path d=\"M13 15.5 12 14.7\"/><circle cx=\"17\" cy=\"14.5\" r=\"0.9\"/><circle cx=\"17\" cy=\"17.5\" r=\"0.9\"/>",
+    "solid": null
+  },
+  "safety-goggles": {
+    "category": "industrial",
+    "keywords": [
+      "goggles",
+      "gafas",
+      "safety",
+      "seguridad",
+      "protection",
+      "eyewear",
+      "proteccion"
+    ],
+    "aliases": [
+      "goggles",
+      "safety-glasses"
+    ],
+    "outline": "<rect x=\"2.5\" y=\"9.5\" width=\"7.5\" height=\"6\" rx=\"3\"/><rect x=\"14\" y=\"9.5\" width=\"7.5\" height=\"6\" rx=\"3\"/><path d=\"M10 12.5h4\"/><path d=\"M2.5 11c0-3 3.5-4.5 9.5-4.5s9.5 1.5 9.5 4.5\"/>",
+    "solid": "<path d=\"M4 8h16a2 2 0 0 1 2 2v3a3 3 0 0 1-3 3h-3.5a2 2 0 0 1-1.7-1l-.8-1.3a1.2 1.2 0 0 0-2 0l-.8 1.3a2 2 0 0 1-1.7 1H5a3 3 0 0 1-3-3v-3a2 2 0 0 1 2-2Zm2.5 3a2 2 0 1 0 0 4 2 2 0 0 0 0-4Zm11 0a2 2 0 1 0 0 4 2 2 0 0 0 0-4Z\" fill-rule=\"evenodd\"/>"
+  },
+  "ear-protection": {
+    "category": "industrial",
+    "keywords": [
+      "ear",
+      "protection",
+      "orejeras",
+      "hearing",
+      "muffs",
+      "auditiva",
+      "proteccion"
+    ],
+    "aliases": [
+      "ear-muffs",
+      "hearing-protection"
+    ],
+    "outline": "<path d=\"M4.5 13v-1.5a7.5 7.5 0 0 1 15 0V13\"/><rect x=\"2.5\" y=\"12\" width=\"5\" height=\"7.5\" rx=\"2.2\"/><rect x=\"16.5\" y=\"12\" width=\"5\" height=\"7.5\" rx=\"2.2\"/>",
+    "solid": "<path d=\"M12 4a8 8 0 0 0-8 8h2a6 6 0 0 1 12 0h2a8 8 0 0 0-8-8Z\"/><rect x=\"2.5\" y=\"12\" width=\"5\" height=\"7.5\" rx=\"2.2\"/><rect x=\"16.5\" y=\"12\" width=\"5\" height=\"7.5\" rx=\"2.2\"/>"
+  },
+  "respirator-mask": {
+    "category": "industrial",
+    "keywords": [
+      "respirator",
+      "mask",
+      "mascara",
+      "mascarilla",
+      "filter",
+      "ppe",
+      "proteccion"
+    ],
+    "aliases": [
+      "respirator",
+      "face-mask"
+    ],
+    "outline": "<path d=\"M4.5 9.5h15v2a7.5 7.5 0 0 1-15 0z\"/><circle cx=\"12\" cy=\"12.8\" r=\"2.3\"/><path d=\"M4.7 10 2.5 8M19.3 10 21.5 8\"/>",
+    "solid": "<path d=\"M4.5 8.8a1 1 0 0 0-1 1v1.7a8.5 8.5 0 0 0 17 0V9.8a1 1 0 0 0-1-1Zm7.5 2a2.5 2.5 0 1 1 0 5 2.5 2.5 0 0 1 0-5Z\" fill-rule=\"evenodd\"/>"
+  },
+  "chemical-drum": {
+    "category": "industrial",
+    "keywords": [
+      "drum",
+      "barrel",
+      "barril",
+      "bidon",
+      "chemical",
+      "quimico",
+      "toxic"
+    ],
+    "aliases": [
+      "barrel",
+      "chemical-barrel"
+    ],
+    "outline": "<ellipse cx=\"12\" cy=\"6\" rx=\"6\" ry=\"2\"/><path d=\"M6 6v12a6 2 0 0 0 12 0V6\"/><path d=\"M6 10a6 2 0 0 0 12 0M6 13.8a6 2 0 0 0 12 0\"/>",
+    "solid": "<path d=\"M12 3.5C8.7 3.5 6 4.6 6 6v12c0 1.4 2.7 2.5 6 2.5s6-1.1 6-2.5V6c0-1.4-2.7-2.5-6-2.5Zm0 1.8c2.9 0 4.2.9 4.2 1.2S14.9 7.7 12 7.7 7.8 6.8 7.8 6.5 9.1 5.3 12 5.3Z\" fill-rule=\"evenodd\"/>"
+  },
+  "gas-cylinder": {
+    "category": "industrial",
+    "keywords": [
+      "gas",
+      "cylinder",
+      "cilindro",
+      "bombona",
+      "tank",
+      "compressed",
+      "botella"
+    ],
+    "aliases": [
+      "cylinder",
+      "gas-bottle"
+    ],
+    "outline": "<path d=\"M8 20.5V10a4 4 0 0 1 8 0v10.5z\"/><rect x=\"10.5\" y=\"4\" width=\"3\" height=\"2.8\" rx=\"0.6\"/><path d=\"M13.5 5.4h1.3\"/><path d=\"M8 17.5h8\"/>",
+    "solid": "<path d=\"M12 4.8a5 5 0 0 0-5 5v10.2a1 1 0 0 0 1 1h8a1 1 0 0 0 1-1V9.8a5 5 0 0 0-5-5Z\"/><rect x=\"10.3\" y=\"3\" width=\"3.4\" height=\"3\" rx=\"0.7\"/><path d=\"M13.7 3.9h1.8v1.2h-1.8z\"/>"
+  },
+  "cooling-tower": {
+    "category": "industrial",
+    "keywords": [
+      "cooling",
+      "tower",
+      "torre",
+      "refrigeracion",
+      "power",
+      "steam",
+      "enfriamiento"
+    ],
+    "aliases": [
+      "cooling",
+      "power-plant"
+    ],
+    "outline": "<path d=\"M7 20.5C8.5 14.5 9.5 10.5 9.5 6.5\"/><path d=\"M17 20.5C15.5 14.5 14.5 10.5 14.5 6.5\"/><path d=\"M9.5 6.5h5\"/><path d=\"M7 20.5h10\"/><path d=\"M9.6 4.3a1.3 1.3 0 0 1 2.2-.8 1.3 1.3 0 0 1 2.3.8\"/>",
+    "solid": "<path d=\"M9.4 7C9.4 10.6 8.4 14.6 7 20.4a.5.5 0 0 0 .5.6h9a.5.5 0 0 0 .5-.6C15.6 14.6 14.6 10.6 14.6 7a.5.5 0 0 0-.5-.5h-4.2a.5.5 0 0 0-.5.5Z\"/><circle cx=\"10.8\" cy=\"3.8\" r=\"1.1\"/><circle cx=\"13.2\" cy=\"3.8\" r=\"1.1\"/>"
+  },
+  "smokestack": {
+    "category": "industrial",
+    "keywords": [
+      "smokestack",
+      "chimney",
+      "chimenea",
+      "stack",
+      "smoke",
+      "humo",
+      "emission"
+    ],
+    "aliases": [
+      "chimney",
+      "stack"
+    ],
+    "outline": "<path d=\"M9 20.5 9.8 7h4.4l.8 13.5z\"/><path d=\"M9.6 9.5h4.8\"/><path d=\"M6.5 20.5h11\"/><path d=\"M12 6.8c1.6-.4 1.6-1.9 0-2.3s-1.6-1.9 0-2.3\"/>",
+    "solid": "<path d=\"M9.8 6.5 9 20.4a.5.5 0 0 0 .5.6h5a.5.5 0 0 0 .5-.6L14.2 6.5Z\"/><circle cx=\"12\" cy=\"3.8\" r=\"1.4\"/><circle cx=\"14.3\" cy=\"2.8\" r=\"1\"/>"
+  },
+  "turbine-industrial": {
+    "category": "industrial",
+    "keywords": [
+      "turbine",
+      "turbina",
+      "impeller",
+      "rotor",
+      "blades",
+      "engine",
+      "aspas"
+    ],
+    "aliases": [
+      "turbine",
+      "impeller"
+    ],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"8.2\"/><circle cx=\"12\" cy=\"12\" r=\"1.8\"/><path d=\"M14.7 12L18.69 14.67M14.07 13.74L15.41 18.34M12.47 14.66L10.53 19.05M10.65 14.34L6.34 16.46M9.46 12.92L4.8 11.78M9.46 11.08L6.63 7.2M10.65 9.66L10.97 4.87M12.47 9.34L15.79 5.88M14.07 10.26L18.84 9.75\"/>",
+    "solid": null
+  },
+  "lathe": {
+    "category": "industrial",
+    "keywords": [
+      "lathe",
+      "torno",
+      "turning",
+      "machine",
+      "spindle",
+      "workpiece",
+      "mecanizado"
+    ],
+    "aliases": [
+      "turning-machine",
+      "lathe-machine"
+    ],
+    "outline": "<path d=\"M2 18.5h20\"/><rect x=\"2.5\" y=\"9.5\" width=\"4.5\" height=\"6\" rx=\"0.5\"/><rect x=\"7\" y=\"11.5\" width=\"10\" height=\"3\" rx=\"1.2\"/><rect x=\"17.5\" y=\"10.5\" width=\"4\" height=\"5\" rx=\"0.5\"/><path d=\"M12 18.5v-3\"/><path d=\"M11 18.5h2\"/>",
+    "solid": null
+  },
+  "milling-machine": {
+    "category": "industrial",
+    "keywords": [
+      "milling",
+      "machine",
+      "fresadora",
+      "fresa",
+      "mill",
+      "cutter",
+      "mecanizado"
+    ],
+    "aliases": [
+      "mill",
+      "milling"
+    ],
+    "outline": "<path d=\"M4 21V3.5h11\"/><path d=\"M14 3.5V9.5\"/><path d=\"M12.8 9.5h2.4L14 12.5Z\"/><rect x=\"6.5\" y=\"14.5\" width=\"10\" height=\"2.5\" rx=\"0.4\"/><path d=\"M11.5 17v2\"/><path d=\"M4 21h15\"/>",
+    "solid": null
+  },
+  "industrial-fan": {
+    "category": "industrial",
+    "keywords": [
+      "fan",
+      "ventilador",
+      "blower",
+      "cooling",
+      "ventilation",
+      "blades",
+      "aspas"
+    ],
+    "aliases": [
+      "fan",
+      "blower"
+    ],
+    "outline": "<circle cx=\"12\" cy=\"11\" r=\"8.2\"/><path d=\"M12 11C8.9 10 8.7 5 12 3.6C15.3 5 15.1 10 12 11ZM12 11C14.42 8.82 18.85 11.14 18.41 14.7C15.55 16.86 11.32 14.18 12 11ZM12 11C12.68 14.18 8.45 16.86 5.59 14.7C5.15 11.14 9.58 8.82 12 11Z\"/><circle cx=\"12\" cy=\"11\" r=\"1.4\"/><path d=\"M12 19.2v1.8M9 21h6\"/>",
+    "solid": null
+  }
+}

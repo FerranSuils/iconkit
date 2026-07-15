@@ -1,0 +1,29 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "iconkit"
+version = "1.0.1"
+description = "IconKit — 3000+ monochrome vector icons (outline & solid), single source of truth, currentColor, for every stack."
+readme = "README.md"
+license = "MIT"
+license-files = ["LICENSE"]
+requires-python = ">=3.8"
+authors = [{ name = "Ferran Suils Mora", email = "ferran@suils.es" }]
+keywords = ["icons", "svg", "vector", "outline", "solid", "currentcolor"]
+classifiers = [
+  "Development Status :: 5 - Production/Stable",
+  "Intended Audience :: Developers",
+  "Operating System :: OS Independent",
+  "Programming Language :: Python :: 3",
+  "Topic :: Multimedia :: Graphics",
+  "Topic :: Software Development :: User Interfaces",
+]
+
+[project.urls]
+Homepage = "https://suils.es"
+Documentation = "https://iconkit.suils.es"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/iconkit"]

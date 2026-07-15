@@ -1,0 +1,10 @@
+name: iconkit_example
+description: Minimal example app for the iconkit package.
+publish_to: none
+environment:
+  sdk: ^3.0.0
+dependencies:
+  flutter:
+    sdk: flutter
+  iconkit:
+    path: ..

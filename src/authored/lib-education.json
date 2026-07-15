@@ -1,0 +1,839 @@
+{
+  "graduation-cap": {
+    "category": "education",
+    "keywords": [
+      "graduation",
+      "cap",
+      "mortarboard",
+      "degree",
+      "graduacion",
+      "birrete",
+      "gorro",
+      "titulo"
+    ],
+    "aliases": [
+      "mortarboard",
+      "grad-cap"
+    ],
+    "outline": "<path d=\"M2.5 9 12 4.5 21.5 9 12 13.5Z\"/><path d=\"M6.5 10.9v4.6c0 1.5 2.5 2.5 5.5 2.5s5.5-1 5.5-2.5v-4.6\"/><path d=\"M21.5 9v5.4\"/><circle cx=\"21.5\" cy=\"15.6\" r=\"1.1\"/>",
+    "solid": "<path d=\"M12.45 3.6a1 1 0 0 0-.9 0L2.6 8a1 1 0 0 0 0 1.8l9 4.2a1 1 0 0 0 .8 0l9-4.2a1 1 0 0 0 0-1.8Z\"/><path d=\"M7 11.4v4.1c0 1.5 2.5 2.5 5 2.5s5-1 5-2.5v-4.1l-4.6 2.15a2 2 0 0 1-1.7 0Z\"/><path d=\"M20.9 8.1h1.2v6.5a.9.9 0 0 1-1.2 0Z\"/><circle cx=\"21.5\" cy=\"15.6\" r=\"1.3\"/>"
+  },
+  "school-building": {
+    "category": "education",
+    "keywords": [
+      "school",
+      "building",
+      "education",
+      "escuela",
+      "colegio",
+      "edificio",
+      "instituto"
+    ],
+    "aliases": [
+      "academy-building",
+      "education-building"
+    ],
+    "outline": "<path d=\"M12 2v2\"/><path d=\"M12 2h2.5l-.8 1 .8 1H12\"/><path d=\"M4 8.5 12 4l8 4.5\"/><path d=\"M5.5 8.5V20.5M18.5 8.5V20.5\"/><path d=\"M3 20.5h18\"/><path d=\"M10 20.5v-3.5a2 2 0 0 1 4 0v3.5\"/><rect x=\"7\" y=\"11\" width=\"2.5\" height=\"2.5\" rx=\"0.4\"/><rect x=\"14.5\" y=\"11\" width=\"2.5\" height=\"2.5\" rx=\"0.4\"/>",
+    "solid": "<path d=\"M12 3.6 3 8.4a1 1 0 0 0-.5.9v10.2H2a1 1 0 0 0 0 2h20a1 1 0 0 0 0-2h-.5V9.3a1 1 0 0 0-.5-.9ZM7 11h2.3v2.5H7Zm7.7 0H17v2.5h-2.3ZM12 15.2a2 2 0 0 1 2 2v3.3h-4v-3.3a2 2 0 0 1 2-2Z\" fill-rule=\"evenodd\"/><path d=\"M11.3 4.6V1.9a.9.9 0 0 1 1.7-.4h2.5a.6.6 0 0 1 .5 1l-.8 1 .8 1a.6.6 0 0 1-.5 1H13v.5Z\"/>"
+  },
+  "university": {
+    "category": "education",
+    "keywords": [
+      "university",
+      "college",
+      "campus",
+      "universidad",
+      "facultad",
+      "academia",
+      "columns"
+    ],
+    "aliases": [
+      "college",
+      "campus"
+    ],
+    "outline": "<path d=\"M3 8.5 12 4l9 4.5\"/><path d=\"M3.5 8.5h17\"/><path d=\"M6 10.5v7M10 10.5v7M14 10.5v7M18 10.5v7\"/><path d=\"M4.5 17.5h15\"/><path d=\"M3 20.5h18\"/><path d=\"M4.5 20.5v-1.5h15v1.5\"/>",
+    "solid": "<path d=\"M11.6 3.1 2.6 7.6A1 1 0 0 0 3 9.5h18a1 1 0 0 0 .4-1.9l-9-4.5a1 1 0 0 0-.8 0Z\"/><path d=\"M5 11h2v6.5H5zM9 11h2v6.5H9zM13 11h2v6.5h-2zM17 11h2v6.5h-2z\"/><path d=\"M4 18.5h16a1 1 0 0 1 1 1v.5a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1v-.5a1 1 0 0 1 1-1Z\"/>"
+  },
+  "backpack-edu": {
+    "category": "education",
+    "keywords": [
+      "backpack",
+      "bag",
+      "school",
+      "mochila",
+      "bolso",
+      "escolar",
+      "rucksack"
+    ],
+    "aliases": [
+      "schoolbag",
+      "student-bag",
+      "book-bag"
+    ],
+    "outline": "<path d=\"M6 9a6 6 0 0 1 12 0v8.5a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2Z\"/><path d=\"M9.5 8.2V7a2.5 2.5 0 0 1 5 0v1.2\"/><path d=\"M8.5 19.5v-5a1.5 1.5 0 0 1 1.5-1.5h4a1.5 1.5 0 0 1 1.5 1.5v5\"/><path d=\"M11 13v2.3\"/>",
+    "solid": "<path d=\"M9.5 7a2.5 2.5 0 0 1 5 0v.35A6 6 0 0 1 18 12.7V18a2 2 0 0 1-2 2h-.5v-5.5a2 2 0 0 0-2-2h-3a2 2 0 0 0-2 2V20H8a2 2 0 0 1-2-2v-5.3A6 6 0 0 1 9.5 7.35Zm1.6.2a4 4 0 0 1 1.8 0 1.5 1.5 0 0 0-1.8 0Zm-1.1 9.3h4a.5.5 0 0 1 .5.5V20h-5v-3.5a.5.5 0 0 1 .5-.5Z\" fill-rule=\"evenodd\"/>"
+  },
+  "book-stack": {
+    "category": "education",
+    "keywords": [
+      "books",
+      "stack",
+      "library",
+      "libros",
+      "pila",
+      "biblioteca",
+      "reading"
+    ],
+    "aliases": [
+      "books",
+      "book-pile",
+      "stacked-books"
+    ],
+    "outline": "<rect x=\"4\" y=\"15.5\" width=\"16\" height=\"4\" rx=\"1\"/><rect x=\"4.5\" y=\"11\" width=\"15\" height=\"4\" rx=\"1\"/><rect x=\"5.5\" y=\"6.5\" width=\"13\" height=\"4\" rx=\"1\"/><path d=\"M7.5 15.5v4M8 11v4M9 6.5v4\"/>",
+    "solid": "<path d=\"M5 15.5h14a1 1 0 0 1 1 1v2a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-2a1 1 0 0 1 1-1Zm3 3.7v-3.7H6.7v3.7ZM5.5 11h13a1 1 0 0 1 1 1v2a1 1 0 0 1-1 1h-13a1 1 0 0 1-1-1v-2a1 1 0 0 1 1-1Zm3 3.5v-3.5H7.2v3.5ZM6.5 6.5h11a1 1 0 0 1 1 1v2a1 1 0 0 1-1 1h-11a1 1 0 0 1-1-1v-2a1 1 0 0 1 1-1Zm3 3.5v-3.5H8.2v3.5Z\" fill-rule=\"evenodd\"/>"
+  },
+  "notebook-edu": {
+    "category": "education",
+    "keywords": [
+      "notebook",
+      "notepad",
+      "notes",
+      "cuaderno",
+      "libreta",
+      "apuntes",
+      "notas"
+    ],
+    "aliases": [
+      "exercise-book",
+      "writing-pad"
+    ],
+    "outline": "<rect x=\"5\" y=\"3\" width=\"14\" height=\"18\" rx=\"2\"/><path d=\"M9 3v18\"/><path d=\"M11.5 8h4.5M11.5 11.5h4.5M11.5 15h4.5\"/>",
+    "solid": "<path d=\"M7 3a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2Zm4.5 4.5h4a.9.9 0 0 1 0 1.8h-4a.9.9 0 0 1 0-1.8Zm0 3.5h4a.9.9 0 0 1 0 1.8h-4a.9.9 0 0 1 0-1.8Zm0 3.5h4a.9.9 0 0 1 0 1.8h-4a.9.9 0 0 1 0-1.8Z\" fill-rule=\"evenodd\"/><path d=\"M8.5 3.5h1v17h-1z\"/>"
+  },
+  "pencil-case": {
+    "category": "education",
+    "keywords": [
+      "pencil",
+      "case",
+      "pouch",
+      "estuche",
+      "cartuchera",
+      "lapices",
+      "stationery"
+    ],
+    "aliases": [
+      "pencil-pouch",
+      "pencil-box"
+    ],
+    "outline": "<rect x=\"3\" y=\"7\" width=\"18\" height=\"10\" rx=\"3\"/><path d=\"M3.2 11.5h17.6\"/><rect x=\"15.3\" y=\"10.2\" width=\"2.6\" height=\"2.6\" rx=\"0.7\"/><path d=\"M16.6 12.8v1.7\"/>",
+    "solid": "<path d=\"M6 7.5h12a3.5 3.5 0 0 1 3.5 3.5v.5h-19V11A3.5 3.5 0 0 1 6 7.5Z\"/><path d=\"M2.5 12.5h19v.5A3.5 3.5 0 0 1 18 16.5H6A3.5 3.5 0 0 1 2.5 13Z\"/><path d=\"M15.3 10.2h2.6v2.6h-2.6z\"/>"
+  },
+  "blackboard": {
+    "category": "education",
+    "keywords": [
+      "blackboard",
+      "chalkboard",
+      "board",
+      "pizarra",
+      "pizarron",
+      "tiza",
+      "chalk"
+    ],
+    "aliases": [
+      "chalkboard"
+    ],
+    "outline": "<rect x=\"3\" y=\"3.5\" width=\"18\" height=\"13\" rx=\"1.5\"/><path d=\"M6.5 8.5c1-1.2 2-1.2 3 0s2 1.2 3 0\"/><path d=\"M6.5 12h7\"/><path d=\"M7 16.5v2M17 16.5v2\"/>",
+    "solid": "<path d=\"M4.5 3.5h15A1.5 1.5 0 0 1 21 5v10a1.5 1.5 0 0 1-1.5 1.5h-15A1.5 1.5 0 0 1 3 15V5a1.5 1.5 0 0 1 1.5-1.5Zm2 4.4a.8.8 0 0 0 0 1.2c.25.25.6.25.85 0 .85-.85 2.05-.85 2.9 0 .55.55 1.35.55 1.9 0s.25-.85 0-1.2c-1.55-1.55-3.55-1.55-5.1 0-.15.15-.3.15-.45 0Zm0 3.3a.9.9 0 0 0 0 1.8h6a.9.9 0 0 0 0-1.8Z\" fill-rule=\"evenodd\"/><path d=\"M7 16.5h1.6V19a.8.8 0 0 1-1.6 0ZM15.4 16.5H17V19a.8.8 0 0 1-1.6 0Z\"/>"
+  },
+  "whiteboard": {
+    "category": "education",
+    "keywords": [
+      "whiteboard",
+      "board",
+      "easel",
+      "pizarra blanca",
+      "rotulador",
+      "tablero"
+    ],
+    "aliases": [
+      "marker-board",
+      "wipe-board"
+    ],
+    "outline": "<rect x=\"3\" y=\"3.5\" width=\"18\" height=\"12\" rx=\"1.5\"/><path d=\"M6.5 7.5h7M6.5 10.5h9M6.5 13h5\"/><path d=\"M12 15.5v1.8M12 17.3 8.5 21M12 17.3 15.5 21\"/>",
+    "solid": "<path d=\"M4.5 3.5h15A1.5 1.5 0 0 1 21 5v9a1.5 1.5 0 0 1-1.5 1.5H13v1.3l3.2 4a1 1 0 0 1-1.5 1.2L12 18.6l-2.7 3.4a1 1 0 0 1-1.5-1.2l3.2-4V15.5H4.5A1.5 1.5 0 0 1 3 14V5a1.5 1.5 0 0 1 1.5-1.5Zm2 3.6a.9.9 0 0 0 0 1.8h7a.9.9 0 0 0 0-1.8Zm0 3a.9.9 0 0 0 0 1.8h9a.9.9 0 0 0 0-1.8Z\" fill-rule=\"evenodd\"/>"
+  },
+  "diploma": {
+    "category": "education",
+    "keywords": [
+      "diploma",
+      "scroll",
+      "certificate",
+      "titulo",
+      "pergamino",
+      "graduacion",
+      "ribbon",
+      "marco",
+      "frame",
+      "birrete"
+    ],
+    "aliases": [
+      "scroll",
+      "parchment"
+    ],
+    "outline": "<path d=\"M7.5 5 12 3l4.5 2L12 7Z\"/><rect x=\"3\" y=\"10\" width=\"18\" height=\"10.5\" rx=\"1.5\"/><path d=\"M7.5 14h9M9.5 17h5\"/>",
+    "solid": "<path d=\"M4.5 10h15a1.5 1.5 0 0 1 1.5 1.5V19a1.5 1.5 0 0 1-1.5 1.5h-15A1.5 1.5 0 0 1 3 19v-7.5A1.5 1.5 0 0 1 4.5 10Zm3 3.1a.9.9 0 0 0 0 1.8h9a.9.9 0 0 0 0-1.8Zm2 3.3a.9.9 0 0 0 0 1.8h5a.9.9 0 0 0 0-1.8Z\" fill-rule=\"evenodd\"/><path d=\"M12.35 3.05a.95.95 0 0 0-.7 0L7.1 5.03a.72.72 0 0 0 0 1.34l4.55 1.98a.95.95 0 0 0 .7 0l4.55-1.98a.72.72 0 0 0 0-1.34Z\"/>"
+  },
+  "scholarship": {
+    "category": "education",
+    "keywords": [
+      "scholarship",
+      "grant",
+      "funding",
+      "beca",
+      "ayuda",
+      "financiacion",
+      "money",
+      "moneda",
+      "coin",
+      "dollar"
+    ],
+    "aliases": [
+      "grant",
+      "study-grant"
+    ],
+    "outline": "<path d=\"M5 5.9 12 3.1l7 2.8-7 2.8Z\"/><circle cx=\"12\" cy=\"16.4\" r=\"4.6\"/><path d=\"M12 13.4v6.5\"/><path d=\"M14 14.7h-2.9a1 1 0 0 0 0 2h1.8a1 1 0 0 1 0 2H10\"/>",
+    "solid": "<path d=\"M12.35 2.8a1 1 0 0 0-.7 0l-7 2.8a.75.75 0 0 0 0 1.4l7 2.8a1 1 0 0 0 .7 0l7-2.8a.75.75 0 0 0 0-1.4Z\"/><path d=\"M12 11.8a4.6 4.6 0 1 0 0 9.2 4.6 4.6 0 0 0 0-9.2Zm0 1.8a2.8 2.8 0 1 1 0 5.6 2.8 2.8 0 0 1 0-5.6Z\" fill-rule=\"evenodd\"/><rect x=\"11.1\" y=\"13\" width=\"1.8\" height=\"6.8\" rx=\"0.9\"/>"
+  },
+  "student": {
+    "category": "education",
+    "keywords": [
+      "student",
+      "pupil",
+      "learner",
+      "estudiante",
+      "alumno",
+      "aprendiz",
+      "graduate"
+    ],
+    "aliases": [
+      "pupil",
+      "learner"
+    ],
+    "outline": "<path d=\"M5.5 7 12 4.5 18.5 7 12 9.5Z\"/><path d=\"M18.5 7v3\"/><circle cx=\"12\" cy=\"12\" r=\"3\"/><path d=\"M6.5 20.5c0-3 2.5-4.8 5.5-4.8s5.5 1.8 5.5 4.8\"/>",
+    "solid": "<path d=\"M11.7 3.6a1 1 0 0 1 .6 0l6.5 2.5a.8.8 0 0 1 0 1.5l-1.3.5V10a.8.8 0 0 1-1.6 0V8.7l-3.6 1.4a1 1 0 0 1-.6 0L5.2 7.6a.8.8 0 0 1 0-1.5Z\"/><circle cx=\"12\" cy=\"13\" r=\"3.2\"/><path d=\"M12 16.8c-3.2 0-5.8 1.9-5.8 5a.8.8 0 0 0 .8.8h10a.8.8 0 0 0 .8-.8c0-3.1-2.6-5-5.8-5Z\"/>"
+  },
+  "teacher": {
+    "category": "education",
+    "keywords": [
+      "teacher",
+      "instructor",
+      "professor",
+      "profesor",
+      "maestro",
+      "docente",
+      "educator"
+    ],
+    "aliases": [
+      "instructor",
+      "professor",
+      "educator"
+    ],
+    "outline": "<rect x=\"7.5\" y=\"3\" width=\"14\" height=\"9\" rx=\"1.5\"/><path d=\"M10.5 6h8M10.5 9h5.5\"/><circle cx=\"5.5\" cy=\"13.8\" r=\"2\"/><path d=\"M2.5 21v-1.7a3 3 0 0 1 6 0V21\"/><path d=\"M7.6 16.8 9.8 13\"/>",
+    "solid": "<path d=\"M9 3h11a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2H9a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2Zm1.5 3a.8.8 0 0 0 0 1.6h8a.8.8 0 0 0 0-1.6Zm0 3a.8.8 0 0 0 0 1.6h5a.8.8 0 0 0 0-1.6Z\" fill-rule=\"evenodd\"/><circle cx=\"5.5\" cy=\"13.8\" r=\"2.2\"/><path d=\"M5.5 16.4a3.6 3.6 0 0 0-3.6 3.6.9.9 0 0 0 .9.9h5.4a.9.9 0 0 0 .9-.9 3.6 3.6 0 0 0-3.6-3.6Z\"/>"
+  },
+  "classroom": {
+    "category": "education",
+    "keywords": [
+      "classroom",
+      "desks",
+      "class",
+      "aula",
+      "clase",
+      "pupitres",
+      "lesson"
+    ],
+    "aliases": [
+      "class",
+      "lecture-room"
+    ],
+    "outline": "<rect x=\"6.5\" y=\"3\" width=\"11\" height=\"6.5\" rx=\"1\"/><path d=\"M9 5.5h6M9 7.2h4\"/><path d=\"M3 16h6.5M4.2 16v3.5M8.3 16v3.5\"/><path d=\"M14.5 16h6.5M15.7 16v3.5M19.8 16v3.5\"/>",
+    "solid": null
+  },
+  "library-edu": {
+    "category": "education",
+    "keywords": [
+      "library",
+      "bookshelf",
+      "books",
+      "biblioteca",
+      "estanteria",
+      "libreria",
+      "shelf"
+    ],
+    "aliases": [
+      "books-shelf",
+      "study-library"
+    ],
+    "outline": "<rect x=\"3.5\" y=\"3\" width=\"17\" height=\"18\" rx=\"1.5\"/><path d=\"M3.5 9h17M3.5 15h17\"/><path d=\"M6 4.8v2.8M8 4.8v2.8M10 4.8v2.8M12 4.8v2.8M14.5 4.8v2.8M16.5 4.8v2.8\"/><path d=\"M6 10.8v2.8M8 10.8v2.8M10 10.8v2.8M12.5 10.8v2.8M14.5 10.8v2.8M16.5 10.8v2.8\"/><path d=\"M6 16.8v2.8M8.5 16.8v2.8M10.5 16.8v2.8M12.5 16.8v2.8M15 16.8v2.8\"/>",
+    "solid": null
+  },
+  "exam": {
+    "category": "education",
+    "keywords": [
+      "exam",
+      "test",
+      "paper",
+      "examen",
+      "prueba",
+      "hoja",
+      "assessment"
+    ],
+    "aliases": [
+      "test",
+      "exam-paper"
+    ],
+    "outline": "<rect x=\"4.5\" y=\"3\" width=\"15\" height=\"18\" rx=\"2\"/><path d=\"M8 7.5h8\"/><path d=\"M8 11h.01M11 11h5M8 14.5h.01M11 14.5h5M8 18h.01M11 18h3\"/>",
+    "solid": "<path d=\"M6.5 3h11a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2h-11a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2Zm1.5 3.6a.9.9 0 0 0 0 1.8h8a.9.9 0 0 0 0-1.8Zm0 3.5a1 1 0 1 0 0 2 1 1 0 0 0 0-2Zm3 .1a.9.9 0 0 0 0 1.8h5a.9.9 0 0 0 0-1.8Zm-3 3.4a1 1 0 1 0 0 2 1 1 0 0 0 0-2Zm3 .1a.9.9 0 0 0 0 1.8h5a.9.9 0 0 0 0-1.8Z\" fill-rule=\"evenodd\"/>"
+  },
+  "quiz": {
+    "category": "education",
+    "keywords": [
+      "quiz",
+      "question",
+      "test",
+      "cuestionario",
+      "pregunta",
+      "trivia"
+    ],
+    "aliases": [
+      "questionnaire",
+      "trivia"
+    ],
+    "outline": "<rect x=\"5\" y=\"3\" width=\"14\" height=\"18\" rx=\"2\"/><path d=\"M9.5 8.5a2.5 2.5 0 1 1 3.2 2.4c-.8.3-1.2.9-1.2 1.6v.4\"/><path d=\"M11.5 16h.01\"/>",
+    "solid": "<path d=\"M7 3h10a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2Zm5 3.2a3 3 0 0 0-3 3 1 1 0 0 0 2 0 1 1 0 1 1 1.3.95c-.9.35-1.55 1.15-1.55 2.15v.2a1 1 0 0 0 2 0c0-.35.15-.5.6-.7A3 3 0 0 0 12 6.2Zm-.5 9.6a1.15 1.15 0 1 0 0 2.3 1.15 1.15 0 0 0 0-2.3Z\" fill-rule=\"evenodd\"/>"
+  },
+  "lecture": {
+    "category": "education",
+    "keywords": [
+      "lecture",
+      "podium",
+      "lectern",
+      "conferencia",
+      "atril",
+      "ponente",
+      "speaker"
+    ],
+    "aliases": [
+      "lectern",
+      "speaker-stand"
+    ],
+    "outline": "<circle cx=\"12\" cy=\"4.3\" r=\"1.8\"/><path d=\"M6.5 7h11l-1 4.5H7.5Z\"/><path d=\"M9.5 9h5\"/><path d=\"M12 11.5V19\"/><path d=\"M9 19.5h6\"/>",
+    "solid": "<circle cx=\"12\" cy=\"4.3\" r=\"2\"/><path d=\"M6.6 7A.8.8 0 0 0 5.8 8l.8 3.5a1 1 0 0 0 1 .8h3.4V19H9a.9.9 0 0 0 0 1.8h6a.9.9 0 0 0 0-1.8h-2v-6.7h3.4a1 1 0 0 0 1-.8L18.2 8a.8.8 0 0 0-.8-1Zm1.9 2.3h7l-.4 1.7h-6.2Z\" fill-rule=\"evenodd\"/>"
+  },
+  "online-course": {
+    "category": "education",
+    "keywords": [
+      "online",
+      "course",
+      "video",
+      "curso",
+      "en linea",
+      "leccion",
+      "screen"
+    ],
+    "aliases": [
+      "video-course",
+      "online-class"
+    ],
+    "outline": "<rect x=\"3\" y=\"4\" width=\"18\" height=\"12\" rx=\"2\"/><path d=\"M8 20h8M12 16v4\"/><path d=\"M10.5 8.2v3.6a.5.5 0 0 0 .78.42l2.8-1.8a.5.5 0 0 0 0-.84l-2.8-1.8a.5.5 0 0 0-.78.42Z\"/>",
+    "solid": "<path d=\"M5 4h14a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2Zm5.5 4.2v3.6a.5.5 0 0 0 .78.42l2.8-1.8a.5.5 0 0 0 0-.84l-2.8-1.8a.5.5 0 0 0-.78.42Z\" fill-rule=\"evenodd\"/><path d=\"M12 16a1 1 0 0 1 1 1v2h3a1 1 0 0 1 0 2H8a1 1 0 0 1 0-2h3v-2a1 1 0 0 1 1-1Z\"/>"
+  },
+  "homework": {
+    "category": "education",
+    "keywords": [
+      "homework",
+      "assignment",
+      "write",
+      "deberes",
+      "tarea",
+      "escribir",
+      "essay"
+    ],
+    "aliases": [
+      "assignment",
+      "essay"
+    ],
+    "outline": "<rect x=\"4\" y=\"3\" width=\"13\" height=\"18\" rx=\"2\"/><path d=\"M7.5 8h6M7.5 11.5h6M7.5 15h3\"/><path d=\"M19.5 12.5 21 14 15.5 19.5 13.5 20l.5-2Z\"/>",
+    "solid": "<path d=\"M6 3a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h6.2l.4-1.6a2.4 2.4 0 0 1 .63-1.1L17 14.5V5a2 2 0 0 0-2-2Zm1.5 4.5h6a.9.9 0 0 1 0 1.8h-6a.9.9 0 0 1 0-1.8Zm0 3.5h6a.9.9 0 0 1 0 1.8h-6a.9.9 0 0 1 0-1.8Zm0 3.5h2.5a.9.9 0 0 1 0 1.8H7.5a.9.9 0 0 1 0-1.8Z\" fill-rule=\"evenodd\"/><path d=\"M19.4 11.2 21 12.8a.7.7 0 0 1 0 1L15.6 19.1a.7.7 0 0 1-.32.18l-2 .5a.35.35 0 0 1-.43-.42l.5-2a.7.7 0 0 1 .19-.33l5.4-5.4a.7.7 0 0 1 1 0Z\"/>"
+  },
+  "alphabet-abc": {
+    "category": "education",
+    "keywords": [
+      "alphabet",
+      "abc",
+      "letters",
+      "abecedario",
+      "letras",
+      "spelling",
+      "reading"
+    ],
+    "aliases": [
+      "abc",
+      "letters"
+    ],
+    "outline": "<path d=\"M2.5 15 4.8 8 7.1 15M3.4 12.6h2.8\"/><path d=\"M9 15V8h2.5a1.75 1.75 0 0 1 0 3.5H9m2.6 0a1.75 1.75 0 0 1 0 3.5H9\"/><path d=\"M20.5 9.6a3.8 3.8 0 1 0 0 4.8\"/>",
+    "solid": null
+  },
+  "math-edu": {
+    "category": "education",
+    "keywords": [
+      "math",
+      "mathematics",
+      "operations",
+      "matematicas",
+      "calculo",
+      "aritmetica",
+      "numbers",
+      "plus",
+      "minus",
+      "multiplicacion",
+      "operadores"
+    ],
+    "aliases": [
+      "mathematics",
+      "arithmetic"
+    ],
+    "outline": "<rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"3\"/><path d=\"M8.2 6v4.4M6 8.2h4.4\"/><path d=\"M13.6 8.2H18\"/><path d=\"M9.9 13.8l4.2 4.2M14.1 13.8l-4.2 4.2\"/>",
+    "solid": null
+  },
+  "globe-education": {
+    "category": "education",
+    "keywords": [
+      "globe",
+      "world",
+      "geography",
+      "globo",
+      "mundo",
+      "geografia",
+      "terraqueo"
+    ],
+    "aliases": [
+      "world-globe",
+      "desk-globe"
+    ],
+    "outline": "<circle cx=\"12\" cy=\"9.5\" r=\"6\"/><path d=\"M6 9.5h12\"/><path d=\"M12 3.5c2.5 1.8 2.5 10.2 0 12M12 3.5c-2.5 1.8-2.5 10.2 0 12\"/><path d=\"M12 15.5v2.5\"/><path d=\"M8.5 21h7\"/><path d=\"M12 18c-1.9 0-2.8 1.4-3 3M12 18c1.9 0 2.8 1.4 3 3\"/>",
+    "solid": null
+  },
+  "ruler-pencil": {
+    "category": "education",
+    "keywords": [
+      "ruler",
+      "pencil",
+      "design",
+      "regla",
+      "lapiz",
+      "dibujo",
+      "geometry"
+    ],
+    "aliases": [
+      "design-tools",
+      "drawing-tools"
+    ],
+    "outline": "<path d=\"M6.5 4h2.5v11.5l-1.25 3-1.25-3Z\"/><path d=\"M6.5 6h2.5M6.5 15.5h2.5\"/><rect x=\"13\" y=\"4\" width=\"4.5\" height=\"16\" rx=\"1\"/><path d=\"M13 7h1.6M13 9.5h1.6M13 12h1.6M13 14.5h1.6M13 17h1.6\"/>",
+    "solid": "<path d=\"M6.75 3.5h2a.75.75 0 0 1 .75.75v11.35a.6.6 0 0 1-.05.24l-1.25 3a.55.55 0 0 1-1 0l-1.25-3a.6.6 0 0 1-.05-.24V4.25a.75.75 0 0 1 .75-.75Z\"/><path d=\"M14 3.5h3.5a1.5 1.5 0 0 1 1.5 1.5v14a1.5 1.5 0 0 1-1.5 1.5H14a1.5 1.5 0 0 1-1.5-1.5V5A1.5 1.5 0 0 1 14 3.5Zm.2 3.2a.7.7 0 0 0 0 1.4h1.4V6.7Zm0 2.8a.7.7 0 0 0 0 1.4h1.4V9.5Zm0 2.8a.7.7 0 0 0 0 1.4h1.4v-1.4Z\" fill-rule=\"evenodd\"/>"
+  },
+  "calculator-edu": {
+    "category": "education",
+    "keywords": [
+      "calculator",
+      "calculate",
+      "math",
+      "calculadora",
+      "cuentas",
+      "numeros"
+    ],
+    "aliases": [
+      "math-calculator",
+      "school-calculator"
+    ],
+    "outline": "<rect x=\"4.5\" y=\"2.5\" width=\"15\" height=\"19\" rx=\"2\"/><rect x=\"7\" y=\"5\" width=\"10\" height=\"3.5\" rx=\"0.6\"/><path d=\"M8 12h.01M12 12h.01M16 12h.01M8 15h.01M12 15h.01M16 15h.01M8 18h.01M12 18h.01M16 18h.01\"/>",
+    "solid": "<path d=\"M6.5 2.5h11a2 2 0 0 1 2 2v15a2 2 0 0 1-2 2h-11a2 2 0 0 1-2-2v-15a2 2 0 0 1 2-2Zm.5 3a.8.8 0 0 0-.8.8v2.4a.8.8 0 0 0 .8.8h10a.8.8 0 0 0 .8-.8V6.3a.8.8 0 0 0-.8-.8Zm1 6a1 1 0 1 0 0 2 1 1 0 0 0 0-2Zm4 0a1 1 0 1 0 0 2 1 1 0 0 0 0-2Zm4 0a1 1 0 1 0 0 2 1 1 0 0 0 0-2Zm-8 3a1 1 0 1 0 0 2 1 1 0 0 0 0-2Zm4 0a1 1 0 1 0 0 2 1 1 0 0 0 0-2Zm4 0a1 1 0 1 0 0 2 1 1 0 0 0 0-2Zm-8 3a1 1 0 1 0 0 2 1 1 0 0 0 0-2Zm4 0a1 1 0 1 0 0 2 1 1 0 0 0 0-2Zm4 0a1 1 0 1 0 0 2 1 1 0 0 0 0-2Z\" fill-rule=\"evenodd\"/>"
+  },
+  "apple-teacher": {
+    "category": "education",
+    "keywords": [
+      "apple",
+      "teacher",
+      "fruit",
+      "manzana",
+      "profesor",
+      "fruta",
+      "gift"
+    ],
+    "aliases": [
+      "teacher-apple",
+      "school-apple"
+    ],
+    "outline": "<path d=\"M12 7.5c-1.2-1.2-3.2-1.5-4.7-.4C5.5 8.4 5 11 6 14c.8 2.4 2.3 5 3.8 5 .8 0 1.4-.5 2.2-.5s1.4.5 2.2.5c1.5 0 3-2.6 3.8-5 1-3 .5-5.6-1.3-6.9-1.5-1.1-3.5-.8-4.7.4Z\"/><path d=\"M12 7.5V5.2\"/><path d=\"M12.5 5.7c1.7-.2 2.8-1.7 2.6-3.3-1.6-.2-3.2.6-3.6 2.4\"/>",
+    "solid": "<path d=\"M12 7.6c-1.3-1.15-3.15-1.4-4.65-.3C5.55 8.6 5.05 11.15 6.05 14c.8 2.35 2.25 4.85 3.75 4.85.8 0 1.4-.5 2.2-.5s1.4.5 2.2.5c1.5 0 2.95-2.5 3.75-4.85 1-2.85.5-5.4-1.3-6.7-1.5-1.1-3.35-.85-4.65.3Z\"/><path d=\"M12.5 6.7c1.7-.15 3-1.6 2.9-3.3a.6.6 0 0 0-.6-.55c-1.55.05-2.9 1.15-3.2 2.75-.15-.5-.5-.95-1-1.15a.6.6 0 0 0-.45 1.1c.55.25.9.75.95 1.35a.6.6 0 0 0 1.2.05Z\"/>"
+  },
+  "school-bell": {
+    "category": "education",
+    "keywords": [
+      "bell",
+      "school",
+      "ring",
+      "campana",
+      "timbre",
+      "escuela",
+      "recreo"
+    ],
+    "aliases": [
+      "hand-bell",
+      "class-bell"
+    ],
+    "outline": "<path d=\"M7.5 15.5c0-4.2 1.2-7.2 4.5-8.7 3.3 1.5 4.5 4.5 4.5 8.7Z\"/><path d=\"M6 15.5h12\"/><path d=\"M12 6.8V5.4\"/><circle cx=\"12\" cy=\"4\" r=\"1.4\"/><circle cx=\"12\" cy=\"18\" r=\"1.3\"/>",
+    "solid": "<path d=\"M13.4 4a1.4 1.4 0 1 0-2.15 1.2C8.3 6.85 7.25 9.9 7.25 13.8a.9.9 0 0 0 .05.3.9.9 0 0 0-.05.3.9.9 0 0 0 .9.8h7.7a.9.9 0 0 0 .9-.8.9.9 0 0 0-.05-.3.9.9 0 0 0 .05-.3c0-3.9-1.05-6.95-4-8.6A1.4 1.4 0 0 0 13.4 4Z\"/><path d=\"M6 14.5h12a.9.9 0 0 1 0 1.8H6a.9.9 0 0 1 0-1.8Z\"/><circle cx=\"12\" cy=\"18\" r=\"1.4\"/>"
+  },
+  "locker": {
+    "category": "education",
+    "keywords": [
+      "locker",
+      "cabinet",
+      "storage",
+      "taquilla",
+      "casillero",
+      "armario",
+      "school"
+    ],
+    "aliases": [
+      "school-locker",
+      "storage-locker"
+    ],
+    "outline": "<rect x=\"6\" y=\"3\" width=\"12\" height=\"18\" rx=\"1.5\"/><path d=\"M9 6.5h6M9 8.5h6\"/><path d=\"M14.5 12.5v4\"/><circle cx=\"14.5\" cy=\"11\" r=\"0.6\"/>",
+    "solid": "<path d=\"M7.5 3h9a1.5 1.5 0 0 1 1.5 1.5v15a1.5 1.5 0 0 1-1.5 1.5h-9A1.5 1.5 0 0 1 6 18.5v-15A1.5 1.5 0 0 1 7.5 3Zm1.5 3.4a.75.75 0 0 0 0 1.5h6a.75.75 0 0 0 0-1.5Zm0 2.2a.75.75 0 0 0 0 1.5h6a.75.75 0 0 0 0-1.5Zm5.5 3.4a1 1 0 0 0-1 1v3a1 1 0 0 0 2 0v-3a1 1 0 0 0-1-1Z\" fill-rule=\"evenodd\"/>"
+  },
+  "cap-tassel": {
+    "category": "education",
+    "keywords": [
+      "tassel",
+      "cap",
+      "graduation",
+      "borla",
+      "birrete",
+      "cordon",
+      "fringe",
+      "borla grande",
+      "mortarboard"
+    ],
+    "aliases": [
+      "tassel",
+      "graduation-tassel"
+    ],
+    "outline": "<path d=\"M5 8 13 4.2 21 8l-8 3.8Z\"/><path d=\"M10 10.4v2.8c0 1 1.4 1.7 3 1.7s3-.7 3-1.7v-2.8\"/><path d=\"M5 8v6\"/><rect x=\"3\" y=\"14\" width=\"4\" height=\"6.5\" rx=\"2\"/>",
+    "solid": "<path d=\"M13.35 3.35a.8.8 0 0 0-.7 0L4.6 7.3a.78.78 0 0 0 0 1.4l8.05 3.85a.8.8 0 0 0 .7 0l8.05-3.85a.78.78 0 0 0 0-1.4Z\"/><path d=\"M10 10.8v2.4c0 1 1.4 1.7 3 1.7s3-.7 3-1.7v-2.4l-2.6 1.25a1.3 1.3 0 0 1-1.1 0Z\"/><rect x=\"4.1\" y=\"7.8\" width=\"1.8\" height=\"6.6\" rx=\"0.9\"/><rect x=\"2.7\" y=\"13.6\" width=\"4.6\" height=\"7.2\" rx=\"2.3\"/>"
+  },
+  "report-card": {
+    "category": "education",
+    "keywords": [
+      "report",
+      "card",
+      "grades",
+      "boletin",
+      "notas",
+      "calificaciones",
+      "results"
+    ],
+    "aliases": [
+      "grades",
+      "report-sheet"
+    ],
+    "outline": "<rect x=\"3.5\" y=\"3\" width=\"17\" height=\"18\" rx=\"2\"/><path d=\"M6.5 7h11\"/><path d=\"M6.5 11h5M15 11h2.5M6.5 14.5h5M15 14.5h2.5M6.5 18h5M15 18h2.5\"/>",
+    "solid": "<path d=\"M6 3h12a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2Zm1.5 3.5a.85.85 0 0 0 0 1.7h9a.85.85 0 0 0 0-1.7Zm0 3.7a.85.85 0 0 0 0 1.7h4.5a.85.85 0 0 0 0-1.7Zm8 0a.85.85 0 0 0 0 1.7h1.5a.85.85 0 0 0 0-1.7Zm-8 3.5a.85.85 0 0 0 0 1.7h4.5a.85.85 0 0 0 0-1.7Zm8 0a.85.85 0 0 0 0 1.7h1.5a.85.85 0 0 0 0-1.7Zm-8 3.5a.85.85 0 0 0 0 1.7h4.5a.85.85 0 0 0 0-1.7Zm8 0a.85.85 0 0 0 0 1.7h1.5a.85.85 0 0 0 0-1.7Z\" fill-rule=\"evenodd\"/>"
+  },
+  "grade-a": {
+    "category": "education",
+    "keywords": [
+      "grade",
+      "a",
+      "mark",
+      "nota",
+      "sobresaliente",
+      "calificacion",
+      "excellent"
+    ],
+    "aliases": [
+      "a-plus",
+      "top-grade"
+    ],
+    "outline": "<rect x=\"3.5\" y=\"3.5\" width=\"17\" height=\"17\" rx=\"4\"/><path d=\"M7.5 15.5 10.5 8l3 7.5M8.6 13h3.8\"/><path d=\"M15.8 9.8v3.4M14.1 11.5h3.4\"/>",
+    "solid": "<path d=\"M7.5 3.5h9a4 4 0 0 1 4 4v9a4 4 0 0 1-4 4h-9a4 4 0 0 1-4-4v-9a4 4 0 0 1 4-4Zm3 3.6a1 1 0 0 0-.93.63l-3 7.5a1 1 0 0 0 1.86.74l.53-1.32h3.08l.53 1.32a1 1 0 0 0 1.86-.74l-3-7.5A1 1 0 0 0 10.5 7.1Zm0 3.72.79 1.97H9.71ZM15.8 8.8a1 1 0 0 0-1 1v.7h-.7a1 1 0 0 0 0 2h.7v.7a1 1 0 0 0 2 0v-.7h.7a1 1 0 0 0 0-2h-.7v-.7a1 1 0 0 0-1-1Z\" fill-rule=\"evenodd\"/>"
+  },
+  "certificate-edu": {
+    "category": "education",
+    "keywords": [
+      "certificate",
+      "award",
+      "diploma",
+      "certificado",
+      "titulo",
+      "reconocimiento",
+      "seal",
+      "sello",
+      "hoja",
+      "vertical"
+    ],
+    "aliases": [
+      "award-certificate",
+      "study-certificate"
+    ],
+    "outline": "<path d=\"M13 19H5.5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2H13a2 2 0 0 1 2 2v7.3\"/><path d=\"M6.5 7.5h5.5M6.5 11h5.5M6.5 14.5h3\"/><circle cx=\"17\" cy=\"16\" r=\"3.2\"/><path d=\"M15.8 18.7l-1 2.3M18.2 18.7l1 2.3\"/>",
+    "solid": "<path d=\"M5.5 3H13a2 2 0 0 1 2 2v7.1a4.4 4.4 0 0 0-1.22 6.9H5.5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2Zm1 3.6a.9.9 0 0 0 0 1.8h5a.9.9 0 0 0 0-1.8Zm0 3.5a.9.9 0 0 0 0 1.8h5a.9.9 0 0 0 0-1.8Zm0 3.5a.9.9 0 0 0 0 1.8h2.5a.9.9 0 0 0 0-1.8Z\" fill-rule=\"evenodd\"/><path d=\"M14.55 18.06a3.2 3.2 0 1 1 4.9 0l.85 3.2a.55.55 0 0 1-.79.63L17 20.6l-2.51 1.29a.55.55 0 0 1-.79-.63Z\"/>"
+  },
+  "e-learning": {
+    "category": "education",
+    "keywords": [
+      "elearning",
+      "online",
+      "laptop",
+      "aprendizaje",
+      "en linea",
+      "curso",
+      "digital"
+    ],
+    "aliases": [
+      "elearning",
+      "distance-learning"
+    ],
+    "outline": "<rect x=\"4.5\" y=\"4\" width=\"15\" height=\"10\" rx=\"1.5\"/><path d=\"M2.5 17.5h19\"/><path d=\"M8.2 7.8 12 6.3l3.8 1.5L12 9.3Z\"/><path d=\"M9.8 8.5v1.9c0 .7 1 1.2 2.2 1.2s2.2-.5 2.2-1.2V8.5\"/><path d=\"M15.8 7.8v2\"/>",
+    "solid": "<path d=\"M6 4h12a2 2 0 0 1 2 2v8H4V6a2 2 0 0 1 2-2Zm6 2.3-3.8 1.5a.3.3 0 0 0 0 .56l.6.24V10.4c0 .9 1.3 1.6 3.2 1.6s3.2-.7 3.2-1.6V8.6l.4-.16V10a.6.6 0 0 0 1.2 0V7.9a.3.3 0 0 0-.2-.28l-3.8-1.5a.5.5 0 0 0-.4 0Z\" fill-rule=\"evenodd\"/><path d=\"M2.5 16.5h19a1 1 0 0 1 0 2h-19a1 1 0 0 1 0-2Z\"/>"
+  },
+  "tutorial": {
+    "category": "education",
+    "keywords": [
+      "tutorial",
+      "howto",
+      "guide",
+      "tutorial",
+      "guia",
+      "pasos",
+      "video"
+    ],
+    "aliases": [
+      "how-to",
+      "walkthrough"
+    ],
+    "outline": "<rect x=\"3\" y=\"3.5\" width=\"18\" height=\"13\" rx=\"2\"/><path d=\"M10 7.8v4.4l3.8-2.2Z\"/><circle cx=\"6.5\" cy=\"20\" r=\"1.3\"/><circle cx=\"12\" cy=\"20\" r=\"1.3\"/><circle cx=\"17.5\" cy=\"20\" r=\"1.3\"/><path d=\"M7.8 20h2.9M13.3 20h2.9\"/>",
+    "solid": "<path d=\"M5 3.5h14a2 2 0 0 1 2 2v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-9a2 2 0 0 1 2-2Zm5 4.3v4.4a.5.5 0 0 0 .76.43l3.8-2.2a.5.5 0 0 0 0-.86l-3.8-2.2A.5.5 0 0 0 10 7.8Z\" fill-rule=\"evenodd\"/><circle cx=\"6.5\" cy=\"20\" r=\"1.5\"/><circle cx=\"12\" cy=\"20\" r=\"1.5\"/><circle cx=\"17.5\" cy=\"20\" r=\"1.5\"/>"
+  },
+  "workshop": {
+    "category": "education",
+    "keywords": [
+      "workshop",
+      "tools",
+      "hands-on",
+      "taller",
+      "herramientas",
+      "practico",
+      "makerspace",
+      "wrench",
+      "screwdriver",
+      "llave inglesa",
+      "destornillador"
+    ],
+    "aliases": [
+      "makerspace",
+      "practical-class"
+    ],
+    "outline": "<path d=\"M3.55 6.25 5.75 8.45a1.9 1.9 0 0 0 2.7-2.7L6.25 3.55a1.9 1.9 0 0 0-2.7 2.7Z\"/><path d=\"M8.8 8.8 18.6 18.6\"/><path d=\"M17.2 20 20 17.2\"/><path d=\"M20.5 5.8 17.9 8.4a1.6 1.6 0 0 1-2.3-2.3l2.6-2.6A4.2 4.2 0 1 0 20.5 5.8Z\"/><path d=\"M13.6 10.4 4.6 19.4\"/>",
+    "solid": null
+  },
+  "seminar": {
+    "category": "education",
+    "keywords": [
+      "seminar",
+      "webinar",
+      "audience",
+      "seminario",
+      "charla",
+      "publico",
+      "conference"
+    ],
+    "aliases": [
+      "conference",
+      "group-class"
+    ],
+    "outline": "<rect x=\"4\" y=\"3\" width=\"16\" height=\"9\" rx=\"1.5\"/><path d=\"M8 6.5h8M8 9h5\"/><circle cx=\"6\" cy=\"17\" r=\"1.6\"/><circle cx=\"12\" cy=\"17\" r=\"1.6\"/><circle cx=\"18\" cy=\"17\" r=\"1.6\"/><path d=\"M3.5 21.5a2.5 2.5 0 0 1 5 0M9.5 21.5a2.5 2.5 0 0 1 5 0M15.5 21.5a2.5 2.5 0 0 1 5 0\"/>",
+    "solid": "<path d=\"M5.5 3h13A1.5 1.5 0 0 1 20 4.5v6A1.5 1.5 0 0 1 18.5 12h-13A1.5 1.5 0 0 1 4 10.5v-6A1.5 1.5 0 0 1 5.5 3Zm2 2.6a.8.8 0 0 0 0 1.6h8a.8.8 0 0 0 0-1.6Zm0 2.8a.8.8 0 0 0 0 1.6h5a.8.8 0 0 0 0-1.6Z\" fill-rule=\"evenodd\"/><circle cx=\"6\" cy=\"16.5\" r=\"1.8\"/><path d=\"M6 19a2.8 2.8 0 0 0-2.8 2.8.7.7 0 0 0 .7.7h4.2a.7.7 0 0 0 .7-.7A2.8 2.8 0 0 0 6 19Z\"/><circle cx=\"12\" cy=\"16.5\" r=\"1.8\"/><path d=\"M12 19a2.8 2.8 0 0 0-2.8 2.8.7.7 0 0 0 .7.7h4.2a.7.7 0 0 0 .7-.7A2.8 2.8 0 0 0 12 19Z\"/><circle cx=\"18\" cy=\"16.5\" r=\"1.8\"/><path d=\"M18 19a2.8 2.8 0 0 0-2.8 2.8.7.7 0 0 0 .7.7h4.2a.7.7 0 0 0 .7-.7A2.8 2.8 0 0 0 18 19Z\"/>"
+  },
+  "presentation-edu": {
+    "category": "education",
+    "keywords": [
+      "presentation",
+      "screen",
+      "slides",
+      "presentacion",
+      "pantalla",
+      "exposicion",
+      "growth"
+    ],
+    "aliases": [
+      "slides",
+      "projector-screen"
+    ],
+    "outline": "<path d=\"M3 4h18\"/><rect x=\"4.5\" y=\"4\" width=\"15\" height=\"11\" rx=\"1.5\"/><path d=\"M7 12l3-3 2 2 3.8-4.3\"/><path d=\"M13.8 6.5h2.4v2.4\"/><path d=\"M12 15v3\"/><path d=\"M8.5 21 12 18l3.5 3\"/>",
+    "solid": null
+  },
+  "science-class": {
+    "category": "education",
+    "keywords": [
+      "science",
+      "chemistry",
+      "flask",
+      "ciencia",
+      "quimica",
+      "matraz",
+      "lab"
+    ],
+    "aliases": [
+      "chemistry",
+      "flask"
+    ],
+    "outline": "<path d=\"M10 3.5h4\"/><path d=\"M10.5 3.5v5L5.5 17.5a2 2 0 0 0 1.8 3h9.4a2 2 0 0 0 1.8-3L13.5 8.5v-5\"/><path d=\"M8 14h8\"/><circle cx=\"11\" cy=\"16.5\" r=\"0.8\"/><circle cx=\"14\" cy=\"18\" r=\"0.7\"/>",
+    "solid": "<path d=\"M9.5 3.5a1 1 0 0 1 0-2h5a1 1 0 0 1 0 2h-.5v4.7l4.85 8.3A2.3 2.3 0 0 1 16.9 20H7.1a2.3 2.3 0 0 1-1.95-3.5L10 8.2V3.5Zm2 0v5a1 1 0 0 1-.14.5L8.9 13h6.2l-1.96-4a1 1 0 0 1-.14-.5v-5Z\" fill-rule=\"evenodd\"/>"
+  },
+  "art-class": {
+    "category": "education",
+    "keywords": [
+      "art",
+      "easel",
+      "canvas",
+      "arte",
+      "caballete",
+      "lienzo",
+      "painting"
+    ],
+    "aliases": [
+      "easel",
+      "drawing-class"
+    ],
+    "outline": "<rect x=\"5.5\" y=\"3.5\" width=\"13\" height=\"10\" rx=\"1\"/><circle cx=\"9\" cy=\"7\" r=\"1.2\"/><path d=\"M6.5 12l3-3.5 2 2 2.5-3 3 4\"/><path d=\"M12 13.5v3\"/><path d=\"M7.5 21 12 16.5 16.5 21\"/><path d=\"M9.3 19h5.4\"/>",
+    "solid": "<path d=\"M6.5 3.5h11a1.5 1.5 0 0 1 1.5 1.5v7a1.5 1.5 0 0 1-1.5 1.5h-4.5v2.8l3.35 4.6a1 1 0 0 1-1.6 1.2L12 18.2l-2.75 3.7a1 1 0 0 1-1.6-1.2L11 16.3v-2.8H6.5A1.5 1.5 0 0 1 5 12V5a1.5 1.5 0 0 1 1.5-1.5Zm2 2.3a1.3 1.3 0 1 0 0 2.6 1.3 1.3 0 0 0 0-2.6Z\" fill-rule=\"evenodd\"/>"
+  },
+  "degree": {
+    "category": "education",
+    "keywords": [
+      "degree",
+      "diploma",
+      "qualification",
+      "titulacion",
+      "grado",
+      "titulo",
+      "graduate",
+      "pergamino",
+      "scroll",
+      "lazo",
+      "ribbon"
+    ],
+    "aliases": [
+      "qualification",
+      "academic-degree"
+    ],
+    "outline": "<rect x=\"3\" y=\"7\" width=\"18\" height=\"7\" rx=\"3.5\"/><path d=\"M6.5 7v7M17.5 7v7M12 7v7\"/><path d=\"M12 14l-1.7 3.8M12 14l1.7 3.8\"/>",
+    "solid": "<path d=\"M6.5 7h11a3.5 3.5 0 0 1 0 7h-11a3.5 3.5 0 0 1 0-7Zm0 1.2a.8.8 0 0 0-.8.8v3a.8.8 0 0 0 1.6 0V9a.8.8 0 0 0-.8-.8Zm11 0a.8.8 0 0 0-.8.8v3a.8.8 0 0 0 1.6 0V9a.8.8 0 0 0-.8-.8ZM11.1 7h1.8v7h-1.8Z\" fill-rule=\"evenodd\"/><polygon points=\"11.1,13.4 12.9,13.4 14.8,17.5 13.1,18.3 12,16.2 10.9,18.3 9.2,17.5\"/>"
+  },
+  "notebook-spiral": {
+    "category": "education",
+    "keywords": [
+      "notebook",
+      "spiral",
+      "notes",
+      "cuaderno",
+      "espiral",
+      "libreta",
+      "ringed"
+    ],
+    "aliases": [
+      "coil-notebook",
+      "spiral-pad"
+    ],
+    "outline": "<rect x=\"6.5\" y=\"3\" width=\"13\" height=\"18\" rx=\"1.5\"/><path d=\"M4 5.5h5M4 8.5h5M4 11.5h5M4 14.5h5M4 17.5h5\"/><path d=\"M11 8.5h5.5M11 12h5.5M11 15.5h3.5\"/>",
+    "solid": "<path d=\"M8 3h9.5A1.5 1.5 0 0 1 19 4.5v15a1.5 1.5 0 0 1-1.5 1.5H8a1.5 1.5 0 0 1-1.5-1.5V4.5A1.5 1.5 0 0 1 8 3Zm3 5.5a.85.85 0 0 0 0 1.7h5a.85.85 0 0 0 0-1.7Zm0 3.5a.85.85 0 0 0 0 1.7h5a.85.85 0 0 0 0-1.7Zm0 3.5a.85.85 0 0 0 0 1.7h3a.85.85 0 0 0 0-1.7Z\" fill-rule=\"evenodd\"/><rect x=\"4\" y=\"4.6\" width=\"5\" height=\"1.7\" rx=\"0.85\"/><rect x=\"4\" y=\"7.6\" width=\"5\" height=\"1.7\" rx=\"0.85\"/><rect x=\"4\" y=\"10.6\" width=\"5\" height=\"1.7\" rx=\"0.85\"/><rect x=\"4\" y=\"13.6\" width=\"5\" height=\"1.7\" rx=\"0.85\"/><rect x=\"4\" y=\"16.6\" width=\"5\" height=\"1.7\" rx=\"0.85\"/>"
+  },
+  "highlighter-edu": {
+    "category": "education",
+    "keywords": [
+      "highlighter",
+      "marker",
+      "pen",
+      "marcador",
+      "rotulador",
+      "subrayar",
+      "fluorescent"
+    ],
+    "aliases": [
+      "highlighter-pen",
+      "text-marker"
+    ],
+    "outline": "<path d=\"M9.5 3.5h5A1.5 1.5 0 0 1 16 5v4.5H8V5A1.5 1.5 0 0 1 9.5 3.5Z\"/><path d=\"M8 9.5h8l-1 3.5H9Z\"/><path d=\"M9.6 13h4.8l-.5 3.3a.6.6 0 0 1-.6.5h-2.6a.6.6 0 0 1-.6-.5Z\"/><path d=\"M8.5 20.5h7\"/>",
+    "solid": "<path d=\"M9.5 3.5h5A1.5 1.5 0 0 1 16 5v4.5H8V5A1.5 1.5 0 0 1 9.5 3.5Z\"/><path d=\"M8 9.5h8l-1 3.5H9Z\"/><path d=\"M9.6 13h4.8l-.5 3.3a.6.6 0 0 1-.6.5h-2.6a.6.6 0 0 1-.6-.5Z\"/><path d=\"M8.5 19.5h7a1 1 0 0 1 0 2h-7a1 1 0 0 1 0-2Z\"/>"
+  },
+  "dictionary": {
+    "category": "education",
+    "keywords": [
+      "dictionary",
+      "reference",
+      "book",
+      "diccionario",
+      "referencia",
+      "vocabulario",
+      "thesaurus"
+    ],
+    "aliases": [
+      "reference-book",
+      "glossary"
+    ],
+    "outline": "<path d=\"M6.5 3H18a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H6.5A2.5 2.5 0 0 1 4 18.5v-13A2.5 2.5 0 0 1 6.5 3Z\"/><path d=\"M4 18.5A2.5 2.5 0 0 1 6.5 16H19\"/><path d=\"M14.5 3v5l1.75-1.3L18 8V3\"/>",
+    "solid": "<path d=\"M6.5 3H18a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H6.5A2.5 2.5 0 0 1 4 18.5v-13A2.5 2.5 0 0 1 6.5 3Zm7 0v5a.6.6 0 0 0 .95.48L16 7.3l1.55 1.18A.6.6 0 0 0 18.5 8V3ZM6.5 17.5a1 1 0 0 0 0 2H17v-2Z\" fill-rule=\"evenodd\"/>"
+  },
+  "flashcards": {
+    "category": "education",
+    "keywords": [
+      "flashcards",
+      "cards",
+      "study",
+      "tarjetas",
+      "fichas",
+      "estudio",
+      "memorize"
+    ],
+    "aliases": [
+      "study-cards",
+      "revision-cards"
+    ],
+    "outline": "<rect x=\"2.5\" y=\"7.5\" width=\"13\" height=\"9.5\" rx=\"2\"/><rect x=\"8.5\" y=\"5\" width=\"13\" height=\"9.5\" rx=\"2\"/><path d=\"M13 8.3a1.8 1.8 0 1 1 2.4 1.7c-.6.25-1 .7-1 1.35v.15\"/><path d=\"M14.4 13.4h.01\"/>",
+    "solid": "<path d=\"M4.5 7.5h9a2 2 0 0 1 2 2v.5H10a2 2 0 0 0-2 2V17H4.5a2 2 0 0 1-2-2v-5.5a2 2 0 0 1 2-2Z\"/><path d=\"M10 8.5h9a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-9a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2Zm4.5 1.8a1.9 1.9 0 0 0-1.9 1.9 1 1 0 0 0 2 0 .9.9 0 1 1 1.2.85c-.7.27-1.3.95-1.3 1.85v.1a1 1 0 0 0 2 0c0-.15.1-.25.4-.4a2.9 2.9 0 0 0-2.4-4.3Zm-.5 6.4a1.05 1.05 0 1 0 0 2.1 1.05 1.05 0 0 0 0-2.1Z\" fill-rule=\"evenodd\"/>"
+  },
+  "gpa": {
+    "category": "education",
+    "keywords": [
+      "gpa",
+      "average",
+      "score",
+      "promedio",
+      "nota media",
+      "calificacion",
+      "grade-point",
+      "a-plus",
+      "sheet",
+      "hoja",
+      "sobresaliente"
+    ],
+    "aliases": [
+      "grade-point-average",
+      "academic-average"
+    ],
+    "outline": "<rect x=\"4\" y=\"3\" width=\"16\" height=\"18\" rx=\"2\"/><path d=\"M7.2 16.5 10.2 7.5l3 9\"/><path d=\"M8.4 13.5h3.6\"/><path d=\"M15.9 7.8v3M14.4 9.3h3\"/>",
+    "solid": null
+  }
+}

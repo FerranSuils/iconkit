@@ -1,0 +1,156 @@
+{
+  "file": {
+    "category": "files-data-time",
+    "keywords": ["document", "page", "archivo", "documento", "hoja", "fichero"],
+    "aliases": ["document"],
+    "outline": "<path d=\"M13 3H6.5A1.5 1.5 0 0 0 5 4.5v15A1.5 1.5 0 0 0 6.5 21h11a1.5 1.5 0 0 0 1.5-1.5V9Z\"/><path d=\"M13 3v5a1 1 0 0 0 1 1h5\"/>",
+    "solid": null
+  },
+  "file-text": {
+    "category": "files-data-time",
+    "keywords": ["document", "text", "page", "archivo", "texto", "documento", "lineas"],
+    "aliases": ["document-text"],
+    "outline": "<path d=\"M13 3H6.5A1.5 1.5 0 0 0 5 4.5v15A1.5 1.5 0 0 0 6.5 21h11a1.5 1.5 0 0 0 1.5-1.5V9Z\"/><path d=\"M13 3v5a1 1 0 0 0 1 1h5\"/><path d=\"M8.5 12.5h7M8.5 15.5h7M8.5 18.5h4.5\"/>",
+    "solid": null
+  },
+  "folder": {
+    "category": "files-data-time",
+    "keywords": ["directory", "carpeta", "directorio", "files", "archivos"],
+    "aliases": ["directory"],
+    "outline": "<path d=\"M3 7.5A1.5 1.5 0 0 1 4.5 6h4l2 2.5h9A1.5 1.5 0 0 1 21 10v8.5a1.5 1.5 0 0 1-1.5 1.5h-15A1.5 1.5 0 0 1 3 18.5Z\"/>",
+    "solid": "<path d=\"M4 5.5A1.5 1.5 0 0 0 2.5 7v11.5A1.5 1.5 0 0 0 4 20h16a1.5 1.5 0 0 0 1.5-1.5V10A1.5 1.5 0 0 0 20 8.5h-9L9 6a1.5 1.5 0 0 0-1.2-.5Z\"/>"
+  },
+  "folder-open": {
+    "category": "files-data-time",
+    "keywords": ["directory", "open", "carpeta", "abierta", "directorio"],
+    "aliases": ["directory-open"],
+    "outline": "<path d=\"M4 19V6.5A1.5 1.5 0 0 1 5.5 5h3l2 2.5h6A1.5 1.5 0 0 1 18 9v2\"/><path d=\"M4 19h13.5a1 1 0 0 0 .96-.73l1.8-6.3A1 1 0 0 0 19.3 10.7H7.5a1 1 0 0 0-.96.73Z\"/>",
+    "solid": null
+  },
+  "archive": {
+    "category": "files-data-time",
+    "keywords": ["box", "storage", "archivo", "caja", "almacenar", "guardar"],
+    "aliases": ["box"],
+    "outline": "<rect x=\"3\" y=\"4\" width=\"18\" height=\"4\" rx=\"1\"/><path d=\"M4.5 8v10a1.5 1.5 0 0 0 1.5 1.5h12a1.5 1.5 0 0 0 1.5-1.5V8\"/><path d=\"M9.5 12h5\"/>",
+    "solid": null
+  },
+  "database": {
+    "category": "files-data-time",
+    "keywords": ["storage", "data", "server", "base de datos", "datos", "db"],
+    "aliases": ["db", "storage"],
+    "outline": "<ellipse cx=\"12\" cy=\"6\" rx=\"7.5\" ry=\"3\"/><path d=\"M4.5 6v6c0 1.66 3.36 3 7.5 3s7.5-1.34 7.5-3V6\"/><path d=\"M4.5 12v6c0 1.66 3.36 3 7.5 3s7.5-1.34 7.5-3v-6\"/>",
+    "solid": null
+  },
+  "cloud": {
+    "category": "files-data-time",
+    "keywords": ["weather", "storage", "nube", "clima", "sync"],
+    "aliases": ["weather"],
+    "outline": "<path d=\"M7 18A4.3 4.3 0 0 1 6.5 10.2 5.2 5.2 0 0 1 16.5 9.5 4.4 4.4 0 0 1 17 18Z\"/>",
+    "solid": "<path d=\"M7 18A4.3 4.3 0 0 1 6.5 10.2 5.2 5.2 0 0 1 16.5 9.5 4.4 4.4 0 0 1 17 18Z\"/>"
+  },
+  "cloud-upload": {
+    "category": "files-data-time",
+    "keywords": ["upload", "backup", "subir", "nube", "sync"],
+    "aliases": ["upload"],
+    "outline": "<path d=\"M7 16A4.3 4.3 0 0 1 6.5 8.2 5.2 5.2 0 0 1 16.5 7.5 4.4 4.4 0 0 1 17 16Z\"/><path d=\"M12 21v-7\"/><path d=\"m9 17 3-3 3 3\"/>",
+    "solid": null
+  },
+  "cloud-download": {
+    "category": "files-data-time",
+    "keywords": ["download", "restore", "descargar", "nube", "bajar"],
+    "aliases": ["download"],
+    "outline": "<path d=\"M7 16A4.3 4.3 0 0 1 6.5 8.2 5.2 5.2 0 0 1 16.5 7.5 4.4 4.4 0 0 1 17 16Z\"/><path d=\"M12 14v7\"/><path d=\"m9 18 3 3 3-3\"/>",
+    "solid": null
+  },
+  "book": {
+    "category": "files-data-time",
+    "keywords": ["read", "library", "libro", "leer", "biblioteca", "manual"],
+    "aliases": ["read"],
+    "outline": "<path d=\"M12 7C10.3 5.7 7.7 5 4.5 5V17c3.2 0 5.5 .7 7.5 2 2-1.3 4.3-2 7.5-2V5c-3.2 0-5.5 1.3-7.5 2Z\"/><path d=\"M12 7v12\"/>",
+    "solid": "<path d=\"M11 6.3C9.2 5.1 6.8 4.5 4.5 4.5A1 1 0 0 0 3.5 5.5V17a1 1 0 0 0 1 1c2.4 0 4.7 .6 6.5 1.8Z\"/><path d=\"M13 6.3C14.8 5.1 17.2 4.5 19.5 4.5A1 1 0 0 1 20.5 5.5V17a1 1 0 0 1-1 1c-2.4 0-4.7 .6-6.5 1.8Z\"/>"
+  },
+  "calendar": {
+    "category": "files-data-time",
+    "keywords": ["date", "schedule", "event", "calendario", "fecha", "agenda"],
+    "aliases": ["date", "schedule"],
+    "outline": "<rect x=\"3.5\" y=\"6\" width=\"17\" height=\"15\" rx=\"2\"/><path d=\"M3.5 10.5h17\"/><path d=\"M8 3.5v4M16 3.5v4\"/><path d=\"M7.5 14h.01M12 14h.01M16.5 14h.01M7.5 17.5h.01M12 17.5h.01M16.5 17.5h.01\"/>",
+    "solid": "<path fill-rule=\"evenodd\" d=\"M5.5 6H7V4A1 1 0 0 1 9 4V6H15V4A1 1 0 0 1 17 4V6H18.5A2 2 0 0 1 20.5 8V19A2 2 0 0 1 18.5 21H5.5A2 2 0 0 1 3.5 19V8A2 2 0 0 1 5.5 6ZM4.5 9.5V10.5H19.5V9.5ZM7.5 12.5A1 1 0 1 0 7.5 14.5 1 1 0 0 0 7.5 12.5ZM12 12.5A1 1 0 1 0 12 14.5 1 1 0 0 0 12 12.5ZM16.5 12.5A1 1 0 1 0 16.5 14.5 1 1 0 0 0 16.5 12.5ZM7.5 16A1 1 0 1 0 7.5 18 1 1 0 0 0 7.5 16ZM12 16A1 1 0 1 0 12 18 1 1 0 0 0 12 16ZM16.5 16A1 1 0 1 0 16.5 18 1 1 0 0 0 16.5 16Z\"/>"
+  },
+  "clock": {
+    "category": "files-data-time",
+    "keywords": ["time", "hora", "reloj", "tiempo", "watch"],
+    "aliases": ["time", "watch"],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"8.5\"/><path d=\"M12 7v5l3.5 2\"/>",
+    "solid": null
+  },
+  "history": {
+    "category": "files-data-time",
+    "keywords": ["time", "past", "historial", "reloj", "atras", "recent"],
+    "aliases": ["recent", "undo"],
+    "outline": "<path d=\"M4 12a8 8 0 1 0 2.7-5.96L4 8\"/><path d=\"M4 4v4h4\"/><path d=\"M12 8v4l3.5 2\"/>",
+    "solid": null
+  },
+  "hourglass": {
+    "category": "files-data-time",
+    "keywords": ["time", "wait", "loading", "reloj de arena", "espera", "tiempo"],
+    "aliases": ["timer", "wait"],
+    "outline": "<path d=\"M6 4h12M6 20h12\"/><path d=\"M7 4c0 4 5 5.5 5 8s-5 4-5 8\"/><path d=\"M17 4c0 4-5 5.5-5 8s5 4 5 8\"/>",
+    "solid": null
+  },
+  "chart-bar": {
+    "category": "files-data-time",
+    "keywords": ["graph", "stats", "grafico", "barras", "estadisticas", "analytics"],
+    "aliases": ["bar-chart", "graph"],
+    "outline": "<path d=\"M4 20h16\"/><path d=\"M7 20v-5M12 20v-9M17 20v-13\"/>",
+    "solid": null
+  },
+  "chart-line": {
+    "category": "files-data-time",
+    "keywords": ["graph", "trend", "grafico", "linea", "estadisticas", "analytics"],
+    "aliases": ["line-chart", "graph"],
+    "outline": "<path d=\"M4 4v16h16\"/><path d=\"m6 14 4-4 3 2 5-6\"/>",
+    "solid": null
+  },
+  "chart-pie": {
+    "category": "files-data-time",
+    "keywords": ["graph", "stats", "grafico", "circular", "tarta", "sector"],
+    "aliases": ["pie-chart", "graph"],
+    "outline": "<path d=\"M11.5 12.5V4.1A8.4 8.4 0 1 0 19.9 12.5Z\"/><path d=\"M12.5 11.5V3.1A8.4 8.4 0 0 1 20.9 11.5Z\"/>",
+    "solid": "<path d=\"M11.5 12.5V4.1A8.4 8.4 0 1 0 19.9 12.5Z\"/><path d=\"M12.5 11.5V3.1A8.4 8.4 0 0 1 20.9 11.5Z\"/>"
+  },
+  "activity": {
+    "category": "files-data-time",
+    "keywords": ["pulse", "heartbeat", "actividad", "pulso", "latido", "health"],
+    "aliases": ["pulse", "heartbeat"],
+    "outline": "<path d=\"M3 12h4l3-8 4 16 3-8h4\"/>",
+    "solid": null
+  },
+  "trending-up": {
+    "category": "files-data-time",
+    "keywords": ["growth", "increase", "tendencia", "subida", "alza", "up"],
+    "aliases": ["trend-up", "growth"],
+    "outline": "<path d=\"M3 17l6-6 4 4 8-8\"/><path d=\"M15 7h6v6\"/>",
+    "solid": null
+  },
+  "trending-down": {
+    "category": "files-data-time",
+    "keywords": ["decline", "decrease", "tendencia", "bajada", "baja", "down"],
+    "aliases": ["trend-down", "decline"],
+    "outline": "<path d=\"M3 7l6 6 4-4 8 8\"/><path d=\"M15 17h6v-6\"/>",
+    "solid": null
+  },
+  "layers": {
+    "category": "files-data-time",
+    "keywords": ["stack", "planes", "capas", "pila", "layers"],
+    "aliases": ["stack"],
+    "outline": "<path d=\"M12 3 3 8l9 5 9-5-9-5Z\"/><path d=\"m3 12 9 5 9-5\"/><path d=\"m3 16 9 5 9-5\"/>",
+    "solid": null
+  },
+  "paperclip": {
+    "category": "files-data-time",
+    "keywords": ["attach", "attachment", "clip", "adjuntar", "sujetapapeles"],
+    "aliases": ["attach", "attachment"],
+    "outline": "<path d=\"M19 11.5l-7.8 7.8a5 5 0 0 1-7.1-7.1l8-8a3.3 3.3 0 0 1 4.7 4.7l-8 8a1.7 1.7 0 0 1-2.4-2.4l7.1-7.1\"/>",
+    "solid": null
+  }
+}

@@ -1,0 +1,713 @@
+{
+  "iv-bag": {
+    "category": "medical",
+    "keywords": [
+      "suero",
+      "intravenoso",
+      "gotero",
+      "iv",
+      "fluid",
+      "drip",
+      "bolsa"
+    ],
+    "aliases": [
+      "saline-bag",
+      "drip-bag"
+    ],
+    "outline": "<path d=\"M11 4V3a1 1 0 0 1 2 0v1\"/><rect x=\"8\" y=\"4\" width=\"8\" height=\"11\" rx=\"2\"/><path d=\"M8 8h8\"/><path d=\"M12 15v2\"/><rect x=\"10.5\" y=\"17\" width=\"3\" height=\"3.4\" rx=\"0.8\"/><path d=\"M12 20.4v1.1\"/>",
+    "solid": "<path d=\"M11.5 4V3a.5.5 0 0 1 1 0v1z\"/><rect x=\"8\" y=\"4\" width=\"8\" height=\"11\" rx=\"2\"/><rect x=\"11.4\" y=\"15\" width=\"1.2\" height=\"2\"/><rect x=\"10.5\" y=\"16.8\" width=\"3\" height=\"3.4\" rx=\"0.8\"/><path d=\"M11.4 20.2h1.2v1.3h-1.2z\"/>"
+  },
+  "blood-bag": {
+    "category": "medical",
+    "keywords": [
+      "sangre",
+      "transfusion",
+      "donacion",
+      "blood",
+      "transfusion",
+      "donation",
+      "bolsa"
+    ],
+    "aliases": [
+      "transfusion-bag",
+      "blood-donation-bag"
+    ],
+    "outline": "<path d=\"M9.5 3.5v1M14.5 3.5v1\"/><path d=\"M8 4.5h8V13a4 4 0 0 1-8 0z\"/><path d=\"M12 7.6c-1.2 1.6-2 2.7-2 3.9a2 2 0 0 0 4 0c0-1.2-.8-2.3-2-3.9z\"/><path d=\"M12 17v4.5\"/>",
+    "solid": "<path d=\"M8 4.5h8V13a4 4 0 0 1-8 0V4.5Zm4 4.4c-.9 1.2-1.5 2-1.5 2.9a1.5 1.5 0 0 0 3 0c0-.9-.6-1.7-1.5-2.9Z\" fill-rule=\"evenodd\"/><rect x=\"9.1\" y=\"3\" width=\"0.9\" height=\"1.7\"/><rect x=\"14\" y=\"3\" width=\"0.9\" height=\"1.7\"/><rect x=\"11.4\" y=\"17\" width=\"1.2\" height=\"4.5\"/>"
+  },
+  "defibrillator": {
+    "category": "medical",
+    "keywords": [
+      "desfibrilador",
+      "dea",
+      "aed",
+      "reanimacion",
+      "emergency",
+      "shock",
+      "corazon"
+    ],
+    "aliases": [
+      "aed",
+      "defib"
+    ],
+    "outline": "<rect x=\"3\" y=\"4.5\" width=\"10.5\" height=\"15\" rx=\"2\"/><path d=\"M8.2 8.5c-.9-1-2.7-.6-2.7.8 0 1.1 1.5 2 2.7 3.1 1.2-1.1 2.7-2 2.7-3.1 0-1.4-1.8-1.8-2.7-.8Z\"/><path d=\"M8.7 13.6 6.8 16.3h2.2l-1.9 2.5\"/><path d=\"M13.5 8h2.5a1.5 1.5 0 0 1 1.5 1.5V11\"/><rect x=\"15.5\" y=\"11\" width=\"5\" height=\"3.2\" rx=\"1\"/>",
+    "solid": null
+  },
+  "ecg-monitor": {
+    "category": "medical",
+    "keywords": [
+      "monitor",
+      "electrocardiograma",
+      "ecg",
+      "ekg",
+      "signos vitales",
+      "vitals",
+      "pantalla"
+    ],
+    "aliases": [
+      "vital-signs-monitor",
+      "cardiac-monitor"
+    ],
+    "outline": "<rect x=\"3\" y=\"4\" width=\"18\" height=\"12\" rx=\"2\"/><path d=\"M5.5 10h2l1-2.5 1.5 5 1.5-3 1 1.5h6\"/><path d=\"M9 16v3M15 16v3M7 20.5h10\"/>",
+    "solid": null
+  },
+  "x-ray-scan": {
+    "category": "medical",
+    "keywords": [
+      "radiografia",
+      "rayos x",
+      "escaner",
+      "xray",
+      "radiography",
+      "scan",
+      "craneo"
+    ],
+    "aliases": [
+      "radiography-film",
+      "xray-film"
+    ],
+    "outline": "<rect x=\"4\" y=\"3\" width=\"16\" height=\"18\" rx=\"2\"/><circle cx=\"12\" cy=\"10\" r=\"4.5\"/><path d=\"M10 13v3.5a1 1 0 0 0 1 1h2a1 1 0 0 0 1-1V13\"/><circle cx=\"10.3\" cy=\"10\" r=\"0.8\"/><circle cx=\"13.7\" cy=\"10\" r=\"0.8\"/><path d=\"M11 13.5h2\"/>",
+    "solid": null
+  },
+  "mri-scanner": {
+    "category": "medical",
+    "keywords": [
+      "resonancia",
+      "magnetica",
+      "escaner",
+      "mri",
+      "scanner",
+      "imaging",
+      "tunel"
+    ],
+    "aliases": [
+      "mri",
+      "magnetic-resonance"
+    ],
+    "outline": "<rect x=\"3\" y=\"5.5\" width=\"18\" height=\"12\" rx=\"3\"/><circle cx=\"12\" cy=\"11.5\" r=\"3.8\"/><path d=\"M6 17.5v2.5h12v-2.5\"/><path d=\"M8.5 14.5h11\"/>",
+    "solid": null
+  },
+  "ct-scan": {
+    "category": "medical",
+    "keywords": [
+      "tomografia",
+      "tac",
+      "escaner",
+      "ct",
+      "cat",
+      "scan",
+      "gantry"
+    ],
+    "aliases": [
+      "cat-scan",
+      "tomography"
+    ],
+    "outline": "<circle cx=\"12\" cy=\"10.5\" r=\"7\"/><circle cx=\"12\" cy=\"10.5\" r=\"3.2\"/><path d=\"M5.5 16 4 20.5M18.5 16 20 20.5\"/><path d=\"M6 20.5h12\"/>",
+    "solid": null
+  },
+  "ultrasound-scan": {
+    "category": "medical",
+    "keywords": [
+      "ecografia",
+      "ultrasonido",
+      "sonda",
+      "ultrasound",
+      "sonogram",
+      "probe",
+      "transductor"
+    ],
+    "aliases": [
+      "sonogram",
+      "ultrasound-probe"
+    ],
+    "outline": "<rect x=\"13\" y=\"2.5\" width=\"5\" height=\"6\" rx=\"2\"/><path d=\"M13 9.5a6 6 0 0 1-6 6M14.5 10.5a4 4 0 0 1-4 4M16 11.5a2 2 0 0 1-2 2\"/>",
+    "solid": null
+  },
+  "wheelchair-medical": {
+    "category": "medical",
+    "keywords": [
+      "silla de ruedas",
+      "discapacidad",
+      "movilidad",
+      "wheelchair",
+      "clinic",
+      "mobility",
+      "cruz"
+    ],
+    "aliases": [
+      "clinical-wheelchair"
+    ],
+    "outline": "<circle cx=\"10\" cy=\"17.5\" r=\"4\"/><circle cx=\"10\" cy=\"17.5\" r=\"1\"/><path d=\"M14 21h4\"/><path d=\"M7 8h5v6h-2\"/><path d=\"M12 8l2 6h3\"/><path d=\"M16 3.5v4M14 5.5h4\"/>",
+    "solid": null
+  },
+  "crutches": {
+    "category": "medical",
+    "keywords": [
+      "muletas",
+      "baston",
+      "apoyo",
+      "crutches",
+      "support",
+      "injury",
+      "rehabilitacion"
+    ],
+    "aliases": [
+      "walking-crutches"
+    ],
+    "outline": "<path d=\"M6 4h3\"/><path d=\"M6.5 4v2.5a1 1 0 0 0 2 0V4\"/><path d=\"M7.5 6.5V20\"/><path d=\"M5.5 12h4\"/><path d=\"M14.5 4h3\"/><path d=\"M15 4v2.5a1 1 0 0 0 2 0V4\"/><path d=\"M16 6.5V20\"/><path d=\"M14 12h4\"/>",
+    "solid": null
+  },
+  "walker-frame": {
+    "category": "medical",
+    "keywords": [
+      "andador",
+      "caminador",
+      "movilidad",
+      "walker",
+      "zimmer",
+      "mobility",
+      "ancianos"
+    ],
+    "aliases": [
+      "zimmer-frame",
+      "rollator"
+    ],
+    "outline": "<path d=\"M4.5 6h4M15.5 6h4\"/><path d=\"M6.5 6v10.5M17.5 6v10.5\"/><path d=\"M6.5 11h11\"/><circle cx=\"6.5\" cy=\"18\" r=\"1.6\"/><circle cx=\"17.5\" cy=\"18\" r=\"1.6\"/>",
+    "solid": null
+  },
+  "hearing-aid-device": {
+    "category": "medical",
+    "keywords": [
+      "audifono",
+      "protesis auditiva",
+      "sordera",
+      "hearing aid",
+      "deaf",
+      "audiology",
+      "oido"
+    ],
+    "aliases": [
+      "hearing-device",
+      "bte-aid"
+    ],
+    "outline": "<path d=\"M14 4.5a4.5 4.5 0 0 1 4.5 4.5c0 2-1 3.6-1 5.5a2.5 2.5 0 0 1-5 0c0-1.5.8-2.5.8-4\"/><path d=\"M13.2 10.5c-2.2.4-4.3 1.8-5.2 4\"/><circle cx=\"7\" cy=\"16\" r=\"1.6\"/><path d=\"M19.6 6.4 20.9 5.4M20 9.5h1.3\"/>",
+    "solid": "<path d=\"M14 4.5a4.5 4.5 0 0 1 4.5 4.5c0 2-1 3.6-1 5.5a2.5 2.5 0 0 1-5 0c0-2 1-2.8 1-4.5a4.5 4.5 0 0 1-.5-5.5z\"/><path d=\"M12.6 10.3 7.8 14.6l1.3 1.5 4.6-4.2z\"/><circle cx=\"6.8\" cy=\"16.2\" r=\"1.8\"/>"
+  },
+  "prosthetic-limb": {
+    "category": "medical",
+    "keywords": [
+      "protesis",
+      "pierna ortopedica",
+      "amputacion",
+      "prosthetic",
+      "artificial limb",
+      "orthopedic",
+      "protesica"
+    ],
+    "aliases": [
+      "artificial-limb",
+      "prosthesis"
+    ],
+    "outline": "<path d=\"M9 3.5h4.5a1.5 1.5 0 0 1 1.5 1.5v2.5a4 4 0 0 1-4 4h-.5\"/><path d=\"M11.5 11.5 10.5 18.5\"/><path d=\"M10.5 18.5c-.2 1.2.7 2 1.9 2H17a1 1 0 0 0 0-2h-3.5\"/>",
+    "solid": "<path d=\"M8.8 3.5h5a1.5 1.5 0 0 1 1.5 1.5v2.5a4 4 0 0 1-4 4h-.8l-.6 5h7.1a1 1 0 0 1 0 2h-4.9c-1.5 0-2.6-1.2-2.4-2.7l.7-4.9a4 4 0 0 1-1.6-3.2V5a1.5 1.5 0 0 1 .5-1.5z\"/>"
+  },
+  "virus-cell": {
+    "category": "medical",
+    "keywords": [
+      "virus",
+      "coronavirus",
+      "patogeno",
+      "virus",
+      "pathogen",
+      "infection",
+      "celula"
+    ],
+    "aliases": [
+      "coronavirus",
+      "pathogen-cell"
+    ],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"4.5\"/><path d=\"M12 7.5V5M12 16.5V19M7.5 12H5M16.5 12H19M8.8 8.8 7 7M15.2 8.8 17 7M8.8 15.2 7 17M15.2 15.2 17 17\"/><circle cx=\"12\" cy=\"4.2\" r=\"1.3\"/><circle cx=\"12\" cy=\"19.8\" r=\"1.3\"/><circle cx=\"4.2\" cy=\"12\" r=\"1.3\"/><circle cx=\"19.8\" cy=\"12\" r=\"1.3\"/><circle cx=\"6.1\" cy=\"6.1\" r=\"1.2\"/><circle cx=\"17.9\" cy=\"6.1\" r=\"1.2\"/><circle cx=\"6.1\" cy=\"17.9\" r=\"1.2\"/><circle cx=\"17.9\" cy=\"17.9\" r=\"1.2\"/><circle cx=\"10.5\" cy=\"11\" r=\"0.8\"/><circle cx=\"13\" cy=\"13\" r=\"0.8\"/>",
+    "solid": "<circle cx=\"12\" cy=\"12\" r=\"4.5\"/><path d=\"M11.4 5h1.2v3h-1.2zM11.4 16h1.2v3h-1.2zM5 11.4h3v1.2H5zM16 11.4h3v1.2h-3zM6.6 6.6l.85-.85 2.1 2.1-.85.85zM17.4 6.6l-.85-.85-2.1 2.1.85.85zM6.6 17.4l.85.85 2.1-2.1-.85-.85zM17.4 17.4l-.85.85-2.1-2.1.85-.85z\"/><circle cx=\"12\" cy=\"4.2\" r=\"1.3\"/><circle cx=\"12\" cy=\"19.8\" r=\"1.3\"/><circle cx=\"4.2\" cy=\"12\" r=\"1.3\"/><circle cx=\"19.8\" cy=\"12\" r=\"1.3\"/><circle cx=\"6.1\" cy=\"6.1\" r=\"1.2\"/><circle cx=\"17.9\" cy=\"6.1\" r=\"1.2\"/><circle cx=\"6.1\" cy=\"17.9\" r=\"1.2\"/><circle cx=\"17.9\" cy=\"17.9\" r=\"1.2\"/>"
+  },
+  "bacteria-cell": {
+    "category": "medical",
+    "keywords": [
+      "bacteria",
+      "germen",
+      "microbio",
+      "bacteria",
+      "germ",
+      "microbe",
+      "flagelo"
+    ],
+    "aliases": [
+      "microbe",
+      "germ-cell"
+    ],
+    "outline": "<path d=\"M15.5 7a3 3 0 0 1 1.5 5.2l-4.8 4.8A3 3 0 0 1 7.8 12.8l4.8-4.8A3 3 0 0 1 15.5 7Z\"/><path d=\"M5 17c-1 1-1.5 2-1 3M17 5c1-1 2-1.5 3-1M4 13c-1.2.2-2 1-2 2M11 20c-.2 1.2.5 2 1.5 2\"/><circle cx=\"10.7\" cy=\"13.2\" r=\"0.7\"/><circle cx=\"13.2\" cy=\"10.7\" r=\"0.7\"/>",
+    "solid": "<path d=\"M15.5 7a3 3 0 0 1 1.5 5.2l-4.8 4.8A3 3 0 0 1 7.8 12.8l4.8-4.8A3 3 0 0 1 15.5 7Zm-4.8 5a.8.8 0 1 0 0 1.6.8.8 0 0 0 0-1.6Zm2.5-2.5a.8.8 0 1 0 0 1.6.8.8 0 0 0 0-1.6Z\" fill-rule=\"evenodd\"/><path d=\"M5 17c-1 1-1.5 2-1 3M17 5c1-1 2-1.5 3-1M4 13c-1.2.2-2 1-2 2\"/>"
+  },
+  "vaccine-vial": {
+    "category": "medical",
+    "keywords": [
+      "vacuna",
+      "vial",
+      "dosis",
+      "vaccine",
+      "vial",
+      "dose",
+      "frasco"
+    ],
+    "aliases": [
+      "vaccine-bottle",
+      "dose-vial"
+    ],
+    "outline": "<path d=\"M9.5 3h5\"/><path d=\"M10 3v2h4V3\"/><rect x=\"9\" y=\"5\" width=\"6\" height=\"15\" rx=\"1.5\"/><path d=\"M9 9h6\"/><path d=\"M12 12v3M10.5 13.5h3\"/>",
+    "solid": "<path d=\"M9.3 2.5h5.4v1.6H9.3z\"/><path d=\"M10 4h4v1.5h-4z\"/><path d=\"M9 6.5A1.5 1.5 0 0 1 10.5 5h3A1.5 1.5 0 0 1 15 6.5v12A1.5 1.5 0 0 1 13.5 20h-3A1.5 1.5 0 0 1 9 18.5Zm3.75 4h-1.5v2H9.5v1.5H11v2h1.5v-2H14v-1.5h-1.25z\" fill-rule=\"evenodd\"/>"
+  },
+  "pill-bottle": {
+    "category": "medical",
+    "keywords": [
+      "bote de pastillas",
+      "medicamento",
+      "farmacia",
+      "pill bottle",
+      "medication",
+      "pharmacy",
+      "tapon"
+    ],
+    "aliases": [
+      "medicine-bottle",
+      "pill-jar"
+    ],
+    "outline": "<path d=\"M8 4h8v2.5H8z\"/><path d=\"M9 6.5h6v13a1.5 1.5 0 0 1-1.5 1.5h-3A1.5 1.5 0 0 1 9 19.5z\"/><path d=\"M12 10v5M9.5 12.5h5\"/>",
+    "solid": "<path d=\"M7.5 3.5h9a1 1 0 0 1 1 1v1.5a1 1 0 0 1-1 1h-9a1 1 0 0 1-1-1V4.5a1 1 0 0 1 1-1z\"/><path d=\"M9 7h6a1 1 0 0 1 1 1v11.5A1.5 1.5 0 0 1 14.5 21h-5A1.5 1.5 0 0 1 8 19.5V8a1 1 0 0 1 1-1zm3.75 4h-1.5v2.25H9v1.5h2.25V15h1.5v-2.25H15v-1.5h-2.25z\" fill-rule=\"evenodd\"/>"
+  },
+  "ointment-tube": {
+    "category": "medical",
+    "keywords": [
+      "pomada",
+      "crema",
+      "ungüento",
+      "ointment",
+      "cream",
+      "tube",
+      "topico"
+    ],
+    "aliases": [
+      "cream-tube",
+      "medicine-tube"
+    ],
+    "outline": "<path d=\"M10 3.5h4v2h-4z\"/><path d=\"M10 5.5c-.6 1-1 2-1 3.5v9a1.5 1.5 0 0 0 1.5 1.5h3A1.5 1.5 0 0 0 15 18V9c0-1.5-.4-2.5-1-3.5\"/><path d=\"M9 21h6\"/><path d=\"M11 9h2\"/>",
+    "solid": "<path d=\"M9.8 3h4.4v2.5H9.8z\"/><path d=\"M10 5.5c-.7 1-1.1 2.1-1.1 3.6v9.4A1.5 1.5 0 0 0 10.4 20h3.2a1.5 1.5 0 0 0 1.5-1.5V9.1c0-1.5-.4-2.6-1.1-3.6zM8.5 20.5h7v1h-7z\"/>"
+  },
+  "inhaler": {
+    "category": "medical",
+    "keywords": [
+      "inhalador",
+      "asma",
+      "broncodilatador",
+      "inhaler",
+      "asthma",
+      "puffer",
+      "respiratorio"
+    ],
+    "aliases": [
+      "asthma-inhaler",
+      "puffer"
+    ],
+    "outline": "<rect x=\"9.5\" y=\"3\" width=\"5\" height=\"4\" rx=\"1\"/><path d=\"M9 7h6v7a2 2 0 0 1-2 2h-2.5\"/><path d=\"M10.5 16 6.5 20a1.8 1.8 0 0 1-2.5-2.5l4-4\"/>",
+    "solid": "<path d=\"M10 2.5h4a1 1 0 0 1 1 1V7h-6V3.5a1 1 0 0 1 1-1z\"/><path d=\"M8.8 7.5h6.4V14a2.5 2.5 0 0 1-2.5 2.5h-1.1l-3.4 3.4a1.9 1.9 0 0 1-2.7-2.7l3.3-3.3z\"/>"
+  },
+  "nebulizer": {
+    "category": "medical",
+    "keywords": [
+      "nebulizador",
+      "mascarilla",
+      "aerosol",
+      "nebulizer",
+      "aerosol",
+      "respiratory",
+      "compresor"
+    ],
+    "aliases": [
+      "nebulizer-mask"
+    ],
+    "outline": "<path d=\"M7 7h4a2.5 2.5 0 0 1 2.5 2.5v2A2.5 2.5 0 0 1 11 14H7a1 1 0 0 1-1-1V8a1 1 0 0 1 1-1z\"/><path d=\"M6 8.5 4.5 7M6 12.5 4.5 14\"/><path d=\"M13.5 11h2a2 2 0 0 1 2 2v1\"/><rect x=\"15\" y=\"14\" width=\"5\" height=\"5\" rx=\"1\"/><path d=\"M16.5 16.5h2\"/>",
+    "solid": null
+  },
+  "thermometer-digital": {
+    "category": "medical",
+    "keywords": [
+      "termometro",
+      "fiebre",
+      "temperatura",
+      "thermometer",
+      "fever",
+      "temperature",
+      "digital"
+    ],
+    "aliases": [
+      "digital-thermometer",
+      "fever-thermometer"
+    ],
+    "outline": "<rect x=\"9\" y=\"3\" width=\"6\" height=\"18\" rx=\"2\"/><rect x=\"10.5\" y=\"5\" width=\"3\" height=\"3.5\" rx=\"0.5\"/><path d=\"M10.5 11h3M10.5 13h3M10.5 15h3\"/><path d=\"M12 18.5v-1\"/>",
+    "solid": null
+  },
+  "blood-pressure-cuff": {
+    "category": "medical",
+    "keywords": [
+      "tensiometro",
+      "presion arterial",
+      "esfigmomanometro",
+      "blood pressure",
+      "cuff",
+      "sphygmomanometer",
+      "tension"
+    ],
+    "aliases": [
+      "bp-monitor",
+      "sphygmomanometer"
+    ],
+    "outline": "<rect x=\"3\" y=\"8\" width=\"9\" height=\"8\" rx=\"2\"/><path d=\"M3 11h9\"/><circle cx=\"17\" cy=\"7\" r=\"3\"/><path d=\"M17 7v-1.5M17 7l1 1\"/><path d=\"M14.5 9.5 12.5 11.5\"/><path d=\"M18 15.5c0-1 1-1.8 2-1.8s2 .8 2 1.8-1 1.8-2 1.8-2-.8-2-1.8z\"/><path d=\"M18.5 14 13 11\"/>",
+    "solid": null
+  },
+  "glucose-meter": {
+    "category": "medical",
+    "keywords": [
+      "glucometro",
+      "glucosa",
+      "diabetes",
+      "glucose meter",
+      "glucometer",
+      "diabetes",
+      "tira"
+    ],
+    "aliases": [
+      "glucometer",
+      "blood-sugar-meter"
+    ],
+    "outline": "<rect x=\"5.5\" y=\"4\" width=\"9\" height=\"15\" rx=\"2\"/><rect x=\"7.5\" y=\"6.5\" width=\"5\" height=\"4\" rx=\"0.5\"/><circle cx=\"8.5\" cy=\"14\" r=\"0.9\"/><circle cx=\"11.5\" cy=\"14\" r=\"0.9\"/><circle cx=\"8.5\" cy=\"16.5\" r=\"0.9\"/><circle cx=\"11.5\" cy=\"16.5\" r=\"0.9\"/><path d=\"M14.5 8.5h4v2h-4z\"/><path d=\"M18.5 6.5c.8 1.2 1.5 2 1.5 2.8a1.5 1.5 0 0 1-3 0c0-.8.7-1.6 1.5-2.8z\"/>",
+    "solid": null
+  },
+  "heart-organ": {
+    "category": "medical",
+    "keywords": [
+      "corazon",
+      "organo",
+      "cardiologia",
+      "heart",
+      "organ",
+      "cardiac",
+      "anatomia"
+    ],
+    "aliases": [
+      "cardiac-organ",
+      "anatomical-heart"
+    ],
+    "outline": "<path d=\"M11 7C10 5.5 8.5 5 7 5.5 4.5 5.7 3.5 6.8 3.5 9c0 4 4.5 7 8.5 11 1.3-1.3 2.6-2.5 3.7-3.8\"/><path d=\"M13 8c.6-1 1.7-1.5 2.8-1.3M15.5 6.5c1.5 0 3 1.2 3 3.5 0 2.5-1.7 4.5-3.5 6.4\"/><path d=\"M12.5 4.5c.8 1.2 1 2.7.5 4\"/>",
+    "solid": "<path d=\"M7.4 5c-2 .4-3.9 2-3.9 4.6 0 4.3 4.7 7.4 8.4 11.1 1-1 2-1.9 2.9-2.9-1.5-1.8-2.4-3.7-2.4-5.6 0-1.3.4-2.6 1.1-3.7C11.6 5.9 9.5 4.6 7.4 5Zm7.9 1.2c-2 0-3.8 1.3-4.5 3.2v.1c-.4 1-.6 2-.6 3 0 3.6 3 6.3 6.1 9.3l.3-.3c2.5-2.5 4.4-5.2 4.4-8.4 0-.9-.2-1.7-.5-2.5l-1.4 1.4a.8.8 0 0 1-1.1-1.1l1.6-1.7A4.9 4.9 0 0 0 15.3 6.2Z\" fill-rule=\"evenodd\"/><path d=\"M12 4c1.3 1 1.7 2.9 1.2 4.7l-1.2-.4c.4-1.3.3-2.5 0-3.4z\"/>"
+  },
+  "lung-organ": {
+    "category": "medical",
+    "keywords": [
+      "pulmon",
+      "organo",
+      "respiratorio",
+      "lung",
+      "organ",
+      "respiratory",
+      "bronquios"
+    ],
+    "aliases": [
+      "respiratory-organ"
+    ],
+    "outline": "<path d=\"M12 3v7\"/><path d=\"M12 9.5c-.6-1.3-1.8-1.8-2.8-1M12 9.5c.6-1.3 1.8-1.8 2.8-1\"/><path d=\"M9.2 8.8C8.3 8.2 7.2 8.7 6.6 9.6 5.1 11.7 4 14.3 4 17c0 2.2.9 4.2 3 4.2 1.7 0 2.9-1.4 2.9-3.7v-6.9a2 2 0 0 0-.7-1.8z\"/><path d=\"M14.8 8.8c.9-.6 2-.1 2.6.8 1.5 2.1 2.6 4.7 2.6 7.4 0 2.2-.9 4.2-3 4.2-1.7 0-2.9-1.4-2.9-3.7v-6.9a2 2 0 0 1 .7-1.8z\"/>",
+    "solid": "<path d=\"M12 3a.9.9 0 0 1 .9.9v4.7c.6-.5 1.4-.7 2.3-.6.9-.5 2-.1 2.6.8 1.5 2.1 2.7 4.8 2.7 7.5 0 2.4-1.1 4.5-3.3 4.5-2 0-3.3-1.6-3.3-4v-6.9c0-.2 0-.4.1-.5-.4.2-.7.5-.9.9a.9.9 0 0 1-1.7 0c-.2-.4-.5-.7-.9-.9.1.1.1.3.1.5v6.9c0 2.4-1.3 4-3.3 4-2.2 0-3.3-2.1-3.3-4.5 0-2.7 1.2-5.4 2.7-7.5.6-.9 1.7-1.3 2.6-.8.9-.1 1.7.1 2.3.6V3.9A.9.9 0 0 1 12 3z\"/>"
+  },
+  "kidney-organ": {
+    "category": "medical",
+    "keywords": [
+      "rinon",
+      "organo",
+      "nefrologia",
+      "kidney",
+      "organ",
+      "nephrology",
+      "ureter"
+    ],
+    "aliases": [
+      "renal-organ"
+    ],
+    "outline": "<path d=\"M13 4C9 4 6.5 7.5 6.5 12S9 20 13 20c2.3 0 3.8-1.7 3.8-3.7 0-1.4-.8-2.4-.8-4s.8-2.6.8-4C16.8 5.7 15.3 4 13 4Z\"/><path d=\"M12.5 12c1 0 1.8.8 1.8 2.5v4.5\"/>",
+    "solid": "<path d=\"M13 4C9 4 6.5 7.5 6.5 12S9 20 13 20c2.3 0 3.8-1.7 3.8-3.7 0-1.4-.8-2.4-.8-4s.8-2.6.8-4C16.8 5.7 15.3 4 13 4Zm-.5 6.5c1.6 0 2.8 1.3 2.8 3.5v5h-1.6v-5c0-1.3-.5-1.9-1.2-1.9z\" fill-rule=\"evenodd\"/>"
+  },
+  "liver-organ": {
+    "category": "medical",
+    "keywords": [
+      "higado",
+      "organo",
+      "hepatico",
+      "liver",
+      "organ",
+      "hepatic",
+      "digestivo"
+    ],
+    "aliases": [
+      "hepatic-organ"
+    ],
+    "outline": "<path d=\"M3.5 8.5c3-1 6-1.5 9.5-1.5 3 0 5.5.3 7.5 1 .7.2 1 .8.8 1.5-.8 3-2 5.5-4 7-2 1.5-4.5 2-7 1.5-2-.4-3.5-1.5-4.5-3-.7-1-1.5-1.3-2.3-1.3-.8 0-1.3-.5-1.3-1.3V9.5c0-.5.3-.9.5-1z\"/><path d=\"M9 9.5c1 .5 1.5 1.5 1.5 3\"/>",
+    "solid": "<path d=\"M3.5 8.5c3-1 6-1.5 9.5-1.5 3 0 5.5.3 7.5 1 .7.2 1 .8.8 1.5-.8 3-2 5.5-4 7-2 1.5-4.5 2-7 1.5-2-.4-3.5-1.5-4.5-3-.7-1-1.5-1.3-2.3-1.3-.8 0-1.3-.5-1.3-1.3V9.5c0-.5.3-.9.5-1z\"/>"
+  },
+  "brain-organ": {
+    "category": "medical",
+    "keywords": [
+      "cerebro",
+      "organo",
+      "neurologia",
+      "brain",
+      "organ",
+      "neurology",
+      "tronco"
+    ],
+    "aliases": [
+      "neuro-organ",
+      "cerebrum"
+    ],
+    "outline": "<path d=\"M12 5.5a3 3 0 0 0-5.3-1.9A2.7 2.7 0 0 0 4 8a2.9 2.9 0 0 0 .2 4.4A2.8 2.8 0 0 0 7 16.5a2.6 2.6 0 0 0 5 .5z\"/><path d=\"M12 5.5a3 3 0 0 1 5.3-1.9A2.7 2.7 0 0 1 20 8a2.9 2.9 0 0 1-.2 4.4A2.8 2.8 0 0 1 17 16.5a2.6 2.6 0 0 1-5 .5z\"/><path d=\"M12 5.5V21M12 21c0-1.2-1-2-2-2M12 18c0-1.2 1-2 2-2\"/><path d=\"M8 8.5c.8.3 1.5 1 1.7 2M16 8.5c-.8.3-1.5 1-1.7 2\"/>",
+    "solid": "<path d=\"M6.7 3.6A3 3 0 0 1 12 5.5a3 3 0 0 1 5.3-1.9A2.7 2.7 0 0 1 20 8a2.9 2.9 0 0 1-.2 4.4A2.8 2.8 0 0 1 17 16.5a2.6 2.6 0 0 1-4.2 2v2.5a.8.8 0 0 1-1.6 0v-2.5a2.6 2.6 0 0 1-4.2-2A2.8 2.8 0 0 1 4.2 12.4 2.9 2.9 0 0 1 4 8a2.7 2.7 0 0 1 2.7-4.4z\"/>"
+  },
+  "stomach-organ": {
+    "category": "medical",
+    "keywords": [
+      "estomago",
+      "organo",
+      "digestivo",
+      "stomach",
+      "organ",
+      "digestive",
+      "gastrico"
+    ],
+    "aliases": [
+      "gastric-organ"
+    ],
+    "outline": "<path d=\"M9 3.5v2.5a2.5 2.5 0 0 0 2 2.4c3 .6 5 2.6 5 5.8 0 3.4-2.6 5.8-6 5.8-2.6 0-4.5-1.5-4.5-3.6 0-1.3.9-2.2 2.1-2.2 1 0 1.7.6 1.9 1.6\"/><path d=\"M16 14.5c1.2 0 2 .8 2 2v1.5\"/>",
+    "solid": "<path d=\"M8.2 3.5A.8.8 0 0 1 9.8 3.5v2.5c0 .9.6 1.5 1.6 1.7 3.3.7 5.4 3 5.4 6.4 0 3.8-3 6.5-6.8 6.5-2.9 0-5.1-1.8-5.1-4.3 0-1.7 1.2-3 3-3 1.1 0 2 .5 2.5 1.4a.8.8 0 0 1-1.4.8c-.2-.4-.6-.6-1.1-.6-.9 0-1.4.6-1.4 1.4 0 1.4 1.4 2.7 3.5 2.7 3 0 5.2-2.1 5.2-4.9 0-2.6-1.6-4.3-4.1-4.9-1.7-.4-2.9-1.7-2.9-3.3z\"/>"
+  },
+  "bone-fracture": {
+    "category": "medical",
+    "keywords": [
+      "fractura",
+      "hueso roto",
+      "traumatologia",
+      "fracture",
+      "broken bone",
+      "orthopedic",
+      "rotura"
+    ],
+    "aliases": [
+      "broken-bone",
+      "fracture"
+    ],
+    "outline": "<path d=\"M6.5 17.5a2 2 0 1 1-2.8-2.8 2 2 0 1 1 .3-3l3-3M13.7 6.7l3-3a2 2 0 1 1 3-.3 2 2 0 1 1 2.8 2.8 2 2 0 1 1-.3 3l-3 3\"/><path d=\"M7 11 9.5 13 8 15l2.5 2 1.5-2 2 1.5\"/>",
+    "solid": "<path d=\"M4.9 11.7a2 2 0 0 1-1.2-.3 2 2 0 0 1 .3 3 2 2 0 0 0 2.8 2.8 2 2 0 0 1-.3 3 2 2 0 1 0 3-.3l2.4-2.4-4.6-4.6zM19.1 12.3a2 2 0 0 1 1.2.3 2 2 0 0 1-.3-3 2 2 0 0 0-2.8-2.8 2 2 0 0 1 .3-3 2 2 0 1 0-3 .3l-2.4 2.4 4.6 4.6z\"/>"
+  },
+  "tooth-medical": {
+    "category": "medical",
+    "keywords": [
+      "diente",
+      "dental",
+      "odontologia",
+      "tooth",
+      "dental",
+      "dentistry",
+      "cuidado"
+    ],
+    "aliases": [
+      "dental-care",
+      "tooth-plus"
+    ],
+    "outline": "<path d=\"M6 5.5A6 3 0 0 1 18 5.5c0 3-.5 4.5-1 7-.4 2-.6 4.5-2 4.5s-1.2-2.5-1.5-4.5c-.2-1.3-.5-2-1.5-2s-1.3.7-1.5 2c-.3 2-.5 4.5-2 4.5s-1.6-2.5-2-4.5c-.5-2.5-1-4-1-7Z\"/><path d=\"M12 8v4M10 10h4\"/>",
+    "solid": "<path d=\"M6 5.5A6 3 0 0 1 18 5.5c0 3-.5 4.5-1 7-.4 2-.6 4.5-2 4.5s-1.2-2.5-1.5-4.5c-.2-1.3-.5-2-1.5-2s-1.3.7-1.5 2c-.3 2-.5 4.5-2 4.5s-1.6-2.5-2-4.5c-.5-2.5-1-4-1-7Zm6 2.3a.8.8 0 0 0-.8.8v1.2H10a.8.8 0 0 0 0 1.6h1.2v1.2a.8.8 0 0 0 1.6 0v-1.2H14a.8.8 0 0 0 0-1.6h-1.2V8.6a.8.8 0 0 0-.8-.8z\" fill-rule=\"evenodd\"/>"
+  },
+  "eye-exam": {
+    "category": "medical",
+    "keywords": [
+      "examen visual",
+      "optometria",
+      "agudeza",
+      "eye chart",
+      "optometry",
+      "vision",
+      "snellen"
+    ],
+    "aliases": [
+      "eye-chart",
+      "vision-test"
+    ],
+    "outline": "<rect x=\"5\" y=\"3\" width=\"14\" height=\"18\" rx=\"2\"/><path d=\"M9 6.5h6M9.5 10h5M10 13h4M10.5 15.5h3M11 18h2\"/>",
+    "solid": null
+  },
+  "microscope-medical": {
+    "category": "medical",
+    "keywords": [
+      "microscopio",
+      "laboratorio",
+      "analisis",
+      "microscope",
+      "lab",
+      "pathology",
+      "muestra"
+    ],
+    "aliases": [
+      "clinical-microscope",
+      "pathology-scope"
+    ],
+    "outline": "<path d=\"M9.5 4h1.5a1.2 1.2 0 0 1 1.2 1.2V10a2.2 2.2 0 0 1-4.4 0V5.2A1.2 1.2 0 0 1 9.5 4z\"/><path d=\"M8 13.5h4.5\"/><path d=\"M12.2 8a6.3 6.3 0 0 1 2.8 11.8\"/><path d=\"M6 20.5h13\"/><path d=\"M8.5 20.5a3.3 3.3 0 0 1 6.6 0\"/><path d=\"M15 6l2-1.5\"/>",
+    "solid": null
+  },
+  "test-tube-blood": {
+    "category": "medical",
+    "keywords": [
+      "tubo de sangre",
+      "muestra",
+      "analitica",
+      "blood tube",
+      "sample",
+      "lab",
+      "hematologia"
+    ],
+    "aliases": [
+      "blood-sample",
+      "blood-vial"
+    ],
+    "outline": "<path d=\"M9 3h6v2h-6z\"/><path d=\"M10 5v13.5a2 2 0 0 0 4 0V5\"/><path d=\"M10 12.5c.6.4 1.3.6 2 .6s1.4-.2 2-.6v6a2 2 0 0 1-4 0z\"/>",
+    "solid": "<path d=\"M8.7 2.5h6.6a.8.8 0 0 1 0 1.6H15v14.4a3 3 0 0 1-6 0V4.1h-.3a.8.8 0 0 1 0-1.6zm1.9 1.6v14.4a1.4 1.4 0 0 0 2.8 0V4.1z\" fill-rule=\"evenodd\"/><path d=\"M10.6 11.5c.9.5 2 .5 2.8 0v6.9a1.4 1.4 0 0 1-2.8 0z\"/>"
+  },
+  "iv-drip": {
+    "category": "medical",
+    "keywords": [
+      "gotero",
+      "soporte de suero",
+      "perfusion",
+      "iv stand",
+      "drip stand",
+      "infusion",
+      "pie de suero"
+    ],
+    "aliases": [
+      "iv-stand",
+      "drip-stand"
+    ],
+    "outline": "<path d=\"M9 4h1.5a1 1 0 0 1 1 1v.5\"/><path d=\"M9 4V20\"/><path d=\"M9 20 7 21.5M9 20l2 1.5\"/><rect x=\"11.5\" y=\"5.5\" width=\"5\" height=\"6\" rx=\"1.2\"/><path d=\"M14 11.5v1.5\"/><rect x=\"13.2\" y=\"13\" width=\"1.6\" height=\"2.6\" rx=\"0.5\"/><path d=\"M14 15.6v2.5\"/>",
+    "solid": null
+  },
+  "surgical-mask": {
+    "category": "medical",
+    "keywords": [
+      "mascarilla",
+      "quirurgica",
+      "tapabocas",
+      "surgical mask",
+      "face mask",
+      "ppe",
+      "pliegues"
+    ],
+    "aliases": [
+      "medical-mask"
+    ],
+    "outline": "<path d=\"M7 8h10a1 1 0 0 1 1 1v3a6 6 0 0 1-12 0V9a1 1 0 0 1 1-1z\"/><path d=\"M6 9 3 7M6 12l-3 1M18 9l3-2M18 12l3 1\"/><path d=\"M6 10.5h12M6 13h11\"/>",
+    "solid": "<path d=\"M7 8A1 1 0 0 0 6 9v3a6 6 0 0 0 12 0V9a1 1 0 0 0-1-1Zm-.5 2.5h11v1.1h-11Zm0 2.5h10v1.1h-10Z\" fill-rule=\"evenodd\"/><path d=\"M6 8.6 3.1 6.7l-.5.8 2.9 1.9zM18 8.6l2.9-1.9.5.8L18.5 9.4zM6 11.6l-2.9 1.9.5.8L6 12.6zM18 11.6l.4.7 2.9 1.9.5-.8z\"/>"
+  },
+  "surgical-gloves": {
+    "category": "medical",
+    "keywords": [
+      "guantes",
+      "latex",
+      "quirurgico",
+      "surgical gloves",
+      "latex",
+      "ppe",
+      "proteccion"
+    ],
+    "aliases": [
+      "medical-gloves",
+      "latex-gloves"
+    ],
+    "outline": "<path d=\"M8.5 21v-5.5l-1.6.6a1.3 1.3 0 0 1-1-2.4l2.6-1V6a1 1 0 0 1 2 0v3.5M10.5 9.5V5a1 1 0 0 1 2 0v4.3M12.5 9.3V6a1 1 0 0 1 2 0v3.7c1-.2 2 .5 2 1.8v3c0 2-1 3-1 5v1.5\"/><path d=\"M8.5 18.5h6\"/>",
+    "solid": "<path d=\"M8.5 6a1 1 0 0 1 2 0v3.4l.5-.1V5a1 1 0 0 1 2 0v4.1l.5.1V6.2a1 1 0 0 1 2 0v4.6c.9 0 1.5.7 1.5 1.7v2.8c0 2.1-1 3.1-1 5.1V21h-6v-4.3l-1.2.4a1.3 1.3 0 0 1-1-2.4l2.2-.9V6z\"/>"
+  },
+  "scalpel": {
+    "category": "medical",
+    "keywords": [
+      "bisturi",
+      "cirugia",
+      "cuchilla",
+      "scalpel",
+      "surgery",
+      "blade",
+      "quirofano"
+    ],
+    "aliases": [
+      "surgical-blade"
+    ],
+    "outline": "<path d=\"M14 10 20 4a.6.6 0 0 1 1 .5 6 6 0 0 1-1.8 3.9L15 12.5 14 13z\"/><path d=\"M13 12 4 21\"/>",
+    "solid": "<path d=\"M14 9.6 20.1 3.6a.6.6 0 0 1 1 .5 6.5 6.5 0 0 1-1.9 4L14.6 13l-2-2z\"/><path d=\"M12.4 11.4 3.7 20a1 1 0 0 0 1.4 1.4l8.6-8.6z\"/>"
+  },
+  "bandage-roll": {
+    "category": "medical",
+    "keywords": [
+      "venda",
+      "gasa",
+      "rollo",
+      "bandage roll",
+      "gauze",
+      "dressing",
+      "curacion"
+    ],
+    "aliases": [
+      "gauze-roll",
+      "dressing-roll"
+    ],
+    "outline": "<ellipse cx=\"10\" cy=\"7.5\" rx=\"5.5\" ry=\"2.5\"/><path d=\"M4.5 7.5v5a5.5 2.5 0 0 0 11 0v-5\"/><path d=\"M13 14.5c1.5 1.5 3 3 4.5 3.5a1.5 1.5 0 0 1-.5 3 6 6 0 0 1-3.5-1.2\"/><path d=\"M13.5 17.5c1 .8 2 1.4 3 1.6\"/>",
+    "solid": "<path d=\"M10 5c-3 0-5.5 1.1-5.5 2.5v5c0 1.4 2.5 2.5 5.5 2.5s5.5-1.1 5.5-2.5v-5C15.5 6.1 13 5 10 5zm0 1.6c2.2 0 3.9.7 3.9.9s-1.7.9-3.9.9-3.9-.7-3.9-.9 1.7-.9 3.9-.9z\" fill-rule=\"evenodd\"/><path d=\"M14 14.4c1.3 1.3 2.6 2.6 3.9 3.1a1.4 1.4 0 0 1-.5 2.7 5.6 5.6 0 0 1-3.3-1.1l1-1.3c.6.4 1.2.7 1.8.8l-2.9-2.9z\"/>"
+  },
+  "dna-helix-medical": {
+    "category": "medical",
+    "keywords": [
+      "adn",
+      "doble helice",
+      "genetica",
+      "dna",
+      "double helix",
+      "genetics",
+      "genoma"
+    ],
+    "aliases": [
+      "double-helix",
+      "genome-helix"
+    ],
+    "outline": "<path d=\"M8 3c0 3 8 4 8 9s-8 6-8 9\"/><path d=\"M16 3c0 3-8 4-8 9s8 6 8 9\"/><path d=\"M9 6h6M9.5 9h5M9.5 15h5M9 18h6\"/>",
+    "solid": null
+  }
+}

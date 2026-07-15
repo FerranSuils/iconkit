@@ -1,0 +1,655 @@
+{
+  "rocket-space": {
+    "category": "space",
+    "keywords": [
+      "rocket",
+      "cohete",
+      "nave",
+      "spaceship",
+      "espacio",
+      "launch"
+    ],
+    "aliases": [
+      "rocket",
+      "spaceship"
+    ],
+    "outline": "<path d=\"M12 2.5c2.9 2.4 4.3 6 4.3 9.6 0 2.1-.5 4.1-1.3 5.9H8.9c-.8-1.8-1.3-3.8-1.3-5.9 0-3.6 1.4-7.2 4.3-9.6Z\"/><circle cx=\"12\" cy=\"9.5\" r=\"2.1\"/><path d=\"M8.5 14.4c-2 .6-3.3 2.4-3.3 4.6l3.2-1.6M15.5 14.4c2 .6 3.3 2.4 3.3 4.6l-3.2-1.6\"/><path d=\"M10 18.5c0 1.6.8 3 2 3.5 1.2-.5 2-1.9 2-3.5\"/>",
+    "solid": "<path d=\"M12 2.2c3.1 2.5 4.6 6.2 4.6 10 0 2.3-.5 4.5-1.4 6.5a1 1 0 0 1-.9.6H9.7a1 1 0 0 1-.9-.6c-.9-2-1.4-4.2-1.4-6.5 0-3.8 1.5-7.5 4.6-10Zm0 5.2a2.1 2.1 0 1 0 0 4.2 2.1 2.1 0 0 0 0-4.2Z\" fill-rule=\"evenodd\"/><path d=\"M8.3 14.2c-2.2.7-3.6 2.6-3.6 4.9a.6.6 0 0 0 .87.54l3-1.5ZM15.7 14.2c2.2.7 3.6 2.6 3.6 4.9a.6.6 0 0 1-.87.54l-3-1.5Z\"/><path d=\"M9.8 19.2c0 1.7.9 3.1 2.2 3.6 1.3-.5 2.2-1.9 2.2-3.6a.6.6 0 0 0-.6-.6H10.4a.6.6 0 0 0-.6.6Z\"/>"
+  },
+  "planet-saturn": {
+    "category": "space",
+    "keywords": [
+      "saturn",
+      "saturno",
+      "planeta",
+      "planet",
+      "ring",
+      "anillo"
+    ],
+    "aliases": [
+      "saturn"
+    ],
+    "outline": "<circle cx=\"12\" cy=\"11.5\" r=\"5.5\"/><path d=\"M3.26 14.68A9.3 3 -20 0 1 20.74 8.32A9.3 3 -20 0 1 3.26 14.68Z\"/>",
+    "solid": "<path d=\"M3.26 14.68A9.3 3 -20 0 1 20.74 8.32A9.3 3 -20 0 1 3.26 14.68ZM5.8 13.76A6.6 1.4 -20 0 1 18.2 9.24A6.6 1.4 -20 0 1 5.8 13.76Z\" fill-rule=\"evenodd\"/><circle cx=\"12\" cy=\"11.5\" r=\"5.3\"/>"
+  },
+  "planet-mars": {
+    "category": "space",
+    "keywords": [
+      "mars",
+      "marte",
+      "planeta",
+      "planet",
+      "red-planet",
+      "craters"
+    ],
+    "aliases": [
+      "mars",
+      "red-planet"
+    ],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"8.5\"/><circle cx=\"9.5\" cy=\"9.5\" r=\"1.5\"/><circle cx=\"14.8\" cy=\"14.2\" r=\"2\"/><circle cx=\"15.2\" cy=\"8.8\" r=\"1\"/>",
+    "solid": "<path d=\"M12 3a9 9 0 1 0 0 18 9 9 0 0 0 0-18Zm-2.5 5a1.6 1.6 0 1 0 0 3.2 1.6 1.6 0 0 0 0-3.2Zm5.3 4.4a2.1 2.1 0 1 0 0 4.2 2.1 2.1 0 0 0 0-4.2Zm.4-4.6a1.1 1.1 0 1 0 0 2.2 1.1 1.1 0 0 0 0-2.2Z\" fill-rule=\"evenodd\"/>"
+  },
+  "galaxy": {
+    "category": "space",
+    "keywords": [
+      "galaxy",
+      "galaxia",
+      "spiral",
+      "espiral",
+      "stars",
+      "universe"
+    ],
+    "aliases": [
+      "spiral-galaxy"
+    ],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"2\"/><path d=\"M11.3 10.2C8 8.3 3.5 9.6 3.5 12.8c0 2.6 3.2 4.7 7.2 4.7\"/><path d=\"M12.7 13.8C16 15.7 20.5 14.4 20.5 11.2c0-2.6-3.2-4.7-7.2-4.7\"/><circle cx=\"6\" cy=\"6.5\" r=\".7\"/><circle cx=\"18\" cy=\"17.5\" r=\".7\"/>",
+    "solid": null
+  },
+  "telescope-astro": {
+    "category": "space",
+    "keywords": [
+      "telescope",
+      "telescopio",
+      "observatory",
+      "observatorio",
+      "astronomy",
+      "astronomia"
+    ],
+    "aliases": [
+      "telescope",
+      "observatory"
+    ],
+    "outline": "<path d=\"M4.4 12.5 15.6 6a1.4 1.4 0 0 1 1.9.5l.6 1a1.4 1.4 0 0 1-.5 1.9L6.3 15.9a1.4 1.4 0 0 1-1.9-.5l-.5-1a1.4 1.4 0 0 1 .5-1.9Z\"/><path d=\"m14.8 5.4 2.6 4.5\"/><path d=\"M11 11.3 12.5 15M12.5 15l-3 5.5M12.5 15l3 5.5\"/><path d=\"m18.7 3.6.5 1.4 1.4.5-1.4.5-.5 1.4-.5-1.4-1.4-.5 1.4-.5Z\"/>",
+    "solid": null
+  },
+  "satellite-orbit": {
+    "category": "space",
+    "keywords": [
+      "satellite",
+      "satelite",
+      "orbit",
+      "orbita",
+      "panels",
+      "antenna"
+    ],
+    "aliases": [
+      "satellite"
+    ],
+    "outline": "<rect x=\"9.5\" y=\"8.5\" width=\"5\" height=\"6\" rx=\"1\"/><path d=\"M12 8.5v-2M10.7 5.2 12 4.5l1.3.7\"/><rect x=\"2.5\" y=\"9.5\" width=\"5.5\" height=\"4\" rx=\"0.6\"/><rect x=\"16\" y=\"9.5\" width=\"5.5\" height=\"4\" rx=\"0.6\"/><path d=\"M8 11.5h1.5M14.5 11.5H16\"/><path d=\"M4.3 9.5v4M6.2 9.5v4M17.8 9.5v4M19.7 9.5v4\"/>",
+    "solid": null
+  },
+  "astronaut": {
+    "category": "space",
+    "keywords": [
+      "astronaut",
+      "astronauta",
+      "cosmonaut",
+      "spaceman",
+      "helmet",
+      "casco"
+    ],
+    "aliases": [
+      "cosmonaut",
+      "spaceman"
+    ],
+    "outline": "<path d=\"M5 21v-.5a5 5 0 0 1 5-5h4a5 5 0 0 1 5 5V21\"/><circle cx=\"12\" cy=\"8.5\" r=\"6\"/><path d=\"M8.2 9.2a3.8 3.8 0 0 1 7.6 0v.2a1.5 1.5 0 0 1-1.5 1.5H9.7a1.5 1.5 0 0 1-1.5-1.5Z\"/><path d=\"M18 8.5h1.5\"/>",
+    "solid": "<path d=\"M12 2.2A6.3 6.3 0 0 0 5.7 8.5 6.3 6.3 0 0 0 12 14.8 6.3 6.3 0 0 0 18.3 8.5 6.3 6.3 0 0 0 12 2.2Zm-3.8 6.1a3.8 3.8 0 0 1 7.6 0v1a1.6 1.6 0 0 1-1.6 1.6H9.8a1.6 1.6 0 0 1-1.6-1.6Z\" fill-rule=\"evenodd\"/><path d=\"M10 15h4a5 5 0 0 1 5 5v.8a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V20a5 5 0 0 1 5-5Z\"/>"
+  },
+  "ufo-space": {
+    "category": "space",
+    "keywords": [
+      "ufo",
+      "ovni",
+      "saucer",
+      "platillo",
+      "alien",
+      "nave"
+    ],
+    "aliases": [
+      "ufo",
+      "flying-saucer"
+    ],
+    "outline": "<path d=\"M8 9.5A4 3.2 0 0 1 16 9.5\"/><path d=\"M3 11.2C3 9.6 7 8.3 12 8.3s9 1.3 9 2.9-4 2.9-9 2.9-9-1.3-9-2.9Z\"/><circle cx=\"8.5\" cy=\"11.2\" r=\".8\"/><circle cx=\"12\" cy=\"11.6\" r=\".8\"/><circle cx=\"15.5\" cy=\"11.2\" r=\".8\"/><path d=\"M9 14.5 7.5 19M15 14.5 16.5 19M12 15v4.3\"/>",
+    "solid": "<path d=\"M16.2 10.1C15.6 8.6 14 7.6 12 7.6s-3.6 1-4.2 2.5C4.2 10.6 2 11.7 2 13.1c0 1.8 4.5 3.1 10 3.1s10-1.3 10-3.1c0-1.4-2.2-2.5-5.8-3Zm-7.7 2a1 1 0 1 0 0 2 1 1 0 0 0 0-2Zm3.5.4a1 1 0 1 0 0 2 1 1 0 0 0 0-2Zm3.5-.4a1 1 0 1 0 0 2 1 1 0 0 0 0-2Z\" fill-rule=\"evenodd\"/>"
+  },
+  "alien-head": {
+    "category": "space",
+    "keywords": [
+      "alien",
+      "extraterrestre",
+      "et",
+      "ovni",
+      "head",
+      "marciano"
+    ],
+    "aliases": [
+      "alien",
+      "extraterrestrial",
+      "et"
+    ],
+    "outline": "<path d=\"M12 3.2c-4.3 0-7.3 2.9-7.3 6.8 0 2.9 1.4 5.4 3.4 7.4 1.4 1.4 2.9 3 3.9 3s2.5-1.6 3.9-3c2-2 3.4-4.5 3.4-7.4 0-3.9-3-6.8-7.3-6.8Z\"/><path d=\"M6.4 10.9A2.2 1.1 30 0 1 10.2 13.1A2.2 1.1 30 0 1 6.4 10.9Z\"/><path d=\"M13.8 13.1A2.2 1.1 -30 0 1 17.6 10.9A2.2 1.1 -30 0 1 13.8 13.1Z\"/>",
+    "solid": "<path d=\"M12 2.8c-4.6 0-7.8 3.1-7.8 7.2 0 3.1 1.5 5.8 3.6 7.9 1.4 1.4 3.1 3.3 4.2 3.3s2.8-1.9 4.2-3.3c2.1-2.1 3.6-4.8 3.6-7.9 0-4.1-3.2-7.2-7.8-7.2Zm-3.9 6.9c1.5 0 3 1.4 3 2.9 0 .9-.8 1.4-2 1.1-1.5-.4-3-1.8-3-3.1 0-.6.9-.9 2-.9Zm7.8 0c1.1 0 2 .3 2 .9 0 1.3-1.5 2.7-3 3.1-1.2.3-2-.2-2-1.1 0-1.5 1.5-2.9 3-2.9Z\" fill-rule=\"evenodd\"/>"
+  },
+  "comet-space": {
+    "category": "space",
+    "keywords": [
+      "comet",
+      "cometa",
+      "tail",
+      "cola",
+      "espacio",
+      "ice"
+    ],
+    "aliases": [
+      "comet"
+    ],
+    "outline": "<circle cx=\"17\" cy=\"7\" r=\"2.8\"/><path d=\"M14.8 9.2 4.5 19.5\"/><path d=\"M11.5 8.5 8.5 11.5M16 12l-3 3M9 14l-2 2\"/><path d=\"m20.5 3 .4 1.1 1.1.4-1.1.4-.4 1.1-.4-1.1-1.1-.4 1.1-.4Z\"/>",
+    "solid": "<circle cx=\"17\" cy=\"7\" r=\"3\"/><path d=\"M14.9 9.3 4.3 18.6a1 1 0 0 0 1.3 1.4l9.5-8.2a4 4 0 0 1-.2-2.5Z\"/>"
+  },
+  "asteroid": {
+    "category": "space",
+    "keywords": [
+      "asteroid",
+      "asteroide",
+      "rock",
+      "roca",
+      "meteorite",
+      "space-rock"
+    ],
+    "aliases": [
+      "meteorite",
+      "space-rock"
+    ],
+    "outline": "<path d=\"M9 3.5c3-1 6 .5 7.5 3 1.3 2 2 4.5 1 6.8-1 2.3-3.5 4-6.3 4.2-2.5.2-5-.8-6.5-2.8C3 12.5 2.8 9 4 6.3 4.8 4.7 6.5 3.9 9 3.5Z\"/><circle cx=\"9\" cy=\"9\" r=\"1.4\"/><circle cx=\"14\" cy=\"13\" r=\"1.8\"/><circle cx=\"13.5\" cy=\"7.5\" r=\".9\"/>",
+    "solid": "<path d=\"M9 3.4c3.1-1 6.3.5 7.9 3.1 1.4 2.2 2 4.9.9 7.3-1.1 2.5-3.7 4.2-6.6 4.4-2.7.2-5.3-.9-6.9-3-1.9-2.5-2-6.2-.7-9 .9-1.8 2.7-2.6 5.4-2.8Zm-.2 4.3a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3Zm5 4.5a1.9 1.9 0 1 0 0 3.8 1.9 1.9 0 0 0 0-3.8Zm0-4.5a1 1 0 1 0 0 2 1 1 0 0 0 0-2Z\" fill-rule=\"evenodd\"/>"
+  },
+  "singularity": {
+    "category": "space",
+    "keywords": [
+      "black-hole",
+      "agujero-negro",
+      "singularity",
+      "singularidad",
+      "gravity",
+      "event-horizon"
+    ],
+    "aliases": [
+      "black-hole",
+      "event-horizon"
+    ],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"3.8\"/><path d=\"M3.54 15.08A9 3.5 -20 0 1 20.46 8.92A9 3.5 -20 0 1 3.54 15.08Z\"/>",
+    "solid": "<path d=\"M3.35 15.15A9.2 3.6 -20 0 1 20.65 8.85A9.2 3.6 -20 0 1 3.35 15.15ZM6.74 13.92A5.6 1.6 -20 0 1 17.26 10.08A5.6 1.6 -20 0 1 6.74 13.92Z\" fill-rule=\"evenodd\"/><circle cx=\"12\" cy=\"12\" r=\"4\"/>"
+  },
+  "space-station": {
+    "category": "space",
+    "keywords": [
+      "space-station",
+      "estacion-espacial",
+      "iss",
+      "orbital",
+      "modules",
+      "panels"
+    ],
+    "aliases": [
+      "iss",
+      "orbital-station"
+    ],
+    "outline": "<rect x=\"10\" y=\"9.5\" width=\"4\" height=\"5\" rx=\"1\"/><path d=\"M12 9.5V6.5M12 14.5v3M8 12H4M16 12h4\"/><rect x=\"2\" y=\"8.5\" width=\"4.5\" height=\"7\" rx=\"0.6\"/><rect x=\"17.5\" y=\"8.5\" width=\"4.5\" height=\"7\" rx=\"0.6\"/><path d=\"M4.25 8.5v7M20 8.5v7M2 12h4.5M17.5 12H22\"/><circle cx=\"12\" cy=\"5.5\" r=\"1.3\"/><rect x=\"10.7\" y=\"17.5\" width=\"2.6\" height=\"2.6\" rx=\"0.6\"/>",
+    "solid": null
+  },
+  "spacesuit": {
+    "category": "space",
+    "keywords": [
+      "spacesuit",
+      "traje-espacial",
+      "eva",
+      "suit",
+      "astronaut",
+      "proteccion"
+    ],
+    "aliases": [
+      "eva-suit",
+      "space-suit"
+    ],
+    "outline": "<circle cx=\"12\" cy=\"5.5\" r=\"3.3\"/><path d=\"M9.8 4.8a2.3 2.3 0 0 1 4.3.5\"/><path d=\"M9 11a3 3 0 0 1 6 0v4.5a1.3 1.3 0 0 1-1.3 1.3h-3.4A1.3 1.3 0 0 1 9 15.5Z\"/><path d=\"M9.2 11.4 6.5 14v3.5M14.8 11.4 17.5 14v3.5M10.3 16.8V21M13.7 16.8V21\"/><path d=\"M10.5 12.5h3\"/>",
+    "solid": null
+  },
+  "constellation": {
+    "category": "space",
+    "keywords": [
+      "constellation",
+      "constelacion",
+      "stars",
+      "estrellas",
+      "pattern",
+      "sky"
+    ],
+    "aliases": [
+      "star-pattern"
+    ],
+    "outline": "<path d=\"M5 6.5 9 10.5 14.5 7.5 17 13.5 11 16.5\"/><circle cx=\"5\" cy=\"6.5\" r=\"1.2\"/><circle cx=\"9\" cy=\"10.5\" r=\"1.2\"/><circle cx=\"14.5\" cy=\"7.5\" r=\"1.2\"/><circle cx=\"17\" cy=\"13.5\" r=\"1.2\"/><circle cx=\"11\" cy=\"16.5\" r=\"1.2\"/><circle cx=\"19\" cy=\"5\" r=\".8\"/><circle cx=\"7\" cy=\"19\" r=\".8\"/>",
+    "solid": null
+  },
+  "nebula": {
+    "category": "space",
+    "keywords": [
+      "nebula",
+      "nebulosa",
+      "gas",
+      "cloud",
+      "nube",
+      "cosmic"
+    ],
+    "aliases": [
+      "gas-cloud"
+    ],
+    "outline": "<path d=\"M9 7.5A4.2 4.2 0 0 0 5.2 13 4 4 0 0 0 7 20.5h8.5A5 5 0 0 0 18 11a4.3 4.3 0 0 0-4.8-3.2A4.2 4.2 0 0 0 9 7.5Z\"/><path d=\"m11.5 12 .6 1.5 1.5.6-1.5.6-.6 1.5-.6-1.5-1.5-.6 1.5-.6Z\"/><circle cx=\"15\" cy=\"15.5\" r=\".8\"/><circle cx=\"9\" cy=\"16\" r=\".7\"/>",
+    "solid": "<path d=\"M9 7.5A4.2 4.2 0 0 0 5.2 13 4 4 0 0 0 7 20.5h8.5A5 5 0 0 0 18 11a4.3 4.3 0 0 0-4.8-3.2A4.2 4.2 0 0 0 9 7.5Zm2.5 3.3.6 1.7 1.7.6-1.7.6-.6 1.7-.6-1.7-1.7-.6 1.7-.6Zm3.5 4.4a.9.9 0 1 0 0 1.8.9.9 0 0 0 0-1.8Z\" fill-rule=\"evenodd\"/>"
+  },
+  "earth-space": {
+    "category": "space",
+    "keywords": [
+      "earth",
+      "tierra",
+      "planet",
+      "planeta",
+      "world",
+      "globe",
+      "continentes",
+      "continents",
+      "africa",
+      "america"
+    ],
+    "aliases": [
+      "planet-earth",
+      "blue-planet"
+    ],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"8.5\"/><path d=\"M5.4 6.4c1.6-1 3.5-.7 4.4.4.9 1.1.6 2.6-.4 3.6-.8.8-1.8 1.3-2.2 2.4-.4 1.1-.3 2.2-1 3.1-.6.8-1.7.7-2.2-.2-.5-1.1-.6-2.4-.2-3.6.4-1.4.6-3.7 1.6-5.7Z\"/><path d=\"M13.9 6.2c1.5-.3 3 .3 3.7 1.4.7 1.2.4 2.7-.4 3.8-.8 1.2-1.4 2.7-2.3 4.2-.7 1.1-1.9 1-2.5-.2-.5-1-.9-2.1-1-3.3-.1-1.3 0-2.7.5-3.9.5-1.1 1.2-1.7 2-2Z\"/>",
+    "solid": "<path d=\"M12 3.5a8.5 8.5 0 1 0 0 17 8.5 8.5 0 0 0 0-17ZM5.4 6.4c1.6-1 3.5-.7 4.4.4.9 1.1.6 2.6-.4 3.6-.8.8-1.8 1.3-2.2 2.4-.4 1.1-.3 2.2-1 3.1-.6.8-1.7.7-2.2-.2-.5-1.1-.6-2.4-.2-3.6.4-1.4.6-3.7 1.6-5.7ZM13.9 6.2c1.5-.3 3 .3 3.7 1.4.7 1.2.4 2.7-.4 3.8-.8 1.2-1.4 2.7-2.3 4.2-.7 1.1-1.9 1-2.5-.2-.5-1-.9-2.1-1-3.3-.1-1.3 0-2.7.5-3.9.5-1.1 1.2-1.7 2-2Z\" fill-rule=\"evenodd\"/>"
+  },
+  "milky-way": {
+    "category": "space",
+    "keywords": [
+      "milky-way",
+      "via-lactea",
+      "galaxy",
+      "galaxia",
+      "stars",
+      "band",
+      "puntos",
+      "dots",
+      "diagonal",
+      "starfield"
+    ],
+    "aliases": [
+      "galaxy-band"
+    ],
+    "outline": "<circle cx=\"4.5\" cy=\"19.5\" r=\"0.8\"/><circle cx=\"8\" cy=\"16\" r=\"0.8\"/><circle cx=\"11.5\" cy=\"12.5\" r=\"0.8\"/><circle cx=\"15\" cy=\"9\" r=\"0.8\"/><circle cx=\"18.5\" cy=\"5.5\" r=\"0.8\"/><circle cx=\"3.8\" cy=\"15\" r=\"0.55\"/><circle cx=\"10.5\" cy=\"8\" r=\"0.55\"/><circle cx=\"14\" cy=\"4.5\" r=\"0.55\"/><circle cx=\"12.5\" cy=\"17\" r=\"0.55\"/><circle cx=\"19.5\" cy=\"10\" r=\"0.55\"/><circle cx=\"9\" cy=\"20.5\" r=\"0.55\"/><path d=\"M4.5 3.9l.45 1.15 1.15.45-1.15.45-.45 1.15-.45-1.15-1.15-.45 1.15-.45Z\"/><path d=\"M19.2 16.8l.4 1 1 .4-1 .4-.4 1-.4-1-1-.4 1-.4Z\"/>",
+    "solid": "<circle cx=\"4.5\" cy=\"19.5\" r=\"1.6\"/><circle cx=\"8\" cy=\"16\" r=\"1.6\"/><circle cx=\"11.5\" cy=\"12.5\" r=\"1.6\"/><circle cx=\"15\" cy=\"9\" r=\"1.6\"/><circle cx=\"18.5\" cy=\"5.5\" r=\"1.6\"/><circle cx=\"3.8\" cy=\"15\" r=\"1.1\"/><circle cx=\"10.5\" cy=\"8\" r=\"1.1\"/><circle cx=\"14\" cy=\"4.5\" r=\"1.1\"/><circle cx=\"12.5\" cy=\"17\" r=\"1.1\"/><circle cx=\"19.5\" cy=\"10\" r=\"1.1\"/><circle cx=\"9\" cy=\"20.5\" r=\"1.1\"/><path d=\"M4.5 3.9l.45 1.15 1.15.45-1.15.45-.45 1.15-.45-1.15-1.15-.45 1.15-.45Z\"/><path d=\"M19.2 16.8l.4 1 1 .4-1 .4-.4 1-.4-1-1-.4 1-.4Z\"/>"
+  },
+  "space-shuttle": {
+    "category": "space",
+    "keywords": [
+      "space-shuttle",
+      "transbordador",
+      "shuttle",
+      "orbiter",
+      "nave",
+      "nasa"
+    ],
+    "aliases": [
+      "shuttle",
+      "orbiter"
+    ],
+    "outline": "<path d=\"M12 2.5c1.9 1.7 2.9 4.2 2.9 7.2v5.8l2.6 3.3a1 1 0 0 1 .2.6V21h-3.1l-.5-1.7h-4L9.5 21H6.4v-1.6a1 1 0 0 1 .2-.6l2.6-3.3V9.7c0-3 1-5.5 2.9-7.2Z\"/><path d=\"M10.6 7.2a2.2 1.6 0 0 1 2.8 0\"/><path d=\"M12 12v6\"/>",
+    "solid": "<path d=\"M12 2.3c2 1.8 3.1 4.4 3.1 7.4v5.6l2.7 3.4a1.2 1.2 0 0 1 .3.75V21a1 1 0 0 1-1 1h-2.4a1 1 0 0 1-1-.7l-.35-1.1h-3.3l-.35 1.1a1 1 0 0 1-1 .7H6.6a1 1 0 0 1-1-1v-1.55a1.2 1.2 0 0 1 .3-.75l2.7-3.4V9.7c0-3 1.1-5.6 3.1-7.4Zm0 3.6a1.8 1.8 0 0 0-1.8 1.8v4a1.8 1.8 0 0 0 3.6 0v-4A1.8 1.8 0 0 0 12 5.9Z\" fill-rule=\"evenodd\"/>"
+  },
+  "moon-lander": {
+    "category": "space",
+    "keywords": [
+      "moon-lander",
+      "modulo-lunar",
+      "lander",
+      "lem",
+      "apollo",
+      "landing"
+    ],
+    "aliases": [
+      "lunar-module",
+      "lander"
+    ],
+    "outline": "<path d=\"M8 9.5h8l1.6 3.8a.6.6 0 0 1-.55.85H6.95a.6.6 0 0 1-.55-.85Z\"/><path d=\"M9.5 9.5V6.5a1 1 0 0 1 1-1h3a1 1 0 0 1 1 1v3\"/><path d=\"M12 5.5V3.5\"/><path d=\"M7.5 14 5 20M16.5 14l2.5 6M9 14.2 7.8 20M15 14.2l1.2 5.8\"/><path d=\"M4 20h2.5M17.5 20H20\"/>",
+    "solid": null
+  },
+  "mars-rover": {
+    "category": "space",
+    "keywords": [
+      "mars-rover",
+      "rover",
+      "vehiculo",
+      "curiosity",
+      "wheels",
+      "exploration"
+    ],
+    "aliases": [
+      "rover",
+      "curiosity"
+    ],
+    "outline": "<rect x=\"5.5\" y=\"10.5\" width=\"12\" height=\"4\" rx=\"1\"/><circle cx=\"8\" cy=\"17\" r=\"2.1\"/><circle cx=\"12\" cy=\"17.3\" r=\"2.1\"/><circle cx=\"16\" cy=\"17\" r=\"2.1\"/><path d=\"M8.5 10.5V7.5h2\"/><rect x=\"10\" y=\"5.5\" width=\"3.5\" height=\"2.2\" rx=\"0.5\"/><path d=\"M17.5 12h2.5\"/>",
+    "solid": null
+  },
+  "gravity-space": {
+    "category": "space",
+    "keywords": [
+      "gravity",
+      "gravedad",
+      "falling",
+      "caida",
+      "force",
+      "fuerza",
+      "planeta",
+      "planet",
+      "atraccion",
+      "pull"
+    ],
+    "aliases": [
+      "gravity"
+    ],
+    "outline": "<circle cx=\"12\" cy=\"17\" r=\"4.6\"/><circle cx=\"11.2\" cy=\"16.2\" r=\".9\"/><circle cx=\"13.4\" cy=\"17.8\" r=\".5\"/><circle cx=\"12\" cy=\"3.8\" r=\"1.1\"/><path d=\"M8.6 7C7.3 8.5 7 9.7 7.5 11.2\"/><path d=\"M7.8 9.4 7.5 11.2 6.2 10\"/><path d=\"M15.4 7c1.3 1.5 1.6 2.7 1.1 4.2\"/><path d=\"M16.2 9.4 16.5 11.2 17.8 10\"/>",
+    "solid": null
+  },
+  "wormhole": {
+    "category": "space",
+    "keywords": [
+      "wormhole",
+      "agujero-gusano",
+      "portal",
+      "tunnel",
+      "tunel",
+      "warp"
+    ],
+    "aliases": [
+      "portal"
+    ],
+    "outline": "<ellipse cx=\"12\" cy=\"12\" rx=\"9\" ry=\"5.5\"/><ellipse cx=\"12\" cy=\"12\" rx=\"6\" ry=\"3.6\"/><ellipse cx=\"12\" cy=\"12\" rx=\"3.3\" ry=\"2\"/><circle cx=\"12\" cy=\"12\" r=\".9\"/>",
+    "solid": null
+  },
+  "supernova": {
+    "category": "space",
+    "keywords": [
+      "supernova",
+      "explosion",
+      "estrella",
+      "star",
+      "burst",
+      "blast"
+    ],
+    "aliases": [
+      "star-explosion"
+    ],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"2.6\"/><path d=\"M12 1.5V5M12 19v3.5M1.5 12H5M19 12h3.5M4.6 4.6 7.1 7.1M16.9 16.9l2.5 2.5M19.4 4.6 16.9 7.1M7.1 16.9l-2.5 2.5\"/>",
+    "solid": "<path d=\"M12 2.5 13.1 9.2 18.7 5.3 14.8 10.9 21.5 12 14.8 13.1 18.7 18.7 13.1 14.8 12 21.5 10.9 14.8 5.3 18.7 9.2 13.1 2.5 12 9.2 10.9 5.3 5.3 10.9 9.2Z\"/>"
+  },
+  "solar-eclipse": {
+    "category": "space",
+    "keywords": [
+      "solar-eclipse",
+      "eclipse-solar",
+      "sun",
+      "sol",
+      "corona",
+      "moon",
+      "rayos",
+      "total",
+      "disco"
+    ],
+    "aliases": [
+      "eclipse-solar"
+    ],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"5.5\"/><path d=\"M19.6 12L21.6 12M18.58 15.8L20.31 16.8M15.8 18.58L16.8 20.31M12 19.6L12 21.6M8.2 18.58L7.2 20.31M5.42 15.8L3.69 16.8M4.4 12L2.4 12M5.42 8.2L3.69 7.2M8.2 5.42L7.2 3.69M12 4.4L12 2.4M15.8 5.42L16.8 3.69M18.58 8.2L20.31 7.2\"/>",
+    "solid": "<circle cx=\"12\" cy=\"12\" r=\"5.5\"/><path d=\"M19.4 12.85 21.7 12.5 21.7 11.5 19.4 11.15ZM17.98 16.44 20.15 17.28 20.65 16.42 18.83 14.96ZM14.96 18.83 16.42 20.65 17.28 20.15 16.44 17.98ZM11.15 19.4 11.5 21.7 12.5 21.7 12.85 19.4ZM7.56 17.98 6.72 20.15 7.58 20.65 9.04 18.83ZM5.17 14.96 3.35 16.42 3.85 17.28 6.02 16.44ZM4.6 11.15 2.3 11.5 2.3 12.5 4.6 12.85ZM6.02 7.56 3.85 6.72 3.35 7.58 5.17 9.04ZM9.04 5.17 7.58 3.35 6.72 3.85 7.56 6.02ZM12.85 4.6 12.5 2.3 11.5 2.3 11.15 4.6ZM16.44 6.02 17.28 3.85 16.42 3.35 14.96 5.17ZM18.83 9.04 20.65 7.58 20.15 6.72 17.98 7.56Z\"/>"
+  },
+  "lunar-phase": {
+    "category": "space",
+    "keywords": [
+      "lunar-phase",
+      "fase-lunar",
+      "moon",
+      "luna",
+      "phases",
+      "fases"
+    ],
+    "aliases": [
+      "moon-phases"
+    ],
+    "outline": "<path d=\"M6.6 9.3a2.8 2.8 0 1 0 0 5.6 3.4 2.8 0 0 1 0-5.6Z\"/><circle cx=\"12\" cy=\"12.1\" r=\"2.8\"/><path d=\"M12 9.3a2.8 2.8 0 0 1 0 5.6Z\"/><circle cx=\"18\" cy=\"12.1\" r=\"2.8\"/>",
+    "solid": null
+  },
+  "shooting-star": {
+    "category": "space",
+    "keywords": [
+      "shooting-star",
+      "estrella-fugaz",
+      "falling-star",
+      "meteor",
+      "wish",
+      "deseo"
+    ],
+    "aliases": [
+      "falling-star"
+    ],
+    "outline": "<path d=\"M16 4.7 16.76 6.95 19.1 6.98 17.24 8.4 17.9 10.67 16 9.3 14.1 10.67 14.76 8.4 12.9 6.98 15.24 6.95Z\"/><path d=\"M13.5 9.5 4.5 18.5M11 10l-2.5 2.5M15.5 12.5l-2.5 2.5\"/>",
+    "solid": "<path d=\"M16 4.1 16.79 6.41 19.23 6.45 17.28 7.92 18 10.25 16 8.85 14 10.25 14.72 7.92 12.77 6.45 15.21 6.41Z\"/><path d=\"M13.2 9.9 4.4 18.6a1 1 0 0 0 1.4 1.4l8.6-8.7a5 5 0 0 1-1.2-1.4Z\"/>"
+  },
+  "space-probe": {
+    "category": "space",
+    "keywords": [
+      "space-probe",
+      "sonda-espacial",
+      "probe",
+      "voyager",
+      "dish",
+      "antenna"
+    ],
+    "aliases": [
+      "probe",
+      "voyager"
+    ],
+    "outline": "<path d=\"M6 8.5A6 4.5 0 0 1 18 8.5Z\"/><path d=\"M12 8.5V5M12 5l-1.3-1.3M12 5l1.3-1.3\"/><rect x=\"9.5\" y=\"8.5\" width=\"5\" height=\"5.5\" rx=\"1\"/><path d=\"M14.5 11.5h5.5M20 11.5v1.5\"/><path d=\"M9.5 12 4 14.5\"/><rect x=\"2.6\" y=\"14\" width=\"2.2\" height=\"2.5\" rx=\"0.5\"/><path d=\"M11 14v3M13 14v3\"/>",
+    "solid": null
+  },
+  "launch-pad": {
+    "category": "space",
+    "keywords": [
+      "launch-pad",
+      "plataforma",
+      "launchpad",
+      "gantry",
+      "tower",
+      "despegue"
+    ],
+    "aliases": [
+      "launchpad",
+      "gantry"
+    ],
+    "outline": "<path d=\"M4 20.5h16\"/><path d=\"M13.5 8.5c1.4 1.8 2.2 4.4 2.2 7.5v4.5h-4.4V16c0-3.1.8-5.7 2.2-7.5Z\"/><path d=\"M13.5 8.5V6\"/><path d=\"M7 20.5V6h6.5\"/><path d=\"M7 10h4M7 13.5h4M7 17h4\"/>",
+    "solid": null
+  },
+  "mission-control": {
+    "category": "space",
+    "keywords": [
+      "mission-control",
+      "control-mision",
+      "ground-control",
+      "tracking",
+      "monitor",
+      "trajectory",
+      "cohete",
+      "rocket",
+      "launch",
+      "lanzamiento"
+    ],
+    "aliases": [
+      "ground-control",
+      "control-room"
+    ],
+    "outline": "<rect x=\"3\" y=\"3\" width=\"18\" height=\"14\" rx=\"2\"/><path d=\"M12 17v1.8\"/><path d=\"M7.5 20.7h9\"/><circle cx=\"5.5\" cy=\"14.5\" r=\".3\"/><circle cx=\"8\" cy=\"13.5\" r=\".3\"/><path d=\"M12.8 12.2l-1.2 1.2\"/><path d=\"M18.2 6.4c.7 1.4.6 2.7-.5 3.8l-2.3 2.3-2.9-2.9 2.3-2.3c1.1-1.1 2.4-1.2 3.4-.9Z\"/>",
+    "solid": null
+  },
+  "spacewalk": {
+    "category": "space",
+    "keywords": [
+      "spacewalk",
+      "paseo-espacial",
+      "eva",
+      "floating",
+      "tether",
+      "astronaut"
+    ],
+    "aliases": [
+      "eva"
+    ],
+    "outline": "<circle cx=\"9.5\" cy=\"7.5\" r=\"2.8\"/><path d=\"M9.5 10.3 11 15.2\"/><path d=\"M6 12.8 9.8 11 13.6 12.8\"/><path d=\"M8.3 19.8 11 15.2 13.6 19.5\"/><path d=\"M12.8 13.4c3.6-.2 6.2 1.6 6.9 4.9\"/>",
+    "solid": null
+  },
+  "orbit-path": {
+    "category": "space",
+    "keywords": [
+      "orbit",
+      "orbita",
+      "path",
+      "trajectory",
+      "satellite",
+      "revolution"
+    ],
+    "aliases": [
+      "orbit"
+    ],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"3.5\"/><path d=\"M3.07 15.25A9.5 4.5 -20 0 1 20.93 8.75A9.5 4.5 -20 0 1 3.07 15.25Z\"/><circle cx=\"20.4\" cy=\"9.1\" r=\"1.6\"/>",
+    "solid": "<circle cx=\"12\" cy=\"12\" r=\"3.6\"/><circle cx=\"20.4\" cy=\"9.1\" r=\"1.7\"/><path d=\"M3.07 15.25A9.5 4.5 -20 0 1 20.93 8.75A9.5 4.5 -20 0 1 3.07 15.25ZM5.42 14.39A7 2.6 -20 0 1 18.58 9.61A7 2.6 -20 0 1 5.42 14.39Z\" fill-rule=\"evenodd\"/>"
+  },
+  "meteor-shower": {
+    "category": "space",
+    "keywords": [
+      "meteor-shower",
+      "lluvia-meteoros",
+      "meteors",
+      "meteoros",
+      "streaks",
+      "sky"
+    ],
+    "aliases": [
+      "meteors"
+    ],
+    "outline": "<path d=\"M20 4 14 10M14 8 9.5 12.5M11 5 6 10M8.5 12 4.5 16\"/><circle cx=\"20.3\" cy=\"3.7\" r=\".9\"/><circle cx=\"14.3\" cy=\"7.7\" r=\".9\"/><circle cx=\"11.3\" cy=\"4.7\" r=\".9\"/><circle cx=\"8.8\" cy=\"11.7\" r=\".9\"/>",
+    "solid": null
+  },
+  "star-map": {
+    "category": "space",
+    "keywords": [
+      "star-map",
+      "mapa-estelar",
+      "sky-chart",
+      "planisphere",
+      "constellation",
+      "navigation"
+    ],
+    "aliases": [
+      "sky-chart",
+      "star-chart"
+    ],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M12 3v1.5M12 19.5V21M3 12h1.5M19.5 12H21\"/><path d=\"M7.5 9 10.5 11.5 14.5 9.5 15.5 14 10.5 15\"/><circle cx=\"7.5\" cy=\"9\" r=\".8\"/><circle cx=\"14.5\" cy=\"9.5\" r=\".8\"/><circle cx=\"15.5\" cy=\"14\" r=\".8\"/><circle cx=\"10.5\" cy=\"15\" r=\".8\"/>",
+    "solid": null
+  },
+  "planet-ring": {
+    "category": "space",
+    "keywords": [
+      "planet-ring",
+      "planeta-anillo",
+      "ringed-planet",
+      "ring",
+      "anillo",
+      "planet"
+    ],
+    "aliases": [
+      "ringed-planet"
+    ],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"5\"/><path d=\"M2.22 14.08A10 4 -12 0 1 21.78 9.92A10 4 -12 0 1 2.22 14.08Z\"/>",
+    "solid": "<path d=\"M2.12 14.1A10.1 4.1 -12 0 1 21.88 9.9A10.1 4.1 -12 0 1 2.12 14.1ZM5.54 13.37A6.6 2.1 -12 0 1 18.46 10.63A6.6 2.1 -12 0 1 5.54 13.37Z\" fill-rule=\"evenodd\"/><circle cx=\"12\" cy=\"12\" r=\"5.2\"/>"
+  },
+  "cosmos": {
+    "category": "space",
+    "keywords": [
+      "cosmos",
+      "universe",
+      "universo",
+      "orbits",
+      "atom",
+      "space",
+      "estrella",
+      "star",
+      "sparkle",
+      "orbita",
+      "orbit"
+    ],
+    "aliases": [
+      "universe"
+    ],
+    "outline": "<path d=\"M12 6.5 13.6 10.4 17.5 12 13.6 13.6 12 17.5 10.4 13.6 6.5 12 10.4 10.4Z\"/><path d=\"M18.1 7.4A8.8 3.1 -25 0 1 19.5 10.3\"/><path d=\"M5.9 16.6A8.8 3.1 -25 0 1 4.5 13.7\"/><path d=\"M5.8 3.3l.55 1.35 1.35.55-1.35.55L5.8 7.1l-.55-1.35L3.9 5.2l1.35-.55Z\"/><path d=\"M18.2 15.9l.5 1.2 1.2.5-1.2.5-.5 1.2-.5-1.2-1.2-.5 1.2-.5Z\"/>",
+    "solid": null
+  },
+  "rocket-launch": {
+    "category": "space",
+    "keywords": [
+      "rocket-launch",
+      "lanzamiento",
+      "liftoff",
+      "blastoff",
+      "despegue",
+      "takeoff"
+    ],
+    "aliases": [
+      "liftoff",
+      "blastoff"
+    ],
+    "outline": "<path d=\"M12 2.8c2.3 1.9 3.4 4.8 3.4 7.9 0 1.5-.3 3-.8 4.4H9.4c-.5-1.4-.8-2.9-.8-4.4 0-3.1 1.1-6 3.4-7.9Z\"/><circle cx=\"12\" cy=\"8.5\" r=\"1.6\"/><path d=\"M8.6 12.3c-1.7.5-2.8 2-2.8 3.9l2.6-1.3M15.4 12.3c1.7.5 2.8 2 2.8 3.9l-2.6-1.3\"/><path d=\"M10 15.5c-.4 2.2.6 4.3 2 5.7 1.4-1.4 2.4-3.5 2-5.7\"/><path d=\"M6.5 20.5a1.8 1.8 0 1 0 .3-2.2M17.5 20.5a1.8 1.8 0 1 1-.3-2.2\"/>",
+    "solid": "<path d=\"M12 2.5c2.5 2 3.7 5.1 3.7 8.3 0 1.6-.3 3.2-.9 4.7a1 1 0 0 1-.9.6h-3.8a1 1 0 0 1-.9-.6c-.6-1.5-.9-3.1-.9-4.7C8.3 7.6 9.5 4.5 12 2.5Zm0 4.4a1.7 1.7 0 1 0 0 3.4 1.7 1.7 0 0 0 0-3.4Z\" fill-rule=\"evenodd\"/><path d=\"M8.5 12.1c-1.9.6-3.1 2.3-3.1 4.4a.5.5 0 0 0 .72.45l2.6-1.3ZM15.5 12.1c1.9.6 3.1 2.3 3.1 4.4a.5.5 0 0 1-.72.45l-2.6-1.3Z\"/><path d=\"M9.8 15.6c-.5 2.4.6 4.7 2.2 6.2 1.6-1.5 2.7-3.8 2.2-6.2a.6.6 0 0 0-.6-.5h-3.2a.6.6 0 0 0-.6.5Z\"/>"
+  },
+  "space-helmet": {
+    "category": "space",
+    "keywords": [
+      "space-helmet",
+      "casco-espacial",
+      "helmet",
+      "visor",
+      "astronaut",
+      "eva"
+    ],
+    "aliases": [
+      "astronaut-helmet",
+      "eva-helmet"
+    ],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"8.5\"/><path d=\"M6.5 11.5a5.5 5 0 0 1 11 0v1a2.5 2.5 0 0 1-2.5 2.5H9a2.5 2.5 0 0 1-2.5-2.5Z\"/><path d=\"M3.5 11.5h1.2M19.3 11.5h1.2\"/>",
+    "solid": "<path d=\"M12 3a9 9 0 1 0 0 18 9 9 0 0 0 0-18Zm0 5a5 5 0 0 1 5 4.4c.1 1-.4 2-1.3 2.4-1 .5-2.4.7-3.7.7s-2.7-.2-3.7-.7c-.9-.4-1.4-1.4-1.3-2.4A5 5 0 0 1 12 8Z\" fill-rule=\"evenodd\"/><rect x=\"2.5\" y=\"10.8\" width=\"2.5\" height=\"2.4\" rx=\"0.6\"/><rect x=\"19\" y=\"10.8\" width=\"2.5\" height=\"2.4\" rx=\"0.6\"/>"
+  }
+}

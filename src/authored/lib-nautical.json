@@ -1,0 +1,254 @@
+{
+  "yacht": {
+    "category": "nautical",
+    "keywords": ["yacht", "boat", "luxury", "motorboat", "yate", "barco", "lujo", "embarcacion"],
+    "aliases": ["motor-yacht", "motorboat"],
+    "outline": "<path d=\"M3.5 15h17l-1.4 3a1.5 1.5 0 0 1-1.35.85H6.25A1.5 1.5 0 0 1 4.9 18Z\"/><path d=\"M6.5 15v-3a1 1 0 0 1 1-1h6.4l2.6 4\"/><path d=\"M8.5 11V8.5h3l2 2.5\"/><path d=\"M3 20.6q1.5-1 3 0t3 0 3 0 3 0 3 0 3 0\"/>",
+    "solid": null
+  },
+  "submarine": {
+    "category": "nautical",
+    "keywords": ["submarine", "sub", "navy", "underwater", "submarino", "sumergible", "armada"],
+    "aliases": ["u-boat", "submersible"],
+    "outline": "<rect x=\"3\" y=\"9\" width=\"15.5\" height=\"7\" rx=\"3.5\"/><path d=\"M9 9V6.5a1 1 0 0 1 1-1h3a1 1 0 0 1 1 1V9\"/><path d=\"M11.8 5.5V4H13\"/><circle cx=\"8.5\" cy=\"12.5\" r=\"1.1\"/><circle cx=\"12.5\" cy=\"12.5\" r=\"1.1\"/><path d=\"M18.5 12.5H21M20 11v3\"/>",
+    "solid": null
+  },
+  "cruise-ship": {
+    "category": "nautical",
+    "keywords": ["cruise", "liner", "ship", "vacation", "crucero", "transatlantico", "barco", "vacaciones"],
+    "aliases": ["ocean-liner", "cruise-boat"],
+    "outline": "<path d=\"M2.5 15.5h19l-1.5 3.1a1.5 1.5 0 0 1-1.34.84H5.34a1.5 1.5 0 0 1-1.34-.84Z\"/><path d=\"M5 15.5V9a1 1 0 0 1 1-1h11a1 1 0 0 1 1 1v6.5\"/><path d=\"M6.5 11.3h10M6.5 13.5h9\"/><path d=\"M8 8V5.5h2.2V8M12.8 8V5h2.2v3\"/><path d=\"M2.5 20.8q1.6-1 3.2 0t3.2 0 3.2 0 3.2 0 3.2 0 3.2 0\"/>",
+    "solid": null
+  },
+  "fishing-boat": {
+    "category": "nautical",
+    "keywords": ["fishing", "trawler", "boat", "pesca", "pesquero", "barco", "bote"],
+    "aliases": ["trawler", "fishing-vessel"],
+    "outline": "<path d=\"M3.5 16h15l-1.3 2.6a1.5 1.5 0 0 1-1.34.84H6.14A1.5 1.5 0 0 1 4.8 18.6Z\"/><path d=\"M5.5 16v-3.5h4V16\"/><path d=\"M11.5 16V6\"/><path d=\"M11.5 7l6 4\"/><path d=\"M14 8.7 13.6 16M17.5 11 17.1 16\"/><path d=\"M3 20.6q1.5-1 3 0t3 0 3 0 3 0 3 0 3 0\"/>",
+    "solid": null
+  },
+  "canoe": {
+    "category": "nautical",
+    "keywords": ["canoe", "paddle", "boat", "canoa", "piragua", "remo"],
+    "aliases": ["canoa"],
+    "outline": "<path d=\"M2.5 10.5c2 5.5 17 5.5 19 0\"/><path d=\"M5 11.4c2.2 3 11.8 3 14 0\"/><path d=\"M9 12.2v2M15 12.2v2\"/>",
+    "solid": null
+  },
+  "kayak": {
+    "category": "nautical",
+    "keywords": ["kayak", "paddle", "boat", "piragua", "remo", "canoe"],
+    "aliases": ["sea-kayak"],
+    "outline": "<path d=\"M2.5 13c3.5-2.3 15.5-2.3 19 0-3.5 2.3-15.5 2.3-19 0Z\"/><ellipse cx=\"12\" cy=\"13\" rx=\"1.9\" ry=\"1.1\"/><path d=\"M5.5 8 18.5 18\"/>",
+    "solid": null
+  },
+  "jet-ski": {
+    "category": "nautical",
+    "keywords": ["jet ski", "watercraft", "waverunner", "moto acuatica", "moto de agua", "agua"],
+    "aliases": ["watercraft", "waverunner", "personal-watercraft"],
+    "outline": "<path d=\"M2.5 15.2c1.5-2.5 5-3.2 8-3.2h7.6a1.4 1.4 0 0 1 1.4 1.4c0 2.3-1.9 3.8-4 3.8H6c-2 0-3.5-.8-3.5-2Z\"/><path d=\"M14 12.2 16 9h2.6\"/><path d=\"M2.5 20q1.6-1 3.2 0t3.2 0 3.2 0 3.2 0 3.2 0 3.2 0\"/>",
+    "solid": null
+  },
+  "lighthouse-nautical": {
+    "category": "nautical",
+    "keywords": ["lighthouse", "beacon", "coast", "navigation", "faro", "costa", "baliza"],
+    "aliases": ["coastal-light", "harbor-light"],
+    "outline": "<path d=\"M8 21 9 10h6l1 11\"/><path d=\"M6 21h12\"/><path d=\"M8.3 10h7.4\"/><path d=\"M9.5 10V7.5h5V10\"/><path d=\"M9.6 7.5 12 5l2.4 2.5\"/><path d=\"M8.7 13.5h6.6M8.4 17h7.2\"/><path d=\"M6.4 6.2 4 5.1M17.6 6.2 20 5.1\"/>",
+    "solid": null
+  },
+  "buoy": {
+    "category": "nautical",
+    "keywords": ["buoy", "marker", "float", "navigation", "boya", "baliza", "flotador"],
+    "aliases": ["marker-buoy", "navigation-buoy"],
+    "outline": "<path d=\"M8 11h8v3a4 4 0 0 1-8 0Z\"/><path d=\"M8 13.5h8\"/><path d=\"M9.5 11V9h5v2\"/><path d=\"M10.5 9 12 6.5 13.5 9\"/><path d=\"M12 6.5V5\"/><path d=\"M3 18.3q2.2-1 4.4 0t4.4 0 4.4 0 4.4 0\"/>",
+    "solid": null
+  },
+  "life-ring": {
+    "category": "nautical",
+    "keywords": ["life ring", "lifebuoy", "rescue", "safety", "salvavidas", "flotador", "rescate", "seguridad"],
+    "aliases": ["lifebuoy", "life-preserver", "life-saver"],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"8.5\"/><circle cx=\"12\" cy=\"12\" r=\"3.5\"/><path d=\"M12 3.5v5M12 15.5v5M3.5 12h5M15.5 12h5\"/>",
+    "solid": "<path d=\"M12 2.5a9.5 9.5 0 1 0 0 19 9.5 9.5 0 0 0 0-19Zm0 5.5a4 4 0 1 1 0 8 4 4 0 0 1 0-8Z\" fill-rule=\"evenodd\"/>"
+  },
+  "ships-helm": {
+    "category": "nautical",
+    "keywords": ["helm", "wheel", "steering", "navigation", "timon", "rueda", "gobierno"],
+    "aliases": ["helm", "boat-helm"],
+    "outline": "<circle cx=\"12\" cy=\"9\" r=\"5\"/><circle cx=\"12\" cy=\"9\" r=\"1.4\"/><path d=\"M12 4.5v9M7.5 9h9M9 6 15 12M15 6 9 12\"/><path d=\"M12 14v5.5\"/><path d=\"M9.5 21h5l-.8-1.5h-3.4Z\"/>",
+    "solid": null
+  },
+  "ships-wheel": {
+    "category": "nautical",
+    "keywords": ["ships wheel", "helm", "steering", "sailor", "rueda de barco", "timon", "marinero"],
+    "aliases": ["ship-wheel", "boat-wheel"],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"5\"/><circle cx=\"12\" cy=\"12\" r=\"1.5\"/><path d=\"M12 4v16M4 12h16M6.35 6.35 17.65 17.65M17.65 6.35 6.35 17.65\"/>",
+    "solid": null
+  },
+  "port-dock": {
+    "category": "nautical",
+    "keywords": ["port", "dock", "crane", "harbor", "cargo", "puerto", "muelle", "grua", "carga"],
+    "aliases": ["dock", "quay-crane", "port-crane"],
+    "outline": "<path d=\"M5 17V4h12\"/><path d=\"M5 7.5 9.5 4\"/><path d=\"M13.5 4v3\"/><rect x=\"11.5\" y=\"7\" width=\"4\" height=\"3\" rx=\"0.4\"/><path d=\"M2.5 17H8\"/><path d=\"M2.5 20.5q1.6-1 3.2 0t3.2 0 3.2 0 3.2 0 3.2 0 3.2 0\"/>",
+    "solid": null
+  },
+  "container-ship": {
+    "category": "nautical",
+    "keywords": ["container", "cargo", "freight", "shipping", "portacontenedores", "carga", "buque"],
+    "aliases": ["cargo-vessel", "freight-ship"],
+    "outline": "<path d=\"M2.5 16h19l-1.5 2.9a1.5 1.5 0 0 1-1.33.85H5.33A1.5 1.5 0 0 1 4 18.9Z\"/><path d=\"M4.5 16v-5h13v5\"/><path d=\"M4.5 13.5h13M8 11v5M11 11v5M14 11v5\"/><path d=\"M17.5 16v-3h2.7v3\"/><path d=\"M2.5 20.9q1.6-1 3.2 0t3.2 0 3.2 0 3.2 0 3.2 0 3.2 0\"/>",
+    "solid": null
+  },
+  "cargo-ship": {
+    "category": "nautical",
+    "keywords": ["cargo", "freight", "crane", "shipping", "carguero", "carga", "buque", "grua"],
+    "aliases": ["freighter", "merchant-ship"],
+    "outline": "<path d=\"M2.5 16h19l-1.5 2.9a1.5 1.5 0 0 1-1.33.85H5.33A1.5 1.5 0 0 1 4 18.9Z\"/><path d=\"M8 16V6.5\"/><path d=\"M8 7.5 14 10.5\"/><path d=\"M13.4 10.3V16\"/><rect x=\"4\" y=\"12.5\" width=\"3.5\" height=\"3.5\" rx=\"0.4\"/><path d=\"M17 16v-4h3.2v4\"/><path d=\"M18.1 12V9.5h1.6V12\"/><path d=\"M2.5 20.9q1.6-1 3.2 0t3.2 0 3.2 0 3.2 0 3.2 0 3.2 0\"/>",
+    "solid": null
+  },
+  "ferry": {
+    "category": "nautical",
+    "keywords": ["ferry", "boat", "transport", "passenger", "transbordador", "ferri", "barco", "pasajeros"],
+    "aliases": ["ferryboat", "car-ferry"],
+    "outline": "<path d=\"M2.5 15.5h19v3a1 1 0 0 1-1 1H3.5a1 1 0 0 1-1-1Z\"/><path d=\"M4.5 15.5v-4a1 1 0 0 1 1-1h13a1 1 0 0 1 1 1v4\"/><path d=\"M6.5 13h11\"/><path d=\"M12 10.5V8\"/><path d=\"M12 8h2.3v1.5H12\"/><path d=\"M2.5 21q1.6-1 3.2 0t3.2 0 3.2 0 3.2 0 3.2 0 3.2 0\"/>",
+    "solid": null
+  },
+  "rowboat": {
+    "category": "nautical",
+    "keywords": ["rowboat", "dinghy", "oars", "boat", "bote", "remo", "barca"],
+    "aliases": ["rowing-boat", "dinghy"],
+    "outline": "<path d=\"M2.5 13.5h19l-1.8 3.7a2 2 0 0 1-1.8 1.13H6.1A2 2 0 0 1 4.3 17.2Z\"/><path d=\"M9 13.5v1.8M15 13.5v1.8\"/><path d=\"M9 12.8 4.5 8.3M15 12.8 19.5 8.3\"/><path d=\"M2.5 20.5q1.6-1 3.2 0t3.2 0 3.2 0 3.2 0 3.2 0 3.2 0\"/>",
+    "solid": null
+  },
+  "oar-paddle": {
+    "category": "nautical",
+    "keywords": ["oar", "paddle", "row", "canoe", "remo", "pala", "canoa"],
+    "aliases": ["oar", "canoe-paddle"],
+    "outline": "<path d=\"M9.5 3.5h5\"/><path d=\"M12 3.5V14\"/><path d=\"M12 14c-2.6 0-3.6 1.8-3.6 3.9S9.4 21.5 12 21.5s3.6-1.5 3.6-3.6S14.6 14 12 14Z\"/>",
+    "solid": "<rect x=\"9.5\" y=\"2.5\" width=\"5\" height=\"2\" rx=\"1\"/><rect x=\"11.3\" y=\"3.5\" width=\"1.4\" height=\"11\" rx=\"0.5\"/><ellipse cx=\"12\" cy=\"17.6\" rx=\"3.6\" ry=\"4.1\"/>"
+  },
+  "propeller-boat": {
+    "category": "nautical",
+    "keywords": ["propeller", "screw", "boat", "engine", "helice", "propulsor", "motor"],
+    "aliases": ["boat-propeller", "screw-propeller", "marine-propeller"],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"1.9\"/><path d=\"M12 10.3c-1.3-2.2-1.3-4.8 0-7 1.3 2.2 1.3 4.8 0 7Z\"/><path d=\"M12 13.7c-1.3 2.2-1.3 4.8 0 7 1.3-2.2 1.3-4.8 0-7Z\"/><path d=\"M10.3 12c-2.2-1.3-4.8-1.3-7 0 2.2 1.3 4.8 1.3 7 0Z\"/><path d=\"M13.7 12c2.2-1.3 4.8-1.3 7 0-2.2 1.3-4.8 1.3-7 0Z\"/>",
+    "solid": "<circle cx=\"12\" cy=\"12\" r=\"2.1\"/><path d=\"M12 10.3c-1.3-2.2-1.3-4.8 0-7 1.3 2.2 1.3 4.8 0 7Z\"/><path d=\"M12 13.7c-1.3 2.2-1.3 4.8 0 7 1.3-2.2 1.3-4.8 0-7Z\"/><path d=\"M10.3 12c-2.2-1.3-4.8-1.3-7 0 2.2 1.3 4.8 1.3 7 0Z\"/><path d=\"M13.7 12c2.2-1.3 4.8-1.3 7 0-2.2 1.3-4.8 1.3-7 0Z\"/>"
+  },
+  "ship-anchor2": {
+    "category": "nautical",
+    "keywords": ["anchor", "rope", "mooring", "naval", "ancla", "cuerda", "amarre"],
+    "aliases": ["roped-anchor", "anchor-rope"],
+    "outline": "<circle cx=\"12\" cy=\"4.5\" r=\"2\"/><path d=\"M12 6.5v10.8\"/><path d=\"M9 9.3h6\"/><path d=\"M5.5 12.8c0 3 2.9 5 6.5 5s6.5-2 6.5-5\"/><path d=\"M5.5 12.8 4 11.8M18.5 12.8 20 11.8\"/><path d=\"M10.2 11.3c1.1 1 2.5 1 3.6 0M10.2 13.6c1.1 1 2.5 1 3.6 0\"/>",
+    "solid": null
+  },
+  "compass-rose": {
+    "category": "nautical",
+    "keywords": ["compass", "rose", "navigation", "direction", "bearing", "rosa de los vientos", "brujula", "navegacion"],
+    "aliases": ["wind-rose", "compass-star"],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M12 4.5 13 11 19.5 12 13 13 12 19.5 11 13 4.5 12 11 11Z\"/><circle cx=\"12\" cy=\"12\" r=\"0.5\"/>",
+    "solid": "<path d=\"M12 2.5a9.5 9.5 0 1 0 0 19 9.5 9.5 0 0 0 0-19Zm0 2.2a7.3 7.3 0 1 1 0 14.6 7.3 7.3 0 0 1 0-14.6Z\" fill-rule=\"evenodd\"/><path d=\"M12 5.5 13 11 18.5 12 13 13 12 18.5 11 13 5.5 12 11 11Z\"/>"
+  },
+  "nautical-map": {
+    "category": "nautical",
+    "keywords": ["map", "treasure", "chart", "route", "mapa", "carta", "tesoro", "ruta"],
+    "aliases": ["treasure-map", "sea-chart"],
+    "outline": "<path d=\"M3 6 9 4l6 2 6-2v13l-6 2-6-2-6 2Z\"/><path d=\"M9 4v13M15 6v13\"/><circle cx=\"6.5\" cy=\"14.5\" r=\"0.7\"/><circle cx=\"8.8\" cy=\"12.5\" r=\"0.7\"/><circle cx=\"11.2\" cy=\"13.5\" r=\"0.7\"/><circle cx=\"13.5\" cy=\"11.5\" r=\"0.7\"/><path d=\"M15.3 9 17.3 11M17.3 9 15.3 11\"/>",
+    "solid": null
+  },
+  "harbor": {
+    "category": "nautical",
+    "keywords": ["harbor", "harbour", "port", "mooring", "bollard", "puerto", "amarre", "noray"],
+    "aliases": ["harbour", "bollard"],
+    "outline": "<path d=\"M9.5 18.5v-8a2.5 2.5 0 0 1 5 0v8\"/><path d=\"M8 10h8\"/><path d=\"M9.5 13.5c-2.2 0-4 .9-4 2s1.8 2 4 2M14.5 13.5c2.2 0 4 .9 4 2s-1.8 2-4 2\"/><path d=\"M4 18.5h16\"/>",
+    "solid": null
+  },
+  "pier": {
+    "category": "nautical",
+    "keywords": ["pier", "jetty", "dock", "wharf", "muelle", "embarcadero", "malecon"],
+    "aliases": ["jetty", "wharf"],
+    "outline": "<rect x=\"2.5\" y=\"10.5\" width=\"19\" height=\"2.5\" rx=\"0.6\"/><path d=\"M5 13v6.5M9.5 13v6.5M14 13v6.5M18.5 13v6.5\"/><path d=\"M2.5 21q1.6-1 3.2 0t3.2 0 3.2 0 3.2 0 3.2 0 3.2 0\"/>",
+    "solid": null
+  },
+  "sail": {
+    "category": "nautical",
+    "keywords": ["sail", "sailing", "wind", "canvas", "vela", "navegacion", "viento"],
+    "aliases": ["mainsail"],
+    "outline": "<path d=\"M8 3.5v17.5\"/><path d=\"M8 5.5c5.5 1 8.5 5.5 8.8 10.5H8Z\"/><path d=\"M6 21h4.5\"/>",
+    "solid": "<path d=\"M8 5.5c5.5 1 8.5 5.5 8.8 10.5H8Z\"/><rect x=\"7.1\" y=\"3.5\" width=\"1.8\" height=\"17.5\" rx=\"0.9\"/><rect x=\"5.8\" y=\"20\" width=\"5\" height=\"1.8\" rx=\"0.9\"/>"
+  },
+  "mast": {
+    "category": "nautical",
+    "keywords": ["mast", "spar", "rigging", "flag", "mastil", "palo", "aparejo"],
+    "aliases": ["ship-mast"],
+    "outline": "<path d=\"M12 4v17\"/><path d=\"M5.5 8.5h13\"/><path d=\"M12 4h4.5l-1.2 1.5 1.2 1.5H12\"/><path d=\"M5.5 8.5 9 20.5M18.5 8.5 15 20.5\"/><path d=\"M8 21h8\"/>",
+    "solid": null
+  },
+  "deck": {
+    "category": "nautical",
+    "keywords": ["deck", "planks", "floor", "ship", "cubierta", "tablones", "suelo"],
+    "aliases": ["ship-deck"],
+    "outline": "<path d=\"M6 20V8.5C6 5 8.7 3 12 3s6 2 6 5.5V20Z\"/><path d=\"M6.4 9.5h11.2M6 12.5h12M6 15.5h12M6 18.5h12\"/>",
+    "solid": null
+  },
+  "porthole": {
+    "category": "nautical",
+    "keywords": ["porthole", "window", "ship", "round", "ojo de buey", "ventana", "escotilla"],
+    "aliases": ["ship-window"],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"9\"/><circle cx=\"12\" cy=\"12\" r=\"5.5\"/><circle cx=\"12\" cy=\"4.6\" r=\"0.7\"/><circle cx=\"19.4\" cy=\"12\" r=\"0.7\"/><circle cx=\"12\" cy=\"19.4\" r=\"0.7\"/><circle cx=\"4.6\" cy=\"12\" r=\"0.7\"/><path d=\"M9 10a4.2 4.2 0 0 1 3-2\"/>",
+    "solid": "<path d=\"M12 2.5a9.5 9.5 0 1 0 0 19 9.5 9.5 0 0 0 0-19Zm0 4a5.5 5.5 0 1 1 0 11 5.5 5.5 0 0 1 0-11Z\" fill-rule=\"evenodd\"/>"
+  },
+  "captain-hat": {
+    "category": "nautical",
+    "keywords": ["captain", "hat", "cap", "sailor", "gorra de capitan", "marinero", "sombrero"],
+    "aliases": ["skipper-hat", "sailor-cap", "captain-cap"],
+    "outline": "<path d=\"M4.5 14.5c0-4.2 3.4-7 7.5-7s7.5 2.8 7.5 7\"/><path d=\"M4 14.5h16v2.2H4Z\"/><path d=\"M4 16.7c-1.4 0-2 .9-2 1.9h20c0-1-.6-1.9-2-1.9\"/><circle cx=\"12\" cy=\"12\" r=\"1.4\"/>",
+    "solid": "<path d=\"M12 6.5c-4.4 0-7.9 3.1-8 7.2h16c-.1-4.1-3.6-7.2-8-7.2Zm0 3.6a1.6 1.6 0 1 1 0 3.2 1.6 1.6 0 0 1 0-3.2Z\" fill-rule=\"evenodd\"/><path d=\"M3.8 14.5a1 1 0 0 0-1 1V16a1 1 0 0 0 1 1h16.4a1 1 0 0 0 1-1v-.5a1 1 0 0 0-1-1Z\"/><path d=\"M4 17c-1.5 0-2.2 1-2.2 2H22.2c0-1-.7-2-2.2-2Z\"/>"
+  },
+  "life-jacket": {
+    "category": "nautical",
+    "keywords": ["life jacket", "vest", "pfd", "safety", "chaleco salvavidas", "seguridad", "flotador"],
+    "aliases": ["life-vest", "pfd", "buoyancy-aid"],
+    "outline": "<path d=\"M8.5 4.5 6.6 6.1A4 4 0 0 0 5 9.3V19a1.5 1.5 0 0 0 1.5 1.5h11A1.5 1.5 0 0 0 19 19V9.3a4 4 0 0 0-1.6-3.2L15.5 4.5\"/><path d=\"M8.5 4.5a4 4 0 0 0 7 0\"/><path d=\"M12 8.2V20.5\"/><path d=\"M5 14h4M15 14h4\"/><rect x=\"9.5\" y=\"12.5\" width=\"5\" height=\"3\" rx=\"0.6\"/>",
+    "solid": "<path d=\"M11 4.2A4.2 4.2 0 0 1 8 5.7L6.7 6.1A4 4 0 0 0 4.5 9.7V19A2.5 2.5 0 0 0 7 21.5h4Z\"/><path d=\"M13 4.2A4.2 4.2 0 0 0 16 5.7l1.3.4A4 4 0 0 1 19.5 9.7V19A2.5 2.5 0 0 1 17 21.5h-4Z\"/><rect x=\"9.3\" y=\"12.4\" width=\"5.4\" height=\"2.8\" rx=\"0.7\"/>"
+  },
+  "diving-mask": {
+    "category": "nautical",
+    "keywords": ["diving", "mask", "scuba", "snorkel", "goggles", "mascara de buceo", "gafas", "buceo"],
+    "aliases": ["scuba-mask", "dive-mask"],
+    "outline": "<path d=\"M4 9.5a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v3.5a3 3 0 0 1-3 3h-2.2a2 2 0 0 1-1.7-1l-.4-.7a1 1 0 0 0-1.7 0l-.4.7a2 2 0 0 1-1.7 1H7a3 3 0 0 1-3-3Z\"/><path d=\"M4.3 9.6 2 9.2M19.7 9.6 22 9.2\"/>",
+    "solid": "<path d=\"M6 7.5a2.5 2.5 0 0 0-2.5 2.5v3a3.5 3.5 0 0 0 3.5 3.5h2.2a2 2 0 0 0 1.7-1l.4-.7a.8.8 0 0 1 1.4 0l.4.7a2 2 0 0 0 1.7 1H17a3.5 3.5 0 0 0 3.5-3.5v-3A2.5 2.5 0 0 0 18 7.5Zm.5 2.2h11a1 1 0 0 1 1 1v1.6a2 2 0 0 1-2 2h-1.5a1.5 1.5 0 0 1-1.3-.8 2.4 2.4 0 0 0-4.4 0 1.5 1.5 0 0 1-1.3.8H7a2 2 0 0 1-2-2v-1.6a1 1 0 0 1 1-1Z\" fill-rule=\"evenodd\"/>"
+  },
+  "snorkel": {
+    "category": "nautical",
+    "keywords": ["snorkel", "tube", "diving", "swim", "tubo", "buceo", "esnorquel"],
+    "aliases": ["snorkel-tube"],
+    "outline": "<path d=\"M8 4V13a4 4 0 0 0 4 4\"/><path d=\"M6.5 4.5h3\"/><rect x=\"11.8\" y=\"15.5\" width=\"4.7\" height=\"3\" rx=\"1.5\"/>",
+    "solid": null
+  },
+  "flipper": {
+    "category": "nautical",
+    "keywords": ["flipper", "fin", "diving", "swim", "aleta", "buceo", "natacion"],
+    "aliases": ["swim-fin", "diving-fin", "fin"],
+    "outline": "<path d=\"M9 5.5a3 2.5 0 0 1 6 0\"/><path d=\"M9 5.5c-1.6 2-2.5 5-2.5 9.5v3A1.5 1.5 0 0 0 8 19.5h8a1.5 1.5 0 0 0 1.5-1.5v-3c0-4.5-.9-7.5-2.5-9.5\"/><path d=\"M12 8.5v10M9.6 11v7M14.4 11v7\"/>",
+    "solid": "<path d=\"M12 3.2a3.8 3 0 0 0-3.8 3c0 .5.1 1 .3 1.4C7 9.4 6 12.6 6 16.5v1.5A2.5 2.5 0 0 0 8.5 20.5h7A2.5 2.5 0 0 0 18 18v-1.5c0-3.9-1-7.1-2.5-8.9.2-.4.3-.9.3-1.4a3.8 3 0 0 0-3.8-3Zm0 2.2a1.6 1.3 0 0 1 0 2.6 1.6 1.3 0 0 1 0-2.6Z\" fill-rule=\"evenodd\"/>"
+  },
+  "treasure-chest": {
+    "category": "nautical",
+    "keywords": ["treasure", "chest", "pirate", "gold", "cofre", "tesoro", "pirata", "oro"],
+    "aliases": ["treasure-box", "pirate-chest"],
+    "outline": "<rect x=\"4\" y=\"12\" width=\"16\" height=\"7\" rx=\"1\"/><path d=\"M4 12v-1.5A4.5 4.5 0 0 1 8.5 6h7A4.5 4.5 0 0 1 20 10.5V12\"/><path d=\"M4 12h16\"/><path d=\"M8.5 6.2V19M15.5 6.2V19\"/><rect x=\"10.4\" y=\"13\" width=\"3.2\" height=\"3.5\" rx=\"0.5\"/><path d=\"M12 14.3v1\"/>",
+    "solid": "<path d=\"M8.5 5a5 5 0 0 0-5 5v8.5A1.5 1.5 0 0 0 5 20h14a1.5 1.5 0 0 0 1.5-1.5V10a5 5 0 0 0-5-5Zm-1.8 1.9a.8.8 0 0 1 .8.8v10.5a.8.8 0 0 1-1.6 0V7.7a.8.8 0 0 1 .8-.8Zm10.6 0a.8.8 0 0 1 .8.8v10.5a.8.8 0 0 1-1.6 0V7.7a.8.8 0 0 1 .8-.8ZM12 12.5a1.3 1.3 0 0 1 1.3 1.3V15a1.3 1.3 0 0 1-2.6 0v-1.2a1.3 1.3 0 0 1 1.3-1.3Z\" fill-rule=\"evenodd\"/>"
+  },
+  "message-bottle": {
+    "category": "nautical",
+    "keywords": ["message", "bottle", "note", "sos", "botella", "mensaje", "nota"],
+    "aliases": ["message-in-a-bottle", "bottle-message"],
+    "outline": "<rect x=\"10.3\" y=\"2.5\" width=\"3.4\" height=\"2.3\" rx=\"0.6\"/><path d=\"M11 4.8v2.4c-1.9.9-3 2.6-3 4.8V19a2 2 0 0 0 2 2h4a2 2 0 0 0 2-2v-7c0-2.2-1.1-3.9-3-4.8V4.8\"/><rect x=\"10\" y=\"11.5\" width=\"4\" height=\"6\" rx=\"1.2\"/>",
+    "solid": "<path d=\"M10.3 2.3a1 1 0 0 0-1 1v1a1 1 0 0 0 .7 1V7c-1.9 1-3 2.8-3 5v6.8A2.2 2.2 0 0 0 9.2 21h5.6a2.2 2.2 0 0 0 2.2-2.2V12c0-2.2-1.1-4-3-5V5.3a1 1 0 0 0 .7-1v-1a1 1 0 0 0-1-1Zm1.7 10.4a1 1 0 0 1 1 1v3.6a1 1 0 0 1-2 0v-3.6a1 1 0 0 1 1-1Z\" fill-rule=\"evenodd\"/>"
+  },
+  "wave-nautical": {
+    "category": "nautical",
+    "keywords": ["wave", "sea", "ocean", "water", "ola", "mar", "oceano", "agua"],
+    "aliases": ["sea-waves", "ocean-waves"],
+    "outline": "<path d=\"M3 7.5q1.5-1.5 3 0t3 0 3 0 3 0 3 0 3 0\"/><path d=\"M3 12q1.5 1.5 3 0t3 0 3 0 3 0 3 0 3 0\"/><path d=\"M3 16.5q1.5-1.5 3 0t3 0 3 0 3 0 3 0 3 0\"/>",
+    "solid": null
+  }
+}

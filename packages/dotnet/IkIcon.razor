@@ -1,0 +1,8 @@
+@* IconKit Blazor. Uso: <IkIcon Name="home" Mode="solid" Size="20" Color="#e05b4c" /> *@
+@((MarkupString)IconKitLib.IconKit.Svg(Name, Mode, Size, Color))
+@code {
+    [Parameter] public string Name { get; set; } = "";
+    [Parameter] public string Mode { get; set; } = "outline";
+    [Parameter] public object? Size { get; set; }
+    [Parameter] public string Color { get; set; } = "currentColor";
+}

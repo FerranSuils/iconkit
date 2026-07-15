@@ -1,0 +1,485 @@
+{
+  "cloud-sun": {
+    "category": "weather",
+    "keywords": [
+      "weather",
+      "partly",
+      "day",
+      "sol",
+      "nube",
+      "soleado",
+      "clima"
+    ],
+    "aliases": [
+      "sun-cloud"
+    ],
+    "outline": "<circle cx=\"16.5\" cy=\"6.8\" r=\"2.8\"/><path d=\"M16.5 1.4V2.6M22 6.8h-1.2M20.4 2.9l-.9.9M20.4 10.7l-.9-.9M12.6 2.9l.9.9\"/><path d=\"M6.5 19A3.8 3.8 0 0 1 6 11.4 4.9 4.9 0 0 1 15.2 12.3 3.6 3.6 0 0 1 14.8 19Z\"/>",
+    "solid": null
+  },
+  "cloud-moon": {
+    "category": "weather",
+    "keywords": [
+      "weather",
+      "night",
+      "cloudy",
+      "luna",
+      "nube",
+      "noche",
+      "clima"
+    ],
+    "aliases": [
+      "moon-cloud"
+    ],
+    "outline": "<path d=\"M15 3.4A4 4 0 1 0 19.8 8.2 3.1 3.1 0 0 1 15 3.4Z\"/><path d=\"M6.5 19A3.8 3.8 0 0 1 6 11.4 4.9 4.9 0 0 1 15.2 12.3 3.6 3.6 0 0 1 14.8 19Z\"/>",
+    "solid": null
+  },
+  "cloud-fog": {
+    "category": "weather",
+    "keywords": [
+      "weather",
+      "fog",
+      "mist",
+      "niebla",
+      "nube",
+      "bruma",
+      "clima"
+    ],
+    "aliases": [
+      "fog",
+      "mist"
+    ],
+    "outline": "<path d=\"M7 14a4 4 0 0 1-.8-7.94A5.5 5.5 0 0 1 17 8.5 3.75 3.75 0 0 1 16.5 14Z\"/><path d=\"M6 17.5h11M8 20.5h9\"/>",
+    "solid": null
+  },
+  "cloud-snow": {
+    "category": "weather",
+    "keywords": [
+      "weather",
+      "snow",
+      "winter",
+      "nieve",
+      "nube",
+      "invierno",
+      "clima"
+    ],
+    "aliases": [
+      "snow",
+      "snowy"
+    ],
+    "outline": "<path d=\"M7 14a4 4 0 0 1-.8-7.94A5.5 5.5 0 0 1 17 8.5 3.75 3.75 0 0 1 16.5 14Z\"/><path d=\"M8.5 18h.01M12 18h.01M15.5 18h.01M10.2 21h.01M13.8 21h.01\"/>",
+    "solid": null
+  },
+  "cloud-lightning": {
+    "category": "weather",
+    "keywords": [
+      "weather",
+      "thunder",
+      "storm",
+      "rayo",
+      "nube",
+      "tormenta",
+      "trueno"
+    ],
+    "aliases": [
+      "thunder"
+    ],
+    "outline": "<path d=\"M7 14a4 4 0 0 1-.8-7.94A5.5 5.5 0 0 1 17 8.5 3.75 3.75 0 0 1 16.5 14Z\"/><path d=\"M13 14.8 10.2 18.5h2.4l-.8 3 3.2-4.6h-2.3l1.1-2.6Z\"/>",
+    "solid": null
+  },
+  "cloud-drizzle": {
+    "category": "weather",
+    "keywords": [
+      "weather",
+      "drizzle",
+      "rain",
+      "llovizna",
+      "nube",
+      "lluvia",
+      "clima"
+    ],
+    "aliases": [
+      "drizzle"
+    ],
+    "outline": "<path d=\"M7 14a4 4 0 0 1-.8-7.94A5.5 5.5 0 0 1 17 8.5 3.75 3.75 0 0 1 16.5 14Z\"/><path d=\"M8 17v1.5M12 17.5v1.5M16 17v1.5M10 20v1.5M14 20v1.5\"/>",
+    "solid": null
+  },
+  "cloud-hail": {
+    "category": "weather",
+    "keywords": [
+      "weather",
+      "hail",
+      "ice",
+      "granizo",
+      "nube",
+      "hielo",
+      "clima"
+    ],
+    "aliases": [
+      "hail"
+    ],
+    "outline": "<path d=\"M7 14a4 4 0 0 1-.8-7.94A5.5 5.5 0 0 1 17 8.5 3.75 3.75 0 0 1 16.5 14Z\"/><path d=\"M9 17.5v1.3M15 17.5v1.3M12 18h.01M10.3 21h.01M13.7 21h.01\"/>",
+    "solid": null
+  },
+  "cloud-wind": {
+    "category": "weather",
+    "keywords": [
+      "weather",
+      "wind",
+      "breeze",
+      "viento",
+      "nube",
+      "brisa",
+      "clima"
+    ],
+    "aliases": [
+      "windy-cloud"
+    ],
+    "outline": "<path d=\"M7 14a4 4 0 0 1-.8-7.94A5.5 5.5 0 0 1 17 8.5 3.75 3.75 0 0 1 16.5 14Z\"/><path d=\"M5.5 17.5h9a2 2 0 1 0-2-2\"/><path d=\"M5.5 20.5h6.5a1.6 1.6 0 1 1-1.6 1.6\"/>",
+    "solid": null
+  },
+  "sunrise": {
+    "category": "weather",
+    "keywords": [
+      "weather",
+      "dawn",
+      "morning",
+      "amanecer",
+      "sol",
+      "manana",
+      "alba"
+    ],
+    "aliases": [
+      "dawn"
+    ],
+    "outline": "<path d=\"M3 21h18\"/><path d=\"M7.5 21a4.5 4.5 0 0 1 9 0\"/><path d=\"M12 3v6\"/><path d=\"m9 6 3-3 3 3\"/><path d=\"M5 14.8 6.4 16.2M19 14.8l-1.4 1.4\"/>",
+    "solid": "<path d=\"M6.5 20.4a5.5 5.5 0 0 1 11 0Z\"/><rect x=\"3.5\" y=\"20.4\" width=\"17\" height=\"1.6\" rx=\"0.8\"/><path d=\"M12 2.6 15 6.6H9Z\"/>"
+  },
+  "sunset": {
+    "category": "weather",
+    "keywords": [
+      "weather",
+      "dusk",
+      "evening",
+      "atardecer",
+      "sol",
+      "ocaso",
+      "anochecer"
+    ],
+    "aliases": [
+      "dusk"
+    ],
+    "outline": "<path d=\"M3 21h18\"/><path d=\"M7.5 21a4.5 4.5 0 0 1 9 0\"/><path d=\"M12 3v6\"/><path d=\"m9 6 3 3 3-3\"/><path d=\"M5 14.8 6.4 16.2M19 14.8l-1.4 1.4\"/>",
+    "solid": "<path d=\"M6.5 20.4a5.5 5.5 0 0 1 11 0Z\"/><rect x=\"3.5\" y=\"20.4\" width=\"17\" height=\"1.6\" rx=\"0.8\"/><path d=\"M12 6.6 9 2.6h6Z\"/>"
+  },
+  "thermometer": {
+    "category": "weather",
+    "keywords": [
+      "weather",
+      "temperature",
+      "heat",
+      "temperatura",
+      "termometro",
+      "calor",
+      "clima"
+    ],
+    "aliases": [
+      "temperature"
+    ],
+    "outline": "<path d=\"M14.5 14.6V4.8a2.5 2.5 0 0 0-5 0v9.8a4 4 0 1 0 5 0Z\"/><path d=\"M12 9v6.5\"/>",
+    "solid": "<circle cx=\"12\" cy=\"17.6\" r=\"3.4\"/><rect x=\"10.4\" y=\"7.5\" width=\"3.2\" height=\"11\" rx=\"1.6\"/>"
+  },
+  "thermometer-high": {
+    "category": "weather",
+    "keywords": [
+      "weather",
+      "temperature",
+      "hot",
+      "temperatura",
+      "calor",
+      "caliente",
+      "termometro"
+    ],
+    "aliases": [
+      "temperature-high",
+      "hot"
+    ],
+    "outline": "<path d=\"M14.5 14.6V4.8a2.5 2.5 0 0 0-5 0v9.8a4 4 0 1 0 5 0Z\"/><path d=\"M12 6.5v9\"/><path d=\"M16 7h2M16 11h2\"/>",
+    "solid": "<circle cx=\"12\" cy=\"17.6\" r=\"3.4\"/><rect x=\"10.4\" y=\"5.5\" width=\"3.2\" height=\"13\" rx=\"1.6\"/>"
+  },
+  "thermometer-low": {
+    "category": "weather",
+    "keywords": [
+      "weather",
+      "temperature",
+      "cold",
+      "temperatura",
+      "frio",
+      "fresco",
+      "termometro"
+    ],
+    "aliases": [
+      "temperature-low",
+      "cold"
+    ],
+    "outline": "<path d=\"M14.5 14.6V4.8a2.5 2.5 0 0 0-5 0v9.8a4 4 0 1 0 5 0Z\"/><path d=\"M12 12.5v3\"/><path d=\"M16 7h2M16 11h2\"/>",
+    "solid": "<circle cx=\"12\" cy=\"17.6\" r=\"3.4\"/><rect x=\"10.4\" y=\"12\" width=\"3.2\" height=\"6.5\" rx=\"1.6\"/>"
+  },
+  "temperature-half": {
+    "category": "weather",
+    "keywords": [
+      "weather",
+      "temperature",
+      "mild",
+      "temperatura",
+      "medio",
+      "templado",
+      "clima"
+    ],
+    "aliases": [
+      "temperature-medium"
+    ],
+    "outline": "<path d=\"M14.5 14.6V4.8a2.5 2.5 0 0 0-5 0v9.8a4 4 0 1 0 5 0Z\"/><path d=\"M12 10v5.5\"/><path d=\"M16 7h2M16 11h2\"/>",
+    "solid": "<circle cx=\"12\" cy=\"17.6\" r=\"3.4\"/><rect x=\"10.4\" y=\"9.5\" width=\"3.2\" height=\"9\" rx=\"1.6\"/>"
+  },
+  "wind-strong": {
+    "category": "weather",
+    "keywords": [
+      "weather",
+      "wind",
+      "gale",
+      "viento",
+      "ventisca",
+      "fuerte",
+      "clima"
+    ],
+    "aliases": [
+      "wind",
+      "gale"
+    ],
+    "outline": "<path d=\"M3 9h11a2.5 2.5 0 1 0-2.5-2.5\"/><path d=\"M3 14h15a2.5 2.5 0 1 1-2.5 2.5\"/><path d=\"M3 19h9a2 2 0 1 0-2-2\"/>",
+    "solid": null
+  },
+  "tornado": {
+    "category": "weather",
+    "keywords": [
+      "weather",
+      "twister",
+      "cyclone",
+      "tornado",
+      "ciclon",
+      "remolino",
+      "clima"
+    ],
+    "aliases": [
+      "twister"
+    ],
+    "outline": "<path d=\"M4 5.5h16\"/><path d=\"M6.5 9.7h11\"/><path d=\"M8.5 13.9h6\"/><path d=\"M11 18.1h2.5a1.6 1.6 0 1 1-1.6 1.6\"/>",
+    "solid": "<path d=\"M4 4.5h16a1.1 1.1 0 0 1 0 2.2H4a1.1 1.1 0 0 1 0-2.2Z\"/><path d=\"M6.5 8.8h11a1.1 1.1 0 0 1 0 2.2h-11a1.1 1.1 0 0 1 0-2.2Z\"/><path d=\"M8.5 13.1h7a1.1 1.1 0 0 1 0 2.2h-7a1.1 1.1 0 0 1 0-2.2Z\"/><path d=\"M10.5 17.4h4a1.1 1.1 0 0 1 0 2.2h-4a1.1 1.1 0 0 1 0-2.2Z\"/>"
+  },
+  "rainbow": {
+    "category": "weather",
+    "keywords": [
+      "weather",
+      "rainbow",
+      "arc",
+      "arcoiris",
+      "arco",
+      "colores",
+      "clima"
+    ],
+    "aliases": [
+      "arc"
+    ],
+    "outline": "<path d=\"M4 18a8 8 0 0 1 16 0\"/><path d=\"M7 18a5 5 0 0 1 10 0\"/><path d=\"M10 18a2 2 0 0 1 4 0\"/>",
+    "solid": null
+  },
+  "umbrella": {
+    "category": "weather",
+    "keywords": [
+      "weather",
+      "rain",
+      "protection",
+      "paraguas",
+      "lluvia",
+      "sombrilla",
+      "proteccion"
+    ],
+    "aliases": [
+      "parasol"
+    ],
+    "outline": "<path d=\"M3 12a9 9 0 0 1 18 0Z\"/><path d=\"M12 3V1.8\"/><path d=\"M12 12v5.5a2 2 0 0 1-4 0\"/>",
+    "solid": "<path d=\"M2.8 13A9.2 9.2 0 0 1 21.2 13Z\"/><path d=\"M11.2 3.9h1.6l-.2-2.1a.6.6 0 0 0-1.2 0Z\"/><path d=\"M11.3 13h1.4v4.8c0 1.6-1 2.7-2.6 2.7-1.2 0-2.1-.7-2.5-1.8l1.3-.5c.2.6.6.9 1.2.9.7 0 1.2-.5 1.2-1.4V13Z\"/>"
+  },
+  "moon-stars": {
+    "category": "weather",
+    "keywords": [
+      "weather",
+      "night",
+      "stars",
+      "luna",
+      "estrellas",
+      "noche",
+      "nocturno"
+    ],
+    "aliases": [
+      "starry-night"
+    ],
+    "outline": "<path d=\"M11 3.5A8 8 0 1 0 19.5 15 6.5 6.5 0 0 1 11 3.5Z\"/><path d=\"M19 3l.7 1.5 1.5.7-1.5.7-.7 1.5-.7-1.5-1.5-.7 1.5-.7Z\"/><path d=\"M15 8l.45 1 1 .45-1 .45-.45 1-.45-1-1-.45 1-.45Z\"/><path d=\"M20.5 9.5l.35.8.8.35-.8.35-.35.8-.35-.8-.8-.35.8-.35Z\"/>",
+    "solid": "<path d=\"M11 3.5A8 8 0 1 0 19.5 15 6.5 6.5 0 0 1 11 3.5Z\"/><path d=\"M19 3l.7 1.5 1.5.7-1.5.7-.7 1.5-.7-1.5-1.5-.7 1.5-.7Z\"/><path d=\"M15 8l.45 1 1 .45-1 .45-.45 1-.45-1-1-.45 1-.45Z\"/><path d=\"M20.5 9.5l.35.8.8.35-.8.35-.35.8-.35-.8-.8-.35.8-.35Z\"/>"
+  },
+  "eclipse": {
+    "category": "weather",
+    "keywords": [
+      "weather",
+      "eclipse",
+      "solar",
+      "eclipse",
+      "sol",
+      "luna",
+      "astronomia"
+    ],
+    "aliases": [
+      "solar-eclipse"
+    ],
+    "outline": "<circle cx=\"11\" cy=\"12\" r=\"7.5\"/><path d=\"M14 5.2a7.5 7.5 0 0 1 0 13.6 6 6 0 0 0 0-13.6Z\"/>",
+    "solid": "<path d=\"M11 4.5a7.5 7.5 0 1 0 0 15 7.5 7.5 0 0 0 0-15Z M14 5.2a7.5 7.5 0 0 1 0 13.6 6 6 0 0 0 0-13.6Z\" fill-rule=\"evenodd\"/>"
+  },
+  "smog": {
+    "category": "weather",
+    "keywords": [
+      "weather",
+      "haze",
+      "pollution",
+      "smog",
+      "niebla",
+      "contaminacion",
+      "bruma"
+    ],
+    "aliases": [
+      "haze"
+    ],
+    "outline": "<path d=\"M8 8a4 4 0 0 1 8 0\"/><path d=\"M12 2v1.5M18 8h-1.5M6 8H4.5M16.2 4.2l-1 1M7.8 4.2l1 1\"/><path d=\"M4 13h16M6 16.5h13M4 20h11\"/>",
+    "solid": null
+  },
+  "meteor": {
+    "category": "weather",
+    "keywords": [
+      "weather",
+      "comet",
+      "shooting-star",
+      "meteoro",
+      "cometa",
+      "estrella-fugaz",
+      "espacio"
+    ],
+    "aliases": [
+      "comet",
+      "shooting-star"
+    ],
+    "outline": "<circle cx=\"17.5\" cy=\"6.5\" r=\"3\"/><path d=\"M15.4 8.6 4.5 19.5\"/><path d=\"M12.5 7.5 9.5 10.5M16.5 11.5l-3 3\"/>",
+    "solid": "<circle cx=\"17.5\" cy=\"6.5\" r=\"3.2\"/><path d=\"M15.6 9.4 12.6 6.4 4.4 18.9a1.2 1.2 0 0 0 1.6 1.6Z\"/>"
+  },
+  "dew": {
+    "category": "weather",
+    "keywords": [
+      "weather",
+      "dew",
+      "humidity",
+      "rocio",
+      "humedad",
+      "gota",
+      "condensacion"
+    ],
+    "aliases": [
+      "dewpoint"
+    ],
+    "outline": "<path d=\"M11 3.5c-1.5 3-4.5 4.8-4.5 8.2a4.5 4.5 0 0 0 9 0c0-3.4-3-5.2-4.5-8.2Z\"/><path d=\"M18 12c-.7 1.4-2 2.2-2 3.7a2 2 0 0 0 4 0c0-1.5-1.3-2.3-2-3.7Z\"/><path d=\"M4 20.5h16\"/>",
+    "solid": "<path d=\"M11 3.5c-1.5 3-4.5 4.8-4.5 8.2a4.5 4.5 0 0 0 9 0c0-3.4-3-5.2-4.5-8.2Z\"/><path d=\"M18 12c-.7 1.4-2 2.2-2 3.7a2 2 0 0 0 4 0c0-1.5-1.3-2.3-2-3.7Z\"/><rect x=\"4\" y=\"19.7\" width=\"16\" height=\"1.6\" rx=\"0.8\"/>"
+  },
+  "uv-index": {
+    "category": "weather",
+    "keywords": [
+      "weather",
+      "uv",
+      "radiation",
+      "ultravioleta",
+      "radiacion",
+      "sol",
+      "indice"
+    ],
+    "aliases": [
+      "ultraviolet"
+    ],
+    "outline": "<circle cx=\"12\" cy=\"7.5\" r=\"3.5\"/><path d=\"M12 1.5V3M5.5 7.5H4M20 7.5h-1.5M7 3l1 1M17 3l-1 1\"/><path d=\"M7.5 13v3M12 13.5v3M16.5 13v3\"/>",
+    "solid": null
+  },
+  "storm": {
+    "category": "weather",
+    "keywords": [
+      "weather",
+      "thunderstorm",
+      "rain",
+      "tormenta",
+      "lluvia",
+      "trueno",
+      "rayo"
+    ],
+    "aliases": [
+      "thunderstorm"
+    ],
+    "outline": "<path d=\"M7 14a4 4 0 0 1-.8-7.94A5.5 5.5 0 0 1 17 8.5 3.75 3.75 0 0 1 16.5 14Z\"/><path d=\"M13 14.8 10.8 18.3h2.2l-.9 3 3.1-4.4h-2.1l1.1-2.6Z\"/><path d=\"M8 16.5 7 19.5M16.5 16.5l-1 3\"/>",
+    "solid": null
+  },
+  "hurricane": {
+    "category": "weather",
+    "keywords": [
+      "weather",
+      "cyclone",
+      "typhoon",
+      "huracan",
+      "ciclon",
+      "tifon",
+      "clima"
+    ],
+    "aliases": [
+      "cyclone",
+      "typhoon"
+    ],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"1.8\"/><path d=\"M12 10.2C13 6.5 16 5 19.5 5.5 19 9 16.5 10.4 13.5 10\"/><path d=\"M12 13.8C11 17.5 8 19 4.5 18.5 5 15 7.5 13.6 10.5 14\"/>",
+    "solid": null
+  },
+  "partly-cloudy": {
+    "category": "weather",
+    "keywords": [
+      "weather",
+      "partly",
+      "cloudy",
+      "nublado",
+      "parcial",
+      "sol",
+      "nube"
+    ],
+    "aliases": [
+      "partly-sunny"
+    ],
+    "outline": "<circle cx=\"8.5\" cy=\"8\" r=\"3.2\"/><path d=\"M8.5 2.5V4M3 8h1.5M4.6 4.1l1 1M4.6 11.9l1-1M12.4 4.1l-1 1\"/><path d=\"M11 20A3 3 0 0 1 10.6 14.1 4 4 0 0 1 18 16.5 2.8 2.8 0 0 1 17.5 20Z\"/>",
+    "solid": null
+  },
+  "clear-night": {
+    "category": "weather",
+    "keywords": [
+      "weather",
+      "night",
+      "clear",
+      "despejado",
+      "noche",
+      "luna",
+      "estrella"
+    ],
+    "aliases": [
+      "clear-sky-night"
+    ],
+    "outline": "<path d=\"M11.5 3.5A8 8 0 1 0 20 13.5 6.3 6.3 0 0 1 11.5 3.5Z\"/><path d=\"M18.5 4l.55 1.2 1.2.55-1.2.55-.55 1.2-.55-1.2-1.2-.55 1.2-.55Z\"/>",
+    "solid": "<path d=\"M11.5 3.5A8 8 0 1 0 20 13.5 6.3 6.3 0 0 1 11.5 3.5Z\"/><path d=\"M18.5 4l.55 1.2 1.2.55-1.2.55-.55 1.2-.55-1.2-1.2-.55 1.2-.55Z\"/>"
+  }
+}

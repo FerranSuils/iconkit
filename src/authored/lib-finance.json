@@ -1,0 +1,170 @@
+{
+  "euro-sign": {
+    "category": "finance",
+    "keywords": ["euro", "currency", "money", "europe", "eur", "divisa", "moneda", "dinero"],
+    "aliases": ["euro", "eur"],
+    "outline": "<path d=\"M16.6 7.3A6.6 6.6 0 1 0 16.6 16.7\"/><path d=\"M4 10.5h9M4 13.5h7\"/>",
+    "solid": null
+  },
+  "pound-sign": {
+    "category": "finance",
+    "keywords": ["pound", "sterling", "currency", "money", "gbp", "libra", "divisa", "britain"],
+    "aliases": ["pound", "sterling", "gbp"],
+    "outline": "<path d=\"M15.5 8.5A3.5 3.5 0 0 0 8.5 8.5V20\"/><path d=\"M5.5 20h12\"/><path d=\"M6 13.8h6.5\"/>",
+    "solid": null
+  },
+  "yen-sign": {
+    "category": "finance",
+    "keywords": ["yen", "yuan", "currency", "money", "japan", "china", "jpy", "cny", "divisa"],
+    "aliases": ["yen", "yuan", "jpy"],
+    "outline": "<path d=\"M7 5 12 11 17 5\"/><path d=\"M12 11v8\"/><path d=\"M7.5 13.5h9M7.5 16.5h9\"/>",
+    "solid": null
+  },
+  "rupee-sign": {
+    "category": "finance",
+    "keywords": ["rupee", "currency", "money", "india", "inr", "divisa", "rupia"],
+    "aliases": ["rupee", "inr"],
+    "outline": "<path d=\"M6.5 5.5h11\"/><path d=\"M6.5 9h11\"/><path d=\"M9 5.5a4 4 0 0 1 0 8H8l6.5 7\"/>",
+    "solid": null
+  },
+  "bank-building": {
+    "category": "finance",
+    "keywords": ["bank", "finance", "institution", "building", "landmark", "banco", "edificio", "entidad"],
+    "aliases": ["bank", "landmark", "institution"],
+    "outline": "<path d=\"M2.5 9 12 4l9.5 5\"/><path d=\"M4 9.5h16\"/><path d=\"M6 10v7M10 10v7M14 10v7M18 10v7\"/><path d=\"M4 17h16\"/><path d=\"M3 20.5h18\"/>",
+    "solid": "<path d=\"M12 3.4 21.6 8.6A1 1 0 0 1 21 10.4H3A1 1 0 0 1 2.4 8.6Z\"/><rect x=\"5\" y=\"11\" width=\"2\" height=\"5.6\" rx=\"0.4\"/><rect x=\"9\" y=\"11\" width=\"2\" height=\"5.6\" rx=\"0.4\"/><rect x=\"13\" y=\"11\" width=\"2\" height=\"5.6\" rx=\"0.4\"/><rect x=\"17\" y=\"11\" width=\"2\" height=\"5.6\" rx=\"0.4\"/><rect x=\"4\" y=\"16.6\" width=\"16\" height=\"1.8\" rx=\"0.5\"/><rect x=\"3\" y=\"18.8\" width=\"18\" height=\"2.4\" rx=\"0.7\"/>"
+  },
+  "safe-box": {
+    "category": "finance",
+    "keywords": ["safe", "vault", "security", "money", "strongbox", "caja fuerte", "seguridad", "deposito"],
+    "aliases": ["safe", "strongbox", "deposit-box"],
+    "outline": "<rect x=\"3\" y=\"4.5\" width=\"18\" height=\"15\" rx=\"2\"/><circle cx=\"10.5\" cy=\"12\" r=\"3.3\"/><path d=\"M10.5 12 12.6 10.7\"/><path d=\"M16.5 10.5v3\"/><path d=\"M6.5 19.5v1.6M17.5 19.5v1.6\"/>",
+    "solid": "<path d=\"M5 4.5h14a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-11a2 2 0 0 1 2-2Zm5.5 4a3.5 3.5 0 1 0 0 7 3.5 3.5 0 0 0 0-7Z\" fill-rule=\"evenodd\"/><circle cx=\"10.5\" cy=\"12\" r=\"1\"/><rect x=\"15.8\" y=\"10.5\" width=\"1.6\" height=\"3\" rx=\"0.8\"/><rect x=\"6\" y=\"19.3\" width=\"1.6\" height=\"1.9\" rx=\"0.4\"/><rect x=\"16.4\" y=\"19.3\" width=\"1.6\" height=\"1.9\" rx=\"0.4\"/>"
+  },
+  "piggy-bank": {
+    "category": "finance",
+    "keywords": ["savings", "save", "money", "piggy", "deposit", "hucha", "ahorro", "cerdito"],
+    "aliases": ["piggybank", "savings-pig"],
+    "outline": "<path d=\"M3 13.5a6.5 6.5 0 0 1 6.5-6.5h2a6.5 6.5 0 0 1 6.3 4.9l1.7.5a.6.6 0 0 1 .4.9l-1 1.7a6.5 6.5 0 0 1-2.4 3.5V20a1 1 0 0 1-1 1h-1.5a1 1 0 0 1-1-1 6.6 6.6 0 0 1-3 0 1 1 0 0 1-1 1H6a1 1 0 0 1-1-1v-2.2A6.5 6.5 0 0 1 3 13.5Z\"/><path d=\"M9 9.3h3.5\"/><path d=\"M9.2 7 8.3 5.2 10.2 6\"/><circle cx=\"16.5\" cy=\"12.4\" r=\".7\"/>",
+    "solid": "<path d=\"M3 13.5a6.5 6.5 0 0 1 6.5-6.5h2a6.5 6.5 0 0 1 6.3 4.9l1.7.5a.6.6 0 0 1 .4.9l-1 1.7a6.5 6.5 0 0 1-2.4 3.5V20a1 1 0 0 1-1 1h-1.5a1 1 0 0 1-1-1 6.6 6.6 0 0 1-3 0 1 1 0 0 1-1 1H6a1 1 0 0 1-1-1v-2.2A6.5 6.5 0 0 1 3 13.5Zm6-4.2a.9.9 0 0 0 0 1.8h3.5a.9.9 0 0 0 0-1.8Zm7.5 2.1a1 1 0 1 0 0 2 1 1 0 0 0 0-2Z\" fill-rule=\"evenodd\"/><path d=\"M9.2 6.8 8.3 5 10.3 5.9Z\"/>"
+  },
+  "invoice": {
+    "category": "finance",
+    "keywords": ["invoice", "bill", "payment", "document", "factura", "recibo", "cobro", "presupuesto"],
+    "aliases": ["bill", "invoice-dollar"],
+    "outline": "<rect x=\"4.5\" y=\"3\" width=\"15\" height=\"18\" rx=\"2\"/><path d=\"M8 7.5h8M8 10.5h8M8 13.5h5\"/><path d=\"M13.7 16.6v4.6\"/><path d=\"M15.2 17.6a1.4 1.4 0 0 0-1.5-.6c-.9.2-1.1 1.2-.2 1.6.4.2 1 .2 1.4.5.8.5.4 1.5-.5 1.6a1.5 1.5 0 0 1-1.3-.7\"/>",
+    "solid": "<path d=\"M6.5 3h11a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2h-11a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2Zm1.5 4.6a.9.9 0 0 0 0 1.8h8a.9.9 0 0 0 0-1.8Zm0 3a.9.9 0 0 0 0 1.8h8a.9.9 0 0 0 0-1.8Zm0 3a.9.9 0 0 0 0 1.8h4a.9.9 0 0 0 0-1.8Z\" fill-rule=\"evenodd\"/>"
+  },
+  "calculator": {
+    "category": "finance",
+    "keywords": ["calculator", "math", "accounting", "compute", "calculadora", "contabilidad", "calculo"],
+    "aliases": ["calc", "accounting"],
+    "outline": "<rect x=\"5\" y=\"3\" width=\"14\" height=\"18\" rx=\"2\"/><rect x=\"8\" y=\"6\" width=\"8\" height=\"3\" rx=\"0.8\"/><path d=\"M8.5 12.5h.01M12 12.5h.01M15.5 12.5h.01M8.5 15.5h.01M12 15.5h.01M15.5 15.5h.01M8.5 18.5h.01M12 18.5h.01M15.5 18.5h.01\"/>",
+    "solid": "<path d=\"M7 3h10a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2Zm1 3a.9.9 0 0 0-.9.9v2.2a.9.9 0 0 0 .9.9h8a.9.9 0 0 0 .9-.9V6.9A.9.9 0 0 0 16 6Zm.5 6a1 1 0 1 0 0 2 1 1 0 0 0 0-2Zm3.5 0a1 1 0 1 0 0 2 1 1 0 0 0 0-2Zm3.5 0a1 1 0 1 0 0 2 1 1 0 0 0 0-2Zm-7 3.5a1 1 0 1 0 0 2 1 1 0 0 0 0-2Zm3.5 0a1 1 0 1 0 0 2 1 1 0 0 0 0-2Zm3.5 0a1 1 0 1 0 0 2 1 1 0 0 0 0-2Zm-7 3.5a1 1 0 1 0 0 2 1 1 0 0 0 0-2Zm3.5 0a1 1 0 1 0 0 2 1 1 0 0 0 0-2Zm3.5 0a1 1 0 1 0 0 2 1 1 0 0 0 0-2Z\" fill-rule=\"evenodd\"/>"
+  },
+  "exchange-arrows": {
+    "category": "finance",
+    "keywords": ["exchange", "currency", "convert", "forex", "swap", "trade", "cambio", "divisas", "conversion"],
+    "aliases": ["currency-exchange", "convert", "forex"],
+    "outline": "<circle cx=\"5\" cy=\"8.5\" r=\"2.2\"/><path d=\"M5 7.3v2.4\"/><circle cx=\"19\" cy=\"15.5\" r=\"2.2\"/><path d=\"M19 14.3v2.4\"/><path d=\"M7.5 8.5h11\"/><path d=\"m16 6 2.5 2.5-2.5 2.5\"/><path d=\"M16.5 15.5h-11\"/><path d=\"m8 13-2.5 2.5 2.5 2.5\"/>",
+    "solid": null
+  },
+  "money-stack": {
+    "category": "finance",
+    "keywords": ["money", "cash", "banknote", "bills", "currency", "dinero", "efectivo", "billetes"],
+    "aliases": ["cash", "banknotes", "bills"],
+    "outline": "<rect x=\"2.5\" y=\"6.5\" width=\"19\" height=\"9\" rx=\"1.8\"/><circle cx=\"12\" cy=\"11\" r=\"2.2\"/><path d=\"M6 11h.01M18 11h.01\"/><path d=\"M4 18h16M5.5 20.5h13\"/>",
+    "solid": "<path d=\"M4.3 6.5h15.4A1.8 1.8 0 0 1 21.5 8.3v5.4a1.8 1.8 0 0 1-1.8 1.8H4.3a1.8 1.8 0 0 1-1.8-1.8V8.3A1.8 1.8 0 0 1 4.3 6.5Zm7.7 2.3a2.2 2.2 0 1 0 0 4.4 2.2 2.2 0 0 0 0-4.4Z\" fill-rule=\"evenodd\"/><rect x=\"4\" y=\"17.3\" width=\"16\" height=\"1.8\" rx=\"0.9\"/><rect x=\"5.5\" y=\"19.8\" width=\"13\" height=\"1.7\" rx=\"0.85\"/>"
+  },
+  "atm": {
+    "category": "finance",
+    "keywords": ["atm", "cash machine", "bank", "withdraw", "cajero", "dinero", "retirada"],
+    "aliases": ["cash-machine", "cashpoint"],
+    "outline": "<rect x=\"4.5\" y=\"2.5\" width=\"15\" height=\"19\" rx=\"2\"/><rect x=\"7\" y=\"5.5\" width=\"10\" height=\"5.5\" rx=\"1\"/><circle cx=\"12\" cy=\"8.2\" r=\"1.5\"/><path d=\"M8 14h8\"/><rect x=\"7.5\" y=\"16.5\" width=\"9\" height=\"3.5\" rx=\"1\"/>",
+    "solid": "<path d=\"M6.5 2.5h11a2 2 0 0 1 2 2v15a2 2 0 0 1-2 2h-11a2 2 0 0 1-2-2v-15a2 2 0 0 1 2-2Zm.5 3a1 1 0 0 0-1 1v3.5a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V6.5a1 1 0 0 0-1-1Zm1 8.5a.9.9 0 0 0 0 1.8h8a.9.9 0 0 0 0-1.8Zm.5 3a1 1 0 0 0-1 1V19a1 1 0 0 0 1 1h7a1 1 0 0 0 1-1v-1.5a1 1 0 0 0-1-1Z\" fill-rule=\"evenodd\"/><circle cx=\"12\" cy=\"8.2\" r=\"1.4\"/>"
+  },
+  "hand-coin": {
+    "category": "finance",
+    "keywords": ["donation", "give", "coin", "money", "charity", "donacion", "moneda", "dar"],
+    "aliases": ["donate", "give-money"],
+    "outline": "<circle cx=\"13\" cy=\"7\" r=\"3.3\"/><path d=\"M13 5.2v3.6\"/><path d=\"M6 15h2.3a3 3 0 0 1 1.8.6l1.9 1.5a2.5 2.5 0 0 0 1.5.5h3.4a1.6 1.6 0 0 0 0-3.2h-3.6\"/><path d=\"M6 14.6V20\"/>",
+    "solid": "<path d=\"M13 3.5a3.5 3.5 0 1 0 0 7 3.5 3.5 0 0 0 0-7Zm0 1.4a.9.9 0 0 1 .9.9v2.4a.9.9 0 0 1-1.8 0V5.8a.9.9 0 0 1 .9-.9Z\" fill-rule=\"evenodd\"/><path d=\"M6.5 14.5a1 1 0 0 1 1 1V20a1 1 0 0 1-2 0v-4.5a1 1 0 0 1 1-1Z\"/><path d=\"M9 14a3.5 3.5 0 0 1 2.1.7l1.6 1.3h5a1.7 1.7 0 0 1 0 3.4h-4a4 4 0 0 1-2.4-.8L9 16.8Z\"/>"
+  },
+  "scale-balance": {
+    "category": "finance",
+    "keywords": ["balance", "scales", "justice", "weigh", "equity", "balanza", "justicia", "equilibrio"],
+    "aliases": ["scales", "balance", "justice"],
+    "outline": "<path d=\"M12 4v17\"/><path d=\"M6 7h12\"/><path d=\"M3 14 6 7l3 7a3.6 3.6 0 0 1-6 0Z\"/><path d=\"M15 14 18 7l3 7a3.6 3.6 0 0 1-6 0Z\"/><path d=\"M7.5 21h9\"/>",
+    "solid": "<rect x=\"11.1\" y=\"4\" width=\"1.8\" height=\"17\" rx=\"0.9\"/><rect x=\"7\" y=\"20\" width=\"10\" height=\"1.9\" rx=\"0.9\"/><rect x=\"6\" y=\"6.4\" width=\"12\" height=\"1.8\" rx=\"0.9\"/><path d=\"M3 13.5 6 6.7l3 6.8a3.5 3.5 0 0 1-6 0Z\"/><path d=\"M15 13.5 18 6.7l3 6.8a3.5 3.5 0 0 1-6 0Z\"/>"
+  },
+  "briefcase": {
+    "category": "finance",
+    "keywords": ["business", "work", "case", "job", "portfolio", "maletin", "trabajo", "negocio"],
+    "aliases": ["business", "portfolio", "case"],
+    "outline": "<rect x=\"3\" y=\"7\" width=\"18\" height=\"13\" rx=\"2\"/><path d=\"M8 7V5.5A1.5 1.5 0 0 1 9.5 4h5A1.5 1.5 0 0 1 16 5.5V7\"/><path d=\"M3 12.5h18\"/><rect x=\"10.5\" y=\"11\" width=\"3\" height=\"3\" rx=\"0.6\"/>",
+    "solid": "<path d=\"M9.5 4h5A1.5 1.5 0 0 1 16 5.5V7h-1.8V5.8a.2.2 0 0 0-.2-.2H10a.2.2 0 0 0-.2.2V7H8V5.5A1.5 1.5 0 0 1 9.5 4Z\"/><path d=\"M5 7h14a2 2 0 0 1 2 2v3.4h-6.8V11.6a.6.6 0 0 0-.6-.6h-3.2a.6.6 0 0 0-.6.6v0.8H3V9a2 2 0 0 1 2-2Z\"/><path d=\"M3 13.6h6.8v.8a.6.6 0 0 0 .6.6h3.2a.6.6 0 0 0 .6-.6v-.8H21V18a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2Z\"/>"
+  },
+  "vault": {
+    "category": "finance",
+    "keywords": ["vault", "safe", "bank", "security", "strongroom", "boveda", "seguridad", "caja"],
+    "aliases": ["bank-vault", "strongroom"],
+    "outline": "<rect x=\"3\" y=\"3.5\" width=\"18\" height=\"17\" rx=\"2\"/><circle cx=\"12\" cy=\"12\" r=\"6\"/><circle cx=\"12\" cy=\"12\" r=\"1.5\"/><path d=\"M12 10.5V7M12 13.5V17M10.5 12H7M13.5 12H17\"/><path d=\"M5.5 6h.01M18.5 6h.01M5.5 18h.01M18.5 18h.01\"/>",
+    "solid": "<path d=\"M5 3.5h14a2 2 0 0 1 2 2v13a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-13a2 2 0 0 1 2-2Zm7 3a5.5 5.5 0 1 0 0 11 5.5 5.5 0 0 0 0-11Z\" fill-rule=\"evenodd\"/><circle cx=\"12\" cy=\"12\" r=\"1.8\"/><rect x=\"11.2\" y=\"7.4\" width=\"1.6\" height=\"3\" rx=\"0.8\"/><rect x=\"11.2\" y=\"13.6\" width=\"1.6\" height=\"3\" rx=\"0.8\"/><rect x=\"7.4\" y=\"11.2\" width=\"3\" height=\"1.6\" rx=\"0.8\"/><rect x=\"13.6\" y=\"11.2\" width=\"3\" height=\"1.6\" rx=\"0.8\"/>"
+  },
+  "credit-score": {
+    "category": "finance",
+    "keywords": ["credit", "score", "rating", "gauge", "meter", "credito", "puntuacion", "calificacion"],
+    "aliases": ["score", "credit-rating", "score-meter"],
+    "outline": "<path d=\"M3.5 16.5a8.5 8.5 0 0 1 17 0\"/><path d=\"M12 16.5 16 12\"/><circle cx=\"12\" cy=\"16.5\" r=\"1.4\"/><path d=\"M5 13.2l1.3.8M12 8.5v1.5M19 13.2l-1.3.8\"/>",
+    "solid": "<path d=\"M3.5 16.5a8.5 8.5 0 0 1 17 0h-2.6a5.9 5.9 0 0 0-11.8 0Z\"/><circle cx=\"12\" cy=\"16.5\" r=\"1.9\"/><polygon points=\"16.5 11.5 11.8 15 13 16.4\"/>"
+  },
+  "tax-form": {
+    "category": "finance",
+    "keywords": ["tax", "form", "document", "percent", "impuesto", "formulario", "declaracion", "irs"],
+    "aliases": ["tax", "tax-return", "tax-document"],
+    "outline": "<rect x=\"4.5\" y=\"3\" width=\"15\" height=\"18\" rx=\"2\"/><path d=\"M8 6.8h8M8 9.8h8M8 12.8h4.5\"/><path d=\"M15 15.5 9.5 20.5\"/><circle cx=\"10.2\" cy=\"16.2\" r=\"1.2\"/><circle cx=\"14.3\" cy=\"19.8\" r=\"1.2\"/>",
+    "solid": "<path d=\"M6.5 3h11a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2h-11a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2Zm1.5 3.9a.9.9 0 0 0 0 1.8h8a.9.9 0 0 0 0-1.8Zm0 3a.9.9 0 0 0 0 1.8h8a.9.9 0 0 0 0-1.8Zm6.6 3.5-5 5a.9.9 0 0 0 1.3 1.3l5-5a.9.9 0 0 0-1.3-1.3ZM10 14.8a1.1 1.1 0 1 0 0 2.2 1.1 1.1 0 0 0 0-2.2Zm4.2 3a1.1 1.1 0 1 0 0 2.2 1.1 1.1 0 0 0 0-2.2Z\" fill-rule=\"evenodd\"/>"
+  },
+  "budget-chart": {
+    "category": "finance",
+    "keywords": ["budget", "finance", "chart", "pie", "allocation", "presupuesto", "grafico", "reparto"],
+    "aliases": ["budget", "finance-chart"],
+    "outline": "<circle cx=\"10.5\" cy=\"10.5\" r=\"7.5\"/><path d=\"M10.5 10.5V3M10.5 10.5l6.5 3.5\"/><circle cx=\"17.5\" cy=\"17.5\" r=\"3.5\"/><path d=\"M17.5 15.8v3.4\"/><path d=\"M18.6 16.6a1 1 0 0 0-1.1-.5c-.6.1-.8.8-.1 1.1.3.1.7.1 1 .3.6.3.3 1.1-.4 1.1a1 1 0 0 1-.9-.5\"/>",
+    "solid": "<path d=\"M10.5 10.5V3A7.5 7.5 0 1 0 17 14.3Z\"/><path d=\"M17.5 14a3.5 3.5 0 1 0 0 7 3.5 3.5 0 0 0 0-7Zm.2 1.3a.6.6 0 0 0-.6.6v.2a1.5 1.5 0 0 0-.3 2.8l1.1.5a.4.4 0 0 1-.2.7 1 1 0 0 1-.6-.3.6.6 0 1 0-.9.8 2 2 0 0 0 .6.4v.2a.6.6 0 0 0 1.2 0v-.2a1.5 1.5 0 0 0 .4-2.8l-1.1-.5a.4.4 0 0 1 .2-.7 1 1 0 0 1 .5.2.6.6 0 1 0 .8-.9 2 2 0 0 0-.5-.3v-.2a.6.6 0 0 0-.6-.6Z\" fill-rule=\"evenodd\"/>"
+  },
+  "savings": {
+    "category": "finance",
+    "keywords": ["savings", "save", "growth", "invest", "money", "ahorro", "crecimiento", "inversion"],
+    "aliases": ["save", "grow-money"],
+    "outline": "<ellipse cx=\"11\" cy=\"12\" rx=\"5\" ry=\"1.8\"/><path d=\"M6 12v5.4c0 1 2.24 1.8 5 1.8s5-.8 5-1.8V12\"/><path d=\"M6 14.7c0 1 2.24 1.8 5 1.8s5-.8 5-1.8M6 17.1c0 1 2.24 1.8 5 1.8s5-.8 5-1.8\"/><path d=\"M11 10.6V8\"/><path d=\"M11 8.6A2.6 2.6 0 0 0 8.4 6 2.6 2.6 0 0 0 11 8.6ZM11 8.6A2.6 2.6 0 0 1 13.6 6 2.6 2.6 0 0 1 11 8.6Z\"/>",
+    "solid": "<ellipse cx=\"11\" cy=\"17.6\" rx=\"5\" ry=\"1.9\"/><ellipse cx=\"11\" cy=\"14.8\" rx=\"5\" ry=\"1.9\"/><ellipse cx=\"11\" cy=\"12\" rx=\"5\" ry=\"1.9\"/><path d=\"M10.2 12h1.6V8.2h-1.6Z\"/><path d=\"M11 8.8A2.6 2.6 0 0 0 8.4 6.2 2.6 2.6 0 0 0 11 8.8ZM11 8.8A2.6 2.6 0 0 1 13.6 6.2 2.6 2.6 0 0 1 11 8.8Z\"/>"
+  },
+  "loan": {
+    "category": "finance",
+    "keywords": ["loan", "money bag", "funds", "borrow", "credit", "prestamo", "dinero", "fondos"],
+    "aliases": ["money-bag", "funds", "borrow"],
+    "outline": "<path d=\"M8.6 8h6.8l1.4 2.3a8.5 8.5 0 0 1 1.7 5.1A4.6 4.6 0 0 1 13.9 20h-3.8a4.6 4.6 0 0 1-4.6-4.6 8.5 8.5 0 0 1 1.7-5.1Z\"/><path d=\"M8.6 8 7.7 5.6a.8.8 0 0 1 .7-1.1h7.2a.8.8 0 0 1 .7 1.1L15.4 8\"/><path d=\"M12 12.4v4.4\"/><path d=\"M13.6 13.2a1.7 1.7 0 0 0-1.6-.8c-1 0-1.8.6-1.8 1.3 0 1.8 3.5.9 3.5 2.6 0 .8-.8 1.3-1.8 1.3a1.7 1.7 0 0 1-1.6-.8\"/>",
+    "solid": "<path d=\"M8.4 4.5h7.2a.8.8 0 0 1 .7 1.1L15.1 8.2a8.7 8.7 0 0 1 3.4 6.9A4.9 4.9 0 0 1 13.6 20h-3.2a4.9 4.9 0 0 1-4.9-4.9 8.7 8.7 0 0 1 3.4-6.9L7.7 5.6a.8.8 0 0 1 .7-1.1Zm3.6 6.6a.9.9 0 0 0-.9.9v.4a2 2 0 0 0-.4 3.8l1.6.7a.4.4 0 0 1-.2.8 1.2 1.2 0 0 1-.8-.4.9.9 0 0 0-1.3 1.2 2.8 2.8 0 0 0 1 .7v.4a.9.9 0 0 0 1.8 0v-.4a2 2 0 0 0 .4-3.8l-1.6-.7a.4.4 0 0 1 .2-.8 1.2 1.2 0 0 1 .7.3.9.9 0 1 0 1.2-1.3 2.8 2.8 0 0 0-.9-.6v-.4a.9.9 0 0 0-.9-.9Z\" fill-rule=\"evenodd\"/>"
+  },
+  "wire-transfer": {
+    "category": "finance",
+    "keywords": ["transfer", "send money", "payment", "remittance", "wire", "transferencia", "envio", "pago"],
+    "aliases": ["send-money", "transfer", "remittance"],
+    "outline": "<circle cx=\"6\" cy=\"12\" r=\"4\"/><path d=\"M6 9.5v5\"/><path d=\"M7.3 10.4a1.4 1.4 0 0 0-1.3-.7c-.8 0-1.5.5-1.5 1.1 0 1.5 2.9.7 2.9 2.2 0 .6-.7 1.1-1.5 1.1a1.4 1.4 0 0 1-1.3-.7\"/><path d=\"M11 12h9\"/><path d=\"m17 9 3 3-3 3\"/>",
+    "solid": "<path d=\"M6 7.5a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9Zm.2 1.5a.8.8 0 0 0-.8.8v.2a1.8 1.8 0 0 0-.4 3.4l1.4.6a.35.35 0 0 1-.1.7 1 1 0 0 1-.6-.3.8.8 0 1 0-1.1 1.1 2.4 2.4 0 0 0 .8.5v.2a.8.8 0 0 0 1.6 0v-.2a1.8 1.8 0 0 0 .4-3.4l-1.4-.6a.35.35 0 0 1 .1-.7 1 1 0 0 1 .5.2.8.8 0 1 0 1.1-1.1 2.4 2.4 0 0 0-.7-.4v-.2a.8.8 0 0 0-.8-.8Z\" fill-rule=\"evenodd\"/><path d=\"M11 11h6.2l-1.9-1.9a1 1 0 0 1 1.4-1.4l3.6 3.6a1 1 0 0 1 0 1.4l-3.6 3.6a1 1 0 0 1-1.4-1.4l1.9-1.9H11a1 1 0 0 1 0-2Z\"/>"
+  },
+  "money-check": {
+    "category": "finance",
+    "keywords": ["check", "cheque", "payment", "bank", "payroll", "cheque", "pago", "nomina"],
+    "aliases": ["cheque", "check", "bank-check"],
+    "outline": "<rect x=\"2.5\" y=\"6\" width=\"19\" height=\"12\" rx=\"2\"/><path d=\"M6 10.5h5\"/><path d=\"M6 14.5h4\"/><path d=\"M14 14.5h3.5\"/><circle cx=\"16.5\" cy=\"10\" r=\"2\"/><path d=\"M16.5 8.7v2.6\"/><path d=\"M17.4 9.3a1 1 0 0 0-.9-.5c-.6 0-1 .3-1 .7 0 .9 1.9.5 1.9 1.4 0 .4-.5.7-1 .7a1 1 0 0 1-.9-.5\"/>",
+    "solid": "<path d=\"M4.5 6h15a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2h-15a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2Zm1.5 3.6a.9.9 0 0 0 0 1.8h5a.9.9 0 0 0 0-1.8Zm0 3.6a.9.9 0 0 0 0 1.8h4a.9.9 0 0 0 0-1.8Zm10 1.4a.9.9 0 0 0 0 1.8h1.5a.9.9 0 0 0 0-1.8Z\" fill-rule=\"evenodd\"/><path d=\"M16.5 7.4a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5Zm.2 1a.5.5 0 0 0-.5.5 1.2 1.2 0 0 0-.3 2.2l.9.4a.25.25 0 0 1-.1.5.7.7 0 0 1-.4-.2.5.5 0 1 0-.7.7 1.5 1.5 0 0 0 .5.3.5.5 0 0 0 1 0 1.2 1.2 0 0 0 .3-2.2l-.9-.4a.25.25 0 0 1 .1-.5.7.7 0 0 1 .3.2.5.5 0 1 0 .7-.7 1.5 1.5 0 0 0-.4-.3.5.5 0 0 0-.5-.5Z\" fill-rule=\"evenodd\"/>"
+  },
+  "hand-holding-dollar": {
+    "category": "finance",
+    "keywords": ["donation", "give", "money", "charity", "salary", "donacion", "dar", "dinero"],
+    "aliases": ["hand-holding-usd", "donate-dollar", "give-dollar"],
+    "outline": "<circle cx=\"13\" cy=\"7\" r=\"3.4\"/><path d=\"M13 5.3v3.4\"/><path d=\"M14.2 6a1.2 1.2 0 0 0-1.2-.6c-.8 0-1.3.4-1.3 1 0 1.3 2.6.6 2.6 1.9 0 .5-.6 1-1.3 1a1.2 1.2 0 0 1-1.2-.6\"/><path d=\"M6 15h2.3a3 3 0 0 1 1.8.6l1.9 1.5a2.5 2.5 0 0 0 1.5.5h3.4a1.6 1.6 0 0 0 0-3.2h-3.6\"/><path d=\"M6 14.6V20\"/>",
+    "solid": "<path d=\"M13 3.5a3.5 3.5 0 1 0 0 7 3.5 3.5 0 0 0 0-7Zm.2 1a.7.7 0 0 0-.7.7 1.6 1.6 0 0 0-.4 3l1.2.5a.3.3 0 0 1-.1.6.9.9 0 0 1-.5-.2.7.7 0 1 0-1 1 2 2 0 0 0 .6.4.7.7 0 0 0 1.4 0 1.6 1.6 0 0 0 .4-3l-1.2-.5a.3.3 0 0 1 .1-.6.9.9 0 0 1 .4.2.7.7 0 1 0 1-1 2 2 0 0 0-.6-.3.7.7 0 0 0-.7-.7Z\" fill-rule=\"evenodd\"/><path d=\"M6.5 14.5a1 1 0 0 1 1 1V20a1 1 0 0 1-2 0v-4.5a1 1 0 0 1 1-1Z\"/><path d=\"M9 14a3.5 3.5 0 0 1 2.1.7l1.6 1.3h5a1.7 1.7 0 0 1 0 3.4h-4a4 4 0 0 1-2.4-.8L9 16.8Z\"/>"
+  }
+}

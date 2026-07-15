@@ -1,0 +1,724 @@
+{
+  "flash-sale": {
+    "category": "ecommerce",
+    "keywords": [
+      "flash",
+      "sale",
+      "lightning",
+      "deal",
+      "oferta",
+      "relampago",
+      "rebaja",
+      "rayo"
+    ],
+    "aliases": [
+      "lightning-deal",
+      "sale-bolt"
+    ],
+    "outline": "<path d=\"M13 2.5 L4 13.5 L11 13.5 L10 21.5 L20 10.5 L13 10.5 Z\"/>",
+    "solid": "<path d=\"M13 2.5 L4 13.5 L11 13.5 L10 21.5 L20 10.5 L13 10.5 Z\"/>"
+  },
+  "buy-now": {
+    "category": "ecommerce",
+    "keywords": [
+      "buy",
+      "now",
+      "instant",
+      "purchase",
+      "comprar",
+      "ahora",
+      "instantaneo",
+      "compra"
+    ],
+    "aliases": [
+      "instant-buy",
+      "one-click-buy"
+    ],
+    "outline": "<path d=\"M5.5 8h13a1 1 0 0 1 1 1.06l-.75 10.5a2 2 0 0 1-2 1.94H7.25a2 2 0 0 1-2-1.94L4.5 9.06A1 1 0 0 1 5.5 8Z\"/><path d=\"M8.5 8V6a3.5 3.5 0 0 1 7 0v2\"/><path d=\"M12.8 10.5 L9.8 15 L12.2 15 L11.4 18.5 L15 13.6 L12.6 13.6 Z\"/>",
+    "solid": "<path d=\"M5.5 8.2h13a1 1 0 0 1 1 1.06l-.75 10.3a2 2 0 0 1-2 1.94H7.25a2 2 0 0 1-2-1.94L4.5 9.26A1 1 0 0 1 5.5 8.2ZM12.8 10.8 L10 15.1 L12.2 15.1 L11.5 18.4 L15 13.7 L12.7 13.7 Z\" fill-rule=\"evenodd\"/><path d=\"M8.2 8.2a3.8 3.8 0 0 1 7.6 0h-1.6a2.2 2.2 0 0 0-4.4 0z\"/>"
+  },
+  "order-tracking": {
+    "category": "ecommerce",
+    "keywords": [
+      "order",
+      "tracking",
+      "track",
+      "shipment",
+      "pedido",
+      "seguimiento",
+      "rastreo",
+      "envio"
+    ],
+    "aliases": [
+      "track-order",
+      "shipment-tracking"
+    ],
+    "outline": "<circle cx=\"4.5\" cy=\"19\" r=\"1.6\"/><path d=\"M6.6 17.7 8 15.4M9.7 13.4 11.1 11.1M12.8 9.1 14.2 6.8\"/><path d=\"M18 3.4a3.7 3.7 0 0 1 3.7 3.7c0 2.8-3.7 6.1-3.7 6.1s-3.7-3.3-3.7-6.1A3.7 3.7 0 0 1 18 3.4Z\"/><circle cx=\"18\" cy=\"7.1\" r=\"1.2\"/>",
+    "solid": null
+  },
+  "order-history": {
+    "category": "ecommerce",
+    "keywords": [
+      "order",
+      "history",
+      "past",
+      "orders",
+      "pedido",
+      "historial",
+      "anteriores",
+      "compras"
+    ],
+    "aliases": [
+      "purchase-history",
+      "past-orders"
+    ],
+    "outline": "<rect x=\"3\" y=\"7\" width=\"11.5\" height=\"11\" rx=\"1.6\"/><path d=\"M7 7v2.6h3.5V7\"/><circle cx=\"17\" cy=\"16\" r=\"4.2\"/><path d=\"M17 14.1V16l1.5 1\"/>",
+    "solid": null
+  },
+  "gift-wrap": {
+    "category": "ecommerce",
+    "keywords": [
+      "gift",
+      "wrap",
+      "present",
+      "ribbon",
+      "regalo",
+      "envoltorio",
+      "lazo",
+      "presente"
+    ],
+    "aliases": [
+      "present-box",
+      "gift-wrapping"
+    ],
+    "outline": "<rect x=\"2.5\" y=\"6\" width=\"19\" height=\"4\" rx=\"1\"/><path d=\"M4 10v8.5A1.5 1.5 0 0 0 5.5 20h13a1.5 1.5 0 0 0 1.5-1.5V10\"/><path d=\"M12 6v14\"/><path d=\"M12 6C12 6 11 2.8 9 3.2 7.4 3.5 8 6 12 6ZM12 6C12 6 13 2.8 15 3.2 16.6 3.5 16 6 12 6Z\"/>",
+    "solid": "<path d=\"M2.5 6h19a1 1 0 0 1 1 1v2a1 1 0 0 1-1 1H2.5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1ZM11.15 6h.35v4h-.35zM12.5 6h.35v4h-.35z\" fill-rule=\"evenodd\"/><path d=\"M4 10.5h16v8A1.5 1.5 0 0 1 18.5 20h-13A1.5 1.5 0 0 1 4 18.5zM11.15 10.5h.35v9.5h-.35zM12.5 10.5h.35v9.5h-.35z\" fill-rule=\"evenodd\"/><path d=\"M12 6C12 6 11 2.8 9 3.2 7.4 3.5 8 6 12 6ZM12 6C12 6 13 2.8 15 3.2 16.6 3.5 16 6 12 6Z\"/>"
+  },
+  "loyalty-points": {
+    "category": "ecommerce",
+    "keywords": [
+      "loyalty",
+      "points",
+      "reward",
+      "card",
+      "fidelidad",
+      "puntos",
+      "recompensa",
+      "tarjeta"
+    ],
+    "aliases": [
+      "reward-points",
+      "points-card"
+    ],
+    "outline": "<rect x=\"2.5\" y=\"5\" width=\"19\" height=\"14\" rx=\"2.5\"/><polygon points=\"12,7.8 13,10.63 15.99,10.7 13.62,12.53 14.47,15.4 12,13.7 9.53,15.4 10.38,12.53 8.01,10.7 11,10.63\"/>",
+    "solid": "<path d=\"M5 5h14a2.5 2.5 0 0 1 2.5 2.5v9A2.5 2.5 0 0 1 19 19H5a2.5 2.5 0 0 1-2.5-2.5v-9A2.5 2.5 0 0 1 5 5ZM12 7.8 11 10.63 8.01 10.7 10.38 12.53 9.53 15.4 12 13.7 14.47 15.4 13.62 12.53 15.99 10.7 13 10.63Z\" fill-rule=\"evenodd\"/>"
+  },
+  "refund-money": {
+    "category": "ecommerce",
+    "keywords": [
+      "refund",
+      "money",
+      "return",
+      "back",
+      "reembolso",
+      "dinero",
+      "devolucion",
+      "reintegro"
+    ],
+    "aliases": [
+      "money-refund",
+      "money-back"
+    ],
+    "outline": "<path d=\"M8 3.5 4.5 6l3.5 2.5\"/><path d=\"M4.5 6h9a4 4 0 0 1 4 4v.6\"/><rect x=\"2.5\" y=\"10.5\" width=\"19\" height=\"8\" rx=\"1.8\"/><circle cx=\"12\" cy=\"14.5\" r=\"2.1\"/><path d=\"M6 12.4v4.2M18 12.4v4.2\"/>",
+    "solid": null
+  },
+  "warranty-shield": {
+    "category": "ecommerce",
+    "keywords": [
+      "warranty",
+      "shield",
+      "guarantee",
+      "protection",
+      "garantia",
+      "escudo",
+      "proteccion",
+      "seguro"
+    ],
+    "aliases": [
+      "warranty",
+      "guarantee-shield"
+    ],
+    "outline": "<path d=\"M12 2.5 4.5 5.3v6.2c0 4.6 3.2 8 7.5 9.8 4.3-1.8 7.5-5.2 7.5-9.8V5.3z\"/><path d=\"m8.3 11.8 2.6 2.6 4.8-5.3\"/>",
+    "solid": "<path d=\"M12 2.5 4.5 5.3v6.2c0 4.6 3.2 8 7.5 9.8 4.3-1.8 7.5-5.2 7.5-9.8V5.3z M10.9 15.1 15.9 9.6 14.5 8.3 10.9 12.3 9.4 10.8 8 12.2z\" fill-rule=\"evenodd\"/>"
+  },
+  "size-guide": {
+    "category": "ecommerce",
+    "keywords": [
+      "size",
+      "guide",
+      "ruler",
+      "measure",
+      "talla",
+      "guia",
+      "regla",
+      "medida"
+    ],
+    "aliases": [
+      "measurements",
+      "fit-guide"
+    ],
+    "outline": "<rect x=\"3\" y=\"3\" width=\"6\" height=\"18\" rx=\"1.5\"/><path d=\"M9 6.5H6M9 9.5H7M9 12H6M9 14.5H7M9 17.5H6\"/><path d=\"M15 4.8v14.4\"/><path d=\"M13 6.6 15 4.6 17 6.6M13 17.4 15 19.4 17 17.4\"/>",
+    "solid": null
+  },
+  "filter-products": {
+    "category": "ecommerce",
+    "keywords": [
+      "filter",
+      "products",
+      "funnel",
+      "refine",
+      "filtrar",
+      "productos",
+      "embudo",
+      "refinar"
+    ],
+    "aliases": [
+      "product-filter",
+      "funnel-filter"
+    ],
+    "outline": "<rect x=\"6.2\" y=\"2.8\" width=\"2.6\" height=\"2.6\" rx=\".4\"/><rect x=\"15.2\" y=\"2.8\" width=\"2.6\" height=\"2.6\" rx=\".4\"/><path d=\"M3.6 6.5h16.8a.6.6 0 0 1 .46 1L14 15.3v4.4a1 1 0 0 1-1.45.9l-2-1a1 1 0 0 1-.55-.9v-3.4L3.14 7.5A.6.6 0 0 1 3.6 6.5Z\"/>",
+    "solid": "<path d=\"M3.6 6.5h16.8a.6.6 0 0 1 .46 1L14 15.3v4.4a1 1 0 0 1-1.45.9l-2-1a1 1 0 0 1-.55-.9v-3.4L3.14 7.5A.6.6 0 0 1 3.6 6.5Z\"/><rect x=\"6.2\" y=\"2.8\" width=\"2.6\" height=\"2.6\" rx=\".4\"/><rect x=\"15.2\" y=\"2.8\" width=\"2.6\" height=\"2.6\" rx=\".4\"/>"
+  },
+  "sort-price-asc": {
+    "category": "ecommerce",
+    "keywords": [
+      "sort",
+      "price",
+      "ascending",
+      "low",
+      "ordenar",
+      "precio",
+      "ascendente",
+      "menor"
+    ],
+    "aliases": [
+      "price-low-high",
+      "sort-ascending"
+    ],
+    "outline": "<path d=\"M4 6.5h4M4 12h7M4 17.5h10\"/><path d=\"M19 19.5V6\"/><path d=\"M16.4 8.4 19 5.8l2.6 2.6\"/>",
+    "solid": null
+  },
+  "sort-price-desc": {
+    "category": "ecommerce",
+    "keywords": [
+      "sort",
+      "price",
+      "descending",
+      "high",
+      "ordenar",
+      "precio",
+      "descendente",
+      "mayor"
+    ],
+    "aliases": [
+      "price-high-low",
+      "sort-descending"
+    ],
+    "outline": "<path d=\"M4 6.5h10M4 12h7M4 17.5h4\"/><path d=\"M19 4.5V18\"/><path d=\"M16.4 15.6 19 18.2l2.6-2.6\"/>",
+    "solid": null
+  },
+  "quick-view": {
+    "category": "ecommerce",
+    "keywords": [
+      "quick",
+      "view",
+      "preview",
+      "eye",
+      "vista",
+      "rapida",
+      "previsualizar",
+      "ojo"
+    ],
+    "aliases": [
+      "product-preview",
+      "preview-item"
+    ],
+    "outline": "<rect x=\"2.5\" y=\"4\" width=\"19\" height=\"16\" rx=\"2.5\"/><path d=\"M2.5 8h19\"/><path d=\"M8 14.5c1.7-2.8 6.3-2.8 8 0-1.7 2.8-6.3 2.8-8 0Z\"/><circle cx=\"12\" cy=\"14.5\" r=\"1.5\"/>",
+    "solid": null
+  },
+  "subscription-box": {
+    "category": "ecommerce",
+    "keywords": [
+      "subscription",
+      "box",
+      "recurring",
+      "monthly",
+      "suscripcion",
+      "caja",
+      "recurrente",
+      "mensual"
+    ],
+    "aliases": [
+      "subscribe-box",
+      "recurring-box"
+    ],
+    "outline": "<path d=\"M14.3 4.4A2.8 2.8 0 1 0 14.9 7.6\"/><path d=\"M14.3 4.4 13.9 2.2M14.3 4.4 12.3 4.9\"/><rect x=\"4\" y=\"9.5\" width=\"16\" height=\"10.5\" rx=\"1.8\"/><path d=\"M8.5 9.5v2.6h7V9.5\"/>",
+    "solid": null
+  },
+  "product-bundle": {
+    "category": "ecommerce",
+    "keywords": [
+      "product",
+      "bundle",
+      "combo",
+      "pack",
+      "producto",
+      "paquete",
+      "lote",
+      "conjunto"
+    ],
+    "aliases": [
+      "bundle-deal",
+      "combo-pack"
+    ],
+    "outline": "<rect x=\"3\" y=\"8.5\" width=\"18\" height=\"11.5\" rx=\"1.5\"/><path d=\"M6.5 8.5V6.6A1.6 1.6 0 0 1 8.1 5h7.8A1.6 1.6 0 0 1 17.5 6.6V8.5\"/><path d=\"M12 8.5V20\"/><path d=\"M3 13.5h18\"/>",
+    "solid": "<path d=\"M4.5 8.5h15A1.5 1.5 0 0 1 21 10v8.5A1.5 1.5 0 0 1 19.5 20h-15A1.5 1.5 0 0 1 3 18.5V10A1.5 1.5 0 0 1 4.5 8.5ZM11.4 8.5v11.5h1.2V8.5ZM3 12.9v1.2h18v-1.2Z\" fill-rule=\"evenodd\"/><path d=\"M6.5 8.5V6.6A1.6 1.6 0 0 1 8.1 5h7.8A1.6 1.6 0 0 1 17.5 6.6V8.5h-1.6V6.9a.6.6 0 0 0-.6-.6H8.7a.6.6 0 0 0-.6.6V8.5Z\"/>"
+  },
+  "free-shipping": {
+    "category": "ecommerce",
+    "keywords": [
+      "free",
+      "shipping",
+      "delivery",
+      "truck",
+      "gratis",
+      "envio",
+      "reparto",
+      "camion"
+    ],
+    "aliases": [
+      "free-delivery",
+      "no-shipping-cost"
+    ],
+    "outline": "<rect x=\"2.5\" y=\"7\" width=\"12\" height=\"8\" rx=\"1\"/><path d=\"M14.5 9.5h3.4l2.6 3v2.5h-2\"/><circle cx=\"7\" cy=\"17\" r=\"1.8\"/><circle cx=\"17.5\" cy=\"17\" r=\"1.8\"/><path d=\"M9 17h6.7\"/><circle cx=\"8\" cy=\"11\" r=\"2.3\"/><path d=\"M6.4 12.6 9.6 9.4\"/>",
+    "solid": null
+  },
+  "cashback-coins": {
+    "category": "ecommerce",
+    "keywords": [
+      "cashback",
+      "coins",
+      "reward",
+      "money",
+      "reembolso",
+      "monedas",
+      "dinero",
+      "devolucion"
+    ],
+    "aliases": [
+      "cash-back",
+      "money-reward"
+    ],
+    "outline": "<path d=\"M18.9 13.2A6.9 6.9 0 1 1 16.3 7.5\"/><path d=\"M16.3 4.2v3.4h-3.4\"/><circle cx=\"10\" cy=\"11.2\" r=\"1.2\"/><circle cx=\"14\" cy=\"15.2\" r=\"1.2\"/><path d=\"M15 10 9 16.3\"/>",
+    "solid": null
+  },
+  "add-to-wishlist": {
+    "category": "ecommerce",
+    "keywords": [
+      "add",
+      "wishlist",
+      "favorite",
+      "heart",
+      "anadir",
+      "deseos",
+      "favorito",
+      "corazon"
+    ],
+    "aliases": [
+      "wishlist-add",
+      "save-favorite"
+    ],
+    "outline": "<path d=\"M11 18.7C11 18.7 4 14.3 4 8.9A3.9 3.9 0 0 1 11 6.5 3.9 3.9 0 0 1 17.9 8.6\"/><circle cx=\"17.5\" cy=\"16\" r=\"4.2\"/><path d=\"M17.5 13.9v4.2M15.4 16h4.2\"/>",
+    "solid": null
+  },
+  "remove-from-cart": {
+    "category": "ecommerce",
+    "keywords": [
+      "remove",
+      "cart",
+      "delete",
+      "minus",
+      "quitar",
+      "carrito",
+      "eliminar",
+      "restar"
+    ],
+    "aliases": [
+      "cart-remove-item",
+      "delete-from-cart"
+    ],
+    "outline": "<path d=\"M2.5 4.5h1.9l2.2 10.4a1.6 1.6 0 0 0 1.57 1.3h7.2a1.6 1.6 0 0 0 1.57-1.28l.4-2\"/><path d=\"M5 7h13.2l-.5 2.5\"/><circle cx=\"9.5\" cy=\"19\" r=\"1.5\"/><circle cx=\"15.5\" cy=\"19\" r=\"1.5\"/><circle cx=\"18\" cy=\"6.5\" r=\"3.2\"/><path d=\"M16.3 6.5h3.4\"/>",
+    "solid": null
+  },
+  "cart-checkout": {
+    "category": "ecommerce",
+    "keywords": [
+      "cart",
+      "checkout",
+      "proceed",
+      "pay",
+      "carrito",
+      "pago",
+      "proceder",
+      "finalizar"
+    ],
+    "aliases": [
+      "proceed-checkout",
+      "checkout-cart"
+    ],
+    "outline": "<path d=\"M2.5 4h2l2.3 11.2a1.7 1.7 0 0 0 1.67 1.35h8a1.7 1.7 0 0 0 1.67-1.32L20.5 6.5H5.2\"/><circle cx=\"10\" cy=\"19.3\" r=\"1.4\"/><circle cx=\"15.5\" cy=\"19.3\" r=\"1.4\"/><path d=\"M9 10.5h6.5\"/><path d=\"M13.5 8.3 16 10.5l-2.5 2.2\"/>",
+    "solid": null
+  },
+  "empty-cart": {
+    "category": "ecommerce",
+    "keywords": [
+      "empty",
+      "cart",
+      "no-items",
+      "zero",
+      "vacio",
+      "carrito",
+      "sin-articulos",
+      "cero"
+    ],
+    "aliases": [
+      "cart-empty",
+      "no-items"
+    ],
+    "outline": "<path d=\"M2.5 4h2l2.3 11.2a1.7 1.7 0 0 0 1.67 1.35h8a1.7 1.7 0 0 0 1.67-1.32L20.5 6.5H5.2\"/><circle cx=\"10\" cy=\"19.3\" r=\"1.4\"/><circle cx=\"15.5\" cy=\"19.3\" r=\"1.4\"/><path d=\"M9 10.4h.01M12.5 10.4h.01M16 10.4h.01\"/>",
+    "solid": null
+  },
+  "shopping-list": {
+    "category": "ecommerce",
+    "keywords": [
+      "shopping",
+      "list",
+      "checklist",
+      "clipboard",
+      "compra",
+      "lista",
+      "verificar",
+      "portapapeles"
+    ],
+    "aliases": [
+      "shop-list",
+      "checklist-cart"
+    ],
+    "outline": "<rect x=\"4\" y=\"4\" width=\"16\" height=\"17.5\" rx=\"2\"/><rect x=\"9\" y=\"2.5\" width=\"6\" height=\"3.2\" rx=\"1\"/><path d=\"m7 10 1 1 2-2.2M12.5 9.6h4.5\"/><path d=\"m7 15 1 1 2-2.2M12.5 14.6h4.5\"/>",
+    "solid": null
+  },
+  "store-front": {
+    "category": "ecommerce",
+    "keywords": [
+      "store",
+      "front",
+      "shop",
+      "awning",
+      "tienda",
+      "fachada",
+      "comercio",
+      "toldo"
+    ],
+    "aliases": [
+      "shop-front",
+      "storefront"
+    ],
+    "outline": "<path d=\"M3.5 8.5 4.7 5h14.6l1.2 3.5z\"/><path d=\"M4.8 8.5V20h14.4V8.5\"/><path d=\"M10 20v-4.8a2 2 0 0 1 4 0V20\"/><rect x=\"6.3\" y=\"11.5\" width=\"3\" height=\"3\" rx=\".4\"/>",
+    "solid": "<path d=\"M3.5 8.5 4.7 5h14.6l1.2 3.5z\"/><path d=\"M4.8 8.5h14.4v11a1 1 0 0 1-1 1H5.8a1 1 0 0 1-1-1zM10.4 20.5v-5a1.6 1.6 0 0 1 3.2 0v5zM6.3 11.5h3v3h-3z\" fill-rule=\"evenodd\"/>"
+  },
+  "marketplace": {
+    "category": "ecommerce",
+    "keywords": [
+      "marketplace",
+      "market",
+      "shops",
+      "bazaar",
+      "mercado",
+      "tiendas",
+      "bazar",
+      "comercios"
+    ],
+    "aliases": [
+      "market",
+      "shops-row"
+    ],
+    "outline": "<path d=\"M2 20.5h20\"/><path d=\"M4 20.5V11l2.5-2 2.5 2v9.5\"/><path d=\"M9 20.5V8.4l3-2.4 3 2.4v12.1\"/><path d=\"M15 20.5v-8.1l2.5-2 2.5 2v8.1\"/><path d=\"M11 20.5V17a1 1 0 0 1 2 0v3.5\"/>",
+    "solid": null
+  },
+  "vendor-shop": {
+    "category": "ecommerce",
+    "keywords": [
+      "vendor",
+      "shop",
+      "seller",
+      "merchant",
+      "vendedor",
+      "tienda",
+      "comerciante",
+      "proveedor"
+    ],
+    "aliases": [
+      "seller-shop",
+      "vendor-store"
+    ],
+    "outline": "<path d=\"M3.5 8.5 4.6 5.2h14.8l1.1 3.3z\"/><path d=\"M5 8.5V20h14V8.5\"/><circle cx=\"12\" cy=\"12.4\" r=\"2\"/><path d=\"M8.4 19.5c0-2.2 1.6-3.8 3.6-3.8s3.6 1.6 3.6 3.8\"/>",
+    "solid": null
+  },
+  "delivery-scooter": {
+    "category": "ecommerce",
+    "keywords": [
+      "delivery",
+      "scooter",
+      "moped",
+      "courier",
+      "reparto",
+      "moto",
+      "mensajero",
+      "entrega"
+    ],
+    "aliases": [
+      "delivery-moped",
+      "food-delivery-bike"
+    ],
+    "outline": "<circle cx=\"5.5\" cy=\"17.5\" r=\"2.6\"/><circle cx=\"18\" cy=\"17.5\" r=\"2.6\"/><path d=\"M8 17.5h7\"/><path d=\"M15.5 17.3 12.4 9.2H9.5\"/><path d=\"M12.4 9.2 13.9 6.4H16\"/><path d=\"M5.6 14.9 7.2 10.4h4\"/><rect x=\"2.4\" y=\"7.6\" width=\"4.6\" height=\"4.6\" rx=\".7\"/>",
+    "solid": null
+  },
+  "package-return": {
+    "category": "ecommerce",
+    "keywords": [
+      "package",
+      "return",
+      "send-back",
+      "exchange",
+      "paquete",
+      "devolucion",
+      "devolver",
+      "cambio"
+    ],
+    "aliases": [
+      "return-package",
+      "send-back"
+    ],
+    "outline": "<rect x=\"4\" y=\"9\" width=\"16\" height=\"11\" rx=\"2\"/><path d=\"M9.5 9v3h5V9\"/><path d=\"M16 6.8A4.7 4.7 0 0 0 7.4 5.7\"/><path d=\"M7.4 5.7 9.6 4.9M7.4 5.7 8.1 7.9\"/>",
+    "solid": null
+  },
+  "out-of-stock-alt": {
+    "category": "ecommerce",
+    "keywords": [
+      "out",
+      "stock",
+      "sold-out",
+      "unavailable",
+      "agotado",
+      "existencias",
+      "sin-stock",
+      "no-disponible"
+    ],
+    "aliases": [
+      "sold-out-box",
+      "no-stock-box"
+    ],
+    "outline": "<rect x=\"3.2\" y=\"5.5\" width=\"12.5\" height=\"12.5\" rx=\"2\"/><path d=\"M7 5.5v3.2h5V5.5\"/><circle cx=\"17\" cy=\"16.5\" r=\"4.5\"/><path d=\"M13.8 13.3 20.2 19.7\"/>",
+    "solid": null
+  },
+  "in-stock-alt": {
+    "category": "ecommerce",
+    "keywords": [
+      "in",
+      "stock",
+      "available",
+      "ready",
+      "disponible",
+      "existencias",
+      "listo",
+      "inventario"
+    ],
+    "aliases": [
+      "available-box",
+      "stock-ok"
+    ],
+    "outline": "<rect x=\"3.2\" y=\"5.5\" width=\"12.5\" height=\"12.5\" rx=\"2\"/><path d=\"M7 5.5v3.2h5V5.5\"/><circle cx=\"17\" cy=\"16.5\" r=\"4.5\"/><path d=\"m15 16.5 1.4 1.4 2.6-2.9\"/>",
+    "solid": null
+  },
+  "best-seller": {
+    "category": "ecommerce",
+    "keywords": [
+      "best",
+      "seller",
+      "top",
+      "popular",
+      "mas",
+      "vendido",
+      "destacado",
+      "medalla"
+    ],
+    "aliases": [
+      "bestseller",
+      "top-seller"
+    ],
+    "outline": "<circle cx=\"12\" cy=\"9\" r=\"6\"/><polygon points=\"12,6 12.74,7.99 14.85,8.07 13.19,9.39 13.76,11.43 12,10.25 10.24,11.43 10.81,9.39 9.15,8.07 11.27,7.99\"/><path d=\"M8.7 14.2 7 21l5-2.6 5 2.6-1.7-6.8\"/>",
+    "solid": "<path d=\"M12 3a6 6 0 1 0 0 12 6 6 0 0 0 0-12Zm0 3 .74 1.99 2.11.08-1.66 1.32.57 2.04L12 10.25l-1.76 1.18.57-2.04-1.66-1.32 2.11-.08Z\" fill-rule=\"evenodd\"/><path d=\"M9 14.3 7 21l5-2.6 5 2.6-2-6.7-1.4.9a4.9 4.9 0 0 1-3.2 0z\"/>"
+  },
+  "new-arrival": {
+    "category": "ecommerce",
+    "keywords": [
+      "new",
+      "arrival",
+      "fresh",
+      "latest",
+      "nuevo",
+      "llegada",
+      "reciente",
+      "novedad"
+    ],
+    "aliases": [
+      "new-product",
+      "just-arrived"
+    ],
+    "outline": "<rect x=\"3\" y=\"9.5\" width=\"13\" height=\"10.5\" rx=\"1.5\"/><path d=\"M7 9.5v2.7h5V9.5\"/><polygon points=\"18.5,2.5 19.28,5.22 22,6 19.28,6.78 18.5,9.5 17.72,6.78 15,6 17.72,5.22\"/>",
+    "solid": null
+  },
+  "limited-offer": {
+    "category": "ecommerce",
+    "keywords": [
+      "limited",
+      "offer",
+      "time",
+      "deal",
+      "limitada",
+      "oferta",
+      "tiempo",
+      "promocion"
+    ],
+    "aliases": [
+      "limited-time",
+      "flash-offer"
+    ],
+    "outline": "<path d=\"M11.6 2.6A2 2 0 0 0 10.2 2H4a2 2 0 0 0-2 2v6.2a2 2 0 0 0 .59 1.41l6.5 6.5a2 2 0 0 0 2.82 0l5.9-5.9a2 2 0 0 0 0-2.82z\"/><circle cx=\"6.3\" cy=\"6.3\" r=\"1.3\"/><circle cx=\"17.8\" cy=\"17.8\" r=\"3.9\"/><path d=\"M17.8 16v1.8l1.3.9\"/>",
+    "solid": null
+  },
+  "rating-stars": {
+    "category": "ecommerce",
+    "keywords": [
+      "rating",
+      "stars",
+      "review",
+      "score",
+      "valoracion",
+      "estrellas",
+      "resena",
+      "puntuacion"
+    ],
+    "aliases": [
+      "star-rating",
+      "product-rating"
+    ],
+    "outline": "<polygon points=\"5.3,9.4 5.92,11.15 7.77,11.2 6.3,12.32 6.83,14.1 5.3,13.05 3.77,14.1 4.3,12.32 2.83,11.2 4.68,11.15\"/><polygon points=\"12,9.4 12.62,11.15 14.47,11.2 13,12.32 13.53,14.1 12,13.05 10.47,14.1 11,12.32 9.53,11.2 11.38,11.15\"/><polygon points=\"18.7,9.4 19.32,11.15 21.17,11.2 19.7,12.32 20.23,14.1 18.7,13.05 17.17,14.1 17.7,12.32 16.23,11.2 18.08,11.15\"/>",
+    "solid": "<path d=\"M5.3 9.4 5.92 11.15 7.77 11.2 6.3 12.32 6.83 14.1 5.3 13.05 3.77 14.1 4.3 12.32 2.83 11.2 4.68 11.15Z\"/><path d=\"M12 9.4 12.62 11.15 14.47 11.2 13 12.32 13.53 14.1 12 13.05 10.47 14.1 11 12.32 9.53 11.2 11.38 11.15Z\"/><path d=\"M18.7 9.4 19.32 11.15 21.17 11.2 19.7 12.32 20.23 14.1 18.7 13.05 17.17 14.1 17.7 12.32 16.23 11.2 18.08 11.15Z\"/>"
+  },
+  "verified-purchase": {
+    "category": "ecommerce",
+    "keywords": [
+      "verified",
+      "purchase",
+      "confirmed",
+      "check",
+      "verificada",
+      "compra",
+      "confirmada",
+      "sello"
+    ],
+    "aliases": [
+      "verified-buyer",
+      "confirmed-purchase"
+    ],
+    "outline": "<path d=\"M5.5 8.5h8.3a1 1 0 0 1 1 1.06l-.5 8.5A2 2 0 0 1 12.3 20H6.9a2 2 0 0 1-2-1.9l-.4-8.55a1 1 0 0 1 1-1.05z\"/><path d=\"M7 8.5V7a2.4 2.4 0 0 1 4.8 0v1.5\"/><circle cx=\"17.5\" cy=\"7.5\" r=\"4\"/><path d=\"m15.8 7.5 1.2 1.2 2.2-2.5\"/>",
+    "solid": null
+  },
+  "secure-checkout": {
+    "category": "ecommerce",
+    "keywords": [
+      "secure",
+      "checkout",
+      "safe",
+      "protected",
+      "seguro",
+      "pago",
+      "protegido",
+      "compra"
+    ],
+    "aliases": [
+      "safe-checkout",
+      "protected-checkout"
+    ],
+    "outline": "<path d=\"M12 2.5 4.5 5.3v6.2c0 4.6 3.2 8 7.5 9.8 4.3-1.8 7.5-5.2 7.5-9.8V5.3z\"/><path d=\"M7.8 8.7h1.1l1.2 5.1h4.1l1.1-3.8H9.3\"/><circle cx=\"10.5\" cy=\"16\" r=\".9\"/><circle cx=\"14\" cy=\"16\" r=\".9\"/>",
+    "solid": null
+  },
+  "digital-download": {
+    "category": "ecommerce",
+    "keywords": [
+      "digital",
+      "download",
+      "cloud",
+      "file",
+      "digital",
+      "descarga",
+      "nube",
+      "archivo"
+    ],
+    "aliases": [
+      "download-product",
+      "digital-goods"
+    ],
+    "outline": "<path d=\"M7.6 18a4.2 4.2 0 0 1-.5-8.37A5.5 5.5 0 0 1 17.8 10.6 3.8 3.8 0 0 1 17.4 18\"/><path d=\"M12 10v7M9.2 14.2 12 17l2.8-2.8\"/>",
+    "solid": null
+  },
+  "physical-product": {
+    "category": "ecommerce",
+    "keywords": [
+      "physical",
+      "product",
+      "tangible",
+      "box",
+      "fisico",
+      "producto",
+      "tangible",
+      "caja"
+    ],
+    "aliases": [
+      "tangible-good",
+      "boxed-product"
+    ],
+    "outline": "<path d=\"M12 2.6 3.6 7v10L12 21.4 20.4 17V7z\"/><path d=\"M3.6 7 12 11.4 20.4 7\"/><path d=\"M12 11.4V21.4\"/>",
+    "solid": null
+  },
+  "invoice-ecom": {
+    "category": "ecommerce",
+    "keywords": [
+      "invoice",
+      "bill",
+      "receipt",
+      "statement",
+      "factura",
+      "recibo",
+      "cuenta",
+      "comprobante"
+    ],
+    "aliases": [
+      "sales-invoice",
+      "receipt-bill"
+    ],
+    "outline": "<path d=\"M5 3.2h14v17.6l-2.35-1.4-2.35 1.4-2.35-1.4-2.35 1.4-2.35-1.4L5 20.8z\"/><path d=\"M8 7.6h8M8 11h8M8 14.4h5\"/>",
+    "solid": null
+  }
+}

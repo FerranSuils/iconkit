@@ -1,0 +1,268 @@
+{
+  "party-popper": {
+    "category": "party-events",
+    "keywords": ["popper", "confeti", "confetti", "celebrar", "celebrate", "tada", "fiesta", "party"],
+    "aliases": ["popper", "tada"],
+    "outline": "<path d=\"M2.5 21.5 6 11a1 1 0 0 1 1.6-.4l5.3 5.3a1 1 0 0 1-.4 1.6Z\"/><path d=\"M15.5 9 17 7.5M14.5 5.4l.8-1.7M18.6 13l1.7-.8\"/><path d=\"M20 8h.01M13 3.5h.01M21 16h.01\"/>",
+    "solid": "<path d=\"M2.5 21.5 6 11a1 1 0 0 1 1.6-.4l5.3 5.3a1 1 0 0 1-.4 1.6Z\"/><circle cx=\"16\" cy=\"8.5\" r=\"1\"/><circle cx=\"20\" cy=\"12\" r=\"1\"/><circle cx=\"14.5\" cy=\"4.5\" r=\"1\"/><circle cx=\"20.5\" cy=\"7\" r=\"1\"/><circle cx=\"19\" cy=\"16\" r=\"1\"/>"
+  },
+  "confetti": {
+    "category": "party-events",
+    "keywords": ["confeti", "papelillos", "scatter", "celebrate", "fiesta", "party", "sprinkle"],
+    "aliases": ["papelillos", "sprinkles"],
+    "outline": "<path d=\"M4.5 4 6 5.5 4.5 7 3 5.5Z\"/><path d=\"M19 5 20.5 6.5 19 8 17.5 6.5Z\"/><path d=\"M10 3.2q1.4 1.3 0 2.6t0 2.6\"/><path d=\"M18.5 13q-1.3 1.4-2.6 0t-2.6 0\"/><path d=\"M8.5 10h.01M14 9h.01M6 14.5h.01M12 13.5h.01M17.5 12h.01M20 16.5h.01M9.5 17.5h.01M15.5 18h.01M4 11h.01\"/>",
+    "solid": "<path d=\"M4.5 4 6 5.5 4.5 7 3 5.5ZM19 5 20.5 6.5 19 8 17.5 6.5ZM10 8 11.5 9.5 10 11 8.5 9.5ZM16.5 12.5 18 14 16.5 15.5 15 14Z\"/><circle cx=\"8\" cy=\"10.5\" r=\"1\"/><circle cx=\"13.5\" cy=\"9\" r=\"1\"/><circle cx=\"6\" cy=\"15\" r=\"1\"/><circle cx=\"12\" cy=\"14.5\" r=\"1\"/><circle cx=\"20\" cy=\"17\" r=\"1\"/><circle cx=\"9.5\" cy=\"18.5\" r=\"1\"/>"
+  },
+  "balloons-party": {
+    "category": "party-events",
+    "keywords": ["globos", "balloons", "helio", "helium", "fiesta", "party", "decoracion"],
+    "aliases": ["globos", "balloons"],
+    "outline": "<ellipse cx=\"8.5\" cy=\"8\" rx=\"4\" ry=\"5\"/><ellipse cx=\"15.5\" cy=\"10.5\" rx=\"4\" ry=\"5\"/><path d=\"M8.6 13.5C9 16 11 17.5 11.5 19M15.4 15.9C15 17.5 12.5 18 11.5 19\"/>",
+    "solid": "<ellipse cx=\"8.5\" cy=\"8\" rx=\"4\" ry=\"5\"/><ellipse cx=\"15.5\" cy=\"10.5\" rx=\"4\" ry=\"5\"/><path d=\"M8 13.2 9 13.2C9.4 16 11 17.6 11.5 19 11 17.6 9 16 8 13.2ZM15 15.6 16 15.6C15.6 17.4 12.9 18.2 11.5 19 12.9 18.2 15 17.4 15 15.6Z\"/>"
+  },
+  "party-hat": {
+    "category": "party-events",
+    "keywords": ["gorro", "cono", "cone", "hat", "cumpleanos", "birthday", "fiesta", "party"],
+    "aliases": ["gorro", "cone-hat"],
+    "outline": "<path d=\"M12 5 18 19a18 18 0 0 1-12 0Z\"/><circle cx=\"12\" cy=\"3.8\" r=\"1.6\"/><path d=\"M11.5 9.5h.01M9.2 14h.01M14.8 13.7h.01M12 17.2h.01\"/>",
+    "solid": "<path d=\"M12 5 18 19a18 18 0 0 1-12 0ZM11.5 8.7a.9.9 0 1 0 0 1.8.9.9 0 0 0 0-1.8ZM9.2 13.2a.9.9 0 1 0 0 1.8.9.9 0 0 0 0-1.8ZM14.8 12.9a.9.9 0 1 0 0 1.8.9.9 0 0 0 0-1.8Z\" fill-rule=\"evenodd\"/><circle cx=\"12\" cy=\"3.8\" r=\"1.7\"/>"
+  },
+  "birthday-cake-candles": {
+    "category": "party-events",
+    "keywords": ["tarta", "pastel", "cake", "velas", "candles", "cumpleanos", "birthday", "fiesta"],
+    "aliases": ["birthday-cake", "cake-candles"],
+    "outline": "<path d=\"M4 20V13a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v7\"/><path d=\"M3 20.5h18\"/><path d=\"M8 11V7M12 11V7M16 11V7\"/><path d=\"M8 3.6C9 5 9 6.6 8 6.6S7 5 8 3.6ZM12 3.6C13 5 13 6.6 12 6.6S11 5 12 3.6ZM16 3.6C17 5 17 6.6 16 6.6S15 5 16 3.6Z\"/><path d=\"M4 15.5c1 1 2 1 3 0s2-1 3 0 2 1 3 0 2-1 3 0 2 1 3 0\"/>",
+    "solid": "<path d=\"M4 12.5A2.5 2.5 0 0 1 6.5 10h11A2.5 2.5 0 0 1 20 12.5V20H4Z\"/><path d=\"M3 20h18v1.2H3Z\"/><rect x=\"7.3\" y=\"7\" width=\"1.4\" height=\"4\"/><rect x=\"11.3\" y=\"7\" width=\"1.4\" height=\"4\"/><rect x=\"15.3\" y=\"7\" width=\"1.4\" height=\"4\"/><path d=\"M8 3.4C9.2 5 9.2 6.8 8 6.8S6.8 5 8 3.4ZM12 3.4C13.2 5 13.2 6.8 12 6.8S10.8 5 12 3.4ZM16 3.4C17.2 5 17.2 6.8 16 6.8S14.8 5 16 3.4Z\"/>"
+  },
+  "gift-party": {
+    "category": "party-events",
+    "keywords": ["regalo", "gift", "present", "caja", "box", "lazo", "bow", "fiesta"],
+    "aliases": ["present-box", "party-gift"],
+    "outline": "<rect x=\"4\" y=\"9\" width=\"16\" height=\"11\" rx=\"1.5\"/><path d=\"M4 13h16M12 9v11\"/><path d=\"M12 9c-1-2-4-3-5-1.5S8 9 9.5 9M12 9c1-2 4-3 5-1.5S16 9 14.5 9\"/>",
+    "solid": "<path d=\"M4.5 9H19.5A1.5 1.5 0 0 1 21 10.5V12H3V10.5A1.5 1.5 0 0 1 4.5 9ZM4.5 13.5H19.5V19A2 2 0 0 1 17.5 21H6.5A2 2 0 0 1 4.5 19ZM11 9H13V21H11Z\" fill-rule=\"evenodd\"/><path d=\"M12 9c-1-2-4-3.2-5-1.5S8 9 9.5 9ZM12 9c1-2 4-3.2 5-1.5S16 9 14.5 9Z\"/>"
+  },
+  "streamers": {
+    "category": "party-events",
+    "keywords": ["serpentinas", "streamers", "tiras", "spiral", "fiesta", "party", "decoracion"],
+    "aliases": ["serpentinas", "party-streamers"],
+    "outline": "<path d=\"M3 4h18\"/><path d=\"M7 4c-1.8 2.5 1.8 3.5 0 6s1.8 3.5 0 6-1.2 2-.5 4\"/><path d=\"M12 4c1.8 2.5-1.8 3.5 0 6s-1.8 3.5 0 6 1.2 2 .5 4\"/><path d=\"M17 4c-1.8 2.5 1.8 3.5 0 6s1.8 3.5 0 6-1.2 2-.5 4\"/>",
+    "solid": null
+  },
+  "disco-ball": {
+    "category": "party-events",
+    "keywords": ["disco", "bola", "ball", "mirror", "espejo", "fiesta", "party", "baile"],
+    "aliases": ["mirror-ball", "disco"],
+    "outline": "<path d=\"M12 2v3\"/><circle cx=\"12\" cy=\"12.5\" r=\"7.5\"/><path d=\"M5 9.5h14M4.7 12.5h14.6M5 15.5h14\"/><path d=\"M12 5v15\"/><path d=\"M8.5 5.6c-1.8 4-1.8 9.8 0 13.8M15.5 5.6c1.8 4 1.8 9.8 0 13.8\"/>",
+    "solid": null
+  },
+  "fireworks-party": {
+    "category": "party-events",
+    "keywords": ["fuegos", "artificiales", "fireworks", "pirotecnia", "burst", "fiesta", "party"],
+    "aliases": ["fireworks", "pirotecnia"],
+    "outline": "<path d=\"M9 3v3M9 12v3M3 9h3M12 9h3M5 5l2 2M13 13l-2-2M13 5l-2 2M5 13l2-2\"/><path d=\"M17 11v2M17 17v2M13 15h2M19 15h2M14.5 12.5l1.2 1.2M19.5 17.5l-1.2-1.2M19.5 12.5l-1.2 1.2M14.5 17.5l1.2-1.2\"/>",
+    "solid": null
+  },
+  "champagne": {
+    "category": "party-events",
+    "keywords": ["champan", "champagne", "botella", "bottle", "corcho", "brindis", "fiesta", "celebrar"],
+    "aliases": ["champagne-bottle", "bubbly"],
+    "outline": "<path d=\"M10 6h4v2l1 2.5V19a2 2 0 0 1-2 2h-2a2 2 0 0 1-2-2v-8.5L10 8Z\"/><path d=\"M9.5 13h5\"/><ellipse cx=\"12\" cy=\"3.4\" rx=\"1.8\" ry=\"1.4\"/><path d=\"M12 4.8V6\"/><path d=\"M16.5 5h.01M18 8h.01M16 10.5h.01\"/>",
+    "solid": "<path d=\"M10 6h4v2l1 2.5V19a2 2 0 0 1-2 2h-2a2 2 0 0 1-2-2v-8.5L10 8ZM9.5 12.2h5v1.4h-5Z\" fill-rule=\"evenodd\"/><ellipse cx=\"12\" cy=\"3.4\" rx=\"1.9\" ry=\"1.5\"/><rect x=\"11.3\" y=\"4.6\" width=\"1.4\" height=\"1.6\"/><circle cx=\"16.5\" cy=\"5\" r=\"1\"/><circle cx=\"18\" cy=\"8\" r=\"1\"/><circle cx=\"16\" cy=\"10.5\" r=\"1\"/>"
+  },
+  "cheers-toast": {
+    "category": "party-events",
+    "keywords": ["brindis", "cheers", "toast", "copas", "glasses", "salud", "fiesta", "celebrar"],
+    "aliases": ["brindis", "toast"],
+    "outline": "<path d=\"M3.5 6.8 7 11.5 8.6 4.8\"/><path d=\"M7 11.5 8.6 18.8\"/><path d=\"M6.4 19.4 11 18.2\"/><path d=\"M20.5 6.8 17 11.5 15.4 4.8\"/><path d=\"M17 11.5 15.4 18.8\"/><path d=\"M17.6 19.4 13 18.2\"/><path d=\"M12 2.5v1.8M14 3l-1.2 1.4M10 3l1.2 1.4\"/>",
+    "solid": null
+  },
+  "party-cup": {
+    "category": "party-events",
+    "keywords": ["vaso", "cup", "solo-cup", "bebida", "drink", "fiesta", "party"],
+    "aliases": ["solo-cup", "drink-cup"],
+    "outline": "<path d=\"M5 7h14\"/><path d=\"M6.2 7h11.6l-1.3 12.2a2 2 0 0 1-2 1.8H9.5a2 2 0 0 1-2-1.8Z\"/><path d=\"M6.7 11h10.6\"/><path d=\"M4 4.5h.01M20 4.5h.01M12 3h.01\"/>",
+    "solid": "<path d=\"M5 6.5h14a1 1 0 0 1 0 2h-.3l-1.2 10.9a2.5 2.5 0 0 1-2.5 2.2H9a2.5 2.5 0 0 1-2.5-2.2L5.3 8.5H5a1 1 0 0 1 0-2ZM7 10.8 7.4 14h9.2l.4-3.2Z\" fill-rule=\"evenodd\"/><circle cx=\"4\" cy=\"4.5\" r=\"1\"/><circle cx=\"20\" cy=\"4.5\" r=\"1\"/><circle cx=\"12\" cy=\"3\" r=\"1\"/>"
+  },
+  "banner-party": {
+    "category": "party-events",
+    "keywords": ["banderin", "banner", "cartel", "sign", "celebracion", "welcome", "fiesta", "party"],
+    "aliases": ["party-banner", "sign"],
+    "outline": "<path d=\"M3 5h18\"/><path d=\"M6.8 5.4 5 8M17.2 5.4 19 8\"/><path d=\"M5 8h14v8l-7-2.5L5 16Z\"/><path d=\"M8.5 11.3h7M9.5 13.7h5\"/>",
+    "solid": "<rect x=\"3\" y=\"4.2\" width=\"18\" height=\"1.4\" rx=\".7\"/><path d=\"M6.4 5.4 7.2 5.6 5.8 8.2 5 8Z\"/><path d=\"M17.6 5.4 16.8 5.6 18.2 8.2 19 8Z\"/><path d=\"M5 7.5h14v8.5l-7-2.5-7 2.5ZM8.5 10.6h7v1.4h-7ZM9.5 13h5v1.4h-5Z\" fill-rule=\"evenodd\"/>"
+  },
+  "bunting-flags": {
+    "category": "party-events",
+    "keywords": ["banderines", "bunting", "guirnalda", "garland", "pennants", "flags", "fiesta", "party"],
+    "aliases": ["pennants", "garland"],
+    "outline": "<path d=\"M2.5 6.5c6 3.5 13 3.5 19 0\"/><path d=\"M4 7 5.8 11.5 8 7.6\"/><path d=\"M8 7.6 9.8 12 12 8.2\"/><path d=\"M12 8.2 13.8 12 16 7.6\"/><path d=\"M16 7.6 17.8 11.5 20 7\"/>",
+    "solid": "<path d=\"M2.4 5.8c6.2 3.6 13.4 3.6 19.2 0l0 1.3c-5.8 3.5-13 3.5-19.2 0Z\"/><path d=\"M4.3 7 6 11.3 7.8 7.6ZM11.9 8.1 13.6 11.8 15.5 7.5Z\"/><path d=\"M8 7.6 9.7 11.8 11.6 7.9ZM15.7 7.5 17.4 11.2 19.3 6.9Z\"/>"
+  },
+  "pinata": {
+    "category": "party-events",
+    "keywords": ["pinata", "candy", "dulces", "golpear", "flecos", "mexican", "fiesta", "party"],
+    "aliases": ["pinata", "candy-hit"],
+    "outline": "<path d=\"M12 2.8v1.8\"/><path d=\"M7.5 6.5h9l1.8 4.3-1.8 4.7h-9L5.7 10.8Z\"/><path d=\"M7.5 6.5 4.8 4.5M16.5 6.5 19.2 4.5M5.6 10.5 2.9 9.8M18.4 10.5 21.1 9.8\"/><path d=\"M8.5 15.5v3M10.7 15.7v3.3M13 15.5v3M15.2 15.7v3.3\"/>",
+    "solid": "<path d=\"M12 2.6a.7.7 0 0 0-.7.7v1.6h1.4V3.3a.7.7 0 0 0-.7-.7Z\"/><path d=\"M7.5 6.5h9l1.8 4.3-1.8 4.7h-9L5.7 10.8Z\"/><path d=\"M7.5 6.5 4.8 4.4 6.6 6.9ZM16.5 6.5 19.2 4.4 17.4 6.9ZM5.6 10.5 2.9 9.7 5.2 11.3ZM18.4 10.5 21.1 9.7 18.8 11.3Z\"/><path d=\"M8 15.6 8.6 18.6 9.5 15.6ZM10.4 15.7 11 18.9 11.9 15.7ZM12.9 15.6 13.5 18.6 14.4 15.6ZM15.2 15.7 15.8 18.6 16.7 15.7Z\"/>"
+  },
+  "party-blower": {
+    "category": "party-events",
+    "keywords": ["matasuegras", "blower", "horn", "espantasuegras", "noisemaker", "fiesta", "party"],
+    "aliases": ["party-horn", "noisemaker"],
+    "outline": "<path d=\"M3 21 6.5 15.5 9 18Z\"/><path d=\"M7.5 16.8 15 9.5\"/><path d=\"M15 9.5a2.5 2.5 0 1 1 3.2 3.2 1.6 1.6 0 0 1-2-2.4\"/><path d=\"M9.5 14.5l1 1M11.8 12.2l1 1\"/>",
+    "solid": null
+  },
+  "dance-floor": {
+    "category": "party-events",
+    "keywords": ["pista", "baile", "dance", "floor", "checker", "disco", "fiesta", "party"],
+    "aliases": ["dancefloor", "tiles"],
+    "outline": "<rect x=\"3.5\" y=\"6\" width=\"17\" height=\"14\" rx=\"2\"/><path d=\"M9.2 6v14M14.8 6v14M3.5 10.7h17M3.5 15.3h17\"/><path d=\"M6.3 8.3h.01M17.6 17.6h.01\"/>",
+    "solid": "<path d=\"M5.5 6H18.5A2 2 0 0 1 20.5 8V18A2 2 0 0 1 18.5 20H5.5A2 2 0 0 1 3.5 18V8A2 2 0 0 1 5.5 6ZM3.5 10.7H9.2V15.3H3.5ZM9.2 6H14.8V10.7H9.2ZM9.2 15.3H14.8V20H9.2ZM14.8 10.7H20.5V15.3H14.8Z\" fill-rule=\"evenodd\"/>"
+  },
+  "dj-party": {
+    "category": "party-events",
+    "keywords": ["dj", "tocadiscos", "turntable", "vinilo", "vinyl", "musica", "music", "fiesta"],
+    "aliases": ["turntable", "decks"],
+    "outline": "<rect x=\"3\" y=\"5.5\" width=\"18\" height=\"13\" rx=\"2\"/><circle cx=\"9.5\" cy=\"12\" r=\"4.3\"/><circle cx=\"9.5\" cy=\"12\" r=\".8\"/><path d=\"M17.8 8 14 10.8\"/><circle cx=\"18\" cy=\"7.7\" r=\"1\"/><circle cx=\"17.2\" cy=\"15\" r=\"1.4\"/>",
+    "solid": "<path d=\"M5 5.5H19A2 2 0 0 1 21 7.5V16.5A2 2 0 0 1 19 18.5H5A2 2 0 0 1 3 16.5V7.5A2 2 0 0 1 5 5.5ZM9.5 7.7A4.3 4.3 0 1 0 9.5 16.3 4.3 4.3 0 0 0 9.5 7.7Z\" fill-rule=\"evenodd\"/><circle cx=\"9.5\" cy=\"12\" r=\"1\"/><circle cx=\"17.5\" cy=\"8.5\" r=\"1.2\"/><circle cx=\"17.5\" cy=\"14.5\" r=\"1.4\"/>"
+  },
+  "cake-tier": {
+    "category": "party-events",
+    "keywords": ["tarta", "pisos", "tiered", "wedding", "boda", "cake", "pastel", "fiesta"],
+    "aliases": ["tiered-cake", "wedding-cake"],
+    "outline": "<rect x=\"9\" y=\"6\" width=\"6\" height=\"4\" rx=\"1\"/><rect x=\"7\" y=\"10\" width=\"10\" height=\"4.5\" rx=\"1\"/><rect x=\"5\" y=\"14.5\" width=\"14\" height=\"5.5\" rx=\"1.5\"/><path d=\"M3.5 20.5h17\"/><path d=\"M12 6V4\"/><circle cx=\"12\" cy=\"3.2\" r=\"1\"/>",
+    "solid": "<rect x=\"9\" y=\"6\" width=\"6\" height=\"4\" rx=\"1\"/><rect x=\"7\" y=\"10\" width=\"10\" height=\"4.5\" rx=\"1\"/><rect x=\"5\" y=\"14.5\" width=\"14\" height=\"5.5\" rx=\"1.5\"/><path d=\"M3.5 20h17v1.2h-17Z\"/><rect x=\"11.3\" y=\"4\" width=\"1.4\" height=\"2.5\"/><circle cx=\"12\" cy=\"3.2\" r=\"1.2\"/>"
+  },
+  "candles-blow": {
+    "category": "party-events",
+    "keywords": ["vela", "candle", "soplar", "blow", "deseo", "wish", "humo", "smoke"],
+    "aliases": ["make-a-wish", "blow-candle"],
+    "outline": "<rect x=\"9.5\" y=\"9\" width=\"5\" height=\"11\" rx=\"1\"/><path d=\"M12 20h.01\"/><path d=\"M12 9V7.2\"/><path d=\"M12 7c1.8-.6 1.9-2.8.2-3.4-1.2-.4-1.8.6-1.2 1.4\"/><path d=\"M4 6h2.5M3 9h3.5M4 12h2.5\"/>",
+    "solid": null
+  },
+  "invitation-card": {
+    "category": "party-events",
+    "keywords": ["invitacion", "invitation", "tarjeta", "card", "sobre", "envelope", "rsvp", "evento"],
+    "aliases": ["invite", "party-invite"],
+    "outline": "<rect x=\"3\" y=\"5.5\" width=\"18\" height=\"13\" rx=\"2\"/><path d=\"M3.5 6.5 12 12 20.5 6.5\"/><path d=\"M12 16.5c-2-1.4-3.2-2.6-3.2-4a1.6 1.6 0 0 1 3.2-.7 1.6 1.6 0 0 1 3.2.7c0 1.4-1.2 2.6-3.2 4Z\"/>",
+    "solid": "<path d=\"M5 5.5H19A2 2 0 0 1 21 7.5V16.5A2 2 0 0 1 19 18.5H5A2 2 0 0 1 3 16.5V7.5A2 2 0 0 1 5 5.5ZM5.5 7.2 12 11.7 18.5 7.2Z\" fill-rule=\"evenodd\"/><path d=\"M12 16.5c-2.4-1.7-3.8-3-3.8-4.5a1.9 1.9 0 0 1 3.8-.8 1.9 1.9 0 0 1 3.8.8c0 1.5-1.4 2.8-3.8 4.5Z\"/>"
+  },
+  "rsvp": {
+    "category": "party-events",
+    "keywords": ["rsvp", "confirmar", "reply", "responder", "asistencia", "check", "sobre", "evento"],
+    "aliases": ["reply", "confirm-attendance"],
+    "outline": "<rect x=\"2.5\" y=\"5\" width=\"14\" height=\"11\" rx=\"2\"/><path d=\"M3 6 9.5 10.5 16 6\"/><circle cx=\"17.5\" cy=\"16.5\" r=\"4\"/><path d=\"m15.6 16.6 1.4 1.4 2.7-3\"/>",
+    "solid": "<path d=\"M4.5 5H14.5A2 2 0 0 1 16.5 7V14A2 2 0 0 1 14.5 16H4.5A2 2 0 0 1 2.5 14V7A2 2 0 0 1 4.5 5ZM4.2 6.5 9.5 10.2 14.8 6.5Z\" fill-rule=\"evenodd\"/><path d=\"M17.5 12A4.5 4.5 0 1 0 17.5 21 4.5 4.5 0 0 0 17.5 12ZM19.8 15.4 17 18.5A1 1 0 0 1 15.5 18.5L14.3 17.2A1 1 0 0 1 15.7 15.8L16.3 16.4 18.3 14.1A1 1 0 0 1 19.8 15.4Z\" fill-rule=\"evenodd\"/>"
+  },
+  "guest-list": {
+    "category": "party-events",
+    "keywords": ["invitados", "guests", "lista", "list", "asistentes", "attendees", "portapapeles", "evento"],
+    "aliases": ["attendees", "guestlist"],
+    "outline": "<rect x=\"4.5\" y=\"4.5\" width=\"15\" height=\"16\" rx=\"2\"/><path d=\"M9 4.5V4a1.5 1.5 0 0 1 1.5-1.5h3A1.5 1.5 0 0 1 15 4v.5\"/><circle cx=\"8.3\" cy=\"10\" r=\"1.3\"/><path d=\"M11 10h5\"/><circle cx=\"8.3\" cy=\"14.5\" r=\"1.3\"/><path d=\"M11 14.5h5\"/><circle cx=\"8.3\" cy=\"19\" r=\"1\"/><path d=\"M11 19h4\"/>",
+    "solid": null
+  },
+  "event-ticket": {
+    "category": "party-events",
+    "keywords": ["entrada", "ticket", "boleto", "evento", "event", "estrella", "star", "admision"],
+    "aliases": ["admission", "pass"],
+    "outline": "<path d=\"M4 6.5h6.5a1.5 1.5 0 0 1 3 0H20a1.5 1.5 0 0 1 1.5 1.5v8a1.5 1.5 0 0 1-1.5 1.5h-6.5a1.5 1.5 0 0 1-3 0H4a1.5 1.5 0 0 1-1.5-1.5V8a1.5 1.5 0 0 1 1.5-1.5Z\"/><path d=\"M12 9.5v1.2M12 13.3v1.2\"/><path d=\"m7 9.3 .8 1.9 2.1.2-1.6 1.4.5 2-1.8-1.1-1.8 1.1.5-2-1.6-1.4 2.1-.2Z\"/>",
+    "solid": "<path d=\"M4 6.5h6.5a1.5 1.5 0 0 1 3 0H20a1.5 1.5 0 0 1 1.5 1.5v8a1.5 1.5 0 0 1-1.5 1.5h-6.5a1.5 1.5 0 0 1-3 0H4a1.5 1.5 0 0 1-1.5-1.5V8a1.5 1.5 0 0 1 1.5-1.5Zm3 2.8-.8 1.9-2.1.2 1.6 1.4-.5 2 1.8-1.1 1.8 1.1-.5-2 1.6-1.4-2.1-.2-.8-1.9Z\" fill-rule=\"evenodd\"/>"
+  },
+  "calendar-event": {
+    "category": "party-events",
+    "keywords": ["calendario", "calendar", "fecha", "date", "evento", "event", "estrella", "agenda"],
+    "aliases": ["event-date", "scheduled-event"],
+    "outline": "<rect x=\"3.5\" y=\"5.5\" width=\"17\" height=\"15\" rx=\"2\"/><path d=\"M3.5 9.5h17\"/><path d=\"M8 3.5v4M16 3.5v4\"/><path d=\"M12 13.5l.7 1.5 1.6.2-1.2 1.1.3 1.6-1.4-.8-1.4.8.3-1.6-1.2-1.1 1.6-.2Z\"/>",
+    "solid": "<path d=\"M5.5 5.5H7V3.7A1 1 0 0 1 9 3.7V5.5H15V3.7A1 1 0 0 1 17 3.7V5.5H18.5A2 2 0 0 1 20.5 7.5V18.5A2 2 0 0 1 18.5 20.5H5.5A2 2 0 0 1 3.5 18.5V7.5A2 2 0 0 1 5.5 5.5ZM4.5 9V10H19.5V9ZM12 12.6 11.3 14.1 9.7 14.3 10.9 15.4 10.6 17 12 16.2 13.4 17 13.1 15.4 14.3 14.3 12.7 14.1Z\" fill-rule=\"evenodd\"/>"
+  },
+  "celebration": {
+    "category": "party-events",
+    "keywords": ["celebracion", "celebration", "estallido", "burst", "sparkle", "tada", "fiesta", "party"],
+    "aliases": ["burst", "hooray"],
+    "outline": "<path d=\"M12 3 13.5 8.3 18.4 5.6 15.7 10.5 21 12 15.7 13.5 18.4 18.4 13.5 15.7 12 21 10.5 15.7 5.6 18.4 8.3 13.5 3 12 8.3 10.5 5.6 5.6 10.5 8.3Z\"/>",
+    "solid": "<path d=\"M12 3 13.5 8.3 18.4 5.6 15.7 10.5 21 12 15.7 13.5 18.4 18.4 13.5 15.7 12 21 10.5 15.7 5.6 18.4 8.3 13.5 3 12 8.3 10.5 5.6 5.6 10.5 8.3Z\"/>"
+  },
+  "new-year-party": {
+    "category": "party-events",
+    "keywords": ["ano nuevo", "new year", "nochevieja", "fuegos", "skyline", "midnight", "celebrar", "fiesta"],
+    "aliases": ["nye", "new-years-eve"],
+    "outline": "<path d=\"M3 20.5h18\"/><path d=\"M4.8 20.5V18h2v2.5M8.5 20.5v-4h2.4v4M13.2 20.5v-3.3h2.1v3.3M17.5 20.5V18h1.7v2.5\"/><path d=\"M12 9.5V4M8.8 5.4 12 4l3.2 1.4M9.8 8.2 8 6.4M14.2 8.2 16 6.4\"/><path d=\"M18.5 6.5h.01M6 7h.01\"/>",
+    "solid": null
+  },
+  "countdown-party": {
+    "category": "party-events",
+    "keywords": ["cuenta atras", "countdown", "temporizador", "timer", "reloj", "clock", "midnight", "fiesta"],
+    "aliases": ["countdown", "timer"],
+    "outline": "<circle cx=\"11.5\" cy=\"13\" r=\"6.5\"/><path d=\"M9 3.5h5M11.5 3.5v3\"/><path d=\"M11.5 13V8.5\"/><path d=\"M18.5 6 20 4.5\"/><path d=\"M20 12h.01M19 16.5h.01M18 9h.01\"/>",
+    "solid": null
+  },
+  "sparkler": {
+    "category": "party-events",
+    "keywords": ["bengala", "sparkler", "chispas", "sparks", "estrella", "luz", "fiesta", "party"],
+    "aliases": ["bengala", "sparks"],
+    "outline": "<path d=\"M3.5 20.5 13.5 10.5\"/><path d=\"M14 10V5.5M14 10 17.8 8M14 10l3.5 2.5M14 10 9.8 8.8M14 10 10.5 12.5\"/><path d=\"M19.5 5.5h.01M20.5 11h.01M15.5 4h.01\"/>",
+    "solid": null
+  },
+  "gift-bag": {
+    "category": "party-events",
+    "keywords": ["bolsa", "gift bag", "regalo", "shopping", "papel", "tissue", "compras", "fiesta"],
+    "aliases": ["present-bag", "party-bag"],
+    "outline": "<path d=\"M5.2 8.5h13.6l-1.1 11.6a1 1 0 0 1-1 .9H7.3a1 1 0 0 1-1-.9Z\"/><path d=\"M5.2 8.5 8.5 3 11 7.5 13.5 3 16 7.5 18.8 8.5\"/><path d=\"M6.5 12.5h11\"/>",
+    "solid": "<path d=\"M5.2 8.5 8.5 3.2 11 7.4 13.5 3.2 16 7.4 18.8 8.5 17.7 20.1A1.2 1.2 0 0 1 16.5 21.2H7.5A1.2 1.2 0 0 1 6.3 20.1Z\"/>"
+  },
+  "party-mask": {
+    "category": "party-events",
+    "keywords": ["antifaz", "mask", "mascara", "carnaval", "carnival", "baile", "masquerade", "fiesta"],
+    "aliases": ["masquerade-mask", "eye-mask"],
+    "outline": "<path d=\"M3.5 9.5C3.5 8 4.8 7.3 6.5 7.3 8.7 7.3 10 8.4 12 8.4S15.3 7.3 17.5 7.3C19.2 7.3 20.5 8 20.5 9.5 20.5 13 17.5 16 14 16 12.3 16 12 14 11 14S9.7 16 8 16C4.5 16 3.5 13 3.5 9.5Z\"/><ellipse cx=\"8\" cy=\"10.4\" rx=\"1.9\" ry=\"1.4\"/><ellipse cx=\"16\" cy=\"10.4\" rx=\"1.9\" ry=\"1.4\"/><path d=\"M15.5 15.5 18 20.5\"/><path d=\"M8 7c-.5-2 .5-3.5 1.5-4\"/>",
+    "solid": "<path d=\"M3.5 9.5C3.5 8 4.8 7.3 6.5 7.3 8.7 7.3 10 8.4 12 8.4S15.3 7.3 17.5 7.3C19.2 7.3 20.5 8 20.5 9.5 20.5 13 17.5 16 14 16 12.3 16 12 14 11 14S9.7 16 8 16C4.5 16 3.5 13 3.5 9.5ZM8 9a1.9 1.4 0 1 0 0 2.8 1.9 1.4 0 0 0 0-2.8ZM16 9a1.9 1.4 0 1 0 0 2.8 1.9 1.4 0 0 0 0-2.8Z\" fill-rule=\"evenodd\"/><path d=\"M14.6 15.4 16.4 14.7 19 20.4 17.2 21.1Z\"/>"
+  },
+  "karaoke-party": {
+    "category": "party-events",
+    "keywords": ["karaoke", "microfono", "microphone", "cantar", "sing", "musica", "music", "fiesta"],
+    "aliases": ["karaoke", "sing"],
+    "outline": "<rect x=\"4.5\" y=\"3\" width=\"5\" height=\"9\" rx=\"2.5\"/><path d=\"M5 6.2h4M5 8.6h4\"/><path d=\"M7 12v7.5M4 19.5h6\"/><path d=\"M14.5 13.5V6l4.5-1.2v7\"/><circle cx=\"13.3\" cy=\"13.5\" r=\"1.4\"/><circle cx=\"17.6\" cy=\"11.8\" r=\"1.4\"/>",
+    "solid": null
+  },
+  "cocktail-party": {
+    "category": "party-events",
+    "keywords": ["coctel", "cocktail", "copa", "martini", "bebida", "drink", "sombrilla", "fiesta"],
+    "aliases": ["party-cocktail", "mixed-drink"],
+    "outline": "<path d=\"M4 5.5h16l-8 8Z\"/><path d=\"M12 13.5V20M8.5 20h7\"/><path d=\"M15 8.5 17.5 4\"/><circle cx=\"14.7\" cy=\"9\" r=\"1.1\"/><path d=\"M16 3 19.5 4.2 18.3 7.7Z\"/>",
+    "solid": "<path d=\"M4 5.5h16l-8 8ZM11.3 13.2h1.4v6.1h-1.4ZM8.5 19.3h7v1.4h-7ZM14.5 8.7 17.4 4 18 4.4 15.1 9.1Z\"/><circle cx=\"14.7\" cy=\"9\" r=\"1.3\"/><path d=\"M16 3 19.6 4.1 18.3 7.8Z\"/>"
+  },
+  "balloon-arch": {
+    "category": "party-events",
+    "keywords": ["arco", "arch", "globos", "balloons", "decoracion", "decor", "entrada", "fiesta"],
+    "aliases": ["balloon-arch", "arch-decor"],
+    "outline": "<circle cx=\"4\" cy=\"20\" r=\"1.5\"/><circle cx=\"4.7\" cy=\"17\" r=\"1.5\"/><circle cx=\"6.4\" cy=\"14.4\" r=\"1.5\"/><circle cx=\"9\" cy=\"12.6\" r=\"1.5\"/><circle cx=\"12\" cy=\"12\" r=\"1.5\"/><circle cx=\"15\" cy=\"12.6\" r=\"1.5\"/><circle cx=\"17.6\" cy=\"14.4\" r=\"1.5\"/><circle cx=\"19.3\" cy=\"17\" r=\"1.5\"/><circle cx=\"20\" cy=\"20\" r=\"1.5\"/>",
+    "solid": "<circle cx=\"4\" cy=\"20\" r=\"1.7\"/><circle cx=\"4.7\" cy=\"17\" r=\"1.7\"/><circle cx=\"6.4\" cy=\"14.4\" r=\"1.7\"/><circle cx=\"9\" cy=\"12.6\" r=\"1.7\"/><circle cx=\"12\" cy=\"12\" r=\"1.7\"/><circle cx=\"15\" cy=\"12.6\" r=\"1.7\"/><circle cx=\"17.6\" cy=\"14.4\" r=\"1.7\"/><circle cx=\"19.3\" cy=\"17\" r=\"1.7\"/><circle cx=\"20\" cy=\"20\" r=\"1.7\"/>"
+  },
+  "photo-booth": {
+    "category": "party-events",
+    "keywords": ["fotomaton", "photo booth", "cabina", "fotos", "camara", "camera", "cortina", "fiesta"],
+    "aliases": ["photobooth", "photo-cabin"],
+    "outline": "<rect x=\"5\" y=\"3.5\" width=\"14\" height=\"17\" rx=\"2\"/><path d=\"M5 7.5h14\"/><circle cx=\"12\" cy=\"10.7\" r=\"1.8\"/><path d=\"M6.5 14h11\"/><path d=\"M8.5 14v6.5M11.2 14v6.5M13.8 14v6.5M16 14v6.5\"/>",
+    "solid": "<path d=\"M7 3.5H17A2 2 0 0 1 19 5.5V18.5A2 2 0 0 1 17 20.5H7A2 2 0 0 1 5 18.5V5.5A2 2 0 0 1 7 3.5ZM6 7H18V8H6ZM12 8.9A1.8 1.8 0 1 0 12 12.5 1.8 1.8 0 0 0 12 8.9ZM8.5 14V20.5H7.8V14ZM11.3 14V20.5H10.6V14ZM14 14V20.5H13.3V14ZM16.2 14V20.5H15.5V14Z\" fill-rule=\"evenodd\"/>"
+  },
+  "party-lights": {
+    "category": "party-events",
+    "keywords": ["luces", "lights", "guirnalda", "string lights", "bombillas", "festoon", "fiesta", "party"],
+    "aliases": ["string-lights", "fairy-lights"],
+    "outline": "<path d=\"M2.5 5c6 4 13 4 19 0\"/><path d=\"M5 6.6v1M8.5 7.6v1M12 8v1M15.5 7.6v1M19 6.6v1\"/><circle cx=\"5\" cy=\"9.6\" r=\"1.6\"/><circle cx=\"8.5\" cy=\"10.6\" r=\"1.6\"/><circle cx=\"12\" cy=\"11\" r=\"1.6\"/><circle cx=\"15.5\" cy=\"10.6\" r=\"1.6\"/><circle cx=\"19\" cy=\"9.6\" r=\"1.6\"/>",
+    "solid": "<path d=\"M2.3 4.4c6.2 4.1 13.2 4.1 19.4 0l0 1.3c-6.2 4.1-13.2 4.1-19.4 0Z\"/><path d=\"M4.5 6.5h1v2h-1ZM8 7.5h1v2h-1ZM11.5 8h1v2h-1ZM15 7.5h1v2h-1ZM18.5 6.5h1v2h-1Z\"/><circle cx=\"5\" cy=\"9.8\" r=\"1.7\"/><circle cx=\"8.5\" cy=\"10.8\" r=\"1.7\"/><circle cx=\"12\" cy=\"11.2\" r=\"1.7\"/><circle cx=\"15.5\" cy=\"10.8\" r=\"1.7\"/><circle cx=\"19\" cy=\"9.8\" r=\"1.7\"/>"
+  },
+  "gift-ribbon": {
+    "category": "party-events",
+    "keywords": ["lazo", "ribbon", "bow", "moño", "cinta", "regalo", "decoracion", "fiesta"],
+    "aliases": ["bow", "ribbon-bow"],
+    "outline": "<path d=\"M12 11 5 8a2.5 2.5 0 0 1 2-4.5C9.5 3 12 8 12 11Z\"/><path d=\"M12 11 19 8a2.5 2.5 0 0 0-2-4.5C14.5 3 12 8 12 11Z\"/><circle cx=\"12\" cy=\"11\" r=\"1.5\"/><path d=\"M11 12 8 20M13 12l3 8\"/>",
+    "solid": "<path d=\"M12 11 5 8a2.5 2.5 0 0 1 2-4.5C9.5 3 12 8 12 11ZM12 11 19 8a2.5 2.5 0 0 0-2-4.5C14.5 3 12 8 12 11Z\"/><path d=\"M11 11.5 8.2 20.3 10.6 19.5 11.8 15Z\"/><path d=\"M13 11.5 15.8 20.3 13.4 19.5 12.2 15Z\"/><circle cx=\"12\" cy=\"11\" r=\"1.8\"/>"
+  },
+  "cheers-beer": {
+    "category": "party-events",
+    "keywords": ["cerveza", "beer", "brindis", "cheers", "jarras", "mugs", "salud", "fiesta"],
+    "aliases": ["beer-cheers", "mugs"],
+    "outline": "<path d=\"M5.1 9.3c-.5-1 .3-1.9 1.2-1.7.1-1 1.5-1.3 2.1-.4.6-.6 1.8-.3 1.6.8\"/><path d=\"M5 9.3h5v9.7A1.5 1.5 0 0 1 8.5 20.5H6.5A1.5 1.5 0 0 1 5 19Z\"/><path d=\"M5 12H4a1.3 1.3 0 0 0 0 2.6H5\"/><path d=\"M5 13h5\"/><path d=\"M18.9 9.3c.5-1-.3-1.9-1.2-1.7-.1-1-1.5-1.3-2.1-.4-.6-.6-1.8-.3-1.6.8\"/><path d=\"M14 9.3h5v9.7A1.5 1.5 0 0 1 17.5 20.5H15.5A1.5 1.5 0 0 1 14 19Z\"/><path d=\"M19 12h1a1.3 1.3 0 0 1 0 2.6h-1\"/><path d=\"M14 13h5\"/><path d=\"M12 5.5v2M10.5 6.1l1 1M13.5 6.1l-1 1\"/>",
+    "solid": null
+  }
+}

@@ -1,0 +1,18 @@
+name: iconkit
+description: >-
+  IconKit: 3000+ monochrome vector icons (outline and solid) as Flutter widgets. One source of truth, tint with any color, scale to any size.
+version: 1.0.1
+homepage: https://suils.es
+documentation: https://iconkit.suils.es
+topics:
+  - icons
+  - svg
+  - ui
+  - widgets
+environment:
+  sdk: ^3.0.0
+  flutter: ">=3.10.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_svg: ^2.0.0

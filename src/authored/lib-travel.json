@@ -1,0 +1,310 @@
+{
+  "map-folded": {
+    "category": "travel",
+    "keywords": ["map", "folded", "atlas", "mapa", "plano", "navigation"],
+    "aliases": ["map", "paper-map"],
+    "outline": "<path d=\"M9 5 3.7 7.1A1 1 0 0 0 3 8v11.45a1 1 0 0 0 1.42.92L9 18.5l6 2L20.3 18.4A1 1 0 0 0 21 17.5V6.05a1 1 0 0 0-1.42-.93L15 7 9 5Z\"/><path d=\"M9 5v13.5M15 7v13.5\"/>",
+    "solid": "<path d=\"M9 5 3.7 7.1A1 1 0 0 0 3 8v11.45a1 1 0 0 0 1.42.92L9 18.5l6 2L20.3 18.4A1 1 0 0 0 21 17.5V6.05a1 1 0 0 0-1.42-.93L15 7 9 5ZM8.6 6.1v12l.8.27V6.4ZM14.6 8.1v12l.8.27V8.4Z\" fill-rule=\"evenodd\"/>"
+  },
+  "route-map": {
+    "category": "travel",
+    "keywords": ["route", "map", "journey", "ruta", "itinerario", "path", "trip"],
+    "aliases": ["map-route", "journey-map"],
+    "outline": "<path d=\"M9 5 3.7 7.1A1 1 0 0 0 3 8v11.45a1 1 0 0 0 1.42.92L9 18.5l6 2L20.3 18.4A1 1 0 0 0 21 17.5V6.05a1 1 0 0 0-1.42-.93L15 7 9 5Z\"/><circle cx=\"7.3\" cy=\"16\" r=\"1.2\"/><path d=\"M8.4 15.4C10.4 13.9 11.7 12.9 13.8 12.2\"/><path d=\"M14.6 6.6A2.4 2.4 0 0 0 12.2 9c0 1.8 2.4 3.7 2.4 3.7S17 10.8 17 9a2.4 2.4 0 0 0-2.4-2.4Z\"/>",
+    "solid": null
+  },
+  "signpost": {
+    "category": "travel",
+    "keywords": ["signpost", "directions", "sign", "letrero", "poste", "wayfinding", "senal"],
+    "aliases": ["direction-post", "guidepost"],
+    "outline": "<path d=\"M12 3v18\"/><path d=\"M12 6H5.5L3.5 8 5.5 10H12\"/><path d=\"M12 12h6.5l2 2-2 2H12\"/>",
+    "solid": "<rect x=\"11.2\" y=\"3\" width=\"1.6\" height=\"18\" rx=\"0.8\"/><path d=\"M12 5.5H5.4a1 1 0 0 0-.7.3L3.2 7.3a1 1 0 0 0 0 1.4l1.5 1.5a1 1 0 0 0 .7.3H12Z\"/><path d=\"M12 11.5h6.6a1 1 0 0 1 .7.3l1.5 1.5a1 1 0 0 1 0 1.4l-1.5 1.5a1 1 0 0 1-.7.3H12Z\"/>"
+  },
+  "hotel-travel": {
+    "category": "travel",
+    "keywords": ["hotel", "lodging", "accommodation", "hospedaje", "alojamiento", "stay"],
+    "aliases": ["guesthouse", "accommodation"],
+    "outline": "<rect x=\"5\" y=\"4.5\" width=\"14\" height=\"16.5\" rx=\"1.5\"/><path d=\"M3.5 21h17\"/><path d=\"M12 4.5V2.4\"/><path d=\"M12 2.6h2.2v1.6H12Z\"/><rect x=\"8\" y=\"8\" width=\"2.2\" height=\"2.2\" rx=\"0.4\"/><rect x=\"13.8\" y=\"8\" width=\"2.2\" height=\"2.2\" rx=\"0.4\"/><rect x=\"8\" y=\"12.2\" width=\"2.2\" height=\"2.2\" rx=\"0.4\"/><rect x=\"13.8\" y=\"12.2\" width=\"2.2\" height=\"2.2\" rx=\"0.4\"/><path d=\"M10.2 21v-3.6a1.8 1.8 0 0 1 3.6 0V21\"/>",
+    "solid": "<path d=\"M6.5 4.5h11A1.5 1.5 0 0 1 19 6v15H5V6A1.5 1.5 0 0 1 6.5 4.5ZM7.7 8v2H10V8ZM14 8v2h2.3V8ZM7.7 12.2v2H10v-2ZM14 12.2v2h2.3v-2ZM10.2 21v-3.4a1.8 1.8 0 0 1 3.6 0V21Z\" fill-rule=\"evenodd\"/><path d=\"M11.2 4.5V2.4l3 .9-1.2 1v.2Z\"/><rect x=\"2.5\" y=\"20\" width=\"19\" height=\"1.7\" rx=\"0.85\"/>"
+  },
+  "luggage-travel": {
+    "category": "travel",
+    "keywords": ["luggage", "suitcase", "baggage", "equipaje", "maleta", "trolley"],
+    "aliases": ["baggage", "trolley-case"],
+    "outline": "<rect x=\"5.5\" y=\"7.5\" width=\"13\" height=\"12.5\" rx=\"2\"/><path d=\"M9 7.5V5.5a1.5 1.5 0 0 1 1.5-1.5h3A1.5 1.5 0 0 1 15 5.5v2\"/><path d=\"M9.5 7.5v12.5M14.5 7.5v12.5\"/><path d=\"M8 20v1.3M16 20v1.3\"/>",
+    "solid": "<path d=\"M9 4h6a1.5 1.5 0 0 1 1.5 1.5v2h-9v-2A1.5 1.5 0 0 1 9 4Zm.5 1.5v1.5h5V5.5a.5.5 0 0 0-.5-.5h-4a.5.5 0 0 0-.5.5Z\" fill-rule=\"evenodd\"/><path d=\"M7.5 7.5h9A2.5 2.5 0 0 1 19 10v8a2.5 2.5 0 0 1-2.5 2.5h-9A2.5 2.5 0 0 1 5 18v-8A2.5 2.5 0 0 1 7.5 7.5Zm2.2 2.3a.7.7 0 0 0-.7.7v6a.7.7 0 0 0 1.4 0v-6a.7.7 0 0 0-.7-.7Zm4.6 0a.7.7 0 0 0-.7.7v6a.7.7 0 0 0 1.4 0v-6a.7.7 0 0 0-.7-.7Z\" fill-rule=\"evenodd\"/><path d=\"M8 20.3h1.4v1.2a.6.6 0 0 1-1.4 0Zm6.6 0H16v1.2a.6.6 0 0 1-1.4 0Z\"/>"
+  },
+  "passport-travel": {
+    "category": "travel",
+    "keywords": ["passport", "document", "travel", "pasaporte", "documento", "id"],
+    "aliases": ["travel-passport"],
+    "outline": "<rect x=\"4.5\" y=\"3\" width=\"15\" height=\"18\" rx=\"2\"/><circle cx=\"12\" cy=\"9.5\" r=\"3.2\"/><path d=\"M8.8 9.5h6.4M12 6.3a5 5 0 0 1 0 6.4M12 6.3a5 5 0 0 0 0 6.4\"/><path d=\"M9 16.5h6M9.5 18.5h5\"/>",
+    "solid": "<path d=\"M6.5 3h11A2 2 0 0 1 19.5 5v14a2 2 0 0 1-2 2h-11a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2ZM12 6.3a3.2 3.2 0 1 0 0 6.4 3.2 3.2 0 0 0 0-6.4ZM9 16.1h6a.85.85 0 0 1 0 1.7H9a.85.85 0 0 1 0-1.7Z\" fill-rule=\"evenodd\"/>"
+  },
+  "boarding-pass": {
+    "category": "travel",
+    "keywords": ["boarding", "pass", "ticket", "flight", "embarque", "billete", "avion"],
+    "aliases": ["flight-pass"],
+    "outline": "<path d=\"M3.5 7.5h17a1 1 0 0 1 1 1V11a1.4 1.4 0 0 0 0 2.8v2.7a1 1 0 0 1-1 1h-17a1 1 0 0 1-1-1V13.8A1.4 1.4 0 0 0 2.5 11V8.5a1 1 0 0 1 1-1Z\"/><path d=\"M15.5 8v.9M15.5 10.6v.9M15.5 13.2v.9M15.5 15.8v.9\"/><path d=\"M5 11.8l2.3-1.4 2.3 1.4\"/><path d=\"M5.2 14.3h4.6\"/>",
+    "solid": null
+  },
+  "gps-navigation": {
+    "category": "travel",
+    "keywords": ["gps", "navigation", "locator", "navegacion", "brujula", "pointer", "direction"],
+    "aliases": ["navigator", "locator"],
+    "outline": "<path d=\"M12 3 5 20l7-3 7 3Z\"/><path d=\"M12 3v14\"/>",
+    "solid": "<path d=\"M11.1 3.4a1 1 0 0 1 1.8 0l6.5 15.85a1 1 0 0 1-1.31 1.3L12 18.1l-6.09 2.45a1 1 0 0 1-1.31-1.3Z\"/>"
+  },
+  "world-map": {
+    "category": "travel",
+    "keywords": ["world", "map", "globe", "mundo", "mapa", "atlas", "international"],
+    "aliases": ["atlas", "world-atlas"],
+    "outline": "<rect x=\"2.5\" y=\"4.5\" width=\"19\" height=\"15\" rx=\"2\"/><path d=\"M2.5 12h19M12 4.5v15\"/><path d=\"M6.5 4.5a18 18 0 0 0 0 15M17.5 4.5a18 18 0 0 1 0 15\"/>",
+    "solid": null
+  },
+  "beach-travel": {
+    "category": "travel",
+    "keywords": ["beach", "sea", "sun", "playa", "mar", "sol", "seaside", "coast"],
+    "aliases": ["seaside", "coast"],
+    "outline": "<circle cx=\"12\" cy=\"8.5\" r=\"3.5\"/><path d=\"M12 2.5V4M12 13v1.5M5.5 8.5H4M20 8.5h-1.5M7.4 3.9 6.4 2.9M17.6 3.9l1-1M7.4 13.1l-1 1M16.6 13.1l1 1\"/><path d=\"M3 18c1.4-1.2 2.8-1.2 4.2 0s2.8 1.2 4.2 0 2.8-1.2 4.2 0 2.8 1.2 4.2 0\"/><path d=\"M3 21c1.4-1.2 2.8-1.2 4.2 0s2.8 1.2 4.2 0 2.8-1.2 4.2 0 2.8 1.2 4.2 0\"/>",
+    "solid": null
+  },
+  "camping-travel": {
+    "category": "travel",
+    "keywords": ["camping", "campsite", "tent", "acampada", "campamento", "outdoors", "nature"],
+    "aliases": ["campsite", "campground"],
+    "outline": "<path d=\"M6 8 2.5 19h7Z\"/><path d=\"M6 11.5 4.2 19M6 11.5 7.8 19\"/><path d=\"M16 8.5 18.5 12.5h-1.6l2.1 3.7H12.5l2.1-3.7H13Z\"/><path d=\"M16 16.2V19\"/><path d=\"M2 20.5h20\"/>",
+    "solid": null
+  },
+  "hostel": {
+    "category": "travel",
+    "keywords": ["hostel", "bunk", "dorm", "albergue", "litera", "dormitory", "backpacker"],
+    "aliases": ["bunk-beds", "dormitory"],
+    "outline": "<path d=\"M4 4v16M20 4v16\"/><path d=\"M4 8.5h16M4 15.5h16\"/><path d=\"M4.5 8.5V6.7a1 1 0 0 1 1-1H8a1 1 0 0 1 1 1v1.8\"/><path d=\"M4.5 15.5v-1.8a1 1 0 0 1 1-1H8a1 1 0 0 1 1 1v1.8\"/>",
+    "solid": null
+  },
+  "landmark-generic": {
+    "category": "travel",
+    "keywords": ["landmark", "monument", "museum", "monumento", "hito", "building", "capitol"],
+    "aliases": ["monument", "attraction"],
+    "outline": "<path d=\"M12 3 3 8h18Z\"/><path d=\"M4.5 11v6.5M9 11v6.5M15 11v6.5M19.5 11v6.5M12 11v6.5\"/><path d=\"M3.5 8.5h17\"/><path d=\"M3 21h18M4 17.5h16\"/>",
+    "solid": "<path d=\"M11.5 2.6a1 1 0 0 1 1 0l8.2 4.1A.8.8 0 0 1 20.3 8.2H3.7A.8.8 0 0 1 3.3 6.7ZM4 10.5h2v7H4ZM8.3 10.5h2v7h-2ZM13.7 10.5h2v7h-2ZM18 10.5h2v7h-2ZM3 18.5h18a1 1 0 0 1 1 1v.5a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1v-.5a1 1 0 0 1 1-1Z\" fill-rule=\"evenodd\"/>"
+  },
+  "itinerary": {
+    "category": "travel",
+    "keywords": ["itinerary", "plan", "schedule", "itinerario", "agenda", "timeline", "stops"],
+    "aliases": ["travel-plan", "trip-plan"],
+    "outline": "<circle cx=\"6\" cy=\"6.5\" r=\"1.6\"/><circle cx=\"6\" cy=\"12\" r=\"1.6\"/><circle cx=\"6\" cy=\"17.5\" r=\"1.6\"/><path d=\"M6 8.1v2.3M6 13.6v2.3\"/><path d=\"M10 6.5h9M10 12h9M10 17.5h6\"/>",
+    "solid": null
+  },
+  "backpacker": {
+    "category": "travel",
+    "keywords": ["backpack", "rucksack", "hiking", "mochila", "excursionista", "gap-year"],
+    "aliases": ["backpack", "rucksack"],
+    "outline": "<path d=\"M9 7.2V6a3 3 0 0 1 6 0v1.2\"/><path d=\"M6.5 9.5A2.5 2.5 0 0 1 9 7h6a2.5 2.5 0 0 1 2.5 2.5V19a2 2 0 0 1-2 2h-7a2 2 0 0 1-2-2Z\"/><path d=\"M9.5 21v-6a1 1 0 0 1 1-1h3a1 1 0 0 1 1 1v6\"/><path d=\"M9.5 11h5\"/>",
+    "solid": "<path d=\"M9 7.2V6a3 3 0 0 1 6 0v1.2h-1.8V6a1.2 1.2 0 0 0-2.4 0v1.2Z\"/><path d=\"M9 7h6a3 3 0 0 1 3 3v9a2 2 0 0 1-2 2h-1v-6a1 1 0 0 0-1-1h-3a1 1 0 0 0-1 1v6H8a2 2 0 0 1-2-2v-9a3 3 0 0 1 3-3Zm1.2 3.5a.7.7 0 0 0 0 1.4h3.6a.7.7 0 0 0 0-1.4Z\" fill-rule=\"evenodd\"/><path d=\"M11 15h2a.5.5 0 0 1 .5.5V21h-3v-5.5A.5.5 0 0 1 11 15Z\"/>"
+  },
+  "souvenir": {
+    "category": "travel",
+    "keywords": ["souvenir", "snowglobe", "keepsake", "recuerdo", "regalo", "memento", "gift"],
+    "aliases": ["snow-globe", "keepsake"],
+    "outline": "<circle cx=\"12\" cy=\"10\" r=\"6.5\"/><path d=\"M7 15.5h10l1 3a1 1 0 0 1-1 1.3H7a1 1 0 0 1-1-1.3Z\"/><path d=\"M9.5 11 12 7.5l2.5 3.5\"/>",
+    "solid": "<path d=\"M12 3a7 7 0 0 0-4.7 12.2h9.4A7 7 0 0 0 12 3Zm-2.5 8 2.5-3.5 2.5 3.5Z\" fill-rule=\"evenodd\"/><path d=\"M6.8 16.5h10.4l.9 2.4a1 1 0 0 1-.94 1.35H6.84a1 1 0 0 1-.94-1.35Z\"/>"
+  },
+  "travel-guide": {
+    "category": "travel",
+    "keywords": ["guide", "guidebook", "book", "guia", "libro", "handbook", "phrasebook"],
+    "aliases": ["guidebook", "phrasebook"],
+    "outline": "<path d=\"M6.5 3h11a1 1 0 0 1 1 1v14H6.5A2 2 0 0 1 4.5 16V5a2 2 0 0 1 2-2Z\"/><path d=\"M18.5 18H6.5a2 2 0 0 0 0 4h12\"/><path d=\"M12 6.5a2 2 0 0 0-2 2c0 1.5 2 3.2 2 3.2s2-1.7 2-3.2a2 2 0 0 0-2-2Z\"/>",
+    "solid": "<path d=\"M6.5 2.5A2.5 2.5 0 0 0 4 5v13.5A3 3 0 0 0 6.5 21.4V19.5H18a1 1 0 0 1 0 2h.5a1 1 0 0 0 1-1V3.5a1 1 0 0 0-1-1ZM12 6a2.2 2.2 0 0 1 2.2 2.2c0 1.6-2.2 3.6-2.2 3.6S9.8 9.8 9.8 8.2A2.2 2.2 0 0 1 12 6Zm0 1.5a.8.8 0 1 0 0 1.6.8.8 0 0 0 0-1.6Z\" fill-rule=\"evenodd\"/>"
+  },
+  "visa-stamp": {
+    "category": "travel",
+    "keywords": ["visa", "stamp", "passport", "sello", "cuno", "approved", "entry"],
+    "aliases": ["passport-stamp", "entry-stamp"],
+    "outline": "<path d=\"M8 4.5h8l3.5 3.5v8l-3.5 3.5H8L4.5 16V8Z\"/><path d=\"M8.5 10.5l1.8 1.8 3.5-3.8\"/><path d=\"M9 15h6\"/>",
+    "solid": "<path d=\"M8.2 4h7.6a1 1 0 0 1 .7.3l3.2 3.2a1 1 0 0 1 .3.7v7.6a1 1 0 0 1-.3.7l-3.2 3.2a1 1 0 0 1-.7.3H8.2a1 1 0 0 1-.7-.3l-3.2-3.2a1 1 0 0 1-.3-.7V8.2a1 1 0 0 1 .3-.7l3.2-3.2a1 1 0 0 1 .7-.3Zm2.1 6.4a.9.9 0 0 0-1.3 1.25l1.8 1.8a.9.9 0 0 0 1.32-.03l3.5-3.8a.9.9 0 0 0-1.32-1.22l-2.85 3.1ZM9 14.2a.8.8 0 0 0 0 1.6h6a.8.8 0 0 0 0-1.6Z\" fill-rule=\"evenodd\"/>"
+  },
+  "customs-travel": {
+    "category": "travel",
+    "keywords": ["customs", "inspection", "baggage", "aduana", "control", "border-check"],
+    "aliases": ["customs-check", "baggage-inspection"],
+    "outline": "<rect x=\"3.5\" y=\"8.5\" width=\"10.5\" height=\"11\" rx=\"2\"/><path d=\"M6.3 8.5V6.5A1.5 1.5 0 0 1 7.8 5h2A1.5 1.5 0 0 1 11.3 6.5v2\"/><circle cx=\"16.5\" cy=\"14\" r=\"3\"/><path d=\"m18.7 16.2 2.3 2.3\"/>",
+    "solid": null
+  },
+  "departure-board": {
+    "category": "travel",
+    "keywords": ["departures", "board", "flights", "salidas", "panel", "schedule", "airport"],
+    "aliases": ["flight-board", "arrivals-board"],
+    "outline": "<rect x=\"3\" y=\"4.5\" width=\"18\" height=\"15\" rx=\"2\"/><path d=\"M3 8.5h18\"/><path d=\"M6 6.5h3.5\"/><path d=\"M6.5 12h4M6.5 15.5h4\"/><path d=\"M13.5 13.8l4.8-1.3a.5.5 0 0 1 .6.66L17.5 17\"/>",
+    "solid": null
+  },
+  "layover": {
+    "category": "travel",
+    "keywords": ["layover", "stopover", "connection", "escala", "conexion", "transit", "wait"],
+    "aliases": ["stopover", "connection"],
+    "outline": "<path d=\"M4 17.5a9 9 0 0 1 16 0\"/><circle cx=\"4\" cy=\"17.5\" r=\"1.4\"/><circle cx=\"20\" cy=\"17.5\" r=\"1.4\"/><circle cx=\"12\" cy=\"9\" r=\"3\"/><path d=\"M12 7.3V9l1.3 1\"/>",
+    "solid": null
+  },
+  "road-trip": {
+    "category": "travel",
+    "keywords": ["road", "trip", "drive", "carretera", "viaje", "route", "roadtrip"],
+    "aliases": ["roadtrip", "drive"],
+    "outline": "<path d=\"M8 21 10 9M16 21 14 9\"/><path d=\"M12 21v-2.5M12 15v-2.5\"/><path d=\"M12 3a3 3 0 0 0-3 3c0 2 3 4.5 3 4.5S15 8 15 6a3 3 0 0 0-3-3Z\"/>",
+    "solid": null
+  },
+  "cruise-ship-travel": {
+    "category": "travel",
+    "keywords": ["cruise", "ship", "liner", "crucero", "barco", "vacation", "boat"],
+    "aliases": ["cruise-liner", "cruise"],
+    "outline": "<path d=\"M3 15h18l-1.8 3.6a1.5 1.5 0 0 1-1.35.9H6.15a1.5 1.5 0 0 1-1.35-.9Z\"/><path d=\"M5 15v-4h11l3 4\"/><path d=\"M7 11V8h6v3\"/><circle cx=\"8\" cy=\"13\" r=\"0.6\"/><circle cx=\"11\" cy=\"13\" r=\"0.6\"/><circle cx=\"14\" cy=\"13\" r=\"0.6\"/><path d=\"M9 8V5.5h2\"/>",
+    "solid": "<path d=\"M4 8V5.3a.8.8 0 0 1 .8-.8H10a.8.8 0 0 1 .8.8V8h4.6a1 1 0 0 1 .82.43L18.5 11.5H5.5V9a1 1 0 0 1 1-1Z\"/><path d=\"M2.8 14h18.4l-1.9 4.1a1.5 1.5 0 0 1-1.36.87H6.06A1.5 1.5 0 0 1 4.7 18.1Z\"/>"
+  },
+  "safari": {
+    "category": "travel",
+    "keywords": ["safari", "helmet", "expedition", "explorador", "salacot", "adventure", "explorer"],
+    "aliases": ["pith-helmet", "explorer-hat"],
+    "outline": "<path d=\"M6 14a6 6 0 0 1 12 0\"/><path d=\"M4 14h16a1.2 1.2 0 0 1-1.2 1.8H5.2A1.2 1.2 0 0 1 4 14Z\"/><path d=\"M6.4 12.3h11.2\"/><path d=\"M11 8.2h2\"/>",
+    "solid": "<path d=\"M12 7.5A6.5 6.5 0 0 0 5.5 14h13A6.5 6.5 0 0 0 12 7.5Zm-1 .7h2a.6.6 0 0 1 0 1.2h-2a.6.6 0 0 1 0-1.2Z\" fill-rule=\"evenodd\"/><path d=\"M3.8 14.5h16.4a1 1 0 0 1 .95 1.3 2 2 0 0 1-1.9 1.4H4.75a2 2 0 0 1-1.9-1.4 1 1 0 0 1 .95-1.3Z\"/>"
+  },
+  "resort": {
+    "category": "travel",
+    "keywords": ["resort", "tropical", "palm", "complejo", "palmera", "vacation", "paradise"],
+    "aliases": ["tropical-resort", "beach-resort"],
+    "outline": "<path d=\"M16 5c-2-1-4-.5-5.5 1M16 5c2 .3 3.3 1.8 3.7 3.8M16 5c.5-2 2-3 4-3.3M16 5c-2.5 1.7-3.5 4.2-3 7.2\"/><path d=\"M13 12.2l-.5 8\"/><circle cx=\"7\" cy=\"7\" r=\"2.5\"/><path d=\"M7 3.3V4.6M7 9.4v1.3M3.3 7h1.3M9.4 7h1.3\"/><path d=\"M3 20c1.4-1.2 2.8-1.2 4.2 0s2.8 1.2 4.2 0 2.8-1.2 4.2 0 2.8 1.2 4.2 0\"/>",
+    "solid": null
+  },
+  "guided-tour": {
+    "category": "travel",
+    "keywords": ["tour", "guide", "group", "excursion", "guia", "visita", "sightseeing-group"],
+    "aliases": ["tour-group", "excursion"],
+    "outline": "<path d=\"M6 21V4\"/><path d=\"M6 4.5h9l-2 3 2 3H6\"/><circle cx=\"11\" cy=\"15\" r=\"1.5\"/><circle cx=\"14.5\" cy=\"16\" r=\"1.5\"/><circle cx=\"18\" cy=\"15\" r=\"1.5\"/><path d=\"M9.2 21a1.8 1.8 0 0 1 3.6 0M12.7 21a1.8 1.8 0 0 1 3.6 0M16.2 21a1.8 1.8 0 0 1 3.6 0\"/>",
+    "solid": null
+  },
+  "sightseeing": {
+    "category": "travel",
+    "keywords": ["sightseeing", "binoculars", "view", "turismo", "prismaticos", "lookout", "watch"],
+    "aliases": ["binoculars", "viewpoint"],
+    "outline": "<path d=\"M7 4.5h2a1 1 0 0 1 1 1V8h4V5.5a1 1 0 0 1 1-1h2\"/><path d=\"M10 8l-.5 8a3 3 0 0 1-6 0l1-8a1.5 1.5 0 0 1 1.5-1.3H8.5A1.5 1.5 0 0 1 10 8Z\"/><path d=\"M14 8l.5 8a3 3 0 0 0 6 0l-1-8a1.5 1.5 0 0 0-1.5-1.3H15.5A1.5 1.5 0 0 0 14 8Z\"/><path d=\"M10 12h4\"/>",
+    "solid": "<path d=\"M9 5a1.5 1.5 0 0 0-1.5 1.5V8H10V6.5A1.5 1.5 0 0 0 8.5 5Zm6.5 0A1.5 1.5 0 0 0 14 6.5V8h2.5V6.5A1.5 1.5 0 0 0 15 5Z\"/><path d=\"M6.4 7.5A1.7 1.7 0 0 0 4.75 8.9l-1.2 6.6a3.4 3.4 0 0 0 6.7 1.1l.75-7.4A1.7 1.7 0 0 0 9.3 7.5Zm11.2 0a1.7 1.7 0 0 1 1.65 1.4l1.2 6.6a3.4 3.4 0 0 1-6.7 1.1l-.75-7.4A1.7 1.7 0 0 1 14.7 7.5Z\"/><rect x=\"10\" y=\"11\" width=\"4\" height=\"1.6\" rx=\"0.5\"/>"
+  },
+  "travel-insurance": {
+    "category": "travel",
+    "keywords": ["insurance", "protection", "shield", "seguro", "proteccion", "coverage", "assistance"],
+    "aliases": ["trip-insurance", "coverage"],
+    "outline": "<path d=\"M12 3.5 5.5 6v5.6c0 4.2 2.8 7.3 6.5 8.6 3.7-1.3 6.5-4.4 6.5-8.6V6Z\"/><path d=\"M8 12a4 4 0 0 1 8 0Z\"/><path d=\"M12 12v3.5a1.3 1.3 0 0 1-2.5 0\"/>",
+    "solid": "<path d=\"M11.6 3.05a1 1 0 0 1 .8 0l6 2.35a1 1 0 0 1 .6.95v4.9c0 4.6-3 8-7 9.25-4-1.25-7-4.65-7-9.25V6.35a1 1 0 0 1 .6-.95ZM12 8.2a4.2 4.2 0 0 0-4.15 3.6.5.5 0 0 0 .5.6h3.15v3.1a1.5 1.5 0 0 0 3 0 .75.75 0 0 0-1.5 0 .5.5 0 0 1-1 0v-3.1h3.15a.5.5 0 0 0 .5-.6A4.2 4.2 0 0 0 12 8.2Z\" fill-rule=\"evenodd\"/>"
+  },
+  "jet-lag": {
+    "category": "travel",
+    "keywords": ["jetlag", "fatigue", "clock", "desfase", "cansancio", "sleep", "tired"],
+    "aliases": ["jetlag", "time-fatigue"],
+    "outline": "<circle cx=\"10.5\" cy=\"13.5\" r=\"7.5\"/><path d=\"M10.5 9v4.5l2.8 1.8\"/><path d=\"M15.5 3h4l-4 4.5h4\"/>",
+    "solid": null
+  },
+  "time-zone": {
+    "category": "travel",
+    "keywords": ["timezone", "clock", "globe", "husohorario", "reloj", "world-time", "utc"],
+    "aliases": ["timezone", "world-clock"],
+    "outline": "<circle cx=\"9.5\" cy=\"10.5\" r=\"7\"/><path d=\"M2.5 10.5h14\"/><path d=\"M9.5 3.5a11 11 0 0 1 0 14M9.5 3.5a11 11 0 0 0 0 14\"/><circle cx=\"17.5\" cy=\"16.5\" r=\"4.3\"/><path d=\"M17.5 14.4v2.1l1.5 1.1\"/>",
+    "solid": null
+  },
+  "travel-agent": {
+    "category": "travel",
+    "keywords": ["agent", "headset", "support", "agente", "asistencia", "booking", "operator"],
+    "aliases": ["booking-agent", "travel-support"],
+    "outline": "<circle cx=\"12\" cy=\"8.5\" r=\"3.3\"/><path d=\"M6.2 11V9.5a5.8 5.8 0 0 1 11.6 0V11\"/><path d=\"M6.2 10.8a1.4 1.4 0 0 0 0 2.8M17.8 10.8a1.4 1.4 0 0 1 0 2.8\"/><path d=\"M17.8 13.6v.6a2 2 0 0 1-2 2h-2\"/><path d=\"M5.8 21c0-3.2 3.1-4.9 6.2-4.9s6.2 1.7 6.2 4.9\"/>",
+    "solid": null
+  },
+  "location-saved": {
+    "category": "travel",
+    "keywords": ["saved", "location", "favorite", "guardado", "ubicacion", "bookmark", "starred"],
+    "aliases": ["saved-place", "favorite-location"],
+    "outline": "<path d=\"M12 21c4.5-4.5 7-8 7-11a7 7 0 1 0-14 0c0 3 2.5 6.5 7 11Z\"/><path d=\"M12 6.2l1.2 2.4 2.6.3-1.9 1.8.5 2.6-2.4-1.3-2.4 1.3.5-2.6-1.9-1.8 2.6-.3Z\"/>",
+    "solid": "<path d=\"M12 2a7.5 7.5 0 0 0-7.5 7.5c0 5.2 6.3 11.3 6.8 11.8a1 1 0 0 0 1.4 0c.5-.5 6.8-6.6 6.8-11.8A7.5 7.5 0 0 0 12 2Zm0 3.6.98 1.98 2.19.32-1.58 1.54.37 2.18L12 11.6l-1.96 1.03.37-2.18-1.58-1.54 2.19-.32Z\" fill-rule=\"evenodd\"/>"
+  },
+  "direction-sign": {
+    "category": "travel",
+    "keywords": ["direction", "sign", "arrow", "direccion", "senal", "wayfinding", "board"],
+    "aliases": ["road-sign", "arrow-sign"],
+    "outline": "<rect x=\"3\" y=\"5\" width=\"18\" height=\"9\" rx=\"1.5\"/><path d=\"M12 14v7\"/><path d=\"M8 9.5h5\"/><path d=\"M11 7.2 13.3 9.5 11 11.8\"/>",
+    "solid": null
+  },
+  "milestone-marker": {
+    "category": "travel",
+    "keywords": ["milestone", "marker", "distance", "mojon", "hito", "waypoint", "post"],
+    "aliases": ["mile-marker", "distance-marker"],
+    "outline": "<path d=\"M7 10.5a5 5 0 0 1 10 0V18a1 1 0 0 1-1 1H8a1 1 0 0 1-1-1Z\"/><path d=\"M7.2 13h9.6\"/><path d=\"M9.5 16h5\"/><path d=\"M12 19v2M8.5 21h7\"/>",
+    "solid": "<path d=\"M12 4.5A5.5 5.5 0 0 0 6.5 10v8a1.5 1.5 0 0 0 1.5 1.5h8a1.5 1.5 0 0 0 1.5-1.5v-8A5.5 5.5 0 0 0 12 4.5Zm-4 8.7h8a.7.7 0 0 1 0 1.4H8a.7.7 0 0 1 0-1.4Zm2 3h4a.7.7 0 0 1 0 1.4h-4a.7.7 0 0 1 0-1.4Z\" fill-rule=\"evenodd\"/><path d=\"M11.2 19.5h1.6V21H15a.75.75 0 0 1 0 1.5H9A.75.75 0 0 1 9 21h2.2Z\"/>"
+  },
+  "toll-booth": {
+    "category": "travel",
+    "keywords": ["toll", "booth", "barrier", "peaje", "cabina", "highway", "gate"],
+    "aliases": ["tollgate", "toll-plaza"],
+    "outline": "<path d=\"M4.5 9.5 8 6l3.5 3.5\"/><path d=\"M5.5 9.5V19M10.5 9.5V19\"/><path d=\"M4 19h8\"/><rect x=\"6.8\" y=\"12.5\" width=\"2.9\" height=\"6.5\" rx=\"0.4\"/><path d=\"M11 11.5h9.5\"/><path d=\"M11 11.5v3\"/>",
+    "solid": null
+  },
+  "rest-area": {
+    "category": "travel",
+    "keywords": ["rest", "area", "picnic", "descanso", "area", "roadside", "stop"],
+    "aliases": ["rest-stop", "picnic-area"],
+    "outline": "<path d=\"M4 9.5h16\"/><path d=\"M5.5 9.5 3.5 20M18.5 9.5 20.5 20\"/><path d=\"M7 9.5 5.7 16M17 9.5l1.3 6.5\"/><path d=\"M5.2 16h13.6\"/>",
+    "solid": null
+  },
+  "scenic-route": {
+    "category": "travel",
+    "keywords": ["scenic", "route", "mountains", "paisaje", "ruta", "viewpoint", "nature"],
+    "aliases": ["scenic-drive", "scenic-road"],
+    "outline": "<path d=\"M2 16.5 7.5 8.5l3 4.2 2.5-3.2 6 7\"/><path d=\"M6 8.5l1.5-1\"/><path d=\"M5 21c3 0 2-3 5-3s2 3 5 3\"/>",
+    "solid": null
+  },
+  "border-crossing": {
+    "category": "travel",
+    "keywords": ["border", "crossing", "barrier", "frontera", "cruce", "checkpoint", "gate"],
+    "aliases": ["frontier", "checkpoint"],
+    "outline": "<path d=\"M4 21V11\"/><rect x=\"4\" y=\"8.8\" width=\"16.5\" height=\"2.6\" rx=\"0.6\"/><path d=\"M8 8.8v2.6M12 8.8v2.6M16 8.8v2.6\"/><circle cx=\"4\" cy=\"7\" r=\"1.5\"/><path d=\"M2.5 21h19\"/>",
+    "solid": null
+  },
+  "tent-travel": {
+    "category": "travel",
+    "keywords": ["tent", "camping", "shelter", "tienda", "carpa", "campaign", "bivouac"],
+    "aliases": ["camp-tent", "a-frame-tent"],
+    "outline": "<path d=\"M12 4 3 20h18Z\"/><path d=\"M12 4v16\"/><path d=\"M9.5 20a2.5 3.5 0 0 1 5 0\"/><path d=\"M3 20l-1 1.5M21 20l1 1.5\"/>",
+    "solid": "<path d=\"M11.15 4.05a1 1 0 0 1 1.7 0l8.8 15.5a1 1 0 0 1-.87 1.5h-5.4a.4.4 0 0 1-.38-.28 3 3 0 0 0-5.7 0 .4.4 0 0 1-.38.28H3.17a1 1 0 0 1-.87-1.5Z\" fill-rule=\"evenodd\"/>"
+  },
+  "suitcase-open": {
+    "category": "travel",
+    "keywords": ["suitcase", "open", "packing", "maleta", "abierta", "unpacked", "luggage"],
+    "aliases": ["open-suitcase", "packing"],
+    "outline": "<path d=\"M3 12a2 2 0 0 1 2-2h6v10H5a2 2 0 0 1-2-2Z\"/><path d=\"M21 12a2 2 0 0 0-2-2h-6v10h6a2 2 0 0 0 2-2Z\"/><path d=\"M6.5 13.5h2.5M15 13.5h2.5M6.5 16.5h2.5M15 16.5h2.5\"/><path d=\"M8 10V7.5a1.5 1.5 0 0 1 1.5-1.5h5A1.5 1.5 0 0 1 16 7.5V10\"/>",
+    "solid": "<path d=\"M5 9.5h6v11H5A2.5 2.5 0 0 1 2.5 18v-6A2.5 2.5 0 0 1 5 9.5Zm2 3.2a.6.6 0 0 0 0 1.2h2a.6.6 0 0 0 0-1.2Zm0 3a.6.6 0 0 0 0 1.2h2a.6.6 0 0 0 0-1.2Z\" fill-rule=\"evenodd\"/><path d=\"M19 9.5h-6v11h6A2.5 2.5 0 0 0 21.5 18v-6A2.5 2.5 0 0 0 19 9.5Zm-4 3.2a.6.6 0 0 1 0 1.2h-2a.6.6 0 0 1 0-1.2Zm0 3a.6.6 0 0 1 0 1.2h-2a.6.6 0 0 1 0-1.2Z\" fill-rule=\"evenodd\"/><path d=\"M9.5 5.5h5A2 2 0 0 1 16.5 7.5V9.5h-2V7.8a.3.3 0 0 0-.3-.3H9.8a.3.3 0 0 0-.3.3V9.5h-2V7.5A2 2 0 0 1 9.5 5.5Z\"/>"
+  },
+  "plane-ticket": {
+    "category": "travel",
+    "keywords": ["plane", "ticket", "flight", "billete", "avion", "airfare", "voucher"],
+    "aliases": ["flight-ticket", "airfare"],
+    "outline": "<path d=\"M4 7h16a1.5 1.5 0 0 1 1.5 1.5v2a1.5 1.5 0 0 0 0 3v2A1.5 1.5 0 0 1 20 17H4a1.5 1.5 0 0 1-1.5-1.5v-2a1.5 1.5 0 0 0 0-3v-2A1.5 1.5 0 0 1 4 7Z\"/><path d=\"M15.5 12 12 11.4V9a1 1 0 0 0-2 0v2.06L6.5 12l3.5.6V15l-1 .8v.7l2-.5 2 .5v-.7l-1-.8v-2.4Z\"/>",
+    "solid": "<path d=\"M4 7h16a1.5 1.5 0 0 1 1.5 1.5v2a1.5 1.5 0 0 0 0 3v2A1.5 1.5 0 0 1 20 17H4a1.5 1.5 0 0 1-1.5-1.5v-2a1.5 1.5 0 0 0 0-3v-2A1.5 1.5 0 0 1 4 7Zm11.5 5-3.5-.6V9a1 1 0 0 0-2 0v2.4L6.5 12l3.5.6V15l-1 .8v.7l2-.5 2 .5v-.7l-1-.8v-2.6Z\" fill-rule=\"evenodd\"/>"
+  },
+  "hotel-bell": {
+    "category": "travel",
+    "keywords": ["bell", "reception", "service", "campanilla", "recepcion", "concierge", "desk"],
+    "aliases": ["service-bell", "reception-bell"],
+    "outline": "<path d=\"M5 15a7 5 0 0 1 14 0\"/><path d=\"M12 8V6\"/><circle cx=\"12\" cy=\"5\" r=\"1\"/><path d=\"M3.5 15h17\"/><path d=\"M4.5 15a1.5 1.5 0 0 0 1.5 1.6h12a1.5 1.5 0 0 0 1.5-1.6\"/>",
+    "solid": "<circle cx=\"12\" cy=\"4.7\" r=\"1.3\"/><path d=\"M5 15a7 6.5 0 0 1 14 0Z\"/><path d=\"M3.6 15.5h16.8a1.8 1.8 0 0 1-1.8 1.7H5.4a1.8 1.8 0 0 1-1.8-1.7Z\"/>"
+  },
+  "room-key": {
+    "category": "travel",
+    "keywords": ["keycard", "room", "access", "llave", "tarjeta", "keyless", "hotel"],
+    "aliases": ["key-card", "hotel-key"],
+    "outline": "<rect x=\"2.5\" y=\"6\" width=\"19\" height=\"12\" rx=\"2.5\"/><circle cx=\"7.5\" cy=\"10\" r=\"1.4\"/><path d=\"M6 14h5\"/><path d=\"M15.5 9.5a3 3 0 0 1 0 5M17.5 8a5 5 0 0 1 0 8\"/>",
+    "solid": "<path d=\"M4.5 6h15A2.5 2.5 0 0 1 22 8.5v7A2.5 2.5 0 0 1 19.5 18h-15A2.5 2.5 0 0 1 2 15.5v-7A2.5 2.5 0 0 1 4.5 6Zm3 2.6A1.4 1.4 0 1 0 7.5 11.4 1.4 1.4 0 0 0 7.5 8.6ZM6 13.4a.7.7 0 0 0 0 1.4h5a.7.7 0 0 0 0-1.4Z\" fill-rule=\"evenodd\"/><path d=\"M15.5 9a3.5 3.5 0 0 1 0 6 .8.8 0 0 1-.8-1.35 1.9 1.9 0 0 0 0-3.3A.8.8 0 0 1 15.5 9Z\"/>"
+  },
+  "beach-umbrella": {
+    "category": "travel",
+    "keywords": ["umbrella", "parasol", "beach", "sombrilla", "playa", "sunshade", "sun"],
+    "aliases": ["beach-parasol", "sunshade"],
+    "outline": "<path d=\"M3.5 11a8.5 8 0 0 1 17 0Z\"/><path d=\"M12 3.5V21\"/><path d=\"M9.5 21h5\"/><path d=\"M8 11c0-3 1-5.5 4-7.5M16 11c0-3-1-5.5-4-7.5\"/>",
+    "solid": "<path d=\"M12 2.5a9.3 9.3 0 0 0-9.2 8 .6.6 0 0 0 .6.7h17.2a.6.6 0 0 0 .6-.7A9.3 9.3 0 0 0 12 2.5Z\"/><rect x=\"11.2\" y=\"10.5\" width=\"1.6\" height=\"10\" rx=\"0.8\"/><path d=\"M9 20.2h6a.8.8 0 0 1 0 1.6H9a.8.8 0 0 1 0-1.6Z\"/>"
+  }
+}
