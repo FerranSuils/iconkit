@@ -1,0 +1,268 @@
+{
+  "wheat": {
+    "category": "agriculture",
+    "keywords": ["wheat", "grain", "cereal", "trigo", "espiga", "harvest", "cosecha"],
+    "aliases": ["grain", "cereal"],
+    "outline": "<path d=\"M12 21V5\"/><path d=\"M12 9 8.5 6.5M12 9 15.5 6.5M12 13 8.5 10.5M12 13 15.5 10.5M12 17 8.5 14.5M12 17 15.5 14.5\"/><path d=\"M12 5 10 3.5M12 5 14 3.5\"/>",
+    "solid": null
+  },
+  "corn-crop": {
+    "category": "agriculture",
+    "keywords": ["corn", "maize", "cob", "maiz", "mazorca", "choclo", "crop"],
+    "aliases": ["maize", "corn-cob"],
+    "outline": "<path d=\"M12 3.5c-2.2 0-3.6 3.2-3.6 8s1.4 8 3.6 8 3.6-3.2 3.6-8-1.4-8-3.6-8Z\"/><path d=\"M12 5.5v13\"/><path d=\"M9 8.5h6M8.6 12h6.8M8.6 15.5h6.8\"/><path d=\"M8.6 18.5c-2.2.6-3.8-.4-4.4-2.6 2.2-.4 3.8.6 4.4 2.6Z\"/><path d=\"M15.4 18.5c2.2.6 3.8-.4 4.4-2.6-2.2-.4-3.8.6-4.4 2.6Z\"/>",
+    "solid": "<path d=\"M12 3c-2.4 0-3.9 3.4-3.9 8.5S9.6 21 12 21s3.9-4.4 3.9-9.5S14.4 3 12 3Z\"/><path d=\"M8.7 18.4c-2.4.6-4.1-.5-4.7-2.9 2.4-.4 4.1.7 4.7 2.9Z\"/><path d=\"M15.3 18.4c2.4.6 4.1-.5 4.7-2.9-2.4-.4-4.1.7-4.7 2.9Z\"/>"
+  },
+  "seeds-bag": {
+    "category": "agriculture",
+    "keywords": ["seeds", "seed", "bag", "sack", "semillas", "semilla", "saco", "bolsa", "sowing"],
+    "aliases": ["seed-sack", "seed-bag"],
+    "outline": "<path d=\"M7 9.5h10l-.7 9.6a2 2 0 0 1-2 1.9H9.7a2 2 0 0 1-2-1.9Z\"/><path d=\"M7 9.5 8.6 6.4a1 1 0 0 1 .9-.6h5a1 1 0 0 1 .9.6L17 9.5\"/><path d=\"M9.5 5.8 8.7 4M14.5 5.8 15.3 4\"/><path d=\"M12 16.5v-2.3\"/><path d=\"M12 14.2c-.6-1-1.7-1.4-3-1.2.1 1.3 1.2 2 3 1.2Z\"/><path d=\"M12 13.8c.5-.9 1.6-1.3 2.8-1.1-.1 1.2-1.1 1.9-2.8 1.1Z\"/>",
+    "solid": "<path fill-rule=\"evenodd\" d=\"M8.7 5.5h6.6a1 1 0 0 1 .9.55l1.6 3.2a1.5 1.5 0 0 1 .16.75l-.66 9.1a2.5 2.5 0 0 1-2.5 2.3H9.2a2.5 2.5 0 0 1-2.5-2.3l-.66-9.1a1.5 1.5 0 0 1 .16-.75l1.6-3.2a1 1 0 0 1 .9-.55Zm2.3 8.4a1.1 1.1 0 1 0 0-2.2 1.1 1.1 0 0 0 0 2.2Zm2.8-.6a1.1 1.1 0 1 0 0-2.2 1.1 1.1 0 0 0 0 2.2Z\"/>"
+  },
+  "watering-can": {
+    "category": "agriculture",
+    "keywords": ["watering", "can", "water", "regadera", "regar", "riego", "garden", "jardin"],
+    "aliases": ["watering-pot", "sprinkling-can"],
+    "outline": "<path d=\"M7 11h9.5v6.5a2.5 2.5 0 0 1-2.5 2.5H9.5A2.5 2.5 0 0 1 7 17.5Z\"/><path d=\"M7 12.5 2.5 9.2\"/><path d=\"M1.8 10.6 4.2 7.8\"/><path d=\"M9.5 11C9.5 8 11 6.5 13.5 6.5c1.4 0 2.5.5 3 1.5\"/>",
+    "solid": null
+  },
+  "plow": {
+    "category": "agriculture",
+    "keywords": ["plow", "plough", "till", "arado", "arar", "labranza", "field"],
+    "aliases": ["plough", "tiller"],
+    "outline": "<path d=\"M3.5 20h4.8l2.2-3.5\"/><path d=\"M8.3 20c5.6 0 9.4-3.6 9.9-9.4\"/><path d=\"M18.2 10.6 17 7.4l3.2 1\"/><path d=\"M10.5 16.5 15 11\"/>",
+    "solid": null
+  },
+  "harvest-basket": {
+    "category": "agriculture",
+    "keywords": ["harvest", "basket", "produce", "fruit", "cesta", "canasta", "cosecha", "fruta"],
+    "aliases": ["produce-basket", "fruit-basket"],
+    "outline": "<path d=\"M4 12h16l-1.5 7.2a2 2 0 0 1-2 1.6H7.5a2 2 0 0 1-2-1.6Z\"/><circle cx=\"8.5\" cy=\"10.6\" r=\"2\"/><circle cx=\"12\" cy=\"9.8\" r=\"2.2\"/><circle cx=\"15.5\" cy=\"10.6\" r=\"2\"/><path d=\"M6.6 15.5h10.8M7 18h10\"/>",
+    "solid": "<path d=\"M4.2 11.5h15.6a1 1 0 0 1 1 1.15l-1.3 6.6a2.5 2.5 0 0 1-2.46 2.05H6.96a2.5 2.5 0 0 1-2.46-2.05l-1.3-6.6a1 1 0 0 1 1-1.15Z\"/><circle cx=\"8.5\" cy=\"10\" r=\"2.2\"/><circle cx=\"12\" cy=\"9.2\" r=\"2.5\"/><circle cx=\"15.5\" cy=\"10\" r=\"2.2\"/>"
+  },
+  "silo": {
+    "category": "agriculture",
+    "keywords": ["silo", "grain", "storage", "grano", "almacen", "tower", "farm"],
+    "aliases": ["grain-silo", "grain-store"],
+    "outline": "<path d=\"M7 20V9\"/><path d=\"M17 20V9\"/><path d=\"M7 9c0-3 2.2-5 5-5s5 2 5 5\"/><path d=\"M6 20h12\"/><path d=\"M7 13h10M7 16.5h10\"/>",
+    "solid": "<path fill-rule=\"evenodd\" d=\"M12 3.2c-3.2 0-5.8 2.3-5.8 5.5V20a1 1 0 0 0 1 1h9.6a1 1 0 0 0 1-1V8.7c0-3.2-2.6-5.5-5.8-5.5Zm-5 9.6h10v1.6H7Zm0 3.4h10v1.6H7Z\"/>"
+  },
+  "greenhouse-farm": {
+    "category": "agriculture",
+    "keywords": ["greenhouse", "glasshouse", "hothouse", "invernadero", "cultivo", "plants", "nursery"],
+    "aliases": ["greenhouse", "glasshouse"],
+    "outline": "<path d=\"M3.5 20V11L12 5l8.5 6v9\"/><path d=\"M2.5 20h19\"/><path d=\"M12 5v15\"/><path d=\"M7.5 8.4V20M16.5 8.4V20\"/><path d=\"M3.5 14h17\"/>",
+    "solid": null
+  },
+  "scarecrow": {
+    "category": "agriculture",
+    "keywords": ["scarecrow", "crow", "field", "espantapajaros", "farm", "guard", "straw"],
+    "aliases": ["straw-man"],
+    "outline": "<circle cx=\"12\" cy=\"7.5\" r=\"3\"/><path d=\"M8.5 6 12 2.8 15.5 6\"/><path d=\"M7.5 6h9\"/><path d=\"M12 21V10.5\"/><path d=\"M6 12h12\"/><path d=\"M6 12 4 14.5M6 12l1.2 2.6M18 12l2 2.5M18 12l-1.2 2.6\"/><path d=\"M10.8 7.3h.01M13.2 7.3h.01\"/>",
+    "solid": null
+  },
+  "pitchfork": {
+    "category": "agriculture",
+    "keywords": ["pitchfork", "fork", "hay", "horca", "bieldo", "farm", "tool"],
+    "aliases": ["hay-fork", "pitch-fork"],
+    "outline": "<path d=\"M12 20.5V9\"/><path d=\"M7.5 9V4M12 9V3.5M16.5 9V4\"/><path d=\"M7.5 9h9\"/><path d=\"M10.5 20.5h3\"/>",
+    "solid": null
+  },
+  "hay-bale": {
+    "category": "agriculture",
+    "keywords": ["hay", "bale", "straw", "haystack", "heno", "paja", "bala", "fardo"],
+    "aliases": ["straw-bale", "haystack"],
+    "outline": "<circle cx=\"12\" cy=\"14\" r=\"7\"/><path d=\"M5.6 11.6c3.8-.9 9-.9 12.8 0\"/><path d=\"M5.2 15h13.6\"/><path d=\"M8 8.5c2.4-.5 5.6-.5 8 0\"/><path d=\"M8 19.5c2.4.5 5.6.5 8 0\"/><path d=\"M4 21h16\"/>",
+    "solid": "<path fill-rule=\"evenodd\" d=\"M12 6.8a7.2 7.2 0 1 0 0 14.4 7.2 7.2 0 0 0 0-14.4Zm-5.9 5.1h11.8v1.4H6.1Zm-.1 3.4h12v1.4H6Z\"/>"
+  },
+  "windmill-farm": {
+    "category": "agriculture",
+    "keywords": ["windmill", "wind", "pump", "water", "molino", "viento", "bomba", "farm"],
+    "aliases": ["wind-pump", "windpump"],
+    "outline": "<circle cx=\"11\" cy=\"6\" r=\"1\"/><path d=\"M11 6V2M11 6l3.5 2M11 6l3.5-2M11 6l-3.5 2M11 6l-3.5-2M11 6v4\"/><circle cx=\"11\" cy=\"6\" r=\"4\"/><path d=\"M15 6h4.5l-1.5 2.5h-1.5\"/><path d=\"M8 21 11 10l3 11\"/><path d=\"M8.8 18h4.4M9.5 15h3\"/><path d=\"M6.5 21h9\"/>",
+    "solid": null
+  },
+  "irrigation-sprinkler": {
+    "category": "agriculture",
+    "keywords": ["sprinkler", "irrigation", "water", "spray", "aspersor", "riego", "irrigacion", "rociador"],
+    "aliases": ["sprinkler", "water-sprinkler"],
+    "outline": "<path d=\"M12 21v-7\"/><rect x=\"9.5\" y=\"12.5\" width=\"5\" height=\"2.5\" rx=\"1\"/><path d=\"M14.5 13.5c2.5-.8 4.3 0 5 2\"/><path d=\"M9.5 13.5c-2.5-.8-4.3 0-5 2\"/><path d=\"M12 12.5c-.8-1-.8-2.2 0-3.2.8 1 .8 2.2 0 3.2Z\"/><path d=\"M19 15.5h.01M5 15.5h.01\"/><path d=\"M9.5 21h5\"/>",
+    "solid": null
+  },
+  "crop-field": {
+    "category": "agriculture",
+    "keywords": ["field", "crop", "furrow", "rows", "campo", "cultivo", "surco", "siembra"],
+    "aliases": ["field", "farmland"],
+    "outline": "<path d=\"M4 20h16\"/><path d=\"M8 13h8\"/><path d=\"M6.5 20 8 13M11 20l.6-7M13 20l-.6-7M17.5 20 16 13\"/><path d=\"M12 20v-3M12 17c-.9-.4-1.3-1.3-1-2.4.9.1 1.3 1 1 2.4M12 17c.9-.4 1.3-1.3 1-2.4-.9.1-1.3 1-1 2.4\"/>",
+    "solid": null
+  },
+  "chicken-coop": {
+    "category": "agriculture",
+    "keywords": ["coop", "chicken", "hen", "henhouse", "gallinero", "gallina", "pollo", "aves"],
+    "aliases": ["henhouse", "hen-coop"],
+    "outline": "<path d=\"M4 20V11L12 5.5 20 11v9\"/><path d=\"M2.5 20h19\"/><circle cx=\"12\" cy=\"14.8\" r=\"2.6\"/><path d=\"M9.4 15.9h5.2\"/><path d=\"M12 5.5V3\"/>",
+    "solid": "<path fill-rule=\"evenodd\" d=\"M12 4.7 3 11.1V20a1 1 0 0 0 1 1h16a1 1 0 0 0 1-1v-8.9L12 4.7Zm0 7.5a2.6 2.6 0 1 0 0 5.2 2.6 2.6 0 0 0 0-5.2Z\"/>"
+  },
+  "cow-farm": {
+    "category": "agriculture",
+    "keywords": ["cow", "cattle", "livestock", "vaca", "ganado", "res", "farm"],
+    "aliases": ["dairy-cow", "farm-cow"],
+    "outline": "<rect x=\"4.5\" y=\"9.5\" width=\"11\" height=\"6.2\" rx=\"2.6\"/><path d=\"M15.5 12.4h3.2a1.4 1.4 0 0 1 1.4 1.4v1.1a1.4 1.4 0 0 1-1.4 1.4h-1.8a1.4 1.4 0 0 1-1.4-1.4Z\"/><path d=\"M16.6 12.4 16 10.4M19.2 12.4l.6-2\"/><path d=\"M6.5 15.7v3.1M9.5 15.7v3.1M13 15.7v3.1M16.5 15.3v3.5\"/><path d=\"M4.5 11.5 3 12.8l.6 2.2\"/><circle cx=\"8\" cy=\"11.6\" r=\"1.4\"/><path d=\"M18 14h.01\"/>",
+    "solid": null
+  },
+  "sheep-farm": {
+    "category": "agriculture",
+    "keywords": ["sheep", "lamb", "wool", "livestock", "oveja", "cordero", "lana", "ganado"],
+    "aliases": ["woolly-sheep", "farm-sheep"],
+    "outline": "<path d=\"M8 15.5a2.6 2.6 0 0 1-.6-5 2.7 2.7 0 0 1 2.3-2.8 2.7 2.7 0 0 1 4.6 0 2.7 2.7 0 0 1 2.3 2.8 2.6 2.6 0 0 1-.6 5Z\"/><ellipse cx=\"17\" cy=\"13.6\" rx=\"1.7\" ry=\"2.1\"/><path d=\"M15.6 12.6c-1.1 0-1.8.7-1.8 1.8\"/><path d=\"M9 15.5v3.3M12 15.5v3.3M15 15.5v3.3\"/><path d=\"M17.2 13.2h.01\"/>",
+    "solid": "<path d=\"M8 15.5a2.6 2.6 0 0 1-.6-5 2.7 2.7 0 0 1 2.3-2.8 2.7 2.7 0 0 1 4.6 0 2.7 2.7 0 0 1 2.3 2.8 2.6 2.6 0 0 1-.6 5Z\"/><ellipse cx=\"17.2\" cy=\"13.6\" rx=\"1.8\" ry=\"2.2\"/><rect x=\"8.5\" y=\"15\" width=\"1.5\" height=\"4\" rx=\".75\"/><rect x=\"11.3\" y=\"15\" width=\"1.5\" height=\"4\" rx=\".75\"/><rect x=\"14.2\" y=\"15\" width=\"1.5\" height=\"4\" rx=\".75\"/>"
+  },
+  "egg-basket": {
+    "category": "agriculture",
+    "keywords": ["egg", "eggs", "basket", "huevo", "huevos", "cesta", "canasta", "farm"],
+    "aliases": ["eggs", "egg-tray"],
+    "outline": "<path d=\"M5 13h14l-1.2 6.1a2 2 0 0 1-2 1.6H8.2a2 2 0 0 1-2-1.6Z\"/><path d=\"M7.5 13a4.5 4.5 0 0 1 9 0\"/><ellipse cx=\"9.5\" cy=\"11.5\" rx=\"1.7\" ry=\"2.2\"/><ellipse cx=\"12.3\" cy=\"11\" rx=\"1.7\" ry=\"2.2\"/><ellipse cx=\"15\" cy=\"11.8\" rx=\"1.6\" ry=\"2.1\"/>",
+    "solid": "<path d=\"M4.6 12.5h14.8a1 1 0 0 1 1 1.15l-1.05 5.5a2.5 2.5 0 0 1-2.45 2H8.15a2.5 2.5 0 0 1-2.45-2L3.6 13.65a1 1 0 0 1 1-1.15Z\"/><ellipse cx=\"9.5\" cy=\"11\" rx=\"1.8\" ry=\"2.4\"/><ellipse cx=\"12.3\" cy=\"10.5\" rx=\"1.8\" ry=\"2.4\"/><ellipse cx=\"15\" cy=\"11.4\" rx=\"1.7\" ry=\"2.3\"/>"
+  },
+  "milk-can": {
+    "category": "agriculture",
+    "keywords": ["milk", "can", "churn", "dairy", "leche", "lechera", "cantaro", "lacteo"],
+    "aliases": ["milk-churn", "milk-jug"],
+    "outline": "<path d=\"M9.4 4.5h5.2l.4 2H9Z\"/><path d=\"M9.5 6.5 7.5 10.5V20a1 1 0 0 0 1 1h7a1 1 0 0 0 1-1v-9.5L14.5 6.5\"/><path d=\"M7.5 15h9\"/><path d=\"M7.6 11.6c-1 .2-1.5 1-1.4 2M16.4 11.6c1 .2 1.5 1 1.4 2\"/>",
+    "solid": "<polygon points=\"9.2,6.4 8.9,4.4 15.1,4.4 14.8,6.4\"/><path fill-rule=\"evenodd\" d=\"M9.6 6.5h4.8l1.9 3.7a1.5 1.5 0 0 1 .2.75V20a1.3 1.3 0 0 1-1.3 1.3H8.8A1.3 1.3 0 0 1 7.5 20v-9.05a1.5 1.5 0 0 1 .2-.75Zm-1.5 7.7h7.8v1.5H8.1Z\"/>"
+  },
+  "honey-jar": {
+    "category": "agriculture",
+    "keywords": ["honey", "jar", "bee", "pot", "miel", "tarro", "abeja", "dulce"],
+    "aliases": ["honey-pot", "honeypot"],
+    "outline": "<path d=\"M7 9h10v10a2 2 0 0 1-2 2H9a2 2 0 0 1-2-2Z\"/><path d=\"M6.5 9V7.6a1 1 0 0 1 1-1h9a1 1 0 0 1 1 1V9\"/><path d=\"M8.2 6.6c.8-1.4 2.2-2.1 3.8-2.1s3 .7 3.8 2.1\"/><path d=\"M12 12.2l2 1.15v2.3L12 16.8l-2-1.15v-2.3Z\"/>",
+    "solid": "<path fill-rule=\"evenodd\" d=\"M7.5 6.1h9a1.5 1.5 0 0 1 1.5 1.5v.9a1 1 0 0 1-.5.87V19a2.5 2.5 0 0 1-2.5 2.5H9A2.5 2.5 0 0 1 6.5 19V9.37a1 1 0 0 1-.5-.87v-.9A1.5 1.5 0 0 1 7.5 6.1Zm4.5 5.9-2.2 1.27v2.54L12 17.05l2.2-1.27v-2.54Z\"/><path d=\"M8.2 6c.8-1.3 2.2-2 3.8-2s3 .7 3.8 2Z\"/>"
+  },
+  "beehive-farm": {
+    "category": "agriculture",
+    "keywords": ["beehive", "hive", "bee", "apiary", "colmena", "abeja", "apicultura", "panal"],
+    "aliases": ["hive", "apiary"],
+    "outline": "<path d=\"M6.5 20a5.5 5 0 0 1 11 0Z\"/><path d=\"M7.6 17h8.8M8.6 14h6.8M10 11.2h4\"/><path d=\"M11.4 11.2C11.4 9 12 7.7 12 7.7s.6 1.3.6 3.5\"/><path d=\"M11 20v-1.4a1 1 0 0 1 2 0V20\"/><circle cx=\"17.5\" cy=\"8\" r=\"1.2\"/><path d=\"M16.6 7.4c-.9-.5-1.7-.3-1.9.4M18.4 7.4c.9-.5 1.7-.3 1.9.4\"/>",
+    "solid": "<path fill-rule=\"evenodd\" d=\"M12 9.8c-3.2 0-5.9 3-6.2 6.9a1 1 0 0 0 1 1.08h2.3v-.9a1.9 1.9 0 0 1 3.8 0v.9h2.3a1 1 0 0 0 1-1.08C17.9 12.8 15.2 9.8 12 9.8Zm-3.6 3.6h7.2v1.3H8.4Zm-1 3h9.2v1.3H7.4Z\"/><circle cx=\"17.8\" cy=\"7.6\" r=\"1.2\"/>"
+  },
+  "farmer": {
+    "category": "agriculture",
+    "keywords": ["farmer", "peasant", "agricultor", "granjero", "campesino", "hat", "person"],
+    "aliases": ["peasant", "grower"],
+    "outline": "<path d=\"M9 8.4c0-1.8 1.35-3 3-3s3 1.2 3 3\"/><path d=\"M6.5 8.4h11\"/><circle cx=\"12\" cy=\"11\" r=\"2.6\"/><path d=\"M5.8 21c0-3.5 2.8-5.8 6.2-5.8s6.2 2.3 6.2 5.8\"/><path d=\"M10.5 15.6v5.4M13.5 15.6v5.4\"/>",
+    "solid": null
+  },
+  "shovel-farm": {
+    "category": "agriculture",
+    "keywords": ["shovel", "spade", "dig", "pala", "cavar", "excavar", "garden"],
+    "aliases": ["garden-spade", "digging-spade"],
+    "outline": "<path d=\"M10 3.2h4v1.6a2 2 0 0 1-4 0Z\"/><path d=\"M12 4.8V14\"/><path d=\"M8.7 14h6.6L12 20.5Z\"/>",
+    "solid": null
+  },
+  "rake": {
+    "category": "agriculture",
+    "keywords": ["rake", "garden", "leaves", "rastrillo", "rastro", "jardin", "hojas"],
+    "aliases": ["garden-rake", "leaf-rake"],
+    "outline": "<path d=\"M12 4.5V13\"/><path d=\"M6.5 13h11\"/><path d=\"M7 13v3.2M9.7 13v3.6M12 13v3.8M14.3 13v3.6M17 13v3.2\"/><path d=\"M10.5 4.5h3\"/>",
+    "solid": null
+  },
+  "wheelbarrow-farm": {
+    "category": "agriculture",
+    "keywords": ["wheelbarrow", "barrow", "cart", "carretilla", "carro", "carreta", "garden"],
+    "aliases": ["garden-cart", "farm-barrow"],
+    "outline": "<path d=\"M3.5 12h13l-2.2 4.6H7.2Z\"/><path d=\"M4.5 12c.9-2.6 3.4-4.1 7-4.1 2.5 0 4.2 1.4 4.4 4.1\"/><circle cx=\"8\" cy=\"19\" r=\"2\"/><path d=\"M8.9 16.6 8 19\"/><path d=\"M14 16.4 19 13\"/><path d=\"M13.5 16.6 14.5 19.5\"/>",
+    "solid": null
+  },
+  "tractor-plow": {
+    "category": "agriculture",
+    "keywords": ["tractor", "plow", "plough", "farm", "arado", "labranza", "field"],
+    "aliases": ["tractor-plough", "plowing"],
+    "outline": "<circle cx=\"9\" cy=\"15.5\" r=\"3.8\"/><circle cx=\"17.5\" cy=\"17\" r=\"2.2\"/><circle cx=\"9\" cy=\"15.5\" r=\"1.1\"/><path d=\"M6.5 12V8.5h3.5a1 1 0 0 1 .9.6l1 2.4\"/><path d=\"M11.9 11.5h4.1a1.4 1.4 0 0 1 1.4 1.4v3\"/><path d=\"M6.5 11.5h5.4\"/><path d=\"M6 17.5 3 20.5\"/><path d=\"M3 20.5 2 18.7M3 20.5l2.2-.3\"/>",
+    "solid": null
+  },
+  "barn-silo": {
+    "category": "agriculture",
+    "keywords": ["barn", "silo", "farm", "ranch", "granero", "granja", "establo"],
+    "aliases": ["barn-and-silo", "ranch-barn"],
+    "outline": "<path d=\"M2.5 21V11.5l5.5-3 5.5 3V21\"/><path d=\"M6 21v-4.5h4V21\"/><path d=\"M16 21V13.5a2.5 2.5 0 0 1 5 0V21\"/><path d=\"M16 16.5h5\"/><path d=\"M2 21h20\"/>",
+    "solid": "<path d=\"M8 7.4 2.2 10.5a1 1 0 0 0-.5.9V21h3.8v-4.5a1.5 1.5 0 0 1 3 0V21h4.2V11.4a1 1 0 0 0-.5-.9L8 7.4Z\"/><path d=\"M18.5 10.8a3 3 0 0 0-3 3V21h6v-7.2a3 3 0 0 0-3-3Z\"/><rect x=\"1.5\" y=\"19.8\" width=\"21\" height=\"1.5\" rx=\".7\"/>"
+  },
+  "fence-farm": {
+    "category": "agriculture",
+    "keywords": ["fence", "rail", "paddock", "valla", "cerca", "cercado", "corral"],
+    "aliases": ["farm-fence", "rail-fence"],
+    "outline": "<path d=\"M4.5 7.5V18.5M9.5 7.5V18.5M14.5 7.5V18.5M19.5 7.5V18.5\"/><path d=\"M2.5 11h19M2.5 15h19\"/>",
+    "solid": null
+  },
+  "sunflower-field": {
+    "category": "agriculture",
+    "keywords": ["sunflower", "flower", "bloom", "girasol", "flor", "campo", "field"],
+    "aliases": ["sun-flower", "helianthus"],
+    "outline": "<circle cx=\"12\" cy=\"7.5\" r=\"2.5\"/><circle cx=\"15.6\" cy=\"7.5\" r=\"1.3\"/><circle cx=\"14.5\" cy=\"10.1\" r=\"1.3\"/><circle cx=\"12\" cy=\"11.1\" r=\"1.3\"/><circle cx=\"9.5\" cy=\"10.1\" r=\"1.3\"/><circle cx=\"8.4\" cy=\"7.5\" r=\"1.3\"/><circle cx=\"9.5\" cy=\"4.9\" r=\"1.3\"/><circle cx=\"12\" cy=\"3.9\" r=\"1.3\"/><circle cx=\"14.5\" cy=\"4.9\" r=\"1.3\"/><path d=\"M12 11v8\"/><path d=\"M12 15c-1.2-1.4-3-1.7-4.6-1 .3 1.7 2 2.6 4.6 1Z\"/><path d=\"M6 19.5h12\"/>",
+    "solid": "<circle cx=\"15.7\" cy=\"7.5\" r=\"1.6\"/><circle cx=\"14.6\" cy=\"10.2\" r=\"1.6\"/><circle cx=\"12\" cy=\"11.3\" r=\"1.6\"/><circle cx=\"9.4\" cy=\"10.2\" r=\"1.6\"/><circle cx=\"8.3\" cy=\"7.5\" r=\"1.6\"/><circle cx=\"9.4\" cy=\"4.8\" r=\"1.6\"/><circle cx=\"12\" cy=\"3.7\" r=\"1.6\"/><circle cx=\"14.6\" cy=\"4.8\" r=\"1.6\"/><circle cx=\"12\" cy=\"7.5\" r=\"3\"/><rect x=\"11.1\" y=\"10.5\" width=\"1.8\" height=\"8.5\" rx=\".9\"/><path d=\"M12 15.5c-1.3-1.5-3.2-1.8-4.9-1 .3 1.8 2.1 2.8 4.9 1Z\"/>"
+  },
+  "vineyard": {
+    "category": "agriculture",
+    "keywords": ["vineyard", "grapes", "vine", "wine", "vinedo", "uvas", "vid", "vino"],
+    "aliases": ["grapevine", "grape-vine"],
+    "outline": "<circle cx=\"10.8\" cy=\"9\" r=\"1.4\"/><circle cx=\"13.2\" cy=\"9\" r=\"1.4\"/><circle cx=\"9.6\" cy=\"11.3\" r=\"1.4\"/><circle cx=\"12\" cy=\"11.3\" r=\"1.4\"/><circle cx=\"14.4\" cy=\"11.3\" r=\"1.4\"/><circle cx=\"10.8\" cy=\"13.6\" r=\"1.4\"/><circle cx=\"13.2\" cy=\"13.6\" r=\"1.4\"/><circle cx=\"12\" cy=\"15.9\" r=\"1.4\"/><path d=\"M12 7.6V6\"/><path d=\"M12 6c1.4-1.8 3.8-2 5.5-.6-.4 2.2-2.8 2.9-5.5.6Z\"/>",
+    "solid": "<circle cx=\"10.8\" cy=\"9\" r=\"1.6\"/><circle cx=\"13.2\" cy=\"9\" r=\"1.6\"/><circle cx=\"9.5\" cy=\"11.4\" r=\"1.6\"/><circle cx=\"12\" cy=\"11.4\" r=\"1.6\"/><circle cx=\"14.5\" cy=\"11.4\" r=\"1.6\"/><circle cx=\"10.8\" cy=\"13.8\" r=\"1.6\"/><circle cx=\"13.2\" cy=\"13.8\" r=\"1.6\"/><circle cx=\"12\" cy=\"16.2\" r=\"1.6\"/><path d=\"M12 5.6c1.4-1.8 3.8-2 5.5-.6-.4 2.2-2.8 2.9-5.5.6Z\"/><rect x=\"11.3\" y=\"6\" width=\"1.4\" height=\"3\" rx=\".7\"/>"
+  },
+  "orchard": {
+    "category": "agriculture",
+    "keywords": ["orchard", "fruit", "tree", "apple", "huerto", "frutal", "arbol", "manzana"],
+    "aliases": ["fruit-tree", "fruit-orchard"],
+    "outline": "<circle cx=\"12\" cy=\"9\" r=\"6\"/><path d=\"M12 15v5\"/><path d=\"M9 20h6\"/><circle cx=\"10\" cy=\"8\" r=\".8\"/><circle cx=\"14\" cy=\"8.5\" r=\".8\"/><circle cx=\"12\" cy=\"11\" r=\".8\"/><circle cx=\"9.5\" cy=\"11\" r=\".8\"/><circle cx=\"14.5\" cy=\"11\" r=\".8\"/>",
+    "solid": "<path fill-rule=\"evenodd\" d=\"M12 2.8a6.2 6.2 0 0 0-1 12.32V20a1 1 0 0 0 2 0v-4.88A6.2 6.2 0 0 0 12 2.8Zm-2 4.9a1 1 0 1 1 0 2 1 1 0 0 1 0-2Zm4 0a1 1 0 1 1 0 2 1 1 0 0 1 0-2Zm-2 3.4a1 1 0 1 1 0 2 1 1 0 0 1 0-2Z\"/><rect x=\"8\" y=\"19.3\" width=\"8\" height=\"1.6\" rx=\".8\"/>"
+  },
+  "well-water": {
+    "category": "agriculture",
+    "keywords": ["well", "water", "draw", "pozo", "agua", "noria", "farm"],
+    "aliases": ["water-well", "draw-well"],
+    "outline": "<path d=\"M3.5 8.5 12 4l8.5 4.5\"/><path d=\"M6.5 13V8.5M17.5 13V8.5\"/><path d=\"M6 13h12v6.5a1 1 0 0 1-1 1H7a1 1 0 0 1-1-1Z\"/><path d=\"M6 13c0-1.2 2.7-2 6-2s6 .8 6 2\"/><path d=\"M12 8.5v3\"/><path d=\"M10.5 11.5h3l-.4 2.2h-2.2Z\"/>",
+    "solid": null
+  },
+  "sickle": {
+    "category": "agriculture",
+    "keywords": ["sickle", "scythe", "harvest", "reap", "hoz", "guadana", "cosechar", "segar"],
+    "aliases": ["reaping-hook", "billhook"],
+    "outline": "<path d=\"M6.5 20.5 9 16.5\"/><path d=\"M9 16.5C16.5 16.5 21 11 20 4\"/>",
+    "solid": null
+  },
+  "hoe-tool": {
+    "category": "agriculture",
+    "keywords": ["hoe", "garden", "weed", "azada", "azadon", "escardar", "tool"],
+    "aliases": ["garden-hoe", "hoe"],
+    "outline": "<path d=\"M6 19 15.5 9.5\"/><path d=\"M15.5 9.5 19 13 15 17\"/>",
+    "solid": null
+  },
+  "compost-farm": {
+    "category": "agriculture",
+    "keywords": ["compost", "bin", "organic", "waste", "abono", "organico", "reciclaje"],
+    "aliases": ["compost-bin", "composter"],
+    "outline": "<path d=\"M5 12h14l-1 8a1 1 0 0 1-1 .9H7a1 1 0 0 1-1-.9Z\"/><path d=\"M4.5 12h15\"/><path d=\"M6.5 12c1-2.5 3-4 5.5-4s4.5 1.5 5.5 4\"/><path d=\"M12 8V6\"/><path d=\"M12 6.5c-.8-1-2-1.2-3.2-.8.2 1.2 1.4 1.9 3.2.8Z\"/><path d=\"M12 6c.7-.9 1.8-1.1 2.9-.7-.2 1.1-1.2 1.7-2.9.7Z\"/><path d=\"M8 15.5h8M8.3 18h7.4\"/>",
+    "solid": "<path d=\"M5 11.5h14a.5.5 0 0 1 .5.55l-.9 8a1.5 1.5 0 0 1-1.5 1.35H6.9a1.5 1.5 0 0 1-1.5-1.35l-.9-8A.5.5 0 0 1 5 11.5Z\"/><path d=\"M12 5.5c-.8-1-2.1-1.3-3.4-.9.2 1.3 1.5 2 3.4.9Z\"/><path d=\"M12 6c.7-.9 1.9-1.2 3.1-.8-.2 1.2-1.3 1.8-3.1.8Z\"/><rect x=\"11.2\" y=\"6\" width=\"1.6\" height=\"5\" rx=\".8\"/>"
+  },
+  "animal-feed": {
+    "category": "agriculture",
+    "keywords": ["feed", "animal", "bucket", "pellets", "pienso", "forraje", "comida", "cubo"],
+    "aliases": ["fodder", "feed-bucket"],
+    "outline": "<path d=\"M6 9.5h12l-1.1 9.8a2 2 0 0 1-2 1.7H9.1a2 2 0 0 1-2-1.7Z\"/><path d=\"M7.5 9.5a4.5 4.5 0 0 1 9 0\"/><path d=\"M9.3 9.5c.4-1.4 1.5-2.2 2.7-2.2s2.3.8 2.7 2.2\"/><path d=\"M10.5 8h.01M12 7.4h.01M13.5 8h.01\"/>",
+    "solid": "<path d=\"M5.8 9h12.4a.6.6 0 0 1 .6.66l-1.05 10a2 2 0 0 1-2 1.8H8.25a2 2 0 0 1-2-1.8L5.2 9.66A.6.6 0 0 1 5.8 9Z\"/><path d=\"M7.2 9c.5-1.7 2.5-2.6 4.8-2.6s4.3.9 4.8 2.6Z\"/>"
+  },
+  "farm-gate": {
+    "category": "agriculture",
+    "keywords": ["gate", "fence", "farm", "puerta", "porton", "cancela", "valla"],
+    "aliases": ["field-gate", "farm-gate-door"],
+    "outline": "<path d=\"M4 6.5V20M20 6.5V20\"/><path d=\"M6 9.5h12v8.5H6Z\"/><path d=\"M6 12.3h12M6 15.1h12\"/><path d=\"M6 18 18 9.5\"/>",
+    "solid": null
+  },
+  "harvest-moon": {
+    "category": "agriculture",
+    "keywords": ["moon", "harvest", "autumn", "luna", "cosecha", "otono", "full-moon", "night"],
+    "aliases": ["full-moon", "autumn-moon"],
+    "outline": "<circle cx=\"12\" cy=\"11\" r=\"7\"/><circle cx=\"10\" cy=\"9\" r=\"1.2\"/><circle cx=\"14\" cy=\"12\" r=\"1.6\"/><circle cx=\"9.5\" cy=\"13\" r=\".9\"/><path d=\"M19 3.5l.7 1.6 1.6.7-1.6.7-.7 1.6-.7-1.6-1.6-.7 1.6-.7Z\"/><path d=\"M3 20.5h18\"/>",
+    "solid": "<path fill-rule=\"evenodd\" d=\"M12 4a7 7 0 1 0 0 14 7 7 0 0 0 0-14Zm-2.1 3a1.2 1.2 0 1 1 0 2.4 1.2 1.2 0 0 1 0-2.4Zm4.3 3a1.6 1.6 0 1 1 0 3.2 1.6 1.6 0 0 1 0-3.2Zm-4.8 2a.9.9 0 1 1 0 1.8.9.9 0 0 1 0-1.8Z\"/><path d=\"M19 3.5l.7 1.6 1.6.7-1.6.7-.7 1.6-.7-1.6-1.6-.7 1.6-.7Z\"/><rect x=\"3\" y=\"19.8\" width=\"18\" height=\"1.5\" rx=\".75\"/>"
+  }
+}

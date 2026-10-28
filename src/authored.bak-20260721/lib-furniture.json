@@ -1,0 +1,831 @@
+{
+  "sofa": {
+    "category": "furniture",
+    "keywords": [
+      "sofa",
+      "couch",
+      "settee",
+      "furniture",
+      "sofá",
+      "mueble",
+      "salón",
+      "seat"
+    ],
+    "aliases": [
+      "couch",
+      "settee"
+    ],
+    "outline": "<path d=\"M4 10.5V8a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v2.5\"/><path d=\"M4 10.5a2 2 0 0 0-2 2V16a1 1 0 0 0 1 1h18a1 1 0 0 0 1-1v-3.5a2 2 0 0 0-4 0V14H6v-1.5a2 2 0 0 0-2-2Z\"/><path d=\"M5 17v2M19 17v2\"/>",
+    "solid": "<path d=\"M6 5a2 2 0 0 0-2 2v2.05A3 3 0 0 0 2 12v5a1 1 0 0 0 1 1v1a1 1 0 0 0 2 0v-1h14v1a1 1 0 0 0 2 0v-1a1 1 0 0 0 1-1v-5a3 3 0 0 0-2-2.95V7a2 2 0 0 0-2-2Zm0 3h12v1.05A3 3 0 0 0 16 12v1H8v-1a3 3 0 0 0-2-2.95Z\" fill-rule=\"evenodd\"/>"
+  },
+  "armchair": {
+    "category": "furniture",
+    "keywords": [
+      "armchair",
+      "chair",
+      "seat",
+      "furniture",
+      "sillón",
+      "butaca",
+      "asiento",
+      "mueble"
+    ],
+    "aliases": [
+      "chair",
+      "easy-chair"
+    ],
+    "outline": "<path d=\"M7 11V8.5A2.5 2.5 0 0 1 9.5 6h5A2.5 2.5 0 0 1 17 8.5V11\"/><path d=\"M7 11a2 2 0 0 0-2 2v3a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-3a2 2 0 0 0-4 0v1H9v-1a2 2 0 0 0-2-2Z\"/><path d=\"M7 17v2M17 17v2\"/>",
+    "solid": "<path d=\"M8 5a3 3 0 0 0-3 3v2.05A2.5 2.5 0 0 0 3 12.5V16a1 1 0 0 0 1 1v1.5a1 1 0 0 0 2 0V18h12v.5a1 1 0 0 0 2 0V17a1 1 0 0 0 1-1v-3.5A2.5 2.5 0 0 0 19 10.05V8a3 3 0 0 0-3-3Zm0 3h8v2.05A2.5 2.5 0 0 0 15 12.5V13H9v-.5A2.5 2.5 0 0 0 7 10.05V8Z\" fill-rule=\"evenodd\"/>"
+  },
+  "dining-table": {
+    "category": "furniture",
+    "keywords": [
+      "dining-table",
+      "table",
+      "dinner",
+      "furniture",
+      "mesa",
+      "comedor",
+      "mueble",
+      "eat"
+    ],
+    "aliases": [
+      "dinner-table"
+    ],
+    "outline": "<rect x=\"3\" y=\"9\" width=\"18\" height=\"2\" rx=\"1\"/><path d=\"M5.5 11v6M18.5 11v6M9.5 11v6M14.5 11v6\"/><circle cx=\"12\" cy=\"6.5\" r=\"2\"/><path d=\"M8.5 5v3M15.5 5v3\"/>",
+    "solid": null
+  },
+  "bed-furniture": {
+    "category": "furniture",
+    "keywords": [
+      "bed",
+      "bedroom",
+      "sleep",
+      "furniture",
+      "cama",
+      "dormitorio",
+      "dormir",
+      "mueble"
+    ],
+    "aliases": [
+      "bed",
+      "bedroom"
+    ],
+    "outline": "<path d=\"M3 10v8\"/><path d=\"M3 13h15a3 3 0 0 1 3 3v2\"/><path d=\"M3 15.5h18\"/><path d=\"M7 13v2.5\"/><path d=\"M3 18v2M21 18v2\"/>",
+    "solid": "<path d=\"M3 9a1 1 0 0 0-1 1v9a1 1 0 0 0 2 0v-.5h16v.5a1 1 0 0 0 2 0v-3.5a4 4 0 0 0-4-4H4V10a1 1 0 0 0-1-1Zm2 4.5h3v2H5Z\" fill-rule=\"evenodd\"/>"
+  },
+  "lamp-furniture": {
+    "category": "furniture",
+    "keywords": [
+      "lamp",
+      "light",
+      "table-lamp",
+      "furniture",
+      "lámpara",
+      "luz",
+      "mueble",
+      "desk-lamp"
+    ],
+    "aliases": [
+      "lamp",
+      "table-lamp"
+    ],
+    "outline": "<path d=\"M8 4h8l2 6H6Z\"/><path d=\"M12 10v7\"/><path d=\"M8.5 17h7\"/>",
+    "solid": "<path d=\"M7.5 4a1 1 0 0 0-1 .7l-2 6A1 1 0 0 0 5.5 12h13a1 1 0 0 0 .95-1.3l-2-6A1 1 0 0 0 16.5 4Z\"/><rect x=\"11\" y=\"11\" width=\"2\" height=\"6\" rx=\"1\"/><rect x=\"8\" y=\"17\" width=\"8\" height=\"1.8\" rx=\"0.9\"/>"
+  },
+  "wardrobe": {
+    "category": "furniture",
+    "keywords": [
+      "wardrobe",
+      "closet",
+      "armoire",
+      "furniture",
+      "armario",
+      "ropero",
+      "clóset",
+      "mueble"
+    ],
+    "aliases": [
+      "closet",
+      "armoire"
+    ],
+    "outline": "<rect x=\"5\" y=\"3\" width=\"14\" height=\"18\" rx=\"1.5\"/><path d=\"M12 3v18\"/><path d=\"M10 10.5v3M14 10.5v3\"/><path d=\"M7 21v1.5M17 21v1.5\"/>",
+    "solid": "<path d=\"M6 3a2 2 0 0 0-2 2v15a1 1 0 0 0 1 1v1a1 1 0 0 0 2 0v-1h10v1a1 1 0 0 0 2 0v-1a1 1 0 0 0 1-1V5a2 2 0 0 0-2-2Zm5.5 3.5v11h-1v-11Zm-2.9 7.5a.8.8 0 1 0 0 1.6.8.8 0 0 0 0-1.6Zm5.6 0a.8.8 0 1 0 0 1.6.8.8 0 0 0 0-1.6Z\" fill-rule=\"evenodd\"/>"
+  },
+  "dresser": {
+    "category": "furniture",
+    "keywords": [
+      "dresser",
+      "drawers",
+      "chest",
+      "furniture",
+      "cómoda",
+      "cajonera",
+      "mueble",
+      "bureau"
+    ],
+    "aliases": [
+      "chest-of-drawers",
+      "bureau"
+    ],
+    "outline": "<rect x=\"4\" y=\"5\" width=\"16\" height=\"14\" rx=\"1.5\"/><path d=\"M4 9.7h16M4 14.3h16\"/><path d=\"M10 7.3h4M10 12h4M10 16.7h4\"/><path d=\"M6 19v1.5M18 19v1.5\"/>",
+    "solid": "<path d=\"M5 4a2 2 0 0 0-2 2v13a1 1 0 0 0 1 1v1a1 1 0 0 0 2 0v-1h12v1a1 1 0 0 0 2 0v-1a1 1 0 0 0 1-1V6a2 2 0 0 0-2-2Zm5 4h4v1h-4Zm-5 1.2h14v.6H5Zm5 3.3h4v1h-4Zm-5 1.2h14v.6H5Zm5 3.3h4v1h-4Z\" fill-rule=\"evenodd\"/>"
+  },
+  "bookshelf": {
+    "category": "furniture",
+    "keywords": [
+      "bookshelf",
+      "bookcase",
+      "books",
+      "shelf",
+      "furniture",
+      "estantería",
+      "librería",
+      "mueble"
+    ],
+    "aliases": [
+      "bookcase"
+    ],
+    "outline": "<rect x=\"4\" y=\"3\" width=\"16\" height=\"18\" rx=\"1.5\"/><path d=\"M4 9.5h16M4 15.5h16\"/><path d=\"M7 4v5.5M9.5 4v5.5M12 4.5v5\"/><path d=\"M8 10v5.5M10.5 10v5.5M15 10.5v5\"/><path d=\"M7 16v5M9.5 16v5M14 16.5v4.5\"/>",
+    "solid": null
+  },
+  "desk-furniture": {
+    "category": "furniture",
+    "keywords": [
+      "desk",
+      "office",
+      "workspace",
+      "table",
+      "furniture",
+      "escritorio",
+      "oficina",
+      "mueble"
+    ],
+    "aliases": [
+      "office-desk",
+      "writing-desk"
+    ],
+    "outline": "<rect x=\"3\" y=\"8\" width=\"18\" height=\"2\" rx=\"1\"/><path d=\"M5 10v9\"/><rect x=\"14\" y=\"10\" width=\"6\" height=\"9\" rx=\"1\"/><path d=\"M14 13.5h6\"/><path d=\"M16.3 11.6h1.4\"/>",
+    "solid": "<path d=\"M3 8h18a1 1 0 0 1 1 1v1a1 1 0 0 1-1 1h-1v7a1 1 0 0 1-1 1h-4a1 1 0 0 1-1-1v-7H6v8a1 1 0 0 1-2 0v-8a1 1 0 0 1-1-1V9a1 1 0 0 1 1-1Zm12 4v2h3v-2Z\" fill-rule=\"evenodd\"/>"
+  },
+  "stool": {
+    "category": "furniture",
+    "keywords": [
+      "stool",
+      "seat",
+      "furniture",
+      "taburete",
+      "banqueta",
+      "asiento",
+      "mueble"
+    ],
+    "aliases": [],
+    "outline": "<ellipse cx=\"12\" cy=\"8\" rx=\"6.5\" ry=\"2.3\"/><path d=\"M6.5 9.5 5 19M17.5 9.5 19 19M9.5 10 9 19M14.5 10 15 19\"/><path d=\"M6 15h12\"/>",
+    "solid": null
+  },
+  "bench-furniture": {
+    "category": "furniture",
+    "keywords": [
+      "bench",
+      "seat",
+      "furniture",
+      "banco",
+      "asiento",
+      "mueble",
+      "park-bench"
+    ],
+    "aliases": [
+      "bench",
+      "park-bench"
+    ],
+    "outline": "<rect x=\"3\" y=\"9.5\" width=\"18\" height=\"3\" rx=\"1\"/><path d=\"M5 12.5v7M19 12.5v7\"/><path d=\"M5 16h14\"/>",
+    "solid": "<path d=\"M3 9.5h18a1 1 0 0 1 1 1v1a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1v-1a1 1 0 0 1 1-1Z\"/><rect x=\"4.3\" y=\"12.5\" width=\"1.6\" height=\"7\" rx=\"0.8\"/><rect x=\"18.1\" y=\"12.5\" width=\"1.6\" height=\"7\" rx=\"0.8\"/><rect x=\"5\" y=\"15.2\" width=\"14\" height=\"1.4\" rx=\"0.7\"/>"
+  },
+  "mirror-furniture": {
+    "category": "furniture",
+    "keywords": [
+      "mirror",
+      "reflection",
+      "furniture",
+      "espejo",
+      "reflejo",
+      "mueble",
+      "cheval"
+    ],
+    "aliases": [
+      "mirror"
+    ],
+    "outline": "<rect x=\"6\" y=\"2.5\" width=\"12\" height=\"16\" rx=\"6\"/><path d=\"M9.5 6.5 8.5 10.5\"/><path d=\"M12.5 6 10.5 11.5\"/><path d=\"M9 18.5 8 21.5h8l-1-3\"/>",
+    "solid": "<path d=\"M12 2A6 6 0 0 0 6 8v5a6 6 0 0 0 12 0V8a6 6 0 0 0-6-6Zm0 2.2A3.8 3.8 0 0 1 15.8 8v5a3.8 3.8 0 0 1-7.6 0V8A3.8 3.8 0 0 1 12 4.2Z\" fill-rule=\"evenodd\"/><path d=\"M9 18.5 8 21.7h8l-1-3.2Z\"/>"
+  },
+  "rug": {
+    "category": "furniture",
+    "keywords": [
+      "rug",
+      "carpet",
+      "mat",
+      "furniture",
+      "alfombra",
+      "tapete",
+      "mueble",
+      "floor"
+    ],
+    "aliases": [
+      "area-rug",
+      "floor-rug"
+    ],
+    "outline": "<rect x=\"3.5\" y=\"6.5\" width=\"17\" height=\"11\" rx=\"1\"/><rect x=\"6\" y=\"9\" width=\"12\" height=\"6\" rx=\"0.5\"/><path d=\"M12 9.5 14.5 12 12 14.5 9.5 12Z\"/><path d=\"M4 6.5V5M8 6.5V5M12 6.5V5M16 6.5V5M20 6.5V5M4 17.5V19M8 17.5V19M12 17.5V19M16 17.5V19M20 17.5V19\"/>",
+    "solid": null
+  },
+  "curtain": {
+    "category": "furniture",
+    "keywords": [
+      "curtain",
+      "drape",
+      "window",
+      "furniture",
+      "cortina",
+      "visillo",
+      "ventana",
+      "mueble"
+    ],
+    "aliases": [
+      "drapes",
+      "drape"
+    ],
+    "outline": "<path d=\"M2.5 4h19\"/><path d=\"M4 5v13M7 5v12.5M10 5v13\"/><path d=\"M14 5v13M17 5v12.5M20 5v13\"/><path d=\"M3.5 18a1.6 1.6 0 0 0 3.2 0 1.6 1.6 0 0 0 3.3 0\"/><path d=\"M13.5 18a1.6 1.6 0 0 0 3.2 0 1.6 1.6 0 0 0 3.3 0\"/>",
+    "solid": null
+  },
+  "door-furniture": {
+    "category": "furniture",
+    "keywords": [
+      "door",
+      "entrance",
+      "furniture",
+      "puerta",
+      "entrada",
+      "mueble",
+      "doorway"
+    ],
+    "aliases": [
+      "door",
+      "doorway"
+    ],
+    "outline": "<rect x=\"6\" y=\"3\" width=\"12\" height=\"18\" rx=\"1\"/><rect x=\"8.5\" y=\"6\" width=\"7\" height=\"9\" rx=\"0.5\"/><circle cx=\"14.8\" cy=\"12.5\" r=\"0.9\"/><path d=\"M4 21h16\"/>",
+    "solid": "<path d=\"M7 2a1 1 0 0 0-1 1v18h12V3a1 1 0 0 0-1-1Zm2 4.5h5v8H9Zm7 4a1 1 0 1 0 0 2 1 1 0 0 0 0-2Z\" fill-rule=\"evenodd\"/><rect x=\"4\" y=\"20.5\" width=\"16\" height=\"1.4\" rx=\"0.7\"/>"
+  },
+  "window-furniture": {
+    "category": "furniture",
+    "keywords": [
+      "window",
+      "glass",
+      "furniture",
+      "ventana",
+      "cristal",
+      "mueble",
+      "panes"
+    ],
+    "aliases": [
+      "window"
+    ],
+    "outline": "<rect x=\"4\" y=\"4\" width=\"16\" height=\"16\" rx=\"1.5\"/><path d=\"M4 12h16M12 4v16\"/><path d=\"M3 20h18\"/>",
+    "solid": "<path d=\"M5 3a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2Zm6 2h2v6h6v2h-6v6h-2v-6H5v-2h6Z\" fill-rule=\"evenodd\"/><rect x=\"3\" y=\"20.5\" width=\"18\" height=\"1.6\" rx=\"0.8\"/>"
+  },
+  "stairs-furniture": {
+    "category": "furniture",
+    "keywords": [
+      "stairs",
+      "staircase",
+      "steps",
+      "furniture",
+      "escaleras",
+      "peldaños",
+      "mueble",
+      "stairway"
+    ],
+    "aliases": [
+      "staircase",
+      "steps"
+    ],
+    "outline": "<polygon points=\"4.5,20 4.5,16 9.5,16 9.5,12 14.5,12 14.5,8 19.5,8 19.5,20\"/>",
+    "solid": "<polygon points=\"4.5,20 4.5,16 9.5,16 9.5,12 14.5,12 14.5,8 19.5,8 19.5,20\"/>"
+  },
+  "fireplace": {
+    "category": "furniture",
+    "keywords": [
+      "fireplace",
+      "hearth",
+      "fire",
+      "furniture",
+      "chimenea",
+      "hogar",
+      "fuego",
+      "mueble"
+    ],
+    "aliases": [
+      "hearth"
+    ],
+    "outline": "<rect x=\"3\" y=\"4\" width=\"18\" height=\"16\" rx=\"1.5\"/><path d=\"M3 8.5h18\"/><path d=\"M7 20v-5a5 5 0 0 1 10 0v5\"/><path d=\"M12 18c-1.2-.8-1.2-2.2-.3-3.2.2 1 1.3 1.2 1.3 2.4a1.3 1.3 0 0 1-1 .8Z\"/>",
+    "solid": "<path d=\"M4 3a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2Zm0 6h16v10h-2v-4a6 6 0 0 0-12 0v4H4Z\" fill-rule=\"evenodd\"/><path d=\"M12 18c-1.4-.9-1.4-2.6-.3-3.7.2 1.1 1.5 1.4 1.5 2.7a1.4 1.4 0 0 1-1.2 1Z\"/>"
+  },
+  "tv-stand": {
+    "category": "furniture",
+    "keywords": [
+      "tv-stand",
+      "television",
+      "media-console",
+      "furniture",
+      "televisor",
+      "consola",
+      "mueble",
+      "entertainment"
+    ],
+    "aliases": [
+      "media-console",
+      "entertainment-center"
+    ],
+    "outline": "<rect x=\"4.5\" y=\"3\" width=\"15\" height=\"8.5\" rx=\"1.5\"/><path d=\"M10 11.5h4\"/><rect x=\"3\" y=\"13.5\" width=\"18\" height=\"6.5\" rx=\"1\"/><path d=\"M12 13.5v6.5M3 16.75h18\"/><path d=\"M5 20v1.5M19 20v1.5\"/>",
+    "solid": "<rect x=\"4\" y=\"3\" width=\"16\" height=\"8.5\" rx=\"2\"/><path d=\"M10 11.5h4v2h-4z\"/><path d=\"M3.5 13.5h17a.5.5 0 0 1 .5.5v5a1 1 0 0 1-1 1v1.2a.9.9 0 0 1-1.8 0V20H5.8v1.2a.9.9 0 0 1-1.8 0V20a1 1 0 0 1-1-1v-5a.5.5 0 0 1 .5-.5Z\"/>"
+  },
+  "cabinet": {
+    "category": "furniture",
+    "keywords": [
+      "cabinet",
+      "cupboard",
+      "storage",
+      "furniture",
+      "armario",
+      "alacena",
+      "gabinete",
+      "mueble"
+    ],
+    "aliases": [
+      "cupboard"
+    ],
+    "outline": "<rect x=\"4\" y=\"4\" width=\"16\" height=\"15\" rx=\"1.5\"/><path d=\"M12 4v15\"/><path d=\"M10 10v3M14 10v3\"/><path d=\"M6 19v1.5M18 19v1.5\"/>",
+    "solid": "<path d=\"M6 3a2 2 0 0 0-2 2v13a1 1 0 0 0 1 1v1a1 1 0 0 0 2 0v-1h10v1a1 1 0 0 0 2 0v-1a1 1 0 0 0 1-1V5a2 2 0 0 0-2-2Zm5.5 3v11h-1V6Zm-2.9 4.5a.8.8 0 1 0 0 1.6.8.8 0 0 0 0-1.6Zm5.4 0a.8.8 0 1 0 0 1.6.8.8 0 0 0 0-1.6Z\" fill-rule=\"evenodd\"/>"
+  },
+  "drawer": {
+    "category": "furniture",
+    "keywords": [
+      "drawer",
+      "open-drawer",
+      "storage",
+      "furniture",
+      "cajón",
+      "gaveta",
+      "mueble",
+      "pull-out"
+    ],
+    "aliases": [],
+    "outline": "<rect x=\"4\" y=\"8\" width=\"16\" height=\"9\" rx=\"1.5\"/><path d=\"M9 12.5h6\"/><path d=\"M4 8 7 5h10l3 3\"/>",
+    "solid": "<path d=\"M7 4a1 1 0 0 0-.7.3L3.3 7.3A1 1 0 0 0 3 8v8a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V8a1 1 0 0 0-.3-.7l-3-3A1 1 0 0 0 17 4Zm2 8h6a1 1 0 0 1 0 2H9a1 1 0 0 1 0-2Z\" fill-rule=\"evenodd\"/>"
+  },
+  "shelf": {
+    "category": "furniture",
+    "keywords": [
+      "shelf",
+      "wall-shelf",
+      "floating-shelf",
+      "furniture",
+      "estante",
+      "repisa",
+      "balda",
+      "mueble"
+    ],
+    "aliases": [
+      "wall-shelf"
+    ],
+    "outline": "<rect x=\"3\" y=\"11\" width=\"18\" height=\"2\" rx=\"0.5\"/><path d=\"M6 13v2.5h-2M18 13v2.5h2\"/><rect x=\"7.5\" y=\"6\" width=\"3.5\" height=\"5\" rx=\"0.5\"/><path d=\"M14 11V8.5a2 2 0 0 1 4 0V11\"/>",
+    "solid": "<rect x=\"3\" y=\"11\" width=\"18\" height=\"2\" rx=\"0.6\"/><path d=\"M5 13h1.6v2.5a.8.8 0 0 1-1.6 0Z\"/><path d=\"M17.4 13H19v2.5a.8.8 0 0 1-1.6 0Z\"/><rect x=\"7.5\" y=\"6\" width=\"3.5\" height=\"5\" rx=\"0.6\"/><path d=\"M16 6a2 2 0 0 0-2 2v3h4V8a2 2 0 0 0-2-2Z\"/>"
+  },
+  "hanger-furniture": {
+    "category": "furniture",
+    "keywords": [
+      "hanger",
+      "clothes-hanger",
+      "closet",
+      "furniture",
+      "percha",
+      "colgador",
+      "ropa",
+      "mueble"
+    ],
+    "aliases": [
+      "clothes-hanger",
+      "coat-hanger"
+    ],
+    "outline": "<path d=\"M12 7.5a1.8 1.8 0 1 1 2.2 1.8c-1.4.3-2.2 1-2.2 2.2\"/><path d=\"M12 11.5 3.8 18.2a1 1 0 0 0 .6 1.8h15.2a1 1 0 0 0 .6-1.8L12 11.5Z\"/>",
+    "solid": "<path d=\"M12 5.2a2.3 2.3 0 0 0-2.3 2.3 1 1 0 0 0 2 0 .3.3 0 1 1 .6.2c-.9.2-1.6.7-2 1.4L3.4 17.6A1.5 1.5 0 0 0 4.5 20h15a1.5 1.5 0 0 0 1.1-2.4L13 10c.1-.2.4-.4.8-.5A2.3 2.3 0 0 0 12 5.2Z\"/>"
+  },
+  "wall-clock": {
+    "category": "furniture",
+    "keywords": [
+      "wall-clock",
+      "clock",
+      "time",
+      "furniture",
+      "reloj",
+      "hora",
+      "mueble",
+      "reloj-pared"
+    ],
+    "aliases": [
+      "hanging-clock",
+      "wall-watch"
+    ],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"8.5\"/><path d=\"M12 8v4l3 1.8\"/><path d=\"M12 5v1M12 18v1M5 12h1M18 12h1\"/>",
+    "solid": "<path d=\"M12 2.5A9.5 9.5 0 1 0 12 21.5 9.5 9.5 0 0 0 12 2.5Zm.9 4.5a.9.9 0 0 0-1.8 0v4.7l-2.4 1.4a.9.9 0 1 0 .9 1.6l2.9-1.7a.9.9 0 0 0 .4-.8Z\" fill-rule=\"evenodd\"/>"
+  },
+  "picture-frame": {
+    "category": "furniture",
+    "keywords": [
+      "picture-frame",
+      "photo",
+      "frame",
+      "art",
+      "furniture",
+      "cuadro",
+      "marco",
+      "foto"
+    ],
+    "aliases": [
+      "wall-art",
+      "artwork"
+    ],
+    "outline": "<rect x=\"4\" y=\"4\" width=\"16\" height=\"16\" rx=\"1.5\"/><rect x=\"6.5\" y=\"6.5\" width=\"11\" height=\"11\" rx=\"0.5\"/><circle cx=\"9.5\" cy=\"10\" r=\"1.2\"/><path d=\"M7 16.5 11 12l2 2 2.5-3 2.5 5.5\"/>",
+    "solid": "<path d=\"M5 3a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2Zm0 2h14v9.5l-3.2-3.8a.8.8 0 0 0-1.2 0L12 16l-1.4-1.4a.8.8 0 0 0-1.2.1L5 19Zm4.5 1.5a1.6 1.6 0 1 0 0 3.2 1.6 1.6 0 0 0 0-3.2Z\" fill-rule=\"evenodd\"/>"
+  },
+  "plant-pot-home": {
+    "category": "furniture",
+    "keywords": [
+      "plant-pot",
+      "houseplant",
+      "pot",
+      "home",
+      "furniture",
+      "planta",
+      "maceta",
+      "mueble"
+    ],
+    "aliases": [
+      "houseplant",
+      "potted-plant-home"
+    ],
+    "outline": "<path d=\"M7 12h10l-1 7a2 2 0 0 1-2 1.8H10a2 2 0 0 1-2-1.8Z\"/><path d=\"M6 12h12\"/><path d=\"M12 12c0-3 1.5-5 4-5.5.3 2.8-1 5-4 5.5Z\"/><path d=\"M12 12c0-2.5-1.2-4.2-3.5-4.7-.3 2.5.9 4.2 3.5 4.7Z\"/><path d=\"M12 12V8\"/>",
+    "solid": "<path d=\"M6 11a1 1 0 0 0 0 2h.1l.9 6.2A2 2 0 0 0 9 21h6a2 2 0 0 0 2-1.8l.9-6.2H18a1 1 0 0 0 0-2h-5v-1c2.6-.6 3.9-2.8 3.6-5.6a.8.8 0 0 0-.9-.7C13 5 11.6 6.4 11 8c-.6-1.1-1.6-1.9-3-2.2a.8.8 0 0 0-1 .8c-.2 2.3.9 4 3 4.6V11Z\"/>"
+  },
+  "vase-home": {
+    "category": "furniture",
+    "keywords": [
+      "vase",
+      "flowers",
+      "decor",
+      "home",
+      "furniture",
+      "jarrón",
+      "florero",
+      "mueble"
+    ],
+    "aliases": [
+      "flower-vase"
+    ],
+    "outline": "<path d=\"M9 8h6c1.5 2 1.5 4.5 0 6.5a5 5 0 0 1-6 0c-1.5-2-1.5-4.5 0-6.5Z\"/><path d=\"M9 8V6h6v2\"/><path d=\"M12 8V4M12 4a1.5 1.5 0 1 0 1.5 1.5M12 4a1.5 1.5 0 1 1-1.5 1.5\"/>",
+    "solid": "<path d=\"M8.5 5a1 1 0 1 0 0 2h.4A7.7 7.7 0 0 0 7 11.8a6 6 0 0 0 12 0A7.7 7.7 0 0 0 15.1 7h.4a1 1 0 0 0 0-2Z\"/><circle cx=\"12\" cy=\"3.4\" r=\"1.6\"/><path d=\"M11.2 4.2 11.2 6h1.6V4.2Z\"/>"
+  },
+  "chandelier": {
+    "category": "furniture",
+    "keywords": [
+      "chandelier",
+      "ceiling-light",
+      "lighting",
+      "furniture",
+      "araña",
+      "candelabro",
+      "mueble",
+      "lámpara-techo"
+    ],
+    "aliases": [
+      "ceiling-light"
+    ],
+    "outline": "<path d=\"M12 3v3.5\"/><path d=\"M6 9.5a6 4.5 0 0 1 12 0\"/><path d=\"M6 9.5v1.5M18 9.5v1.5M12 6.5v4.5\"/><circle cx=\"6\" cy=\"13\" r=\"2\"/><circle cx=\"12\" cy=\"13\" r=\"2\"/><circle cx=\"18\" cy=\"13\" r=\"2\"/>",
+    "solid": "<path d=\"M11 3.5v3.1A6.5 4.5 0 0 0 5.6 10a1 1 0 0 0 1.8.8A4.5 3 0 0 1 11 8.5v2.1a2.5 2.5 0 1 0 2 0V8.5a4.5 3 0 0 1 3.6 2.3 1 1 0 0 0 1.8-.8A6.5 4.5 0 0 0 13 6.6V3.5a1 1 0 0 0-2 0Z\"/><circle cx=\"6\" cy=\"13\" r=\"2\"/><circle cx=\"18\" cy=\"13\" r=\"2\"/>"
+  },
+  "ceiling-fan": {
+    "category": "furniture",
+    "keywords": [
+      "ceiling-fan",
+      "fan",
+      "cooling",
+      "furniture",
+      "ventilador",
+      "aspas",
+      "mueble",
+      "ventilador-techo"
+    ],
+    "aliases": [
+      "fan"
+    ],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"2\"/><path d=\"M12 10c-.5-2.5-.5-5 .5-6.5 1.5.8 1.8 3.3 1 6.5\"/><path d=\"M14 12c2.5-.5 5-.5 6.5.5-.8 1.5-3.3 1.8-6.5 1\"/><path d=\"M12 14c.5 2.5.5 5-.5 6.5-1.5-.8-1.8-3.3-1-6.5\"/><path d=\"M10 12c-2.5.5-5 .5-6.5-.5.8-1.5 3.3-1.8 6.5-1\"/>",
+    "solid": "<circle cx=\"12\" cy=\"12\" r=\"2.2\"/><path d=\"M11.5 10.2c-.6-2.6-.5-5 .6-6.4a.6.6 0 0 1 .9.1c.9 1.4 1 3.7.3 6.3Z\"/><path d=\"M13.8 11.5c2.6-.6 5-.5 6.4.6a.6.6 0 0 1-.1.9c-1.4.9-3.7 1-6.3.3Z\"/><path d=\"M12.5 13.8c.6 2.6.5 5-.6 6.4a.6.6 0 0 1-.9-.1c-.9-1.4-1-3.7-.3-6.3Z\"/><path d=\"M10.2 12.5c-2.6.6-5 .5-6.4-.6a.6.6 0 0 1 .1-.9c1.4-.9 3.7-1 6.3-.3Z\"/>"
+  },
+  "coffee-table": {
+    "category": "furniture",
+    "keywords": [
+      "coffee-table",
+      "table",
+      "living-room",
+      "furniture",
+      "mesa-centro",
+      "mesita",
+      "salón",
+      "mueble"
+    ],
+    "aliases": [
+      "center-table"
+    ],
+    "outline": "<rect x=\"3.5\" y=\"9\" width=\"17\" height=\"2.2\" rx=\"0.8\"/><path d=\"M6 11.2v6M18 11.2v6\"/><path d=\"M5.5 14.5h13\"/><path d=\"M6 17v1M18 17v1\"/>",
+    "solid": null
+  },
+  "nightstand": {
+    "category": "furniture",
+    "keywords": [
+      "nightstand",
+      "bedside-table",
+      "furniture",
+      "mesita-noche",
+      "mesilla",
+      "buró",
+      "mueble",
+      "nightstand-table"
+    ],
+    "aliases": [
+      "bedside-table",
+      "nightstand-table"
+    ],
+    "outline": "<rect x=\"5\" y=\"10\" width=\"14\" height=\"9\" rx=\"1.5\"/><path d=\"M5 14h14\"/><path d=\"M9.5 12h5\"/><path d=\"M6.5 19v1.5M17.5 19v1.5\"/><path d=\"M10.5 10 11 7h2l.5 3\"/>",
+    "solid": "<path d=\"M6 9a2 2 0 0 0-2 2v7a1 1 0 0 0 1 1v1a1 1 0 0 0 2 0v-1h10v1a1 1 0 0 0 2 0v-1a1 1 0 0 0 1-1v-7a2 2 0 0 0-2-2Zm4 3h4v1.5h-4Z\" fill-rule=\"evenodd\"/><path d=\"M10.5 5a.5.5 0 0 0-.5.6l.5 2.9h4l.5-2.9A.5.5 0 0 0 14.5 5Z\"/>"
+  },
+  "ottoman": {
+    "category": "furniture",
+    "keywords": [
+      "ottoman",
+      "footstool",
+      "pouf",
+      "furniture",
+      "otomana",
+      "puf",
+      "reposapiés",
+      "mueble"
+    ],
+    "aliases": [
+      "pouf",
+      "footstool"
+    ],
+    "outline": "<rect x=\"3.5\" y=\"10\" width=\"17\" height=\"6\" rx=\"2.5\"/><path d=\"M6 16v2M18 16v2\"/><path d=\"M8.5 12.5v1M12 12.5v1M15.5 12.5v1\"/>",
+    "solid": "<rect x=\"3.5\" y=\"9.5\" width=\"17\" height=\"6.5\" rx=\"3\"/><path d=\"M5.5 16h1.6v2a.8.8 0 0 1-1.6 0Z\"/><path d=\"M16.9 16h1.6v2a.8.8 0 0 1-1.6 0Z\"/>"
+  },
+  "recliner": {
+    "category": "furniture",
+    "keywords": [
+      "recliner",
+      "lounge-chair",
+      "armchair",
+      "furniture",
+      "reclinable",
+      "tumbona",
+      "mueble",
+      "sillón-reclinable"
+    ],
+    "aliases": [
+      "lounge-chair",
+      "recliner-chair"
+    ],
+    "outline": "<path d=\"M4 8.5a1.5 1.5 0 0 1 3-.4l-1 7 12 1.4a1.5 1.5 0 0 1 1.3 1.9L19 20\"/><path d=\"M6 15 4 20\"/><path d=\"M6.6 12 18 13.3\"/>",
+    "solid": null
+  },
+  "bunk-bed": {
+    "category": "furniture",
+    "keywords": [
+      "bunk-bed",
+      "bunk",
+      "beds",
+      "furniture",
+      "litera",
+      "cama-litera",
+      "mueble",
+      "bunkbed"
+    ],
+    "aliases": [
+      "bunk",
+      "bunkbed"
+    ],
+    "outline": "<path d=\"M4 5v15M20 5v15\"/><path d=\"M4 9.5h16M4 15h16\"/><path d=\"M4 6h9\"/><path d=\"M7 6V9.5M10 6V9.5\"/><path d=\"M15 9.5V20M18 9.5V20M15 12.5h3M15 16h3\"/>",
+    "solid": null
+  },
+  "crib-furniture": {
+    "category": "furniture",
+    "keywords": [
+      "crib",
+      "cot",
+      "baby-bed",
+      "furniture",
+      "cuna",
+      "bebé",
+      "mueble",
+      "nursery"
+    ],
+    "aliases": [
+      "cot",
+      "baby-cot"
+    ],
+    "outline": "<rect x=\"3.5\" y=\"7\" width=\"17\" height=\"11\" rx=\"1.5\"/><path d=\"M3.5 10h17\"/><path d=\"M7 10v8M10.5 10v8M14 10v8M17.5 10v8\"/><path d=\"M5 18v2M19 18v2\"/>",
+    "solid": null
+  },
+  "bar-stool": {
+    "category": "furniture",
+    "keywords": [
+      "bar-stool",
+      "stool",
+      "counter-stool",
+      "furniture",
+      "taburete-bar",
+      "banqueta-alta",
+      "mueble",
+      "barstool"
+    ],
+    "aliases": [
+      "counter-stool",
+      "barstool"
+    ],
+    "outline": "<ellipse cx=\"12\" cy=\"6.5\" rx=\"5.5\" ry=\"2\"/><path d=\"M8 8.2 6.5 20M16 8.2 17.5 20\"/><path d=\"M9.5 8.4 9 20M14.5 8.4 15 20\"/><path d=\"M7.2 14h9.6\"/>",
+    "solid": null
+  },
+  "bean-bag": {
+    "category": "furniture",
+    "keywords": [
+      "bean-bag",
+      "beanbag",
+      "chair",
+      "furniture",
+      "puf",
+      "pera",
+      "asiento",
+      "mueble"
+    ],
+    "aliases": [
+      "beanbag",
+      "bean-bag-chair"
+    ],
+    "outline": "<path d=\"M12 6.5c-1 0-1.8.6-2.2 1.5C6.5 8.7 4 11 4 14c0 3.6 3.6 6 8 6s8-2.4 8-6c0-3-2.5-5.3-5.8-6-.4-.9-1.2-1.5-2.2-1.5Z\"/><path d=\"M9.8 8c-.5 2 .3 4 2.2 4.5M14.2 8c.5 2-.3 4-2.2 4.5\"/>",
+    "solid": "<path d=\"M12 6c-1.1 0-2 .6-2.5 1.6C6 8.5 3.5 11 3.5 14.2 3.5 18 7.3 20.5 12 20.5s8.5-2.5 8.5-6.3c0-3.2-2.5-5.7-6-6.6C14 6.6 13.1 6 12 6Zm0 2a.7.7 0 0 1 .7.6c.3 1.8-.2 3.4-1.7 4.2a.6.6 0 0 1-.9-.6c.2-1.4-.1-2.7-.6-3.8A.7.7 0 0 1 12 8Z\" fill-rule=\"evenodd\"/>"
+  },
+  "hammock-home": {
+    "category": "furniture",
+    "keywords": [
+      "hammock",
+      "home",
+      "relax",
+      "furniture",
+      "hamaca",
+      "descanso",
+      "jardín",
+      "mueble"
+    ],
+    "aliases": [
+      "hammock"
+    ],
+    "outline": "<path d=\"M4 4v16M20 4v16\"/><path d=\"M4 7.5C9 15 15 15 20 7.5\"/><path d=\"M4 9.5C9 17 15 17 20 9.5\"/>",
+    "solid": "<path d=\"M4 3a1 1 0 0 0-1 1v16a1 1 0 0 0 2 0v-8.7c4.4 4.9 9.6 4.9 14 0V20a1 1 0 0 0 2 0V4a1 1 0 0 0-2 0v3.8c-4 5.4-10 5.4-14 0V4a1 1 0 0 0-1-1Z\"/>"
+  },
+  "blinds": {
+    "category": "furniture",
+    "keywords": [
+      "blinds",
+      "shades",
+      "window",
+      "furniture",
+      "persianas",
+      "estores",
+      "ventana",
+      "mueble"
+    ],
+    "aliases": [
+      "window-blinds",
+      "shades"
+    ],
+    "outline": "<rect x=\"4\" y=\"4\" width=\"16\" height=\"2.2\" rx=\"0.6\"/><path d=\"M6 9h12M6 12h12M6 15h12M6 18h12\"/><path d=\"M17.5 6.2v13.3\"/><circle cx=\"17.5\" cy=\"20.3\" r=\"0.8\"/>",
+    "solid": "<rect x=\"4\" y=\"4\" width=\"16\" height=\"2.4\" rx=\"0.7\"/><rect x=\"6\" y=\"8.2\" width=\"12\" height=\"1.5\" rx=\"0.7\"/><rect x=\"6\" y=\"11.2\" width=\"12\" height=\"1.5\" rx=\"0.7\"/><rect x=\"6\" y=\"14.2\" width=\"12\" height=\"1.5\" rx=\"0.7\"/><rect x=\"6\" y=\"17.2\" width=\"12\" height=\"1.5\" rx=\"0.7\"/><circle cx=\"17.5\" cy=\"20\" r=\"1\"/>"
+  },
+  "doormat": {
+    "category": "furniture",
+    "keywords": [
+      "doormat",
+      "mat",
+      "welcome-mat",
+      "furniture",
+      "felpudo",
+      "alfombrilla",
+      "entrada",
+      "mueble"
+    ],
+    "aliases": [
+      "welcome-mat",
+      "door-mat"
+    ],
+    "outline": "<path d=\"M5.5 9h13l2.5 9H3Z\"/><path d=\"M7 12.5h10M6 15.5h12\"/>",
+    "solid": "<path d=\"M5.5 8.5a1 1 0 0 0-1 .7l-2.4 7.6A1 1 0 0 0 3 18h18a1 1 0 0 0 1-1.2l-2.4-7.6a1 1 0 0 0-1-.7Zm1.8 3h9.4l.6 2H6.7Z\" fill-rule=\"evenodd\"/>"
+  },
+  "coat-rack": {
+    "category": "furniture",
+    "keywords": [
+      "coat-rack",
+      "hat-stand",
+      "hooks",
+      "furniture",
+      "perchero",
+      "perchas",
+      "abrigo",
+      "mueble"
+    ],
+    "aliases": [
+      "hat-stand",
+      "coat-stand"
+    ],
+    "outline": "<path d=\"M12 3v15\"/><path d=\"M12 5.5 8.5 8M12 5.5 15.5 8\"/><path d=\"M12 8.5 9.5 11M12 8.5l2.5 2.5\"/><path d=\"M9 21l3-3 3 3\"/>",
+    "solid": null
+  },
+  "wine-rack": {
+    "category": "furniture",
+    "keywords": [
+      "wine-rack",
+      "bottle-rack",
+      "storage",
+      "furniture",
+      "botellero",
+      "vinoteca",
+      "vino",
+      "mueble"
+    ],
+    "aliases": [
+      "bottle-rack"
+    ],
+    "outline": "<rect x=\"3.5\" y=\"5\" width=\"17\" height=\"14\" rx=\"1.5\"/><path d=\"M3.5 12h17M12 5v14\"/><circle cx=\"7.75\" cy=\"8.5\" r=\"1.6\"/><circle cx=\"16.25\" cy=\"8.5\" r=\"1.6\"/><circle cx=\"7.75\" cy=\"15.5\" r=\"1.6\"/><circle cx=\"16.25\" cy=\"15.5\" r=\"1.6\"/>",
+    "solid": "<path d=\"M5 4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2Zm2.75 2.9a1.6 1.6 0 1 1 0 3.2 1.6 1.6 0 0 1 0-3.2Zm8.5 0a1.6 1.6 0 1 1 0 3.2 1.6 1.6 0 0 1 0-3.2Zm-8.5 7a1.6 1.6 0 1 1 0 3.2 1.6 1.6 0 0 1 0-3.2Zm8.5 0a1.6 1.6 0 1 1 0 3.2 1.6 1.6 0 0 1 0-3.2Z\" fill-rule=\"evenodd\"/>"
+  },
+  "shoe-rack": {
+    "category": "furniture",
+    "keywords": [
+      "shoe-rack",
+      "shoes",
+      "storage",
+      "furniture",
+      "zapatero",
+      "zapatos",
+      "mueble",
+      "shoe-shelf"
+    ],
+    "aliases": [
+      "shoe-shelf"
+    ],
+    "outline": "<rect x=\"3.5\" y=\"6\" width=\"17\" height=\"13\" rx=\"1\"/><path d=\"M3.5 12.5h17\"/><path d=\"M6 9.5h3.5l1.2 1.6H6z\"/><path d=\"M13.5 9.5H17l1.2 1.6h-4.7z\"/><path d=\"M6 16h3.5l1.2 1.6H6z\"/><path d=\"M13.5 16H17l1.2 1.6h-4.7z\"/>",
+    "solid": null
+  },
+  "mattress": {
+    "category": "furniture",
+    "keywords": [
+      "mattress",
+      "bed",
+      "topper",
+      "furniture",
+      "colchón",
+      "cama",
+      "mueble",
+      "bedding"
+    ],
+    "aliases": [
+      "bed-mattress"
+    ],
+    "outline": "<rect x=\"3\" y=\"8\" width=\"18\" height=\"8\" rx=\"2.5\"/><path d=\"M3 11h18\"/><circle cx=\"7\" cy=\"13.5\" r=\"0.5\"/><circle cx=\"11\" cy=\"13.5\" r=\"0.5\"/><circle cx=\"15\" cy=\"13.5\" r=\"0.5\"/><circle cx=\"19\" cy=\"13.5\" r=\"0.5\"/>",
+    "solid": "<path d=\"M6 8a3 3 0 0 0-3 3v2a3 3 0 0 0 3 3h12a3 3 0 0 0 3-3v-2a3 3 0 0 0-3-3Zm-2.6 2.6h17.2v.9H3.4Zm3.6 2.5a.7.7 0 1 0 0 1.4.7.7 0 0 0 0-1.4Zm4 0a.7.7 0 1 0 0 1.4.7.7 0 0 0 0-1.4Zm4 0a.7.7 0 1 0 0 1.4.7.7 0 0 0 0-1.4Zm4 0a.7.7 0 1 0 0 1.4.7.7 0 0 0 0-1.4Z\" fill-rule=\"evenodd\"/>"
+  },
+  "floor-lamp": {
+    "category": "furniture",
+    "keywords": [
+      "floor-lamp",
+      "standing-lamp",
+      "light",
+      "furniture",
+      "lámpara-pie",
+      "lámpara-suelo",
+      "luz",
+      "mueble"
+    ],
+    "aliases": [
+      "standing-lamp",
+      "floor-light"
+    ],
+    "outline": "<path d=\"M8.5 4h7l1.5 5.5H7Z\"/><path d=\"M12 9.5V19\"/><path d=\"M9 19.5h6\"/>",
+    "solid": "<path d=\"M8.5 3.5a1 1 0 0 0-1 .8L6.1 9.3A1 1 0 0 0 7 10.5h4v8.5H9a1 1 0 0 0 0 2h6a1 1 0 0 0 0-2h-2V10.5h4a1 1 0 0 0 1-1.2L16.5 4.3a1 1 0 0 0-1-.8Z\"/>"
+  }
+}

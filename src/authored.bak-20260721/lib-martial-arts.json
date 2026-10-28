@@ -1,0 +1,649 @@
+{
+  "karate-gi": {
+    "category": "martial-arts",
+    "keywords": [
+      "karate",
+      "gi",
+      "uniform",
+      "dogi",
+      "uniforme",
+      "kimono",
+      "traje"
+    ],
+    "aliases": [
+      "karategi",
+      "karate-uniform"
+    ],
+    "outline": "<path d=\"M9 3.5 6 5v14.5a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V5l-3-1.5\"/><path d=\"M9 3.5 12 7.5 15 3.5\"/><path d=\"M12 7.5V13\"/><path d=\"M6 13h12\"/><path d=\"M6 16.2h12\"/><path d=\"M11.2 16.2 10.2 19.4M12.8 16.2 13.8 19.4\"/>",
+    "solid": null
+  },
+  "black-belt": {
+    "category": "martial-arts",
+    "keywords": [
+      "black belt",
+      "dan",
+      "master",
+      "rank",
+      "cinturon negro",
+      "maestro",
+      "grado"
+    ],
+    "aliases": [
+      "dan",
+      "master-belt"
+    ],
+    "outline": "<path d=\"M3 10.5h6M15 10.5h6\"/><rect x=\"9\" y=\"8.5\" width=\"6\" height=\"5\" rx=\"1\"/><path d=\"M10.6 13.5 9.4 19.2 7.2 17.9M13.4 13.5 14.6 19.2 16.8 17.9\"/>",
+    "solid": "<rect x=\"3\" y=\"9.5\" width=\"18\" height=\"2\" rx=\"1\"/><rect x=\"8.4\" y=\"8\" width=\"7.2\" height=\"6\" rx=\"1.3\"/><path d=\"M10.6 13.6 9.3 19.4 7 18 8.4 13.6ZM13.4 13.6 14.7 19.4 17 18 15.6 13.6Z\"/>"
+  },
+  "boxing-glove-ma": {
+    "category": "martial-arts",
+    "keywords": [
+      "boxing",
+      "glove",
+      "punch",
+      "fight",
+      "boxeo",
+      "guante",
+      "pelea"
+    ],
+    "aliases": [
+      "mma-glove",
+      "fight-glove"
+    ],
+    "outline": "<path d=\"M8 9.5V9a4 4 0 0 1 4-4h1.5A4.5 4.5 0 0 1 18 9.5V16.5H8Z\"/><path d=\"M8 11.5H6.3a2.1 2.1 0 0 1 0-4.2H8\"/><path d=\"M8 10.3h10\"/><path d=\"M8 16.5h10v1.5a2 2 0 0 1-2 2h-6a2 2 0 0 1-2-2Z\"/>",
+    "solid": "<path d=\"M12 4.5A5 5 0 0 0 7 9.5v.2H6.3a2.1 2.1 0 0 0 0 4.2H7v3.6A3.5 3.5 0 0 0 10.5 21h4A3.5 3.5 0 0 0 18 17.5v-8A5 5 0 0 0 13 4.5ZM8 11h9v1.4H8Z\" fill-rule=\"evenodd\"/>"
+  },
+  "punching-bag": {
+    "category": "martial-arts",
+    "keywords": [
+      "punching bag",
+      "heavy bag",
+      "boxing",
+      "saco",
+      "saco de boxeo",
+      "golpeo"
+    ],
+    "aliases": [
+      "heavy-bag",
+      "boxing-bag"
+    ],
+    "outline": "<path d=\"M9.5 4.2h5\"/><path d=\"M12 4.2v1\"/><path d=\"M10 7.5 12 5.2 14 7.5\"/><path d=\"M9 8.5A1.5 1.5 0 0 1 10.5 7h3A1.5 1.5 0 0 1 15 8.5v9.5A2 2 0 0 1 13 20h-2a2 2 0 0 1-2-2Z\"/><path d=\"M9 11.5h6M9 15h6\"/>",
+    "solid": "<path d=\"M12 3.2a1.4 1.4 0 0 0-1.4 1.4c0 .5.3 1 .7 1.2A2.6 2.6 0 0 0 8.5 9.4V18a2.9 2.9 0 0 0 2.9 2.9h1.2A2.9 2.9 0 0 0 15.5 18V9.4a2.6 2.6 0 0 0-2.8-2.6c.4-.2.7-.7.7-1.2A1.4 1.4 0 0 0 12 3.2Zm-2.4 8.3h4.8v1.4H9.6Zm0 3.4h4.8v1.4H9.6Z\" fill-rule=\"evenodd\"/>"
+  },
+  "high-kick": {
+    "category": "martial-arts",
+    "keywords": [
+      "kick",
+      "high kick",
+      "karate",
+      "patada",
+      "patada alta",
+      "taekwondo"
+    ],
+    "aliases": [
+      "front-kick"
+    ],
+    "outline": "<circle cx=\"8.5\" cy=\"4.8\" r=\"2\"/><path d=\"M8.5 6.8 9 12.5\"/><path d=\"M9 12.5 7.5 20.5\"/><path d=\"M9 12.5 17.5 7.5\"/><path d=\"M9 9.5 5.5 12M9 9.5 13 8.5\"/>",
+    "solid": null
+  },
+  "straight-punch": {
+    "category": "martial-arts",
+    "keywords": [
+      "punch",
+      "jab",
+      "straight",
+      "strike",
+      "punetazo",
+      "golpe",
+      "directo"
+    ],
+    "aliases": [
+      "jab",
+      "cross-punch"
+    ],
+    "outline": "<circle cx=\"7\" cy=\"6\" r=\"2\"/><path d=\"M7 8 8 14\"/><path d=\"M8 14 6 20.5M8 14 11 20.5\"/><path d=\"M8 10.2 17.5 10.5\"/><path d=\"M8 10.2 5 13\"/><circle cx=\"18.2\" cy=\"10.5\" r=\"1.6\"/>",
+    "solid": null
+  },
+  "nunchaku": {
+    "category": "martial-arts",
+    "keywords": [
+      "nunchaku",
+      "nunchucks",
+      "weapon",
+      "kobudo",
+      "chaco",
+      "arma"
+    ],
+    "aliases": [
+      "nunchucks",
+      "chaco"
+    ],
+    "outline": "<rect x=\"4.5\" y=\"3.2\" width=\"2.4\" height=\"8.6\" rx=\"1.2\"/><rect x=\"14\" y=\"8.4\" width=\"2.4\" height=\"8.6\" rx=\"1.2\"/><circle cx=\"8.2\" cy=\"6.1\" r=\"0.8\"/><circle cx=\"9.7\" cy=\"7.2\" r=\"0.8\"/><circle cx=\"11.2\" cy=\"8.3\" r=\"0.8\"/><circle cx=\"12.7\" cy=\"9.4\" r=\"0.8\"/>",
+    "solid": null
+  },
+  "katana-ma": {
+    "category": "martial-arts",
+    "keywords": [
+      "katana",
+      "sword",
+      "samurai",
+      "blade",
+      "espada",
+      "sable"
+    ],
+    "aliases": [
+      "samurai-sword"
+    ],
+    "outline": "<path d=\"M20.5 4 12 12.5\"/><path d=\"M11.1 11.6 12.9 13.4\"/><path d=\"M12 12.5 8 16.5\"/><path d=\"M9.3 13.3 10.8 14.8M8.4 14.2 9.9 15.7\"/>",
+    "solid": null
+  },
+  "bo-staff": {
+    "category": "martial-arts",
+    "keywords": [
+      "bo staff",
+      "staff",
+      "pole",
+      "weapon",
+      "baston",
+      "palo",
+      "vara"
+    ],
+    "aliases": [
+      "bo",
+      "staff-weapon"
+    ],
+    "outline": "<path d=\"M4.5 19.5 19.5 4.5\"/><path d=\"M9.8 12.7 11.3 14.2M11 11.5 12.5 13M12.2 10.3 13.7 11.8\"/>",
+    "solid": null
+  },
+  "sai-weapon": {
+    "category": "martial-arts",
+    "keywords": [
+      "sai",
+      "weapon",
+      "kobudo",
+      "trident",
+      "arma",
+      "tridente"
+    ],
+    "aliases": [
+      "sai"
+    ],
+    "outline": "<path d=\"M12 3.5V13\"/><path d=\"M12 13v5.5\"/><circle cx=\"12\" cy=\"19.8\" r=\"1.2\"/><path d=\"M12 13c-2.5-.3-3.8-1.8-3.8-4V6.5\"/><path d=\"M12 13c2.5-.3 3.8-1.8 3.8-4V6.5\"/>",
+    "solid": null
+  },
+  "taekwondo-kick": {
+    "category": "martial-arts",
+    "keywords": [
+      "taekwondo",
+      "kick",
+      "side kick",
+      "patada",
+      "patada lateral",
+      "martial arts"
+    ],
+    "aliases": [
+      "side-kick"
+    ],
+    "outline": "<circle cx=\"6.5\" cy=\"8\" r=\"2\"/><path d=\"M6.5 10 10.5 12.5\"/><path d=\"M10.5 12.5 20 12\"/><path d=\"M10.5 12.5 7.5 19\"/><path d=\"M8.5 11 5 9.5M8.5 11 6 15\"/>",
+    "solid": null
+  },
+  "judo-throw": {
+    "category": "martial-arts",
+    "keywords": [
+      "judo",
+      "throw",
+      "grapple",
+      "proyeccion",
+      "derribo",
+      "lanzamiento"
+    ],
+    "aliases": [
+      "ippon",
+      "judo-toss"
+    ],
+    "outline": "<circle cx=\"6\" cy=\"8\" r=\"1.7\"/><path d=\"M6 9.7 7 14\"/><path d=\"M7 14 5.5 19M7 14 8.5 19\"/><path d=\"M6.3 11 10 12\"/><path d=\"M10 12C13 12 15 7 18 8.5\"/><circle cx=\"19\" cy=\"12.5\" r=\"1.6\"/><path d=\"M18 8.5 16.5 6M18 8.5 20 6.5\"/><path d=\"M18 8.5 19 11\"/>",
+    "solid": null
+  },
+  "karate-chop": {
+    "category": "martial-arts",
+    "keywords": [
+      "karate",
+      "chop",
+      "strike",
+      "knife hand",
+      "corte",
+      "golpe",
+      "mano"
+    ],
+    "aliases": [
+      "knife-hand",
+      "chop"
+    ],
+    "outline": "<path d=\"M8 9.5 15.5 7.6a1.5 1.5 0 0 1 .8 2.9L9 12.4a2 2 0 0 1-2.4-1.3 2 2 0 0 1 1.4-1.6Z\"/><path d=\"M8.2 9.4 8 7.4a1.2 1.2 0 0 1 2.3-.5l.6 1.8\"/><path d=\"M16.5 13.5 18.5 15.5M15 15 16.5 17M13 16 14 18.5\"/>",
+    "solid": null
+  },
+  "dojo-gate": {
+    "category": "martial-arts",
+    "keywords": [
+      "dojo",
+      "gate",
+      "torii",
+      "entrance",
+      "puerta",
+      "entrada"
+    ],
+    "aliases": [
+      "torii",
+      "dojo-entrance"
+    ],
+    "outline": "<path d=\"M3.5 6.5c2-1 15-1 17 0\"/><path d=\"M5.5 9.5h13\"/><path d=\"M7.5 6.2V20\"/><path d=\"M16.5 6.2V20\"/><path d=\"M11 9.5V6.6h2V9.5\"/>",
+    "solid": null
+  },
+  "sparring": {
+    "category": "martial-arts",
+    "keywords": [
+      "sparring",
+      "practice",
+      "fight",
+      "combate",
+      "practica",
+      "entrenamiento"
+    ],
+    "aliases": [
+      "combat-practice"
+    ],
+    "outline": "<circle cx=\"6\" cy=\"6\" r=\"1.8\"/><path d=\"M6 7.8 6.5 13\"/><path d=\"M6.5 13 5 19M6.5 13 8 19\"/><path d=\"M6.2 10 9.5 11\"/><circle cx=\"18\" cy=\"6\" r=\"1.8\"/><path d=\"M18 7.8 17.5 13\"/><path d=\"M17.5 13 16 19M17.5 13 19 19\"/><path d=\"M17.8 10 14.5 11\"/>",
+    "solid": null
+  },
+  "head-guard": {
+    "category": "martial-arts",
+    "keywords": [
+      "headgear",
+      "head guard",
+      "helmet",
+      "protection",
+      "casco",
+      "protector cabeza"
+    ],
+    "aliases": [
+      "headgear",
+      "sparring-helmet"
+    ],
+    "outline": "<path d=\"M12 5a7 7 0 0 0-7 7v3.5A2.5 2.5 0 0 0 7.5 18H9a4 4 0 0 0 6 0h1.5a2.5 2.5 0 0 0 2.5-2.5V12a7 7 0 0 0-7-7Z\"/><path d=\"M9 11a3 3 0 0 1 6 0v2a3 3 0 0 1-6 0Z\"/>",
+    "solid": "<path d=\"M12 5a7 7 0 0 0-7 7v3.5A2.5 2.5 0 0 0 7.5 18H9a4 4 0 0 0 6 0h1.5a2.5 2.5 0 0 0 2.5-2.5V12a7 7 0 0 0-7-7Zm0 3a3 3 0 0 1 3 3v2a3 3 0 0 1-6 0v-2a3 3 0 0 1 3-3Z\" fill-rule=\"evenodd\"/>"
+  },
+  "mouthguard": {
+    "category": "martial-arts",
+    "keywords": [
+      "mouthguard",
+      "gum shield",
+      "protection",
+      "teeth",
+      "protector bucal",
+      "boca"
+    ],
+    "aliases": [
+      "gum-shield",
+      "mouth-guard"
+    ],
+    "outline": "<path d=\"M12 5.5C8 5.5 5 6.5 5 8c0 4 2 8 4 8 1.5 0 2-1 3-1s1.5 1 3 1c2 0 4-4 4-8 0-1.5-3-2.5-7-2.5Z\"/><path d=\"M6.2 9c3.4-1.2 8.2-1.2 11.6 0\"/>",
+    "solid": "<path d=\"M12 5.5C8 5.5 5 6.5 5 8c0 4 2 8 4 8 1.5 0 2-1 3-1s1.5 1 3 1c2 0 4-4 4-8 0-1.5-3-2.5-7-2.5Zm0 1.6c2.6 0 4.8.5 5.5 1.2-3.6-1-7.4-1-11 0 .7-.7 2.9-1.2 5.5-1.2Z\" fill-rule=\"evenodd\"/>"
+  },
+  "kickboxing": {
+    "category": "martial-arts",
+    "keywords": [
+      "kickboxing",
+      "knee strike",
+      "kick",
+      "muay",
+      "rodilla",
+      "golpe",
+      "combate"
+    ],
+    "aliases": [
+      "knee-strike"
+    ],
+    "outline": "<circle cx=\"9\" cy=\"5\" r=\"2\"/><path d=\"M9 7 10 12\"/><path d=\"M10 12 9 20\"/><path d=\"M10 12 14 14 12 17\"/><path d=\"M9.3 9 6.3 10.5M9.3 9 12.7 8.2\"/><circle cx=\"5.5\" cy=\"10.8\" r=\"1.3\"/><circle cx=\"13.3\" cy=\"7.9\" r=\"1.3\"/>",
+    "solid": null
+  },
+  "muay-thai-elbow": {
+    "category": "martial-arts",
+    "keywords": [
+      "muay thai",
+      "elbow",
+      "strike",
+      "thai boxing",
+      "codo",
+      "codazo"
+    ],
+    "aliases": [
+      "elbow-strike",
+      "muay-thai"
+    ],
+    "outline": "<circle cx=\"9\" cy=\"5\" r=\"2\"/><path d=\"M9 7 9.5 13\"/><path d=\"M9.5 13 8 20M9.5 13 11 20\"/><path d=\"M9.3 9 13 9 12 5.5\"/><path d=\"M9.3 10 6.5 12\"/><path d=\"M14.5 8.5 16 8M14.5 9.5 16 10\"/>",
+    "solid": null
+  },
+  "wrestling-ma": {
+    "category": "martial-arts",
+    "keywords": [
+      "wrestling",
+      "grapple",
+      "clinch",
+      "lucha",
+      "lucha libre",
+      "agarre"
+    ],
+    "aliases": [
+      "grapple",
+      "clinch"
+    ],
+    "outline": "<circle cx=\"8\" cy=\"7\" r=\"1.8\"/><circle cx=\"16\" cy=\"7\" r=\"1.8\"/><path d=\"M8.5 8.7 10.5 13\"/><path d=\"M15.5 8.7 13.5 13\"/><path d=\"M10.5 13 8 19M10.5 13 12 17\"/><path d=\"M13.5 13 16 19M13.5 13 12 17\"/><path d=\"M9.2 8 14.8 8\"/><path d=\"M9.8 10.5 14.2 10.5\"/>",
+    "solid": null
+  },
+  "sumo-wrestler": {
+    "category": "martial-arts",
+    "keywords": [
+      "sumo",
+      "wrestler",
+      "japan",
+      "fighter",
+      "luchador",
+      "japon"
+    ],
+    "aliases": [
+      "sumo",
+      "rikishi"
+    ],
+    "outline": "<circle cx=\"12\" cy=\"5.2\" r=\"2\"/><circle cx=\"12\" cy=\"3\" r=\"0.9\"/><path d=\"M12 7.2c-3 0-4.6 2-4.6 5s1.6 5 4.6 5 4.6-2 4.6-5-1.6-5-4.6-5Z\"/><path d=\"M7.6 11.5 4 13.5M16.4 11.5 20 13.5\"/><path d=\"M9.5 16.8 8 21M14.5 16.8 16 21\"/><path d=\"M10.4 11.8h3.2\"/>",
+    "solid": null
+  },
+  "fencing-ma": {
+    "category": "martial-arts",
+    "keywords": [
+      "fencing",
+      "foil",
+      "sword",
+      "epee",
+      "esgrima",
+      "florete"
+    ],
+    "aliases": [
+      "fencer",
+      "foil"
+    ],
+    "outline": "<circle cx=\"7\" cy=\"7\" r=\"1.8\"/><path d=\"M7.5 8.7 9 13\"/><path d=\"M9 13 6 19M9 13 14 18\"/><path d=\"M8 10.5 20 6\"/><circle cx=\"11.5\" cy=\"9.2\" r=\"0.9\"/><path d=\"M8.3 11 6 13\"/>",
+    "solid": null
+  },
+  "mma-cage": {
+    "category": "martial-arts",
+    "keywords": [
+      "mma",
+      "cage",
+      "octagon",
+      "arena",
+      "jaula",
+      "octagono"
+    ],
+    "aliases": [
+      "octagon",
+      "cage-fight"
+    ],
+    "outline": "<polygon points=\"8,4 16,4 20,8 20,16 16,20 8,20 4,16 4,8\"/><path d=\"M8 4v16M16 4v16\"/><path d=\"M4 8h16M4 16h16\"/>",
+    "solid": null
+  },
+  "grappling": {
+    "category": "martial-arts",
+    "keywords": [
+      "grappling",
+      "ground",
+      "bjj",
+      "submission",
+      "suelo",
+      "jiu-jitsu",
+      "sumision"
+    ],
+    "aliases": [
+      "ground-fight",
+      "bjj"
+    ],
+    "outline": "<path d=\"M3 18.5h18\"/><circle cx=\"6\" cy=\"14\" r=\"1.6\"/><path d=\"M7.5 14.5 13 16\"/><path d=\"M13 16 17 16.5\"/><circle cx=\"12\" cy=\"9\" r=\"1.7\"/><path d=\"M12 10.7 12.5 14\"/><path d=\"M11 11.5 8 13.5M13.5 11.5 16 13.5\"/><path d=\"M12.5 14 10 16.5M12.5 14 15 16.5\"/>",
+    "solid": null
+  },
+  "meditation-pose-ma": {
+    "category": "martial-arts",
+    "keywords": [
+      "meditation",
+      "zen",
+      "lotus",
+      "focus",
+      "meditacion",
+      "loto",
+      "concentracion"
+    ],
+    "aliases": [
+      "zen-pose",
+      "lotus-sit"
+    ],
+    "outline": "<circle cx=\"12\" cy=\"5\" r=\"2\"/><path d=\"M12 7v4.5\"/><path d=\"M12 11.5 6.5 15.5 12 16.5 17.5 15.5Z\"/><path d=\"M12 8.5 7 13.5M12 8.5 17 13.5\"/><circle cx=\"6.9\" cy=\"13.6\" r=\"0.7\"/><circle cx=\"17.1\" cy=\"13.6\" r=\"0.7\"/>",
+    "solid": null
+  },
+  "belt-rank": {
+    "category": "martial-arts",
+    "keywords": [
+      "belt",
+      "rank",
+      "stripes",
+      "grade",
+      "cinturon",
+      "grado",
+      "franjas"
+    ],
+    "aliases": [
+      "rank-stripes"
+    ],
+    "outline": "<path d=\"M3 9h13l4 3-4 3H3Z\"/><path d=\"M6 9v6M9 9v6M12 9v6\"/>",
+    "solid": "<path d=\"M3 8.2A.8.8 0 0 0 2.2 9v6a.8.8 0 0 0 .8.8h13.3l3.8-2.9a1 1 0 0 0 0-1.8L16.3 8.2Zm2.4 1.4h1v6.8h-1Zm3 0h1v6.8h-1Zm3 0h1v6.8h-1Z\" fill-rule=\"evenodd\"/>"
+  },
+  "breaking-board": {
+    "category": "martial-arts",
+    "keywords": [
+      "board break",
+      "breaking",
+      "tameshiwari",
+      "board",
+      "rotura tabla",
+      "romper"
+    ],
+    "aliases": [
+      "board-break",
+      "tameshiwari"
+    ],
+    "outline": "<path d=\"M2.5 9h7.5l1.5 2-1.5 2H2.5Z\"/><path d=\"M21.5 9H14l-1.5 2 1.5 2h7.5Z\"/><path d=\"M6 9.5v3M18 9.5v3\"/><path d=\"M12 5.5V7M9.7 6 10.5 7.2M14.3 6 13.5 7.2\"/>",
+    "solid": "<path d=\"M2.7 8.7A.2.2 0 0 0 2.5 9v4a.2.2 0 0 0 .2.3h7.6l1.4-1.9a.3.3 0 0 0 0-.4L10.3 8.7Z\"/><path d=\"M21.3 8.7A.2.2 0 0 1 21.5 9v4a.2.2 0 0 1-.2.3h-7.6l-1.4-1.9a.3.3 0 0 1 0-.4l1.4-1.9Z\"/>"
+  },
+  "shin-guard-ma": {
+    "category": "martial-arts",
+    "keywords": [
+      "shin guard",
+      "pad",
+      "protection",
+      "leg",
+      "espinillera",
+      "proteccion"
+    ],
+    "aliases": [
+      "shin-pad",
+      "leg-guard"
+    ],
+    "outline": "<path d=\"M10 3.2a1.4 1.4 0 0 0-1.3 1C7 8 6.5 13.3 7 17.2a2.2 2.2 0 0 0 2.2 1.9h1.6a2.2 2.2 0 0 0 2.2-1.9c.5-3.9 0-9.2-1.7-13a1.4 1.4 0 0 0-1.3-1Z\"/><path d=\"M10 5.5V17.5\"/><path d=\"M7.6 9h4.8M7.2 13h5.6\"/>",
+    "solid": "<path d=\"M10 3.2a1.4 1.4 0 0 0-1.3 1C7 8 6.5 13.3 7 17.2a2.2 2.2 0 0 0 2.2 1.9h1.6a2.2 2.2 0 0 0 2.2-1.9c.5-3.9 0-9.2-1.7-13a1.4 1.4 0 0 0-1.3-1Zm-2.2 5.6h4.4v1.3H7.8Zm-.2 4h5v1.3H7.6Z\" fill-rule=\"evenodd\"/>"
+  },
+  "tonfa": {
+    "category": "martial-arts",
+    "keywords": [
+      "tonfa",
+      "weapon",
+      "baton",
+      "kobudo",
+      "arma",
+      "porra"
+    ],
+    "aliases": [
+      "tonfa-weapon"
+    ],
+    "outline": "<rect x=\"5.8\" y=\"3.5\" width=\"2.4\" height=\"17\" rx=\"1.2\"/><rect x=\"8.2\" y=\"7.8\" width=\"5.4\" height=\"2.4\" rx=\"1.2\"/>",
+    "solid": "<rect x=\"5.6\" y=\"3.3\" width=\"2.8\" height=\"17.4\" rx=\"1.4\"/><rect x=\"8\" y=\"7.6\" width=\"5.8\" height=\"2.8\" rx=\"1.4\"/>"
+  },
+  "kendo-shinai": {
+    "category": "martial-arts",
+    "keywords": [
+      "kendo",
+      "shinai",
+      "bamboo sword",
+      "sword",
+      "espada de bambu",
+      "kendo"
+    ],
+    "aliases": [
+      "shinai",
+      "bamboo-sword"
+    ],
+    "outline": "<path d=\"M20 4 8.5 15.5\"/><circle cx=\"8\" cy=\"16\" r=\"0.9\"/><path d=\"M7.4 16.6 5 19\"/><path d=\"M15.4 7.4 16.6 8.6M12.9 9.9 14.1 11.1M10.4 12.4 11.6 13.6\"/>",
+    "solid": null
+  },
+  "throwing-star": {
+    "category": "martial-arts",
+    "keywords": [
+      "shuriken",
+      "throwing star",
+      "ninja",
+      "weapon",
+      "estrella ninja",
+      "arma"
+    ],
+    "aliases": [
+      "shuriken",
+      "ninja-star"
+    ],
+    "outline": "<path d=\"M12 3 14 10 21 12 14 14 12 21 10 14 3 12 10 10Z\"/><circle cx=\"12\" cy=\"12\" r=\"1.3\"/>",
+    "solid": "<path d=\"M12 3 14 10 21 12 14 14 12 21 10 14 3 12 10 10Zm0 7.7a1.3 1.3 0 1 0 0 2.6 1.3 1.3 0 0 0 0-2.6Z\" fill-rule=\"evenodd\"/>"
+  },
+  "brass-knuckles": {
+    "category": "martial-arts",
+    "keywords": [
+      "brass knuckles",
+      "knuckle duster",
+      "weapon",
+      "fist",
+      "punos americanos",
+      "manopla"
+    ],
+    "aliases": [
+      "knuckle-duster",
+      "knuckles"
+    ],
+    "outline": "<path d=\"M4.5 7.5A1 1 0 0 0 3.5 8.5v5.2A3.3 3.3 0 0 0 6.8 17h10.4a3.3 3.3 0 0 0 3.3-3.3V8.5a1 1 0 0 0-1-1Z\"/><circle cx=\"6\" cy=\"10.3\" r=\"1.3\"/><circle cx=\"10\" cy=\"10.3\" r=\"1.3\"/><circle cx=\"14\" cy=\"10.3\" r=\"1.3\"/><circle cx=\"18\" cy=\"10.3\" r=\"1.3\"/>",
+    "solid": "<path d=\"M4.5 7.5A1 1 0 0 0 3.5 8.5v5.2A3.3 3.3 0 0 0 6.8 17h10.4a3.3 3.3 0 0 0 3.3-3.3V8.5a1 1 0 0 0-1-1ZM6 9a1.3 1.3 0 1 0 0 2.6 1.3 1.3 0 1 0 0-2.6M10 9a1.3 1.3 0 1 0 0 2.6 1.3 1.3 0 1 0 0-2.6M14 9a1.3 1.3 0 1 0 0 2.6 1.3 1.3 0 1 0 0-2.6M18 9a1.3 1.3 0 1 0 0 2.6 1.3 1.3 0 1 0 0-2.6Z\" fill-rule=\"evenodd\"/>"
+  },
+  "focus-mitt": {
+    "category": "martial-arts",
+    "keywords": [
+      "focus mitt",
+      "punch mitt",
+      "pad",
+      "target",
+      "manopla",
+      "pao"
+    ],
+    "aliases": [
+      "punch-mitt",
+      "focus-pad"
+    ],
+    "outline": "<circle cx=\"12\" cy=\"10\" r=\"6.5\"/><circle cx=\"12\" cy=\"10\" r=\"2.3\"/><path d=\"M9 15.8 8 20M15 15.8 16 20\"/><path d=\"M8 20h8\"/>",
+    "solid": "<path d=\"M12 3.5a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13Zm0 4.2a2.3 2.3 0 1 0 0 4.6 2.3 2.3 0 0 0 0-4.6Z\" fill-rule=\"evenodd\"/><path d=\"M8.7 16.2 7.8 19.6a1 1 0 0 0 1 1.3h5.4a1 1 0 0 0 1-1.3l-.9-3.4a8 8 0 0 1-5.6 0Z\"/>"
+  },
+  "kata-stance": {
+    "category": "martial-arts",
+    "keywords": [
+      "kata",
+      "stance",
+      "horse stance",
+      "pose",
+      "postura",
+      "posicion"
+    ],
+    "aliases": [
+      "horse-stance",
+      "kiba-dachi"
+    ],
+    "outline": "<circle cx=\"12\" cy=\"5\" r=\"2\"/><path d=\"M12 7v6\"/><path d=\"M12 13 8.5 16.5 8 20M12 13 15.5 16.5 16 20\"/><path d=\"M12 9.2 8.6 11.2M12 9.2 15.4 11.2\"/><circle cx=\"8\" cy=\"11.6\" r=\"1\"/><circle cx=\"16\" cy=\"11.6\" r=\"1\"/>",
+    "solid": null
+  },
+  "roundhouse-kick": {
+    "category": "martial-arts",
+    "keywords": [
+      "roundhouse",
+      "kick",
+      "spinning",
+      "strike",
+      "patada circular",
+      "giro"
+    ],
+    "aliases": [
+      "round-kick",
+      "spinning-kick"
+    ],
+    "outline": "<circle cx=\"8\" cy=\"6\" r=\"2\"/><path d=\"M8 8 9 13\"/><path d=\"M9 13 8 20.5\"/><path d=\"M9 13 19 11\"/><path d=\"M8.3 10 5 11.5M8.3 10 11 9\"/><path d=\"M12 15.5a7 7 0 0 0 6.5-4\"/>",
+    "solid": null
+  },
+  "uppercut": {
+    "category": "martial-arts",
+    "keywords": [
+      "uppercut",
+      "punch",
+      "boxing",
+      "strike",
+      "gancho",
+      "punetazo"
+    ],
+    "aliases": [
+      "upper-punch"
+    ],
+    "outline": "<circle cx=\"8\" cy=\"8\" r=\"2\"/><path d=\"M8 10 9 15\"/><path d=\"M9 15 7 20.5M9 15 11 20.5\"/><path d=\"M9 12 13 8.5 14 4\"/><path d=\"M9 12 6 14\"/><circle cx=\"14.3\" cy=\"3.6\" r=\"1.4\"/><path d=\"M16.5 6 17.5 3.5M18.5 8 19.5 5.5\"/>",
+    "solid": null
+  },
+  "dojo-flag": {
+    "category": "martial-arts",
+    "keywords": [
+      "dojo",
+      "flag",
+      "banner",
+      "nobori",
+      "bandera",
+      "estandarte"
+    ],
+    "aliases": [
+      "dojo-banner",
+      "nobori"
+    ],
+    "outline": "<path d=\"M4 3.5h16\"/><path d=\"M6.5 4v15.5l2.5-1.5 3 1.5 3-1.5 2.5 1.5V4\"/><circle cx=\"12\" cy=\"10\" r=\"2.3\"/>",
+    "solid": "<path d=\"M4.5 2.8a.8.8 0 0 0 0 1.6H6v15.1a.8.8 0 0 0 1.2.7L9 18.9l2.6 1.4a.8.8 0 0 0 .8 0l2.6-1.4 1.8 1.3a.8.8 0 0 0 1.2-.7V4.4h1.5a.8.8 0 0 0 0-1.6ZM12 8a2 2 0 1 0 0 4 2 2 0 1 0 0-4Z\" fill-rule=\"evenodd\"/>"
+  },
+  "ranking-belt": {
+    "category": "martial-arts",
+    "keywords": [
+      "belt",
+      "ranking",
+      "rolled belt",
+      "grade",
+      "cinturon",
+      "rango"
+    ],
+    "aliases": [
+      "belt-roll",
+      "rank-belt"
+    ],
+    "outline": "<path d=\"M15.5 7H9.5a5.5 5.5 0 0 0 0 11H16a3 3 0 0 0 0-6H9.8a1.3 1.3 0 0 0 0 2.6H14\"/><path d=\"M11.5 7v2.2M13.5 7v2.2\"/>",
+    "solid": null
+  }
+}

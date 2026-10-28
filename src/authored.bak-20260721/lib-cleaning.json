@@ -1,0 +1,720 @@
+{
+  "broom": {
+    "category": "cleaning",
+    "keywords": [
+      "broom",
+      "sweep",
+      "clean",
+      "escoba",
+      "barrer",
+      "limpieza",
+      "witch",
+      "besom"
+    ],
+    "aliases": [
+      "sweep",
+      "besom"
+    ],
+    "outline": "<path d=\"M20 4.5 12 12\"/><path d=\"M9.5 9.5 14.5 14.5 10.5 18.5 5.5 13.5Z\"/><path d=\"M8.5 10.5 13.5 15.5\"/><path d=\"M10.5 13 9 14.5M12.5 15 11 16.5\"/>",
+    "solid": "<path d=\"M20.6 5.2 19.4 3.8 11.4 11.3 12.6 12.7Z\"/><path d=\"M9.5 9.5 14.5 14.5 10.5 18.5 5.5 13.5Z\"/>"
+  },
+  "mop": {
+    "category": "cleaning",
+    "keywords": [
+      "mop",
+      "floor",
+      "clean",
+      "fregona",
+      "mopa",
+      "limpiar",
+      "suelo",
+      "wet"
+    ],
+    "aliases": [
+      "floor-mop"
+    ],
+    "outline": "<path d=\"M12 3v9\"/><path d=\"M7.5 12h9\"/><path d=\"M9 12 8 20M11 12 10.7 20.5M13 12 13.3 20.5M15 12 16 20\"/>",
+    "solid": null
+  },
+  "bucket-clean": {
+    "category": "cleaning",
+    "keywords": [
+      "bucket",
+      "pail",
+      "cubo",
+      "balde",
+      "water",
+      "agua",
+      "clean",
+      "mop"
+    ],
+    "aliases": [
+      "pail",
+      "water-bucket"
+    ],
+    "outline": "<path d=\"M4.5 8h15l-1.5 11.3a2 2 0 0 1-2 1.7H8a2 2 0 0 1-2-1.7Z\"/><path d=\"M6.5 8a5.5 4 0 0 1 11 0\"/><path d=\"M6 12.5h12\"/>",
+    "solid": "<path d=\"M12 3.5a5.5 4 0 0 0-5.45 4.5H4.5a1 1 0 0 0-1 1.13l1.5 10.5a2 2 0 0 0 2 1.87h10a2 2 0 0 0 2-1.87l1.5-10.5a1 1 0 0 0-1-1.13h-2.05A5.5 4 0 0 0 12 3.5Zm0 2a3.5 2 0 0 1 3.4 2.5H8.6A3.5 2 0 0 1 12 5.5Z\" fill-rule=\"evenodd\"/>"
+  },
+  "spray-bottle": {
+    "category": "cleaning",
+    "keywords": [
+      "spray",
+      "bottle",
+      "trigger",
+      "botella",
+      "spray",
+      "pulverizador",
+      "cleaner",
+      "mist",
+      "niebla"
+    ],
+    "aliases": [
+      "trigger-spray",
+      "cleaning-spray"
+    ],
+    "outline": "<path d=\"M10 10V7a2.2 2.2 0 0 1 2.2-2.2h2.6\"/><rect x=\"14.8\" y=\"3.3\" width=\"3.2\" height=\"3\" rx=\".6\"/><path d=\"M15.4 6.3c.2 1.6-.7 2.8-2.3 3.3\"/><rect x=\"7\" y=\"10\" width=\"8.5\" height=\"11\" rx=\"2\"/><path d=\"M7 14.5h8.5\"/><path d=\"M20 3.2h.01M21 5.1h.01M20.2 7h.01\"/>",
+    "solid": "<path d=\"M9 10V7a3.2 3.2 0 0 1 3.2-3.2h3.3v2H12.2A1.2 1.2 0 0 0 11 7v3Z\"/><rect x=\"14.8\" y=\"3\" width=\"3.4\" height=\"3.6\" rx=\".7\"/><path d=\"M16 6.4c.3 2-.8 3.6-2.9 4.2l-.6-1.9c1.4-.4 2-1.3 1.8-2.3Z\"/><path d=\"M9 9.5h4.5a2 2 0 0 1 2 2V19a2 2 0 0 1-2 2H9a2 2 0 0 1-2-2v-7.5a2 2 0 0 1 2-2Zm-.6 4.3h5.9v1.7H8.4Z\" fill-rule=\"evenodd\"/><circle cx=\"20\" cy=\"3.4\" r=\"1\"/><circle cx=\"21\" cy=\"5.2\" r=\"1\"/><circle cx=\"20.2\" cy=\"7\" r=\"1\"/>"
+  },
+  "sponge-clean": {
+    "category": "cleaning",
+    "keywords": [
+      "sponge",
+      "scrub",
+      "wash",
+      "esponja",
+      "estropajo",
+      "limpiar",
+      "bubbles",
+      "foam"
+    ],
+    "aliases": [
+      "scourer",
+      "scrub-sponge"
+    ],
+    "outline": "<rect x=\"4\" y=\"8\" width=\"16\" height=\"9\" rx=\"2.5\"/><path d=\"M4 11.5h16\"/><circle cx=\"8.5\" cy=\"14\" r=\".6\"/><circle cx=\"12\" cy=\"14.5\" r=\".6\"/><circle cx=\"15.5\" cy=\"14\" r=\".6\"/>",
+    "solid": "<path d=\"M6.5 8h11A2.5 2.5 0 0 1 20 10.5V11H4v-.5A2.5 2.5 0 0 1 6.5 8Z\"/><path d=\"M4 12.5v2A2.5 2.5 0 0 0 6.5 17h11a2.5 2.5 0 0 0 2.5-2.5v-2Zm4.5 1.4a.7.7 0 1 1 0 1.4.7.7 0 0 1 0-1.4Zm3.5.3a.7.7 0 1 1 0 1.4.7.7 0 0 1 0-1.4Zm3.5-.3a.7.7 0 1 1 0 1.4.7.7 0 0 1 0-1.4Z\" fill-rule=\"evenodd\"/>"
+  },
+  "vacuum-cleaner": {
+    "category": "cleaning",
+    "keywords": [
+      "vacuum",
+      "cleaner",
+      "hoover",
+      "aspiradora",
+      "aspirar",
+      "limpiar",
+      "canister",
+      "suction"
+    ],
+    "aliases": [
+      "hoover",
+      "vacuum"
+    ],
+    "outline": "<rect x=\"3.5\" y=\"11.5\" width=\"10.5\" height=\"7.5\" rx=\"3\"/><circle cx=\"7\" cy=\"14.5\" r=\"1.5\"/><path d=\"M13.5 12.5c4.5-.5 5.5-3.5 5.5-7\"/><path d=\"M17.5 5.5h3.5\"/>",
+    "solid": "<path d=\"M7 11a4.5 4.5 0 0 0 0 9h4a4.5 4.5 0 0 0 0-9Zm0 2.3a2.2 2.2 0 1 1 0 4.4 2.2 2.2 0 0 1 0-4.4Z\" fill-rule=\"evenodd\"/><path d=\"M13 11.7c3.8-.7 5.1-3.4 5.1-6.7a1 1 0 0 0-1-1h-1a1 1 0 0 0-1 1c0 2.3-.8 3.6-3.5 4.1a1.2 1.2 0 0 0 .4 2.3Z\"/><path d=\"M17 4h4a1 1 0 0 1 0 2h-4a1 1 0 0 1 0-2Z\"/>"
+  },
+  "dustpan": {
+    "category": "cleaning",
+    "keywords": [
+      "dustpan",
+      "sweep",
+      "dust",
+      "recogedor",
+      "pala",
+      "barrer",
+      "polvo",
+      "broom"
+    ],
+    "aliases": [
+      "dust-pan"
+    ],
+    "outline": "<path d=\"M3.5 11h12v4a3.5 3.5 0 0 1-3.5 3.5H7A3.5 3.5 0 0 1 3.5 15Z\"/><path d=\"M15.5 11.5 19.5 7.5a1.5 1.5 0 0 1 2.1 2.1L18 13\"/><path d=\"M6 11v2.5h7V11\"/>",
+    "solid": "<path d=\"M3.5 10.5a1 1 0 0 0-1 1V15a4 4 0 0 0 4 4h5a4 4 0 0 0 4-4v-3.5a1 1 0 0 0-1-1Zm2.5 2h7v1.5a1 1 0 0 1-1 1H7a1 1 0 0 1-1-1Z\" fill-rule=\"evenodd\"/><path d=\"M15 12.3 19.5 7.8a1.5 1.5 0 0 1 2.2 2.05L17.2 14Z\"/>"
+  },
+  "trash-bin": {
+    "category": "cleaning",
+    "keywords": [
+      "trash",
+      "bin",
+      "waste",
+      "basura",
+      "papelera",
+      "cubo",
+      "residuos",
+      "garbage"
+    ],
+    "aliases": [
+      "waste-bin",
+      "rubbish-bin"
+    ],
+    "outline": "<path d=\"M6 8h12l-1.2 11a2 2 0 0 1-2 1.8H9.2a2 2 0 0 1-2-1.8Z\"/><rect x=\"4.5\" y=\"6\" width=\"15\" height=\"2.5\" rx=\"1\"/><path d=\"M9 11v6M12 11v6M15 11v6\"/>",
+    "solid": "<path d=\"M6.9 9.5h10.2l-1.1 9.6a2 2 0 0 1-2 1.75H10a2 2 0 0 1-2-1.75Zm2.6 1.8a.9.9 0 0 0-.9.98l.4 4.5a.9.9 0 0 0 1.8-.16l-.4-4.5a.9.9 0 0 0-.9-.82Zm5 0a.9.9 0 0 0-.9.82l-.4 4.5a.9.9 0 0 0 1.8.16l.4-4.5a.9.9 0 0 0-.9-.98ZM12 11.3a.9.9 0 0 0-.9.9v4.5a.9.9 0 0 0 1.8 0v-4.5a.9.9 0 0 0-.9-.9Z\" fill-rule=\"evenodd\"/><rect x=\"4.5\" y=\"6\" width=\"15\" height=\"2.6\" rx=\"1.3\"/>"
+  },
+  "recycle-bin": {
+    "category": "cleaning",
+    "keywords": [
+      "recycle",
+      "bin",
+      "waste",
+      "reciclar",
+      "reciclaje",
+      "papelera",
+      "ecologia",
+      "green",
+      "arrow",
+      "flecha"
+    ],
+    "aliases": [
+      "recycling-bin",
+      "recycle"
+    ],
+    "outline": "<rect x=\"4.5\" y=\"6\" width=\"15\" height=\"2.5\" rx=\"1\"/><path d=\"M6 8h12l-1.2 11a2 2 0 0 1-2 1.8H9.2a2 2 0 0 1-2-1.8Z\"/><path d=\"M14.13 13.43A2.2 2.2 0 1 1 12.57 11.87\"/><path d=\"M11.77 10.72 12.57 11.87 11.3 12.46\"/>",
+    "solid": null
+  },
+  "detergent": {
+    "category": "cleaning",
+    "keywords": [
+      "detergent",
+      "soap",
+      "laundry",
+      "detergente",
+      "jabon",
+      "colada",
+      "bottle",
+      "washing",
+      "garrafa",
+      "asa",
+      "jug"
+    ],
+    "aliases": [
+      "laundry-detergent",
+      "washing-liquid"
+    ],
+    "outline": "<rect x=\"5.9\" y=\"4.4\" width=\"3.8\" height=\"4.1\" rx=\".6\"/><path d=\"M12.2 8.5v-.6a1.75 1.75 0 0 1 3.5 0v.6\"/><rect x=\"5.5\" y=\"8.5\" width=\"12\" height=\"12.5\" rx=\"1.5\"/><path d=\"M5.5 15.5h12\"/>",
+    "solid": "<rect x=\"5.6\" y=\"4.1\" width=\"4.4\" height=\"4.9\" rx=\".8\"/><path d=\"M11.4 8.5v-.4a2.55 2.55 0 0 1 5.1 0v.4h-1.6v-.3a.95.95 0 0 0-1.9 0v.3Z\"/><path d=\"M7 8.5h9a1.5 1.5 0 0 1 1.5 1.5v9.5a1.5 1.5 0 0 1-1.5 1.5H7A1.5 1.5 0 0 1 5.5 19.5V10A1.5 1.5 0 0 1 7 8.5Zm-.1 6.6h9.2v1.7H6.9Z\" fill-rule=\"evenodd\"/>"
+  },
+  "cleaning-gloves": {
+    "category": "cleaning",
+    "keywords": [
+      "gloves",
+      "rubber",
+      "protection",
+      "guantes",
+      "goma",
+      "limpieza",
+      "hands",
+      "dishwashing"
+    ],
+    "aliases": [
+      "rubber-gloves",
+      "dish-gloves"
+    ],
+    "outline": "<path d=\"M7 17.5V11c0-4 2.5-4 2.5 0 0-5 2.5-5 2.5 0 0-5 2.5-5 2.5 0 0-4 2.5-4 2.5 0v6.5Z\"/><path d=\"M6.5 17.5h11v1.8a.7.7 0 0 1-.7.7H7.2a.7.7 0 0 1-.7-.7Z\"/>",
+    "solid": "<path d=\"M7 17.5V11c0-4 2.5-4 2.5 0 0-5 2.5-5 2.5 0 0-5 2.5-5 2.5 0 0-4 2.5-4 2.5 0v6.5Z\"/><path d=\"M6.5 17.5h11v1.8a.7.7 0 0 1-.7.7H7.2a.7.7 0 0 1-.7-.7Z\"/>"
+  },
+  "wipe-cloth": {
+    "category": "cleaning",
+    "keywords": [
+      "wipe",
+      "cloth",
+      "rag",
+      "trapo",
+      "bayeta",
+      "gamuza",
+      "toallita",
+      "dust"
+    ],
+    "aliases": [
+      "cleaning-cloth",
+      "rag",
+      "wet-wipe"
+    ],
+    "outline": "<path d=\"M4 8c1.3-1.3 2.7-1.3 4 0s2.7 1.3 4 0 2.7-1.3 4 0 2.7 1.3 4 0v8c-1.3 1.3-2.7 1.3-4 0s-2.7-1.3-4 0-2.7 1.3-4 0-2.7-1.3-4 0Z\"/><path d=\"M8 12l2.5 2.5M12 11.5l3 3\"/>",
+    "solid": "<path d=\"M4 8c1.3-1.3 2.7-1.3 4 0s2.7 1.3 4 0 2.7-1.3 4 0 2.7 1.3 4 0v8c-1.3 1.3-2.7 1.3-4 0s-2.7-1.3-4 0-2.7 1.3-4 0-2.7-1.3-4 0Zm3.5 3a.9.9 0 0 0-.6 1.55l2.5 2.5a.9.9 0 0 0 1.3-1.3l-2.5-2.5A.9.9 0 0 0 7.5 11Zm4-.5a.9.9 0 0 0-.65 1.55l3 3a.9.9 0 0 0 1.3-1.3l-3-3a.9.9 0 0 0-.65-.25Z\" fill-rule=\"evenodd\"/>"
+  },
+  "dust-feather": {
+    "category": "cleaning",
+    "keywords": [
+      "feather",
+      "dust",
+      "dusting",
+      "pluma",
+      "plumero",
+      "polvo",
+      "quill",
+      "clean",
+      "suelta",
+      "single",
+      "barbas"
+    ],
+    "aliases": [
+      "dusting-feather"
+    ],
+    "outline": "<path d=\"M19.5 4.5C14.5 4.7 10.6 6.6 8.4 10.2 7.5 11.7 7 13.9 7.3 16.6 9.2 16.9 11 16.8 12.6 16.2V13.4H15.3C17.7 10.8 19.4 8.2 19.5 4.5Z\"/><path d=\"M4.5 19.5 18.5 5.5\"/><path d=\"M9.4 14.6h3.2M13.3 10.7h3.6\"/>",
+    "solid": "<path d=\"M19.5 4.5C14.5 4.7 10.6 6.6 8.4 10.2 7.5 11.7 7 13.9 7.3 16.6 9.2 16.9 11 16.8 12.6 16.2V13.4H15.3C17.7 10.8 19.4 8.2 19.5 4.5ZM10.1 13.5h1.5a.5.5 0 0 1 0 1h-1.5a.5.5 0 0 1 0-1Zm3.8-2.6h1.9a.5.5 0 0 1 0 1h-1.9a.5.5 0 0 1 0-1Z\" fill-rule=\"evenodd\"/><path d=\"M7.59 14.99 3.89 18.69a1 1 0 0 0 1.42 1.42l3.7-3.7Z\"/>"
+  },
+  "laundry-basket": {
+    "category": "cleaning",
+    "keywords": [
+      "laundry",
+      "basket",
+      "hamper",
+      "cesto",
+      "ropa",
+      "colada",
+      "cesta",
+      "clothes"
+    ],
+    "aliases": [
+      "hamper",
+      "clothes-basket"
+    ],
+    "outline": "<path d=\"M7 9.5c1.2-2.2 3.3-2.2 4.5 0M12.5 9.5c1.2-2.2 3.3-2.2 4.5 0\"/><path d=\"M4.5 9.5h15l-1.1 9a2 2 0 0 1-2 1.75H7.6a2 2 0 0 1-2-1.75Z\"/><path d=\"M5.5 13.5h13M6 17h12\"/><path d=\"M9 9.7 8.5 20M12 9.7 12 20.3M15 9.7 15.5 20\"/>",
+    "solid": "<path d=\"M4.5 9a1 1 0 0 0-1 1.1l1.1 8.5a2.5 2.5 0 0 0 2.5 2.15h9.8a2.5 2.5 0 0 0 2.5-2.15l1.1-8.5A1 1 0 0 0 19.5 9Zm2.7 3h9.6l-.3 2.3H7.5Zm-.6 4.5h10.8l-.25 1.9a.9.9 0 0 1-.9.8H7.75a.9.9 0 0 1-.9-.8Z\" fill-rule=\"evenodd\"/><path d=\"M6.8 9a2.7 2 0 0 0 5.4 0Z\"/><path d=\"M11.8 9a2.7 2 0 0 0 5.4 0Z\"/>"
+  },
+  "washing-machine": {
+    "category": "cleaning",
+    "keywords": [
+      "washing",
+      "machine",
+      "washer",
+      "lavadora",
+      "lavar",
+      "colada",
+      "appliance",
+      "laundry",
+      "water",
+      "drum",
+      "agua"
+    ],
+    "aliases": [
+      "washer",
+      "laundry-machine"
+    ],
+    "outline": "<rect x=\"4\" y=\"3\" width=\"16\" height=\"18\" rx=\"2\"/><path d=\"M4 7h16\"/><path d=\"M6.3 5h2.6\"/><circle cx=\"17.4\" cy=\"5\" r=\".85\"/><circle cx=\"12\" cy=\"14\" r=\"4.5\"/><path d=\"M7.8 14.7c.9-.8 1.9-.8 2.8 0s1.9.8 2.8 0 1.9-.8 2.8 0\"/>",
+    "solid": "<path d=\"M6 3a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2Zm.9 1.1h2.2a.9.9 0 0 1 0 1.8H6.9a.9.9 0 0 1 0-1.8Zm10.5-.05a.95.95 0 1 1 0 1.9.95.95 0 0 1 0-1.9ZM12 9a5 5 0 1 0 0 10 5 5 0 0 0 0-10Z\" fill-rule=\"evenodd\"/><path d=\"M8.1 15c.85-.7 1.75-.7 2.6 0s1.75.7 2.6 0 1.75-.7 2.6 0A4.03 4.03 0 0 1 8.1 15Z\"/>"
+  },
+  "clothes-dryer": {
+    "category": "cleaning",
+    "keywords": [
+      "dryer",
+      "tumble",
+      "clothes",
+      "secadora",
+      "secar",
+      "ropa",
+      "appliance",
+      "laundry",
+      "air",
+      "vent",
+      "aire",
+      "rejilla"
+    ],
+    "aliases": [
+      "tumble-dryer",
+      "clothes-drier"
+    ],
+    "outline": "<rect x=\"4\" y=\"3\" width=\"16\" height=\"18\" rx=\"2\"/><path d=\"M4 7h16\"/><circle cx=\"15.1\" cy=\"5\" r=\".85\"/><circle cx=\"17.8\" cy=\"5\" r=\".85\"/><circle cx=\"12\" cy=\"12.7\" r=\"3.3\"/><path d=\"M12 12.7V9.4M12 12.7l-2.86 1.65M12 12.7l2.86 1.65\"/><path d=\"M8.8 18.6h6.4\"/>",
+    "solid": "<path d=\"M6 3a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2Zm9.1 1.05a.95.95 0 1 1 0 1.9.95.95 0 0 1 0-1.9Zm2.7 0a.95.95 0 1 1 0 1.9.95.95 0 0 1 0-1.9ZM12 8.1a4.6 4.6 0 1 0 0 9.2 4.6 4.6 0 0 0 0-9.2ZM9.3 18.6h5.4a.8.8 0 0 1 0 1.6H9.3a.8.8 0 0 1 0-1.6Z\" fill-rule=\"evenodd\"/><path d=\"M13 12.7V9.8a1 1 0 0 0-2 0v2.9ZM11.5 13.57l2.51 1.45a1 1 0 0 0 1-1.74l-2.51-1.45ZM11.5 11.83 8.99 13.28a1 1 0 0 0 1 1.74l2.51-1.45Z\"/>"
+  },
+  "iron-clothes": {
+    "category": "cleaning",
+    "keywords": [
+      "iron",
+      "clothes",
+      "press",
+      "plancha",
+      "planchar",
+      "ropa",
+      "steam",
+      "laundry"
+    ],
+    "aliases": [
+      "clothes-iron",
+      "flatiron"
+    ],
+    "outline": "<path d=\"M3 15.5H17a4.5 4.5 0 0 0 4.5-4.5A1.5 1.5 0 0 0 20 9.5H9.5a7 7 0 0 0-6.3 3.9L2.2 15.4A.9 .9 0 0 0 3 15.5Z\"/><path d=\"M9.5 9.5C10.5 6.5 13 5.5 15.5 5.5H18\"/><path d=\"M6 14h.01M9.5 14h.01M13 14h.01\"/>",
+    "solid": "<path d=\"M9.5 8.5a8 8 0 0 0-7.2 4.5l-.3 2.1A1 1 0 0 0 2.2 16.5H17a5.5 5.5 0 0 0 5.5-5.5A2.5 2.5 0 0 0 20 8.5Zm-3.5 4.6a1 1 0 1 1 0 2 1 1 0 0 1 0-2Zm3.5 0a1 1 0 1 1 0 2 1 1 0 0 1 0-2Zm3.5 0a1 1 0 1 1 0 2 1 1 0 0 1 0-2Z\" fill-rule=\"evenodd\"/><path d=\"M15.5 4.5a1 1 0 0 1 0 2c-2.2 0-3.9.9-4.6 2.9a1 1 0 0 1-1.9-.7C10 6 12.6 4.5 15.5 4.5Z\"/>"
+  },
+  "hanger-clean": {
+    "category": "cleaning",
+    "keywords": [
+      "hanger",
+      "clothes",
+      "closet",
+      "percha",
+      "ropa",
+      "armario",
+      "coat",
+      "wardrobe"
+    ],
+    "aliases": [
+      "clothes-hanger",
+      "coat-hanger"
+    ],
+    "outline": "<path d=\"M10.4 8a1.6 1.6 0 1 1 3 .7c-.2.6-.9.8-1.4 1.1-.4.3-.5.7-.5 1.2\"/><path d=\"M12 11 4.6 16.6a1.2 1.2 0 0 0 .7 2.15h13.4a1.2 1.2 0 0 0 .7-2.15L12 11Z\"/>",
+    "solid": null
+  },
+  "clothesline": {
+    "category": "cleaning",
+    "keywords": [
+      "clothesline",
+      "laundry",
+      "dry",
+      "tendedero",
+      "cuerda",
+      "ropa",
+      "pegs",
+      "line"
+    ],
+    "aliases": [
+      "washing-line",
+      "laundry-line"
+    ],
+    "outline": "<path d=\"M3 6.5c6 2.5 12 2.5 18 0\"/><path d=\"M7 7.5 6.5 13a1 1 0 0 0 1 1h2a1 1 0 0 0 1-1L11 7\"/><path d=\"M15 6.8l-.5 6.2a1 1 0 0 0 1 1h1.5a1 1 0 0 0 1-1L18.5 6\"/><path d=\"M6.7 6.8v-1M11.3 6.8v-1M14.7 6.5v-1M18.3 6v-1\"/>",
+    "solid": null
+  },
+  "soap-clean": {
+    "category": "cleaning",
+    "keywords": [
+      "soap",
+      "bar",
+      "wash",
+      "jabon",
+      "pastilla",
+      "lavar",
+      "bubbles",
+      "hygiene"
+    ],
+    "aliases": [
+      "soap-bar",
+      "bar-soap"
+    ],
+    "outline": "<rect x=\"3.5\" y=\"11\" width=\"12\" height=\"7.5\" rx=\"3\"/><path d=\"M3.8 14a6 2 0 0 1 11.4 0\"/><circle cx=\"17.5\" cy=\"8.5\" r=\"1.6\"/><circle cx=\"20.3\" cy=\"11\" r=\"1.1\"/><circle cx=\"16\" cy=\"5.5\" r=\"1.1\"/>",
+    "solid": "<path d=\"M6.5 11A3 3 0 0 0 3.5 14v1.5a3 3 0 0 0 3 3h6a3 3 0 0 0 3-3V14a3 3 0 0 0-3-3Zm0 1.6h6a1.4 1.4 0 0 1 1.36 1.05 7 2.2 0 0 0-8.72 0A1.4 1.4 0 0 1 6.5 12.6Z\" fill-rule=\"evenodd\"/><circle cx=\"17.5\" cy=\"8.5\" r=\"1.7\"/><circle cx=\"20.3\" cy=\"11\" r=\"1.2\"/><circle cx=\"16\" cy=\"5.5\" r=\"1.2\"/>"
+  },
+  "bleach": {
+    "category": "cleaning",
+    "keywords": [
+      "bleach",
+      "chlorine",
+      "disinfect",
+      "lejia",
+      "cloro",
+      "blanquear",
+      "bottle",
+      "whitener",
+      "asa",
+      "rombo",
+      "diamond"
+    ],
+    "aliases": [
+      "chlorine",
+      "whitener"
+    ],
+    "outline": "<rect x=\"8.9\" y=\"3.1\" width=\"5.4\" height=\"2.8\" rx=\".7\"/><path d=\"M10.2 5.9v1.4l-2.6 1.6a2.3 2.3 0 0 0-1 1.9V19a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-8.2a2.3 2.3 0 0 0-1-1.9L13 7.3V5.9\"/><path d=\"M16.6 10.9h.7a1.7 1.7 0 0 1 1.7 1.7v2.2a1.7 1.7 0 0 1-1.7 1.7h-.7\"/><polygon points=\"11.6 11.9 14.1 14.9 11.6 17.9 9.1 14.9\"/>",
+    "solid": "<rect x=\"8.6\" y=\"2.8\" width=\"6\" height=\"3.6\" rx=\".8\"/><path d=\"M10 6.1v1.3L7.3 9.1a2.8 2.8 0 0 0-1.3 2.35V19a2.5 2.5 0 0 0 2.5 2.5h6.2a2.5 2.5 0 0 0 2.5-2.5v-7.55a2.8 2.8 0 0 0-1.3-2.35L13.2 7.4V6.1Zm1.6 7 2.5 2.9-2.5 2.9-2.5-2.9Z\" fill-rule=\"evenodd\"/><path d=\"M17.2 11.6h.3a2.3 2.3 0 0 1 2.3 2.3v1.6a2.3 2.3 0 0 1-2.3 2.3h-.3v-1.9h.1a.5.5 0 0 0 .5-.5v-1.4a.5.5 0 0 0-.5-.5h-.1Z\"/>"
+  },
+  "disinfectant": {
+    "category": "cleaning",
+    "keywords": [
+      "disinfectant",
+      "sanitize",
+      "germ",
+      "desinfectante",
+      "desinfectar",
+      "germenes",
+      "shield",
+      "spray",
+      "cruz",
+      "cross",
+      "medical"
+    ],
+    "aliases": [
+      "sanitizer-spray",
+      "antibacterial"
+    ],
+    "outline": "<rect x=\"9.5\" y=\"2.8\" width=\"5\" height=\"2.9\" rx=\".6\"/><path d=\"M10.3 5.7v1.5l-2.4 1.6a2.3 2.3 0 0 0-1 1.9V19a2 2 0 0 0 2 2h6.2a2 2 0 0 0 2-2v-8.3a2.3 2.3 0 0 0-1-1.9l-2.4-1.6V5.7\"/><path d=\"M12 11.4v5.2M9.4 14h5.2\"/>",
+    "solid": "<rect x=\"9.2\" y=\"2.5\" width=\"5.6\" height=\"3.4\" rx=\".8\"/><path d=\"M10 5.9v1.4L7.5 8.9a2.8 2.8 0 0 0-1.2 2.3V19a2.5 2.5 0 0 0 2.5 2.5h6.4a2.5 2.5 0 0 0 2.5-2.5v-7.8a2.8 2.8 0 0 0-1.2-2.3L14 7.3V5.9Zm1 5.1h2v2h2v2h-2v2h-2v-2H9v-2h2Z\" fill-rule=\"evenodd\"/>"
+  },
+  "hand-sanitizer": {
+    "category": "cleaning",
+    "keywords": [
+      "sanitizer",
+      "gel",
+      "pump",
+      "gel hidroalcoholico",
+      "desinfectante",
+      "manos",
+      "hygiene",
+      "dispenser",
+      "bomba",
+      "gota",
+      "drop"
+    ],
+    "aliases": [
+      "hand-gel",
+      "sanitizer-pump"
+    ],
+    "outline": "<rect x=\"8.5\" y=\"10\" width=\"8\" height=\"11\" rx=\"2\"/><path d=\"M12.5 10V5.5H7.5v2.2\"/><path d=\"M12.5 12.6c-1.1 1.3-1.7 2.2-1.7 3.1a1.7 1.7 0 0 0 3.4 0c0-.9-.6-1.8-1.7-3.1Z\"/>",
+    "solid": "<path d=\"M10.5 10h4a2 2 0 0 1 2 2v7a2 2 0 0 1-2 2h-4a2 2 0 0 1-2-2v-7a2 2 0 0 1 2-2Zm2 2.3c1.1 1.3 1.75 2.3 1.75 3.25a1.75 1.75 0 0 1-3.5 0c0-.95.65-1.95 1.75-3.25Z\" fill-rule=\"evenodd\"/><path d=\"M11.5 10V6.5H8.5v2.2h-2V4.5h7V10Z\"/>"
+  },
+  "squeegee": {
+    "category": "cleaning",
+    "keywords": [
+      "squeegee",
+      "window",
+      "wiper",
+      "limpiacristales",
+      "escurridor",
+      "cristal",
+      "blade",
+      "glass"
+    ],
+    "aliases": [
+      "window-wiper",
+      "glass-wiper"
+    ],
+    "outline": "<path d=\"M12 3.5v8.5\"/><rect x=\"4.5\" y=\"12\" width=\"15\" height=\"2.8\" rx=\"1.2\"/><path d=\"M6 14.8v2a1.5 1.5 0 0 0 1.5 1.5h9a1.5 1.5 0 0 0 1.5-1.5v-2\"/><path d=\"M8.5 20.5v1M12 21v1M15.5 20.5v1\"/>",
+    "solid": "<path d=\"M11 4a1 1 0 0 1 2 0v7.8h-2Z\"/><rect x=\"4.5\" y=\"11.8\" width=\"15\" height=\"3\" rx=\"1.3\"/><path d=\"M6 15h12v1.7a1.8 1.8 0 0 1-1.8 1.8H7.8A1.8 1.8 0 0 1 6 16.7Z\"/>"
+  },
+  "scrub-brush": {
+    "category": "cleaning",
+    "keywords": [
+      "scrub",
+      "brush",
+      "clean",
+      "cepillo",
+      "fregar",
+      "restregar",
+      "bristles",
+      "wash"
+    ],
+    "aliases": [
+      "scrubbing-brush",
+      "cleaning-brush"
+    ],
+    "outline": "<path d=\"M8 8.5c0-2 8-2 8 0\"/><rect x=\"4\" y=\"8.5\" width=\"16\" height=\"5\" rx=\"1.5\"/><path d=\"M6 13.5v3.5M9 13.5v4M12 13.5v4.2M15 13.5v4M18 13.5v3.5\"/>",
+    "solid": "<path d=\"M8.4 7.4C9.3 6.9 10.6 6.7 12 6.7s2.7.2 3.6.7A1.5 1.5 0 0 1 20 8.6v3.4a1.5 1.5 0 0 1-1.5 1.5h-13A1.5 1.5 0 0 1 4 12V8.6a1.5 1.5 0 0 1 4.4-1.2Z\"/><path d=\"M5.5 13.5h1.3v3.6h-1.3zM8.7 13.5h1.3v4.1h-1.3zM11.9 13.5h1.3v4.3h-1.3zM15.1 13.5h1.3v4.1h-1.3zM18.3 13.5h1.3v3.6h-1.3z\"/>"
+  },
+  "dish-soap": {
+    "category": "cleaning",
+    "keywords": [
+      "dish",
+      "soap",
+      "detergent",
+      "lavavajillas",
+      "fregar",
+      "platos",
+      "washing-up",
+      "bubbles"
+    ],
+    "aliases": [
+      "dishwashing-liquid",
+      "washing-up-liquid"
+    ],
+    "outline": "<path d=\"M11 3.5V2.5h2v1\"/><path d=\"M10 5.5v-2h4v2\"/><path d=\"M9.5 5.5h5a1 1 0 0 1 1 1V19a2 2 0 0 1-2 2h-4a2 2 0 0 1-2-2V6.5a1 1 0 0 1 1-1Z\"/><rect x=\"9\" y=\"11\" width=\"6\" height=\"5.5\" rx=\"1\"/><circle cx=\"18\" cy=\"7\" r=\"1.3\"/><circle cx=\"20.2\" cy=\"10\" r=\".9\"/>",
+    "solid": "<path d=\"M10.5 2.5a1 1 0 0 0 0 2v1.5H10A2 2 0 0 0 8 8v11a2.5 2.5 0 0 0 2.5 2.5h3A2.5 2.5 0 0 0 16 19V8a2 2 0 0 0-2-2h-.5V4.5a1 1 0 0 0 0-2Zm-.5 9h4a.8.8 0 0 1 .8.8v3.9a.8.8 0 0 1-.8.8h-4a.8.8 0 0 1-.8-.8v-3.9a.8.8 0 0 1 .8-.8Z\" fill-rule=\"evenodd\"/><circle cx=\"18\" cy=\"7\" r=\"1.4\"/><circle cx=\"20.2\" cy=\"10\" r=\"1\"/>"
+  },
+  "toilet-cleaner": {
+    "category": "cleaning",
+    "keywords": [
+      "toilet",
+      "cleaner",
+      "bottle",
+      "limpiador wc",
+      "inodoro",
+      "bano",
+      "angled",
+      "bleach",
+      "cuello",
+      "codo",
+      "neck"
+    ],
+    "aliases": [
+      "wc-cleaner",
+      "bathroom-cleaner"
+    ],
+    "outline": "<rect x=\"5.5\" y=\"11\" width=\"9\" height=\"10\" rx=\"2\"/><path d=\"M7.5 11V8.05L10.68 4.87 12.52 6.71 10.1 9.13V11\"/><path d=\"M5.5 15h9\"/>",
+    "solid": "<path d=\"M7.2 10.6h5.6a2.2 2.2 0 0 1 2.2 2.2v6.5a2.2 2.2 0 0 1-2.2 2.2H7.2A2.2 2.2 0 0 1 5 19.3v-6.5a2.2 2.2 0 0 1 2.2-2.2Zm-.6 4h6.8v1.7H6.6Z\" fill-rule=\"evenodd\"/><path d=\"M6.5 11V7.6L10.3 3.8 13.5 7 10.7 9.8V11Z\"/>"
+  },
+  "air-freshener": {
+    "category": "cleaning",
+    "keywords": [
+      "air",
+      "freshener",
+      "aerosol",
+      "ambientador",
+      "aerosol",
+      "spray",
+      "scent",
+      "fragrance"
+    ],
+    "aliases": [
+      "air-spray",
+      "deodorizer"
+    ],
+    "outline": "<rect x=\"8\" y=\"8\" width=\"8\" height=\"13\" rx=\"2\"/><path d=\"M9.5 8V6.5h5V8\"/><rect x=\"10.5\" y=\"4.5\" width=\"3\" height=\"2\" rx=\".5\"/><path d=\"M13.5 5.5h1.8\"/><path d=\"M8 12h8\"/><path d=\"M17.5 4h.01M19 5.5h.01M18 7.5h.01\"/>",
+    "solid": "<path d=\"M10 4a1 1 0 0 0-1 1v1.6A2 2 0 0 0 7 8.5V19a2.5 2.5 0 0 0 2.5 2.5h5A2.5 2.5 0 0 0 17 19V8.5a2 2 0 0 0-2-1.9V5a1 1 0 0 0-1-1Zm-2 8h8v1.4H8Z\" fill-rule=\"evenodd\"/><path d=\"M13.5 5h1.8a1 1 0 0 1 0 2h-1.8a1 1 0 0 1 0-2Z\"/><circle cx=\"17.6\" cy=\"4.2\" r=\".8\"/><circle cx=\"19.2\" cy=\"5.8\" r=\".8\"/><circle cx=\"18\" cy=\"7.6\" r=\".8\"/>"
+  },
+  "lint-roller": {
+    "category": "cleaning",
+    "keywords": [
+      "lint",
+      "roller",
+      "clothes",
+      "rodillo",
+      "quitapelusas",
+      "pelusa",
+      "sticky",
+      "fur"
+    ],
+    "aliases": [
+      "lint-remover",
+      "sticky-roller"
+    ],
+    "outline": "<rect x=\"4\" y=\"4.5\" width=\"13\" height=\"5\" rx=\"2.5\"/><path d=\"M8 4.5v5M13 4.5v5\"/><path d=\"M10.5 9.5V12\"/><rect x=\"8.8\" y=\"12\" width=\"3.4\" height=\"8.5\" rx=\"1.5\"/>",
+    "solid": "<path d=\"M6.5 4.5h8A2.5 2.5 0 0 1 17 7A2.5 2.5 0 0 1 14.5 9.5h-8A2.5 2.5 0 0 1 4 7A2.5 2.5 0 0 1 6.5 4.5Z\"/><rect x=\"9.7\" y=\"9\" width=\"1.6\" height=\"3.5\"/><rect x=\"8.8\" y=\"12\" width=\"3.4\" height=\"8.5\" rx=\"1.5\"/>"
+  },
+  "vacuum-robot": {
+    "category": "cleaning",
+    "keywords": [
+      "robot",
+      "vacuum",
+      "roomba",
+      "aspirador robot",
+      "robotica",
+      "automatico",
+      "smart",
+      "cleaner"
+    ],
+    "aliases": [
+      "robot-vacuum",
+      "roomba"
+    ],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"8.5\"/><path d=\"M4.2 8.5a8.5 8.5 0 0 1 15.6 0\"/><circle cx=\"12\" cy=\"13\" r=\"2.8\"/><circle cx=\"12\" cy=\"6\" r=\".8\"/>",
+    "solid": "<path d=\"M12 3.5a8.5 8.5 0 1 0 0 17 8.5 8.5 0 0 0 0-17Zm0 4.3a1 1 0 1 1 0 2 1 1 0 0 1 0-2Zm0 3.4a2.8 2.8 0 1 1 0 5.6 2.8 2.8 0 0 1 0-5.6Z\" fill-rule=\"evenodd\"/>"
+  },
+  "feather-duster": {
+    "category": "cleaning",
+    "keywords": [
+      "duster",
+      "feather",
+      "dust",
+      "plumero",
+      "plumas",
+      "polvo",
+      "handle",
+      "clean",
+      "mango",
+      "penacho"
+    ],
+    "aliases": [
+      "duster",
+      "dust-brush"
+    ],
+    "outline": "<path d=\"M12 15.4c-2.3-.6-3.9-1.9-4.7-3.5-.6-1.4-.9-3.3-.9-5.5 1.2.4 2.3 1.2 3.3 2.3.2-1.8 1-3.6 2.3-5.4 1.3 1.8 2.1 3.6 2.3 5.4 1-1.1 2.1-1.9 3.3-2.3 0 2.2-.3 4.1-.9 5.5-.8 1.6-2.4 2.9-4.7 3.5Z\"/><path d=\"M10.3 12.5c-.3-1.1-.3-2.3 0-3.5M13.7 12.5c.3-1.1.3-2.3 0-3.5\"/><rect x=\"10.2\" y=\"15.2\" width=\"3.6\" height=\"2.4\" rx=\".7\"/><path d=\"M12 17.6V21\"/>",
+    "solid": "<path d=\"M12 15.4c-2.3-.6-3.9-1.9-4.7-3.5-.6-1.4-.9-3.3-.9-5.5 1.2.4 2.3 1.2 3.3 2.3.2-1.8 1-3.6 2.3-5.4 1.3 1.8 2.1 3.6 2.3 5.4 1-1.1 2.1-1.9 3.3-2.3 0 2.2-.3 4.1-.9 5.5-.8 1.6-2.4 2.9-4.7 3.5ZM11.5 8.3a.5.5 0 0 1 1 0v4.4a.5.5 0 0 1-1 0Zm-2.1 1.3a.5.5 0 0 1 1 0v2.5a.5.5 0 0 1-1 0Zm4.2 0a.5.5 0 0 1 1 0v2.5a.5.5 0 0 1-1 0Z\" fill-rule=\"evenodd\"/><rect x=\"10\" y=\"15\" width=\"4\" height=\"2.8\" rx=\".8\"/><path d=\"M11 17.5h2v2.5a1 1 0 0 1-2 0Z\"/>"
+  },
+  "garbage-bag": {
+    "category": "cleaning",
+    "keywords": [
+      "garbage",
+      "bag",
+      "trash",
+      "bolsa basura",
+      "basura",
+      "residuos",
+      "waste",
+      "rubbish"
+    ],
+    "aliases": [
+      "trash-bag",
+      "bin-bag"
+    ],
+    "outline": "<path d=\"M7 9.5c1-2 2-3 5-3s4 1 5 3c1 4 1 8-.5 10.4a2 2 0 0 1-1.7 1H9.2a2 2 0 0 1-1.7-1C6 17.5 6 13.5 7 9.5Z\"/><path d=\"M7 9.5C6 8 6.5 6 8.5 5.5M17 9.5C18 8 17.5 6 15.5 5.5\"/><path d=\"M8.5 8.5c1.5 1.2 5.5 1.2 7 0\"/>",
+    "solid": "<path d=\"M8.4 5.3a1 1 0 0 0-1.3.7c-.3 1.1-.2 2.1.2 3-.9 4-.8 7.9.7 10.4a3 3 0 0 0 2.6 1.6h2.8a3 3 0 0 0 2.6-1.6c1.5-2.5 1.6-6.4.7-10.4.4-.9.5-1.9.2-3a1 1 0 0 0-1.3-.7c-.6.2-1 .6-1.3 1-1.2-.5-3.4-.5-4.6 0-.3-.4-.7-.8-1.3-1Zm.7 3.9c1.6.9 4.2.9 5.8 0 .7 3.4.6 6.6-.6 8.6a1 1 0 0 1-.85.5H10.5a1 1 0 0 1-.85-.5c-1.2-2-1.3-5.2-.6-8.6Z\" fill-rule=\"evenodd\"/>"
+  },
+  "compost-bin": {
+    "category": "cleaning",
+    "keywords": [
+      "compost",
+      "bin",
+      "organic",
+      "compost",
+      "organico",
+      "biodegradable",
+      "leaf",
+      "green"
+    ],
+    "aliases": [
+      "organic-waste",
+      "food-waste-bin"
+    ],
+    "outline": "<rect x=\"4.5\" y=\"6\" width=\"15\" height=\"2.5\" rx=\"1\"/><path d=\"M6 8.5h12l-1.2 11a2 2 0 0 1-2 1.8H9.2a2 2 0 0 1-2-1.8Z\"/><path d=\"M9 16c0-2.5 2-4.5 5.5-4.5C14.5 15 12.5 17 9 16Z\"/><path d=\"M9 16c1.5-.8 3-2 4.2-3.5\"/>",
+    "solid": "<path d=\"M6.9 9.5h10.2l-1.1 9.6a2 2 0 0 1-2 1.75H10a2 2 0 0 1-2-1.75Zm5.6 2.4c-2.6.3-4 2-4 4.1a.8.8 0 0 0 1 .8 6.5 6.5 0 0 0 2.4-1.4 8 8 0 0 1-1.4 2 .6 .6 0 0 0 .8.2c2-1 3.2-2.7 3.2-4.7a.6.6 0 0 0-.7-.6c-.15 1-.6 2-1.4 2.9.5-.9.8-1.9 1-2.9Z\" fill-rule=\"evenodd\"/><rect x=\"4.5\" y=\"6\" width=\"15\" height=\"2.6\" rx=\"1.3\"/>"
+  },
+  "pressure-washer": {
+    "category": "cleaning",
+    "keywords": [
+      "pressure",
+      "washer",
+      "spray gun",
+      "hidrolimpiadora",
+      "hidrolavadora",
+      "presion",
+      "jet",
+      "karcher",
+      "gun",
+      "pistola",
+      "trigger"
+    ],
+    "aliases": [
+      "power-washer",
+      "jet-washer"
+    ],
+    "outline": "<rect x=\"3\" y=\"7\" width=\"10\" height=\"4\" rx=\"1.2\"/><path d=\"M13 9h2.5\"/><path d=\"M5.5 11l-.7 4.6a1.3 1.3 0 0 0 1.29 1.5h1.4a1.3 1.3 0 0 0 1.27-1.05L9.5 11\"/><path d=\"M12.7 11v1a1.2 1.2 0 0 1-1.2 1.2h-.1\"/><path d=\"M17.6 6.4l2.7-1.7M18 9h3M17.6 11.6l2.7 1.7\"/>",
+    "solid": null
+  },
+  "window-cleaner": {
+    "category": "cleaning",
+    "keywords": [
+      "window",
+      "cleaner",
+      "glass",
+      "limpiacristales",
+      "ventana",
+      "cristal",
+      "shine",
+      "wipe"
+    ],
+    "aliases": [
+      "window-cleaning",
+      "glass-cleaner"
+    ],
+    "outline": "<rect x=\"3.5\" y=\"4\" width=\"17\" height=\"16\" rx=\"2\"/><path d=\"M12 4v16M3.5 12h17\"/><path d=\"M6.5 7 8.5 9M16.5 6.8v2.4M15.3 8h2.4\"/>",
+    "solid": "<path d=\"M5.5 4A2.5 2.5 0 0 0 3 6.5v11A2.5 2.5 0 0 0 5.5 20h13a2.5 2.5 0 0 0 2.5-2.5v-11A2.5 2.5 0 0 0 18.5 4Zm5.5 2h2v5h5v2h-5v5h-2v-5H6v-2h5Z\" fill-rule=\"evenodd\"/><path d=\"M16.5 6a1 1 0 0 1 1 1v.2h.2a1 1 0 0 1 0 2h-.2v.2a1 1 0 0 1-2 0v-.2h-.2a1 1 0 0 1 0-2h.2V7a1 1 0 0 1 1-1Z\"/>"
+  },
+  "floor-buffer": {
+    "category": "cleaning",
+    "keywords": [
+      "floor",
+      "buffer",
+      "polisher",
+      "abrillantadora",
+      "pulidora",
+      "suelo",
+      "scrubber",
+      "machine",
+      "disc",
+      "disco",
+      "pad"
+    ],
+    "aliases": [
+      "floor-polisher",
+      "floor-scrubber"
+    ],
+    "outline": "<path d=\"M19.7 4.2 14.4 12.2\"/><path d=\"M18.6 3.5 20.8 4.9\"/><rect x=\"8.5\" y=\"12.2\" width=\"7\" height=\"4.4\" rx=\"1.6\"/><path d=\"M12 16.6v2.4\"/><rect x=\"4\" y=\"19\" width=\"16\" height=\"2\" rx=\"1\"/>",
+    "solid": "<rect x=\"4\" y=\"18.8\" width=\"16\" height=\"2.6\" rx=\"1.3\"/><rect x=\"8\" y=\"11.8\" width=\"7.5\" height=\"4.8\" rx=\"1.6\"/><path d=\"M11 16h2v3.4h-2z\"/><path d=\"M12.79 12.01 18.89 3.61a1 1 0 0 1 1.62 1.18L14.41 13.19Z\"/><path d=\"M18.06 4.25l2.1 1.52a1 1 0 0 0 1.18-1.62l-2.1-1.52a1 1 0 0 0-1.18 1.62Z\"/>"
+  }
+}

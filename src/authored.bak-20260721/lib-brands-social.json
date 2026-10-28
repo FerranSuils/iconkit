@@ -1,0 +1,639 @@
+{
+  "snapchat": {
+    "category": "brands",
+    "keywords": [
+      "snapchat",
+      "snap",
+      "ghost",
+      "fantasma",
+      "chat",
+      "social",
+      "red social"
+    ],
+    "aliases": [
+      "snap"
+    ],
+    "outline": "<path d=\"M12 3.6c-2.6 0-4.7 2-4.8 4.6 0 .8.05 1.5 0 1.9-.1.5-.3.7-.9.9-.7.2-1.4.3-1.5.9-.1.5.5.8 1.2 1.1.4.15.7.25.7.6 0 .5-1 .9-1 1.4 0 .6 1.3.7 2.1 1 .5.2.7.9 1.1 1.2.4.25 1 .2 1.7.2s1.3.05 1.7-.2c.4-.3.6-1 1.1-1.2.8-.3 2.1-.4 2.1-1 0-.5-1-.9-1-1.4 0-.35.3-.45.7-.6.7-.3 1.3-.6 1.2-1.1-.1-.6-.8-.7-1.5-.9-.6-.2-.8-.4-.9-.9-.05-.4 0-1.1 0-1.9C16.7 5.6 14.6 3.6 12 3.6Z\"/>",
+    "solid": "<path d=\"M12 3.6c-2.6 0-4.7 2-4.8 4.6 0 .8.05 1.5 0 1.9-.1.5-.3.7-.9.9-.7.2-1.4.3-1.5.9-.1.5.5.8 1.2 1.1.4.15.7.25.7.6 0 .5-1 .9-1 1.4 0 .6 1.3.7 2.1 1 .5.2.7.9 1.1 1.2.4.25 1 .2 1.7.2s1.3.05 1.7-.2c.4-.3.6-1 1.1-1.2.8-.3 2.1-.4 2.1-1 0-.5-1-.9-1-1.4 0-.35.3-.45.7-.6.7-.3 1.3-.6 1.2-1.1-.1-.6-.8-.7-1.5-.9-.6-.2-.8-.4-.9-.9-.05-.4 0-1.1 0-1.9C16.7 5.6 14.6 3.6 12 3.6Z\"/>"
+  },
+  "tumblr": {
+    "category": "brands",
+    "keywords": [
+      "tumblr",
+      "blog",
+      "social",
+      "microblog",
+      "t",
+      "red social"
+    ],
+    "aliases": [],
+    "outline": "<path d=\"M13.4 3.5h2.8v3.6H19v3h-2.8v4.3c0 .9.4 1.3 1.3 1.3H19v3.3h-2.7c-2.4 0-3.6-1.3-3.6-3.5V10.1H9.6V7.4c2-.5 3.4-1.9 3.8-3.9Z\"/>",
+    "solid": "<path d=\"M13.4 3.5h2.8v3.6H19v3h-2.8v4.3c0 .9.4 1.3 1.3 1.3H19v3.3h-2.7c-2.4 0-3.6-1.3-3.6-3.5V10.1H9.6V7.4c2-.5 3.4-1.9 3.8-3.9Z\"/>"
+  },
+  "flickr": {
+    "category": "brands",
+    "keywords": [
+      "flickr",
+      "photo",
+      "foto",
+      "photos",
+      "fotos",
+      "social",
+      "yahoo"
+    ],
+    "aliases": [],
+    "outline": "<circle cx=\"8\" cy=\"12\" r=\"3.6\"/><circle cx=\"16\" cy=\"12\" r=\"3.6\"/>",
+    "solid": "<circle cx=\"8\" cy=\"12\" r=\"3.6\"/><circle cx=\"16\" cy=\"12\" r=\"3.6\"/>"
+  },
+  "vimeo": {
+    "category": "brands",
+    "keywords": [
+      "vimeo",
+      "video",
+      "play",
+      "film",
+      "reproducir",
+      "stream"
+    ],
+    "aliases": [],
+    "outline": "<path d=\"M3.8 9.2c1.1-1.3 2.3-1.6 3.1-1.4 1 .3 1.5 1.4 1.8 3.4.3 1.6.5 2.4 1 2.4.5 0 1.3-1.2 2.4-3.1 1-1.7.8-2.8-.5-2.9-.6 0-1.2.1-1.9.4.7-2 2.2-3 4-2.8 1.8.2 2.5 1.6 2.2 3.6-.3 2.3-1.9 5.2-3.8 7.1-1.4 1.3-2.5 1.6-3.3.6-.6-.7-1.1-2.3-1.6-4.9-.4-1.9-.7-2.6-1.2-2.6-.3 0-.8.3-1.4.9Z\"/>",
+    "solid": "<path d=\"M3.8 9.2c1.1-1.3 2.3-1.6 3.1-1.4 1 .3 1.5 1.4 1.8 3.4.3 1.6.5 2.4 1 2.4.5 0 1.3-1.2 2.4-3.1 1-1.7.8-2.8-.5-2.9-.6 0-1.2.1-1.9.4.7-2 2.2-3 4-2.8 1.8.2 2.5 1.6 2.2 3.6-.3 2.3-1.9 5.2-3.8 7.1-1.4 1.3-2.5 1.6-3.3.6-.6-.7-1.1-2.3-1.6-4.9-.4-1.9-.7-2.6-1.2-2.6-.3 0-.8.3-1.4.9Z\"/>"
+  },
+  "soundcloud": {
+    "category": "brands",
+    "keywords": [
+      "soundcloud",
+      "music",
+      "musica",
+      "audio",
+      "cloud",
+      "nube",
+      "wave",
+      "onda"
+    ],
+    "aliases": [],
+    "outline": "<path d=\"M4 13v3.5M6.7 11v5.5M9.3 9.2v7.3M12 11v5.5\"/><path d=\"M14.5 16.5V10.5a3.2 3.2 0 0 1 6.2 1.1 2.5 2.5 0 0 1-.7 4.9Z\"/>",
+    "solid": "<rect x=\"3.2\" y=\"12.5\" width=\"1.6\" height=\"4.5\" rx=\".8\"/><rect x=\"5.9\" y=\"10.5\" width=\"1.6\" height=\"6.5\" rx=\".8\"/><rect x=\"8.5\" y=\"8.7\" width=\"1.6\" height=\"8.3\" rx=\".8\"/><rect x=\"11.2\" y=\"10.5\" width=\"1.6\" height=\"6.5\" rx=\".8\"/><path d=\"M14.5 17V10.5a3.2 3.2 0 0 1 6.2 1.1A2.5 2.5 0 0 1 20 17Z\"/>"
+  },
+  "behance": {
+    "category": "brands",
+    "keywords": [
+      "behance",
+      "design",
+      "diseno",
+      "portfolio",
+      "creative",
+      "adobe"
+    ],
+    "aliases": [],
+    "outline": "<path d=\"M3.5 7h4.4a2.5 2.5 0 0 1 0 5H3.5Z\"/><path d=\"M3.5 12h4.9a2.6 2.6 0 0 1 0 5.2H3.5Z\"/><path d=\"M14.2 13.6h6.3a3.15 3.15 0 1 0-1 2.4\"/><path d=\"M15.8 8.2h3.6\"/>",
+    "solid": null
+  },
+  "deviantart": {
+    "category": "brands",
+    "keywords": [
+      "deviantart",
+      "art",
+      "arte",
+      "design",
+      "diseno",
+      "portfolio",
+      "community"
+    ],
+    "aliases": [
+      "deviant"
+    ],
+    "outline": "<path d=\"M16.8 3.5h-3.9l-.6 1.2-1.4 2.6H7.2v4h1.7l-.6 1.1-1.1 2.1v4.5h3.9l.6-1.2 1.4-2.6h3.7v-4h-1.7l.6-1.1 1.1-2.1Z\"/>",
+    "solid": "<path d=\"M16.8 3.5h-3.9l-.6 1.2-1.4 2.6H7.2v4h1.7l-.6 1.1-1.1 2.1v4.5h3.9l.6-1.2 1.4-2.6h3.7v-4h-1.7l.6-1.1 1.1-2.1Z\"/>"
+  },
+  "mastodon": {
+    "category": "brands",
+    "keywords": [
+      "mastodon",
+      "social",
+      "fediverse",
+      "red social",
+      "toot",
+      "elefante"
+    ],
+    "aliases": [],
+    "outline": "<path d=\"M18.5 9c0-3.2-2.1-4.2-2.1-4.2C15.3 4.3 13.7 4.1 12 4.1s-3.3.2-4.4.7C7.6 4.8 5.5 5.8 5.5 9c0 3 .1 5.6.6 6.8.6 1.4 2.4 1.9 3.8 2 1 .1 2 .1 3 0v-1.9c-1 .1-2 .1-3-.1-1-.2-1.4-.9-1.4-1.6 0 0 1.8.4 3.5.4s2.4-.1 3.4-.4c1.5-.4 2.1-1.9 2.1-2.9Z\"/><path d=\"M9 14.5v-3.4a1.5 1.5 0 0 1 3 0v1.4M12 12.5v-1.4a1.5 1.5 0 0 1 3 0v3.4\"/>",
+    "solid": null
+  },
+  "threads-app": {
+    "category": "brands",
+    "keywords": [
+      "threads",
+      "meta",
+      "instagram",
+      "social",
+      "red social",
+      "app"
+    ],
+    "aliases": [
+      "threads"
+    ],
+    "outline": "<path d=\"M11.8 21C6.5 20.9 3.5 17.7 3.5 12S6.6 3.1 11.9 3c3.4 0 5.9 1.4 7.2 4M9.3 13.3c0-1.6 1.4-2.6 3.3-2.6 3.2 0 4.6 1.9 4.4 4.7-.2 2.6-1.9 3.8-3.8 3.8-1.7 0-2.9-1-2.9-2.4 0-1.7 1.6-2.3 3.1-2.3 3.4 0 5.4 2 5.4 4.9\"/>",
+    "solid": null
+  },
+  "bluesky": {
+    "category": "brands",
+    "keywords": [
+      "bluesky",
+      "bsky",
+      "butterfly",
+      "mariposa",
+      "social",
+      "red social"
+    ],
+    "aliases": [
+      "bsky"
+    ],
+    "outline": "<path d=\"M12 10.8C10.6 8 7.4 5 5.2 5c-1.4 0-2.2 1-2.2 2.8 0 2 1.6 4.4 4.2 5.2-1.3.1-2.5.5-3.1 1.4-.4.6-.4 1.6.2 2.4.8 1 2.3 1.4 3.9.6 1.5-.7 2.8-2.4 3.6-4.2\"/><path d=\"M12 10.8C13.4 8 16.6 5 18.8 5c1.4 0 2.2 1 2.2 2.8 0 2-1.6 4.4-4.2 5.2 1.3.1 2.5.5 3.1 1.4.4.6.4 1.6-.2 2.4-.8 1-2.3 1.4-3.9.6-1.5-.7-2.8-2.4-3.6-4.2\"/>",
+    "solid": "<path d=\"M12 10.8C10.6 8 7.4 5 5.2 5c-1.4 0-2.2 1-2.2 2.8 0 2 1.6 4.4 4.2 5.2-1.3.1-2.5.5-3.1 1.4-.4.6-.4 1.6.2 2.4.8 1 2.3 1.4 3.9.6 1.5-.7 2.8-2.4 3.6-4.2ZM12 10.8C13.4 8 16.6 5 18.8 5c1.4 0 2.2 1 2.2 2.8 0 2-1.6 4.4-4.2 5.2 1.3.1 2.5.5 3.1 1.4.4.6.4 1.6-.2 2.4-.8 1-2.3 1.4-3.9.6-1.5-.7-2.8-2.4-3.6-4.2Z\"/>"
+  },
+  "patreon": {
+    "category": "brands",
+    "keywords": [
+      "patreon",
+      "support",
+      "apoyo",
+      "creator",
+      "creador",
+      "membership",
+      "donate"
+    ],
+    "aliases": [],
+    "outline": "<circle cx=\"14.5\" cy=\"10\" r=\"5.5\"/><line x1=\"5.5\" y1=\"4\" x2=\"5.5\" y2=\"20\"/>",
+    "solid": "<circle cx=\"14.5\" cy=\"10\" r=\"5.5\"/><rect x=\"4\" y=\"4\" width=\"3\" height=\"16\"/>"
+  },
+  "kofi": {
+    "category": "brands",
+    "keywords": [
+      "kofi",
+      "ko-fi",
+      "coffee",
+      "cafe",
+      "donate",
+      "donar",
+      "support",
+      "apoyo"
+    ],
+    "aliases": [
+      "ko-fi"
+    ],
+    "outline": "<path d=\"M4.5 7.5h11v4a4.5 4.5 0 0 1-4.5 4.5H9A4.5 4.5 0 0 1 4.5 11.5Z\"/><path d=\"M15.5 8.5h1.7a2.3 2.3 0 0 1 0 4.6h-1.7\"/><path d=\"M5.5 19h9\"/><path d=\"M9 13c-1-.7-2-1.6-2-2.6 0-.8.6-1.3 1.3-1.3.5 0 .9.25 1.2.7.3-.45.7-.7 1.2-.7.7 0 1.3.5 1.3 1.3C11 11.4 10 12.3 9 13Z\"/>",
+    "solid": null
+  },
+  "buymeacoffee": {
+    "category": "brands",
+    "keywords": [
+      "buymeacoffee",
+      "coffee",
+      "cafe",
+      "donate",
+      "donar",
+      "support",
+      "apoyo",
+      "tip"
+    ],
+    "aliases": [
+      "bmc"
+    ],
+    "outline": "<path d=\"M5 7.5h10v4a4.5 4.5 0 0 1-4.5 4.5H9.5A4.5 4.5 0 0 1 5 11.5Z\"/><path d=\"M15 8.5h1.7a2.2 2.2 0 0 1 0 4.4H15\"/><path d=\"M5 19h9\"/><path d=\"M8 3.8c-.6.7.5 1.5 0 2.4M11.5 3.8c-.6.7.5 1.5 0 2.4\"/>",
+    "solid": null
+  },
+  "onlyfans": {
+    "category": "brands",
+    "keywords": [
+      "onlyfans",
+      "of",
+      "creator",
+      "creador",
+      "subscription",
+      "suscripcion",
+      "content"
+    ],
+    "aliases": [
+      "of"
+    ],
+    "outline": "<circle cx=\"9.5\" cy=\"12\" r=\"6\"/><circle cx=\"9.5\" cy=\"12\" r=\"2\"/><path d=\"M16 18V9A2.5 2.5 0 0 1 18.5 6.5M14.5 11.5h4\"/>",
+    "solid": null
+  },
+  "substack": {
+    "category": "brands",
+    "keywords": [
+      "substack",
+      "newsletter",
+      "boletin",
+      "blog",
+      "write",
+      "escribir",
+      "publish"
+    ],
+    "aliases": [],
+    "outline": "<line x1=\"5.5\" y1=\"6\" x2=\"18.5\" y2=\"6\"/><line x1=\"5.5\" y1=\"9.5\" x2=\"18.5\" y2=\"9.5\"/><path d=\"M5.5 13h13v6.5l-6.5-3.3-6.5 3.3Z\"/>",
+    "solid": "<rect x=\"5.5\" y=\"5.2\" width=\"13\" height=\"1.9\"/><rect x=\"5.5\" y=\"8.7\" width=\"13\" height=\"1.9\"/><path d=\"M5.5 12.2h13v7.8l-6.5-3.3-6.5 3.3Z\"/>"
+  },
+  "quora": {
+    "category": "brands",
+    "keywords": [
+      "quora",
+      "question",
+      "pregunta",
+      "answer",
+      "respuesta",
+      "qa",
+      "forum"
+    ],
+    "aliases": [],
+    "outline": "<circle cx=\"11\" cy=\"11\" r=\"7.5\"/><path d=\"M12.5 16.2l2.3 3a2.3 2.3 0 0 0 3 .6\"/>",
+    "solid": "<path d=\"M11 3.5a7.5 7.5 0 1 0 0 15 7.5 7.5 0 0 0 0-15Zm0 3.7a3.8 3.8 0 1 1 0 7.6 3.8 3.8 0 0 1 0-7.6Z\" fill-rule=\"evenodd\"/><path d=\"M13.2 14.8l2.4 3.1a2 2 0 0 0 2.6.5l-1-1.7a.5.5 0 0 1-.6-.1l-1.9-2.5Z\"/>"
+  },
+  "wechat-brand": {
+    "category": "brands",
+    "keywords": [
+      "wechat",
+      "weixin",
+      "chat",
+      "message",
+      "mensaje",
+      "social",
+      "china"
+    ],
+    "aliases": [
+      "weixin"
+    ],
+    "outline": "<path d=\"M9 4.5C5.4 4.5 2.5 7 2.5 10.2c0 1.8.9 3.4 2.4 4.5L4 18l3.3-1.7c.5.1 1.1.2 1.7.2h.4a5 5 0 0 1-.1-1.2C9.2 12.3 12.4 10 16 10c.2 0 .4 0 .6.02C16 6.9 12.8 4.5 9 4.5Z\"/><path d=\"M6.7 8.6h.01M11 8.6h.01\"/><path d=\"M16 11c-3 0-5.5 2-5.5 4.6 0 1.4.7 2.7 1.9 3.6L11.8 22l2.6-1.4c.5.1 1.1.2 1.6.2 3 0 5.5-2 5.5-4.6S19 11 16 11Z\"/><path d=\"M14 14.6h.01M17.8 14.6h.01\"/>",
+    "solid": null
+  },
+  "line-app": {
+    "category": "brands",
+    "keywords": [
+      "line",
+      "chat",
+      "message",
+      "mensaje",
+      "social",
+      "app",
+      "japan"
+    ],
+    "aliases": [
+      "line"
+    ],
+    "outline": "<path d=\"M12 3.8C6.75 3.8 2.5 7.24 2.5 11.47c0 3.79 3.37 6.96 7.92 7.56.31.07.73.2.84.47.1.24.06.62.03.86l-.13 1.02c-.04.3-.24 1.17 1.03.64 1.27-.53 6.83-4.02 9.32-6.89 1.72-1.89 2.46-3.8 2.46-5.66 0-4.23-4.25-7.67-9.5-7.67Z\"/>",
+    "solid": "<path d=\"M12 3.8C6.75 3.8 2.5 7.24 2.5 11.47c0 3.79 3.37 6.96 7.92 7.56.31.07.73.2.84.47.1.24.06.62.03.86l-.13 1.02c-.04.3-.24 1.17 1.03.64 1.27-.53 6.83-4.02 9.32-6.89 1.72-1.89 2.46-3.8 2.46-5.66 0-4.23-4.25-7.67-9.5-7.67Z\"/>"
+  },
+  "viber": {
+    "category": "brands",
+    "keywords": [
+      "viber",
+      "call",
+      "llamada",
+      "chat",
+      "message",
+      "mensaje",
+      "phone",
+      "telefono"
+    ],
+    "aliases": [],
+    "outline": "<path d=\"M12 3.5C7.9 3.5 4.5 6.3 4.5 10.2c0 2.2 1.1 4.1 2.9 5.4v3.4l2.6-1.9c.6.15 1.3.2 2 .2 4.1 0 7.5-2.8 7.5-6.7S16.1 3.5 12 3.5Z\"/><path d=\"M9.5 8.4c-.4.1-.7.5-.6 1 .35 1.9 2 3.55 3.9 3.95.5.1.9-.2 1-.6l.15-.75-1.75-.8-.5.55c-.65-.3-1.15-.8-1.45-1.45l.55-.5-.8-1.75Z\"/>",
+    "solid": null
+  },
+  "signal-app": {
+    "category": "brands",
+    "keywords": [
+      "signal",
+      "chat",
+      "message",
+      "mensaje",
+      "private",
+      "privado",
+      "secure",
+      "seguro"
+    ],
+    "aliases": [
+      "signal"
+    ],
+    "outline": "<path d=\"M12 3.5a8.5 8.5 0 0 0-7.4 12.7l-1 3.55a.4.4 0 0 0 .5.5l3.55-1A8.5 8.5 0 1 0 12 3.5Z\"/>",
+    "solid": "<path d=\"M12 3.5a8.5 8.5 0 0 0-7.4 12.7l-1 3.55a.4.4 0 0 0 .5.5l3.55-1A8.5 8.5 0 1 0 12 3.5Z\"/>"
+  },
+  "skype": {
+    "category": "brands",
+    "keywords": [
+      "skype",
+      "call",
+      "llamada",
+      "video",
+      "chat",
+      "microsoft",
+      "voip"
+    ],
+    "aliases": [],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"8.5\"/><path d=\"M15.2 9.3c-.6-.9-1.8-1.4-3.1-1.4-1.7 0-3.1.8-3.1 2.2 0 3.2 6.2 1.4 6.2 4.4 0 1.5-1.5 2.3-3.3 2.3-1.4 0-2.7-.5-3.3-1.5\"/>",
+    "solid": null
+  },
+  "zoom-brand": {
+    "category": "brands",
+    "keywords": [
+      "zoom",
+      "video",
+      "call",
+      "llamada",
+      "meeting",
+      "reunion",
+      "camara",
+      "camera"
+    ],
+    "aliases": [],
+    "outline": "<rect x=\"2.5\" y=\"5.5\" width=\"19\" height=\"13\" rx=\"3.5\"/><rect x=\"6\" y=\"9\" width=\"7\" height=\"6\" rx=\"1.5\"/><path d=\"M13 11l3.5-2v6l-3.5-2Z\"/>",
+    "solid": "<path d=\"M6 5.5h12a3.5 3.5 0 0 1 3.5 3.5v6a3.5 3.5 0 0 1-3.5 3.5H6A3.5 3.5 0 0 1 2.5 15V9A3.5 3.5 0 0 1 6 5.5Zm1.5 3.5a1.5 1.5 0 0 0-1.5 1.5v3a1.5 1.5 0 0 0 1.5 1.5h4a1.5 1.5 0 0 0 1.5-1.5v-.3l2.7 1.6a.6.6 0 0 0 .9-.5V9.7a.6.6 0 0 0-.9-.5L13 10.8v-.3A1.5 1.5 0 0 0 11.5 9Z\" fill-rule=\"evenodd\"/>"
+  },
+  "teams-brand": {
+    "category": "brands",
+    "keywords": [
+      "teams",
+      "microsoft",
+      "chat",
+      "meeting",
+      "reunion",
+      "work",
+      "trabajo",
+      "collaboration"
+    ],
+    "aliases": [],
+    "outline": "<rect x=\"3.5\" y=\"6\" width=\"11.5\" height=\"12\" rx=\"2.5\"/><path d=\"M6.3 9.8h6M9.3 9.8V15.5\"/><circle cx=\"17.8\" cy=\"8\" r=\"2.6\"/>",
+    "solid": "<path d=\"M6 6h6.5a2.5 2.5 0 0 1 2.5 2.5v7a2.5 2.5 0 0 1-2.5 2.5H6a2.5 2.5 0 0 1-2.5-2.5v-7A2.5 2.5 0 0 1 6 6Zm.3 3.8v1.7h2.15v4.5h1.7v-4.5H12.3V9.8Z\" fill-rule=\"evenodd\"/><circle cx=\"17.8\" cy=\"8\" r=\"2.6\"/>"
+  },
+  "meet-brand": {
+    "category": "brands",
+    "keywords": [
+      "meet",
+      "google",
+      "video",
+      "call",
+      "llamada",
+      "meeting",
+      "reunion",
+      "camara"
+    ],
+    "aliases": [
+      "google-meet"
+    ],
+    "outline": "<path d=\"M4 8a2 2 0 0 1 2-2h5a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2Z\"/><path d=\"M13 10.5l4.5-3a1 1 0 0 1 1.5.9v7.2a1 1 0 0 1-1.5.9L13 13.5\"/>",
+    "solid": "<path d=\"M6 6h5a2 2 0 0 1 2 2v.5l4-2.7a1 1 0 0 1 1.5.9v10.6a1 1 0 0 1-1.5.9l-4-2.7v.5a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2Z\"/>"
+  },
+  "messenger": {
+    "category": "brands",
+    "keywords": [
+      "messenger",
+      "facebook",
+      "meta",
+      "chat",
+      "message",
+      "mensaje",
+      "social"
+    ],
+    "aliases": [],
+    "outline": "<path d=\"M12 3.5c-5 0-8.5 3.6-8.5 8 0 2.5 1.1 4.7 3 6.2v3.3l2.9-1.6c.8.2 1.7.35 2.6.35 5 0 8.5-3.6 8.5-8s-3.5-8.45-8.5-8.45Z\"/><path d=\"M7.5 14.5 11 11l2 2 3.5-3.5-3.5 5.5-2-2Z\"/>",
+    "solid": "<path d=\"M12 3.5c-5 0-8.5 3.6-8.5 8 0 2.5 1.1 4.7 3 6.2v3.3l2.9-1.6c.8.2 1.7.35 2.6.35 5 0 8.5-3.6 8.5-8s-3.5-8.45-8.5-8.45Zm-4.5 11 3.5-3.5 2 2 3.5-3.5-3.5 5.5-2-2Z\" fill-rule=\"evenodd\"/>"
+  },
+  "slack-brand2": {
+    "category": "brands",
+    "keywords": [
+      "slack",
+      "chat",
+      "work",
+      "trabajo",
+      "team",
+      "equipo",
+      "app",
+      "message"
+    ],
+    "aliases": [],
+    "outline": "<rect x=\"2.5\" y=\"2.5\" width=\"19\" height=\"19\" rx=\"5\"/><rect x=\"10.4\" y=\"4.5\" width=\"2.3\" height=\"6.5\" rx=\"1.15\"/><rect x=\"13\" y=\"10.4\" width=\"6.5\" height=\"2.3\" rx=\"1.15\"/><rect x=\"11.3\" y=\"13\" width=\"2.3\" height=\"6.5\" rx=\"1.15\"/><rect x=\"4.5\" y=\"11.3\" width=\"6.5\" height=\"2.3\" rx=\"1.15\"/>",
+    "solid": null
+  },
+  "notion-brand": {
+    "category": "brands",
+    "keywords": [
+      "notion",
+      "notes",
+      "notas",
+      "docs",
+      "productivity",
+      "productividad",
+      "wiki"
+    ],
+    "aliases": [],
+    "outline": "<rect x=\"4.5\" y=\"3.5\" width=\"15\" height=\"17\" rx=\"2\"/><path d=\"M8.5 16.5V8l7 8.5V8\"/>",
+    "solid": null
+  },
+  "trello": {
+    "category": "brands",
+    "keywords": [
+      "trello",
+      "board",
+      "tablero",
+      "kanban",
+      "task",
+      "tarea",
+      "project",
+      "atlassian"
+    ],
+    "aliases": [],
+    "outline": "<rect x=\"3.5\" y=\"3.5\" width=\"17\" height=\"17\" rx=\"2.5\"/><rect x=\"6.5\" y=\"6.5\" width=\"4\" height=\"10\" rx=\"1\"/><rect x=\"13.5\" y=\"6.5\" width=\"4\" height=\"6\" rx=\"1\"/>",
+    "solid": "<path d=\"M6 3.5h12a2.5 2.5 0 0 1 2.5 2.5v12a2.5 2.5 0 0 1-2.5 2.5H6A2.5 2.5 0 0 1 3.5 18V6A2.5 2.5 0 0 1 6 3.5Zm.5 4a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h3a1 1 0 0 0 1-1V8.5a1 1 0 0 0-1-1Zm7 0a1 1 0 0 0-1 1v4a1 1 0 0 0 1 1h3a1 1 0 0 0 1-1v-4a1 1 0 0 0-1-1Z\" fill-rule=\"evenodd\"/>"
+  },
+  "asana": {
+    "category": "brands",
+    "keywords": [
+      "asana",
+      "task",
+      "tarea",
+      "project",
+      "proyecto",
+      "work",
+      "trabajo",
+      "productivity"
+    ],
+    "aliases": [],
+    "outline": "<circle cx=\"12\" cy=\"6.5\" r=\"2.7\"/><circle cx=\"6.8\" cy=\"15\" r=\"2.7\"/><circle cx=\"17.2\" cy=\"15\" r=\"2.7\"/>",
+    "solid": "<circle cx=\"12\" cy=\"6.5\" r=\"2.7\"/><circle cx=\"6.8\" cy=\"15\" r=\"2.7\"/><circle cx=\"17.2\" cy=\"15\" r=\"2.7\"/>"
+  },
+  "airbnb": {
+    "category": "brands",
+    "keywords": [
+      "airbnb",
+      "travel",
+      "viaje",
+      "stay",
+      "rental",
+      "alquiler",
+      "home",
+      "hospedaje"
+    ],
+    "aliases": [],
+    "outline": "<path d=\"M12 3c-1.5 0-2.6 1.2-3.6 3.2-2.5 4.8-4.9 8.4-4.9 11 0 2.3 1.6 3.8 3.6 3.8 1.6 0 3-1 4.9-3.2 1.9 2.2 3.3 3.2 4.9 3.2 2 0 3.6-1.5 3.6-3.8 0-2.6-2.4-6.2-4.9-11C14.6 4.2 13.5 3 12 3Z\"/><path d=\"M12 8c1.6 2.8 3 5.2 3 6.8 0 1.3-1.2 2.2-3 4-1.8-1.8-3-2.7-3-4 0-1.6 1.4-4 3-6.8Z\"/>",
+    "solid": "<path d=\"M12 3c-1.5 0-2.6 1.2-3.6 3.2-2.5 4.8-4.9 8.4-4.9 11 0 2.3 1.6 3.8 3.6 3.8 1.6 0 3-1 4.9-3.2 1.9 2.2 3.3 3.2 4.9 3.2 2 0 3.6-1.5 3.6-3.8 0-2.6-2.4-6.2-4.9-11C14.6 4.2 13.5 3 12 3Zm0 5c-1.6 2.8-3 5.2-3 6.8 0 1.3 1.2 2.2 3 4 1.8-1.8 3-2.7 3-4 0-1.6-1.4-4-3-6.8Z\" fill-rule=\"evenodd\"/>"
+  },
+  "uber": {
+    "category": "brands",
+    "keywords": [
+      "uber",
+      "ride",
+      "viaje",
+      "taxi",
+      "transport",
+      "transporte",
+      "car",
+      "coche"
+    ],
+    "aliases": [],
+    "outline": "<rect x=\"3.5\" y=\"3.5\" width=\"17\" height=\"17\" rx=\"3\"/><path d=\"M8.5 8v4a3.5 3.5 0 0 0 7 0V8\"/>",
+    "solid": null
+  },
+  "lyft": {
+    "category": "brands",
+    "keywords": [
+      "lyft",
+      "ride",
+      "viaje",
+      "taxi",
+      "transport",
+      "transporte",
+      "car",
+      "coche"
+    ],
+    "aliases": [],
+    "outline": "<path d=\"M5.5 4.5h2.7v8.8a2.4 2.4 0 0 0 2.4 2.4h.5\"/><path d=\"M11 10.2c.5-1.6 2-2.6 3.7-2.4 2 .2 3.3 1.7 3.3 3.9v2.6a2.4 2.4 0 0 1-4 1.8\"/><circle cx=\"7\" cy=\"6.3\" r=\"1.6\"/>",
+    "solid": null
+  },
+  "spotify2": {
+    "category": "brands",
+    "keywords": [
+      "spotify",
+      "music",
+      "musica",
+      "audio",
+      "podcast",
+      "stream",
+      "wave",
+      "onda"
+    ],
+    "aliases": [],
+    "outline": "<path d=\"M6 9.5a13 13 0 0 1 12 1.4M7 13a9.5 9.5 0 0 1 9.5 1M8 16.3a6 6 0 0 1 7 .8\"/>",
+    "solid": null
+  },
+  "netflix": {
+    "category": "brands",
+    "keywords": [
+      "netflix",
+      "movie",
+      "pelicula",
+      "stream",
+      "video",
+      "series",
+      "tv",
+      "n"
+    ],
+    "aliases": [],
+    "outline": "<path d=\"M7 20V4l10 16V4\"/>",
+    "solid": "<path d=\"M6.5 3.5h3v17h-3Z\"/><path d=\"M14.5 3.5h3v17h-3Z\"/><path d=\"M9.5 3.5 6.5 3.5 14.5 20.5 17.5 20.5Z\"/>"
+  },
+  "amazon-brand": {
+    "category": "brands",
+    "keywords": [
+      "amazon",
+      "shop",
+      "tienda",
+      "store",
+      "ecommerce",
+      "arrow",
+      "flecha",
+      "smile"
+    ],
+    "aliases": [],
+    "outline": "<path d=\"M5 13c3.4 2.9 10.4 3.2 13.8-.3\"/><path d=\"M16.5 11.5 19 13l-1.4 2.6\"/>",
+    "solid": null
+  },
+  "ebay": {
+    "category": "brands",
+    "keywords": [
+      "ebay",
+      "shop",
+      "tienda",
+      "store",
+      "auction",
+      "subasta",
+      "ecommerce",
+      "e"
+    ],
+    "aliases": [],
+    "outline": "<path d=\"M15 15.2a4.3 4.3 0 1 1 1.3-3.2H7.7\"/>",
+    "solid": null
+  },
+  "etsy": {
+    "category": "brands",
+    "keywords": [
+      "etsy",
+      "shop",
+      "tienda",
+      "store",
+      "handmade",
+      "artesania",
+      "craft",
+      "e"
+    ],
+    "aliases": [],
+    "outline": "<path d=\"M15.5 6.5H9.5v11h6.5\"/><path d=\"M9.5 12h5.3\"/>",
+    "solid": "<path d=\"M9 6h7v2.4h-4.5v1.5h3.8v2.3h-3.8v2.9H16v2.4H9Z\"/>"
+  },
+  "shopify": {
+    "category": "brands",
+    "keywords": [
+      "shopify",
+      "shop",
+      "tienda",
+      "store",
+      "ecommerce",
+      "bag",
+      "bolsa",
+      "commerce"
+    ],
+    "aliases": [],
+    "outline": "<path d=\"M6.5 8h11l-1 11.4a1.5 1.5 0 0 1-1.5 1.35H9a1.5 1.5 0 0 1-1.5-1.35Z\"/><path d=\"M9 8V6.4a3 3 0 0 1 6 0V8\"/><path d=\"M13.4 12c-.4-.6-1.2-1-2-1-1 0-1.9.5-1.9 1.5 0 1.8 3.4 1 3.4 2.9 0 .9-.9 1.5-2 1.5-.9 0-1.7-.4-2.1-1\"/>",
+    "solid": null
+  },
+  "paypal-brand2": {
+    "category": "brands",
+    "keywords": [
+      "paypal",
+      "payment",
+      "pago",
+      "money",
+      "dinero",
+      "checkout",
+      "wallet"
+    ],
+    "aliases": [],
+    "outline": "<path d=\"M7 20.5V6h4.2a3.6 3.6 0 0 1 0 7.2H8\"/><path d=\"M11.8 20.5V9.5h3.4a3.2 3.2 0 0 1 0 6.4h-3\"/>",
+    "solid": null
+  },
+  "stripe-brand": {
+    "category": "brands",
+    "keywords": [
+      "stripe",
+      "payment",
+      "pago",
+      "checkout",
+      "money",
+      "dinero",
+      "card",
+      "tarjeta"
+    ],
+    "aliases": [],
+    "outline": "<rect x=\"3.5\" y=\"3.5\" width=\"17\" height=\"17\" rx=\"3.5\"/><path d=\"M14.3 9.2c-.7-.6-1.7-1-2.8-1-1.4 0-2.5.7-2.5 1.8 0 1.4 1.5 1.8 3 2.2 1.5.4 3 .9 3 2.5 0 1.3-1.3 2.1-2.9 2.1-1.2 0-2.4-.4-3.1-1.2\"/>",
+    "solid": null
+  }
+}

@@ -1,0 +1,686 @@
+{
+  "watering-can-garden": {
+    "category": "garden",
+    "keywords": [
+      "regadera",
+      "riego",
+      "regar",
+      "watering can",
+      "water",
+      "jardin",
+      "garden"
+    ],
+    "aliases": [
+      "watering-pot-garden",
+      "sprinkling-can"
+    ],
+    "outline": "<path d=\"M6.5 11h9.5v6.4a2.6 2.6 0 0 1-2.6 2.6H9.1A2.6 2.6 0 0 1 6.5 17.4Z\"/><path d=\"M6.5 12.4 2.8 9.2\"/><path d=\"M2 10.5 4.1 7.7\"/><path d=\"M9.2 11c0-2.7 1.5-4.3 3.8-4.3 1.5 0 2.6.6 3.1 1.8\"/>",
+    "solid": "<polygon points=\"6.7,13 2.7,9.9 3.9,8.2 7.9,11.3\"/><path d=\"M6.5 11h9.5v6.4a2.6 2.6 0 0 1-2.6 2.6H9.1A2.6 2.6 0 0 1 6.5 17.4Z\"/><path d=\"M9 11a3.2 3.2 0 0 0 6.4 0h-1.6a1.6 1.6 0 0 1-3.2 0Z\"/>"
+  },
+  "garden-hose": {
+    "category": "garden",
+    "keywords": [
+      "manguera",
+      "riego",
+      "agua",
+      "hose",
+      "garden hose",
+      "water",
+      "jardin"
+    ],
+    "aliases": [
+      "water-hose",
+      "hose-reel"
+    ],
+    "outline": "<circle cx=\"9.5\" cy=\"13.5\" r=\"5.5\"/><circle cx=\"9.5\" cy=\"13.5\" r=\"2.5\"/><path d=\"M13.8 10 17.5 6.8\"/><path d=\"M17.5 6.8l1.7 1.8M17.5 6.8l2.4-.4\"/>",
+    "solid": null
+  },
+  "rake-garden": {
+    "category": "garden",
+    "keywords": [
+      "rastrillo",
+      "rastro",
+      "hojas",
+      "rake",
+      "leaves",
+      "jardin",
+      "garden"
+    ],
+    "aliases": [
+      "leaf-rake",
+      "lawn-rake"
+    ],
+    "outline": "<path d=\"M12 3.5V13\"/><path d=\"M10.5 3.5h3\"/><path d=\"M6.5 13h11\"/><path d=\"M7 13v3.4M9.5 13v3.8M12 13v4M14.5 13v3.8M17 13v3.4\"/>",
+    "solid": null
+  },
+  "garden-hoe": {
+    "category": "garden",
+    "keywords": [
+      "azada",
+      "azadon",
+      "escardar",
+      "hoe",
+      "weeding",
+      "jardin",
+      "garden"
+    ],
+    "aliases": [
+      "weeding-hoe",
+      "draw-hoe"
+    ],
+    "outline": "<path d=\"M6.5 17.5 15 9\"/><path d=\"M15 9l3 3-4 4-3-3Z\"/>",
+    "solid": null
+  },
+  "garden-shovel": {
+    "category": "garden",
+    "keywords": [
+      "pala",
+      "cavar",
+      "excavar",
+      "shovel",
+      "dig",
+      "jardin",
+      "garden"
+    ],
+    "aliases": [
+      "shovel-garden",
+      "digging-shovel"
+    ],
+    "outline": "<path d=\"M9.5 3.5h5\"/><path d=\"M12 3.5v9.5\"/><path d=\"M8 13h8l-4 6.5Z\"/>",
+    "solid": "<rect x=\"9.3\" y=\"3\" width=\"5.4\" height=\"2\" rx=\"1\"/><rect x=\"11.1\" y=\"4.5\" width=\"1.8\" height=\"9\" rx=\".9\"/><path d=\"M8 12.7h8a.5.5 0 0 1 .44.73l-3.55 6.4a1 1 0 0 1-1.78 0L7.56 13.43A.5.5 0 0 1 8 12.7Z\"/>"
+  },
+  "garden-trowel": {
+    "category": "garden",
+    "keywords": [
+      "desplantador",
+      "paleta",
+      "trasplantar",
+      "trowel",
+      "hand trowel",
+      "jardin",
+      "garden"
+    ],
+    "aliases": [
+      "hand-trowel",
+      "transplanter"
+    ],
+    "outline": "<path d=\"M8.6 10.4 4.6 18.2a.5.5 0 0 0 .7.7l7.8-4a3.3 3.3 0 0 0-4.5-4.5Z\"/><path d=\"M11.8 11.6 16.5 6.9\"/><path d=\"M15 5.6 18.2 8.8\"/>",
+    "solid": "<path d=\"M8.6 10 4.5 18.2a.6.6 0 0 0 .8.8l8-4.1a3.4 3.4 0 0 0-4.7-4.9Z\"/><path d=\"M11.4 11.3 15.8 6.9l1.4 1.4-4.4 4.4Z\"/><circle cx=\"16.9\" cy=\"6\" r=\"1.7\"/>"
+  },
+  "pruning-shears": {
+    "category": "garden",
+    "keywords": [
+      "tijeras",
+      "podar",
+      "poda",
+      "pruning shears",
+      "secateurs",
+      "jardin",
+      "garden"
+    ],
+    "aliases": [
+      "secateurs",
+      "pruners"
+    ],
+    "outline": "<circle cx=\"12\" cy=\"11.8\" r=\"1\"/><path d=\"M11.5 11 5 5.5\"/><path d=\"M12.8 11.2 7 4.8\"/><path d=\"M11.5 12.6 8 19a2 2 0 0 0 3 .8\"/><path d=\"M12.6 12.4 16.5 18.5a2 2 0 0 1-3 .5\"/>",
+    "solid": null
+  },
+  "wheelbarrow-garden": {
+    "category": "garden",
+    "keywords": [
+      "carretilla",
+      "carro",
+      "carreta",
+      "wheelbarrow",
+      "barrow",
+      "jardin",
+      "garden"
+    ],
+    "aliases": [
+      "barrow-garden",
+      "garden-barrow"
+    ],
+    "outline": "<path d=\"M4.5 10.5h11l-1.8 5.5H6.3Z\"/><circle cx=\"7\" cy=\"18.5\" r=\"1.8\"/><path d=\"M14 16 20 18\"/><path d=\"M15.5 10.5 21 12\"/><path d=\"M12 16v2.5\"/>",
+    "solid": "<path d=\"M4.5 10.5h11a.5.5 0 0 1 .48.64l-1.5 5a1 1 0 0 1-.96.72H6.48a1 1 0 0 1-.96-.72l-1.5-5A.5.5 0 0 1 4.5 10.5Z\"/><circle cx=\"7\" cy=\"18.5\" r=\"2\"/><path d=\"M15.3 10.2 21 11.7l-.4 1.5-5.7-1.5Z\"/><path d=\"M13.7 16.4 20 18.3l-.5 1.5-6.3-1.9Z\"/><rect x=\"11.2\" y=\"16\" width=\"1.5\" height=\"3\" rx=\".7\"/>"
+  },
+  "lawn-mower": {
+    "category": "garden",
+    "keywords": [
+      "cortacesped",
+      "cesped",
+      "segadora",
+      "lawn mower",
+      "mower",
+      "jardin",
+      "grass"
+    ],
+    "aliases": [
+      "mower",
+      "grass-cutter"
+    ],
+    "outline": "<path d=\"M3.5 15.5h10v-1.5a2 2 0 0 0-2-2H5.5a2 2 0 0 0-2 2Z\"/><rect x=\"5.8\" y=\"8\" width=\"5\" height=\"4\" rx=\".7\"/><path d=\"M13 14 19.5 6.5\"/><path d=\"M18 6.5h3\"/><circle cx=\"5.8\" cy=\"18\" r=\"2\"/><circle cx=\"12\" cy=\"18.2\" r=\"1.6\"/>",
+    "solid": "<path d=\"M3.5 13.8a2.3 2.3 0 0 1 2.3-2.3h5.4a2.3 2.3 0 0 1 2.3 2.3v1.9H3.5Z\"/><rect x=\"5.8\" y=\"7.8\" width=\"5.2\" height=\"4\" rx=\".8\"/><path d=\"M12.8 13.4 19 6.3l1.3 1-6.2 7Z\"/><rect x=\"17.8\" y=\"5.6\" width=\"3.4\" height=\"1.6\" rx=\".8\"/><circle cx=\"5.8\" cy=\"18\" r=\"2.2\"/><circle cx=\"12\" cy=\"18.3\" r=\"1.7\"/>"
+  },
+  "seedling-pot": {
+    "category": "garden",
+    "keywords": [
+      "plantula",
+      "semillero",
+      "brote",
+      "seedling",
+      "sprout",
+      "maceta",
+      "jardin"
+    ],
+    "aliases": [
+      "sprout-pot",
+      "seedling-tray"
+    ],
+    "outline": "<path d=\"M6.5 13h11\"/><path d=\"M12 13v-4\"/><path d=\"M12 11c-.4-2-2-3-4-2.8.1 2 1.6 3 4 2.8Z\"/><path d=\"M12 10.5c.4-1.7 1.8-2.6 3.6-2.4-.1 1.8-1.5 2.7-3.6 2.4Z\"/><path d=\"M7.5 13h9l-1 6a1.5 1.5 0 0 1-1.5 1.3H10a1.5 1.5 0 0 1-1.5-1.3Z\"/>",
+    "solid": "<rect x=\"6.4\" y=\"11.8\" width=\"11.2\" height=\"1.6\" rx=\".6\"/><rect x=\"11.3\" y=\"8.5\" width=\"1.4\" height=\"4.5\" rx=\".7\"/><path d=\"M12 11.2c-.4-2-2-3-4-2.8.1 2 1.6 3 4 2.8Z\"/><path d=\"M12 10.6c.4-1.7 1.8-2.6 3.6-2.4-.1 1.8-1.5 2.7-3.6 2.4Z\"/><path d=\"M7.6 13.4h8.8a.4.4 0 0 1 .4.46l-.82 5.2A1.6 1.6 0 0 1 14.4 20.5H9.6a1.6 1.6 0 0 1-1.58-1.34L7.2 13.86A.4.4 0 0 1 7.6 13.4Z\"/>"
+  },
+  "flower-pot": {
+    "category": "garden",
+    "keywords": [
+      "maceta",
+      "tiesto",
+      "flor",
+      "flower pot",
+      "flowerpot",
+      "planta",
+      "jardin"
+    ],
+    "aliases": [
+      "flowerpot",
+      "flower-planter"
+    ],
+    "outline": "<path d=\"M6 14h12\"/><path d=\"M12 14V8\"/><path d=\"M12 11c-1.3-.6-2.8-.2-3.4 1 1.3.6 2.8.2 3.4-1Z\"/><circle cx=\"12\" cy=\"6\" r=\"1.8\"/><circle cx=\"12\" cy=\"3.4\" r=\"1.3\"/><circle cx=\"9.6\" cy=\"5.2\" r=\"1.3\"/><circle cx=\"14.4\" cy=\"5.2\" r=\"1.3\"/><circle cx=\"10.5\" cy=\"8\" r=\"1.3\"/><circle cx=\"13.5\" cy=\"8\" r=\"1.3\"/><path d=\"M7 14h10l-1.2 5.5a1.5 1.5 0 0 1-1.5 1.2H9.7a1.5 1.5 0 0 1-1.5-1.2Z\"/>",
+    "solid": "<path d=\"M6.5 13.5h11a.5.5 0 0 1 .5.6l-1.1 5.5a2 2 0 0 1-2 1.6H9.1a2 2 0 0 1-2-1.6L6 14.1a.5.5 0 0 1 .5-.6Z\"/><rect x=\"11.3\" y=\"8\" width=\"1.4\" height=\"6\" rx=\".7\"/><path d=\"M12 11c-1.3-.6-2.8-.2-3.4 1 1.3.6 2.8.2 3.4-1Z\"/><circle cx=\"12\" cy=\"6\" r=\"2\"/><circle cx=\"12\" cy=\"3.4\" r=\"1.5\"/><circle cx=\"9.5\" cy=\"5.2\" r=\"1.5\"/><circle cx=\"14.5\" cy=\"5.2\" r=\"1.5\"/><circle cx=\"10.4\" cy=\"8\" r=\"1.5\"/><circle cx=\"13.6\" cy=\"8\" r=\"1.5\"/>"
+  },
+  "planter-box": {
+    "category": "garden",
+    "keywords": [
+      "jardinera",
+      "macetero",
+      "cajon",
+      "planter",
+      "planter box",
+      "planta",
+      "jardin"
+    ],
+    "aliases": [
+      "window-box",
+      "trough-planter"
+    ],
+    "outline": "<path d=\"M3.5 12h17\"/><path d=\"M4.5 12h15l-1 7.3a1 1 0 0 1-1 .9H6.5a1 1 0 0 1-1-.9Z\"/><path d=\"M8 12V8M8 9.4c-.9-.4-1.3-1.3-1-2.3 1 .1 1.4.9 1 2.3\"/><path d=\"M12 12V7M12 8.6c.9-.4 1.3-1.3 1-2.3-1 .1-1.4.9-1 2.3\"/><path d=\"M16 12V8M16 9.4c.9-.4 1.3-1.3 1-2.3-1 .1-1.4.9-1 2.3\"/>",
+    "solid": "<path d=\"M4 11.5h16a.5.5 0 0 1 .5.56l-.92 7.4a1.5 1.5 0 0 1-1.49 1.31H5.9a1.5 1.5 0 0 1-1.49-1.31L3.5 12.06A.5.5 0 0 1 4 11.5Z\"/><rect x=\"7.4\" y=\"7.8\" width=\"1.2\" height=\"4\" rx=\".6\"/><path d=\"M8 9.4c-.9-.4-1.3-1.3-1-2.3 1 .1 1.4.9 1 2.3Z\"/><rect x=\"11.4\" y=\"6.8\" width=\"1.2\" height=\"5\" rx=\".6\"/><path d=\"M12 8.4c.9-.4 1.3-1.3 1-2.3-1 .1-1.4.9-1 2.3Z\"/><rect x=\"15.4\" y=\"7.8\" width=\"1.2\" height=\"4\" rx=\".6\"/><path d=\"M16 9.4c.9-.4 1.3-1.3 1-2.3-1 .1-1.4.9-1 2.3Z\"/>"
+  },
+  "greenhouse": {
+    "category": "garden",
+    "keywords": [
+      "invernadero",
+      "cultivo",
+      "cristal",
+      "greenhouse",
+      "glasshouse",
+      "plantas",
+      "jardin"
+    ],
+    "aliases": [
+      "glasshouse",
+      "hothouse"
+    ],
+    "outline": "<path d=\"M3.5 20V10.5L12 5.5l8.5 5V20\"/><path d=\"M2.5 20h19\"/><path d=\"M7.5 8.4V20M16.5 8.4V20\"/><path d=\"M3.5 14h17\"/><path d=\"M10 20v-4a2 2 0 0 1 4 0v4\"/><path d=\"M12 5.5V16\"/>",
+    "solid": null
+  },
+  "garden-fence": {
+    "category": "garden",
+    "keywords": [
+      "valla",
+      "cerca",
+      "cercado",
+      "fence",
+      "picket fence",
+      "jardin",
+      "garden"
+    ],
+    "aliases": [
+      "picket-fence",
+      "garden-railing"
+    ],
+    "outline": "<path d=\"M6 20V8M10 20V8M14 20V8M18 20V8\"/><path d=\"M4.8 8 6 6.4 7.2 8M8.8 8 10 6.4 11.2 8M12.8 8 14 6.4 15.2 8M16.8 8 18 6.4 19.2 8\"/><path d=\"M4.5 12h15M4.5 15.5h15\"/>",
+    "solid": null
+  },
+  "garden-gnome": {
+    "category": "garden",
+    "keywords": [
+      "gnomo",
+      "enano",
+      "duende",
+      "gnome",
+      "garden gnome",
+      "jardin",
+      "decoracion"
+    ],
+    "aliases": [
+      "gnome",
+      "lawn-gnome"
+    ],
+    "outline": "<path d=\"M12 2.5 7.5 10h9Z\"/><circle cx=\"12\" cy=\"11.5\" r=\"1\"/><path d=\"M8.5 10c-.3 3 .8 5.5 3.5 5.5s3.8-2.5 3.5-5.5\"/><path d=\"M8 20.5v-2.5a4 4 0 0 1 8 0v2.5Z\"/>",
+    "solid": "<path d=\"M12 2.2 7.2 10.2h9.6Z\"/><path d=\"M8.3 10h7.4c.3 3.3-.9 5.8-3.7 5.8S8 13.3 8.3 10Z\"/><path d=\"M7.8 20.6v-2.8a4.2 4.2 0 0 1 8.4 0v2.8a.4.4 0 0 1-.4.4H8.2a.4.4 0 0 1-.4-.4Z\"/>"
+  },
+  "bird-feeder": {
+    "category": "garden",
+    "keywords": [
+      "comedero",
+      "pajaros",
+      "aves",
+      "bird feeder",
+      "feeder",
+      "jardin",
+      "semillas"
+    ],
+    "aliases": [
+      "seed-feeder",
+      "bird-table"
+    ],
+    "outline": "<path d=\"M12 5V3.4a1 1 0 0 0-1.7-.7\"/><path d=\"M5.5 9.5 12 5l6.5 4.5\"/><path d=\"M7 9.5h10v6H7Z\"/><circle cx=\"12\" cy=\"12\" r=\"1.3\"/><path d=\"M9.5 14.5h5\"/><path d=\"M6.5 15.5h11l-1 2.6a1 1 0 0 1-1 .7H8.5a1 1 0 0 1-1-.7Z\"/>",
+    "solid": null
+  },
+  "compost-bin-garden": {
+    "category": "garden",
+    "keywords": [
+      "compostador",
+      "compost",
+      "abono",
+      "compost bin",
+      "composter",
+      "organico",
+      "jardin"
+    ],
+    "aliases": [
+      "composter-garden",
+      "compost-container"
+    ],
+    "outline": "<path d=\"M10.5 7.5V6.5a1.5 1.5 0 0 1 3 0v1\"/><rect x=\"5.3\" y=\"7.5\" width=\"13.4\" height=\"2.2\" rx=\".5\"/><path d=\"M6.8 9.7h10.4l-.95 9.6a1.6 1.6 0 0 1-1.6 1.44H9.35a1.6 1.6 0 0 1-1.6-1.44Z\"/><path d=\"M12 12.2c-1.4 1.4-1.4 3.6 0 5 1.4-1.4 1.4-3.6 0-5Z\"/><path d=\"M12 13v3.5\"/>",
+    "solid": "<path d=\"M10.6 7.4V6.6a1.4 1.4 0 0 1 2.8 0v.8Z\"/><rect x=\"5.3\" y=\"7.5\" width=\"13.4\" height=\"2.4\" rx=\".6\"/><path fill-rule=\"evenodd\" d=\"M6.8 9.9h10.4a.4.4 0 0 1 .4.44l-.9 9a1.8 1.8 0 0 1-1.8 1.62H9.1a1.8 1.8 0 0 1-1.8-1.62l-.9-9A.4.4 0 0 1 6.8 9.9Zm5.2 2.5c-1.2 1.3-1.2 3.4 0 4.7 1.2-1.3 1.2-3.4 0-4.7Z\"/>"
+  },
+  "mulch-bag": {
+    "category": "garden",
+    "keywords": [
+      "mantillo",
+      "acolchado",
+      "saco",
+      "mulch",
+      "mulch bag",
+      "bolsa",
+      "jardin"
+    ],
+    "aliases": [
+      "mulch-sack",
+      "bark-bag"
+    ],
+    "outline": "<path d=\"M6.8 8.5c1.2-1.3 3.1-2 5.2-2s4 .7 5.2 2l-.7 10.8a1.6 1.6 0 0 1-1.6 1.5H9.1a1.6 1.6 0 0 1-1.6-1.5Z\"/><path d=\"M12 11.5c-1.3 1-1.3 3 0 4 1.3-1 1.3-3 0-4Z\"/><path d=\"M12 12v3.5\"/><path d=\"M9 17.5h.01M15 17.5h.01\"/>",
+    "solid": "<path fill-rule=\"evenodd\" d=\"M6.7 8.6c1.3-1.4 3.3-2.1 5.3-2.1s4 .7 5.3 2.1a1 1 0 0 1 .27.73l-.66 10.3a1.8 1.8 0 0 1-1.8 1.67H8.9a1.8 1.8 0 0 1-1.8-1.67L6.43 9.33A1 1 0 0 1 6.7 8.6Zm5.3 3.4c-1.3 1-1.3 3 0 4 1.3-1 1.3-3 0-4Z\"/>"
+  },
+  "seed-packet": {
+    "category": "garden",
+    "keywords": [
+      "sobre",
+      "semillas",
+      "paquete",
+      "seed packet",
+      "seeds",
+      "siembra",
+      "jardin"
+    ],
+    "aliases": [
+      "seed-envelope",
+      "seed-pack"
+    ],
+    "outline": "<path d=\"M6.5 6.5h11V19a1.5 1.5 0 0 1-1.5 1.5h-8A1.5 1.5 0 0 1 6.5 19Z\"/><path d=\"M6.5 6.5 8 5l1.3 1.5L10.5 5l1.3 1.5L13 5l1.3 1.5L15.5 5l1.3 1.5\"/><circle cx=\"12\" cy=\"11\" r=\"1.6\"/><circle cx=\"12\" cy=\"8.5\" r=\"1.1\"/><circle cx=\"14.5\" cy=\"11\" r=\"1.1\"/><circle cx=\"12\" cy=\"13.5\" r=\"1.1\"/><circle cx=\"9.5\" cy=\"11\" r=\"1.1\"/><path d=\"M9 17.5h6\"/>",
+    "solid": "<path fill-rule=\"evenodd\" d=\"M8 5h8a1.5 1.5 0 0 1 1.5 1.5V19a1.5 1.5 0 0 1-1.5 1.5H8A1.5 1.5 0 0 1 6.5 19V6.5A1.5 1.5 0 0 1 8 5Zm4 4.4a1.6 1.6 0 1 0 0 3.2 1.6 1.6 0 0 0 0-3.2Z\"/>"
+  },
+  "sprinkler": {
+    "category": "garden",
+    "keywords": [
+      "aspersor",
+      "rociador",
+      "riego",
+      "sprinkler",
+      "spray",
+      "agua",
+      "jardin"
+    ],
+    "aliases": [
+      "water-sprinkler",
+      "lawn-sprinkler"
+    ],
+    "outline": "<path d=\"M12 21v-6.5\"/><path d=\"M9.5 21h5\"/><circle cx=\"12\" cy=\"13.5\" r=\"1.7\"/><path d=\"M13.2 12.4c2.6-1 5 .1 5.8 3\"/><path d=\"M10.8 12.4c-2.6-1-5 .1-5.8 3\"/><path d=\"M12 11.8c-.7-1.5-.7-3 0-4.5.7 1.5.7 3 0 4.5Z\"/><path d=\"M18.8 15.5h.01M5.2 15.5h.01\"/>",
+    "solid": null
+  },
+  "garden-fork": {
+    "category": "garden",
+    "keywords": [
+      "horca",
+      "laya",
+      "tenedor",
+      "garden fork",
+      "digging fork",
+      "jardin",
+      "cavar"
+    ],
+    "aliases": [
+      "digging-fork",
+      "spading-fork"
+    ],
+    "outline": "<path d=\"M12 3.5V11\"/><path d=\"M10 3.5h4\"/><path d=\"M8.8 11h6.4\"/><path d=\"M9 11v7M11 11v7.5M13 11v7.5M15 11v7\"/>",
+    "solid": null
+  },
+  "spade-garden": {
+    "category": "garden",
+    "keywords": [
+      "pala",
+      "laya",
+      "cavar",
+      "spade",
+      "garden spade",
+      "jardin",
+      "dig"
+    ],
+    "aliases": [
+      "spade",
+      "digging-spade"
+    ],
+    "outline": "<path d=\"M9.8 5.2a2.2 2 0 0 0 4.4 0Z\"/><path d=\"M12 5.2V13\"/><path d=\"M8.5 13h7l-.3 3.6a3.2 3.2 0 0 1-6.4 0Z\"/>",
+    "solid": "<path fill-rule=\"evenodd\" d=\"M9.4 5.4a2.6 2.4 0 0 1 5.2 0 .6.6 0 0 1-.6.6H10a.6.6 0 0 1-.6-.6Zm2.6-1.9a1 .9 0 0 0 0 1.8 1 .9 0 0 0 0-1.8Z\"/><rect x=\"11.1\" y=\"5.5\" width=\"1.8\" height=\"8\" rx=\".9\"/><path d=\"M8.4 12.8h7.2a.4.4 0 0 1 .4.43l-.28 3.3a3.5 3.5 0 0 1-6.96 0l-.28-3.3a.4.4 0 0 1 .4-.43Z\"/>"
+  },
+  "hedge-trimmer": {
+    "category": "garden",
+    "keywords": [
+      "cortasetos",
+      "podadora",
+      "seto",
+      "hedge trimmer",
+      "trimmer",
+      "jardin",
+      "cortar"
+    ],
+    "aliases": [
+      "hedge-cutter",
+      "power-trimmer"
+    ],
+    "outline": "<path d=\"M4 9.5h5.5a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1H4Z\"/><path d=\"M5 9.5V8a1.6 1.6 0 0 1 3.2 0v1.5\"/><path d=\"M10.5 11h9.5v2h-9.5\"/><path d=\"M12 13v1.4M14 13v1.4M16 13v1.4M18 13v1.4M20 13v1.4\"/>",
+    "solid": null
+  },
+  "leaf-blower": {
+    "category": "garden",
+    "keywords": [
+      "soplador",
+      "sopladora",
+      "hojas",
+      "leaf blower",
+      "blower",
+      "jardin",
+      "aire"
+    ],
+    "aliases": [
+      "blower",
+      "garden-blower"
+    ],
+    "outline": "<rect x=\"4.5\" y=\"9\" width=\"5.5\" height=\"5\" rx=\"1.6\"/><path d=\"M6 9V7.4a1.6 1.6 0 0 1 3.2 0V9\"/><path d=\"M10 10.5h4.8l1 1-1 1H10Z\"/><path d=\"M16.8 11.5h3.7\"/><path d=\"M16.8 9.4c1.8.1 3.1.8 4 2.1\"/><path d=\"M16.8 13.6c1.8-.1 3.1-.8 4-2.1\"/>",
+    "solid": null
+  },
+  "sun-lounger": {
+    "category": "garden",
+    "keywords": [
+      "tumbona",
+      "hamaca",
+      "reposera",
+      "sun lounger",
+      "deck chair",
+      "jardin",
+      "descanso"
+    ],
+    "aliases": [
+      "deck-chair",
+      "chaise-longue"
+    ],
+    "outline": "<path d=\"M3.5 15h10l6.5-4.5\"/><path d=\"M13.5 15 19 11.2\"/><path d=\"M4 15 3 18.5M12.5 15 13.5 18.5\"/><path d=\"M5 16.8h8\"/>",
+    "solid": null
+  },
+  "garden-bench": {
+    "category": "garden",
+    "keywords": [
+      "banco",
+      "asiento",
+      "banca",
+      "garden bench",
+      "park bench",
+      "jardin",
+      "sentarse"
+    ],
+    "aliases": [
+      "park-bench-garden",
+      "outdoor-bench"
+    ],
+    "outline": "<path d=\"M3 14h18\"/><path d=\"M4.5 14v6M19.5 14v6\"/><path d=\"M5 14V8a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v6\"/><path d=\"M5 10h14M5 12h14\"/>",
+    "solid": "<path fill-rule=\"evenodd\" d=\"M5.4 6.8h13.2a1.3 1.3 0 0 1 1.3 1.3V13H4.1V8.1a1.3 1.3 0 0 1 1.3-1.3Zm-.3 2.1v1H18.9v-1Zm0 2v1H18.9v-1Z\"/><rect x=\"3\" y=\"13.2\" width=\"18\" height=\"1.8\" rx=\".8\"/><rect x=\"4.3\" y=\"15\" width=\"1.7\" height=\"5\" rx=\".8\"/><rect x=\"18\" y=\"15\" width=\"1.7\" height=\"5\" rx=\".8\"/>"
+  },
+  "gazebo": {
+    "category": "garden",
+    "keywords": [
+      "cenador",
+      "pergola",
+      "glorieta",
+      "gazebo",
+      "pavilion",
+      "jardin",
+      "kiosko"
+    ],
+    "aliases": [
+      "pavilion",
+      "garden-pavilion"
+    ],
+    "outline": "<path d=\"M3.5 10.5 12 4l8.5 6.5\"/><path d=\"M12 4V2.5\"/><path d=\"M4 10.5h16\"/><path d=\"M6 10.5v8M18 10.5v8\"/><path d=\"M6 15h12\"/><path d=\"M9 15v3M12 15v3M15 15v3\"/><path d=\"M4.5 18.5h15\"/>",
+    "solid": null
+  },
+  "garden-fountain": {
+    "category": "garden",
+    "keywords": [
+      "fuente",
+      "surtidor",
+      "agua",
+      "fountain",
+      "garden fountain",
+      "jardin",
+      "water"
+    ],
+    "aliases": [
+      "water-fountain-garden",
+      "water-feature"
+    ],
+    "outline": "<path d=\"M4 17.5h16v1a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2Z\"/><path d=\"M11 17.5v-1.3M13 17.5v-1.3\"/><path d=\"M8.5 14.5h7l-.8 1.9a1 1 0 0 1-.9.6h-3.6a1 1 0 0 1-.9-.6Z\"/><path d=\"M12 14.5V11\"/><path d=\"M12 11c-1-1.2-1-2.7 0-4.2 1 1.5 1 3 0 4.2Z\"/><path d=\"M9.8 15.8c-1.4.6-2.2 1.5-2.3 2.7M14.2 15.8c1.4.6 2.2 1.5 2.3 2.7\"/>",
+    "solid": null
+  },
+  "garden-pond": {
+    "category": "garden",
+    "keywords": [
+      "estanque",
+      "charca",
+      "laguna",
+      "pond",
+      "garden pond",
+      "agua",
+      "jardin"
+    ],
+    "aliases": [
+      "fish-pond",
+      "water-pond"
+    ],
+    "outline": "<ellipse cx=\"12\" cy=\"15\" rx=\"9\" ry=\"5\"/><path d=\"M9.3 14.9c1.7-1.3 3.7-1.3 5.2 0-1.5 1.3-3.5 1.3-5.2 0Z\"/><path d=\"M14.5 14.9 16.2 13.8v2.2Z\"/><path d=\"M5.9 12.4a1.9 1.9 0 1 0 1.9-1.9\"/><path d=\"M13.5 17.5c1 .7 2 .7 3 0\"/>",
+    "solid": null
+  },
+  "trellis": {
+    "category": "garden",
+    "keywords": [
+      "enrejado",
+      "celosia",
+      "espaldera",
+      "trellis",
+      "lattice",
+      "jardin",
+      "trepadora"
+    ],
+    "aliases": [
+      "lattice",
+      "garden-trellis"
+    ],
+    "outline": "<rect x=\"4.5\" y=\"4.5\" width=\"15\" height=\"15\" rx=\"1\"/><path d=\"M4.5 9.7 9.7 4.5M4.5 14.9 14.9 4.5M9.1 19.5 19.5 9.1M14.3 19.5 19.5 14.3\"/><path d=\"M14.3 4.5 19.5 9.7M9.1 4.5 19.5 14.9M4.5 9.1 14.9 19.5M4.5 14.3 9.7 19.5\"/>",
+    "solid": null
+  },
+  "potted-sapling": {
+    "category": "garden",
+    "keywords": [
+      "arbolito",
+      "planton",
+      "maceta",
+      "sapling",
+      "potted tree",
+      "arbol",
+      "jardin"
+    ],
+    "aliases": [
+      "potted-tree",
+      "young-tree"
+    ],
+    "outline": "<path d=\"M6.5 14.5h11\"/><path d=\"M12 14.5v-5\"/><circle cx=\"12\" cy=\"7\" r=\"3.8\"/><path d=\"M7.5 14.5h9l-1 4.7a1.5 1.5 0 0 1-1.5 1.3H10a1.5 1.5 0 0 1-1.5-1.3Z\"/>",
+    "solid": "<path d=\"M7.3 14.2h9.4a.4.4 0 0 1 .4.46l-.85 4.5a1.6 1.6 0 0 1-1.57 1.34H9.32A1.6 1.6 0 0 1 7.75 19.16l-.85-4.5a.4.4 0 0 1 .4-.46Z\"/><rect x=\"11.2\" y=\"8\" width=\"1.6\" height=\"6.5\" rx=\".8\"/><circle cx=\"12\" cy=\"7\" r=\"4\"/>"
+  },
+  "garden-glove": {
+    "category": "garden",
+    "keywords": [
+      "guante",
+      "guantes",
+      "jardineria",
+      "garden glove",
+      "gardening glove",
+      "mano",
+      "jardin"
+    ],
+    "aliases": [
+      "gardening-glove",
+      "work-glove"
+    ],
+    "outline": "<path d=\"M7.35 18.5V11.5c0-3.7 2.35-3.7 2.35 0 0-4.7 2.35-4.7 2.35 0 0-4.7 2.35-4.7 2.35 0 0-3.7 2.35-3.7 2.35 0v7Z\"/><path d=\"M6.85 18.5h10.8v1.9a1 1 0 0 1-1 1H7.85a1 1 0 0 1-1-1Z\"/><path d=\"M6.85 19.9h10.8\"/>",
+    "solid": "<path fill-rule=\"evenodd\" d=\"M7.35 11.5c0-3.7 2.35-3.7 2.35 0 0-4.7 2.35-4.7 2.35 0 0-4.7 2.35-4.7 2.35 0 0-3.7 2.35-3.7 2.35 0v7.1a1 1 0 0 1-1 1H8.35a1 1 0 0 1-1-1Zm-.5 6.2v1.2H16.7v-1.2Z\"/>"
+  },
+  "plant-stake": {
+    "category": "garden",
+    "keywords": [
+      "tutor",
+      "estaca",
+      "guia",
+      "plant stake",
+      "stake",
+      "soporte",
+      "jardin"
+    ],
+    "aliases": [
+      "plant-support",
+      "garden-stake"
+    ],
+    "outline": "<path d=\"M14.5 5V19\"/><path d=\"M6 19.5h13\"/><path d=\"M14.5 18c-4.5 0-6-3.3-5.8-7.5\"/><path d=\"M8.7 10.5c-1.8-.4-3-.2-3.8.6 1 1 2.5.9 3.8-.6Z\"/><path d=\"M9 13.2c1.6-.5 2.9-.3 3.6.6-1.1.8-2.5.6-3.6-.6Z\"/><path d=\"M12.5 9.8 16 8.5M12.5 14 16 12.7\"/>",
+    "solid": null
+  },
+  "watering-drip": {
+    "category": "garden",
+    "keywords": [
+      "goteo",
+      "gotero",
+      "riego por goteo",
+      "drip irrigation",
+      "drip",
+      "agua",
+      "jardin"
+    ],
+    "aliases": [
+      "drip-irrigation",
+      "drip-line"
+    ],
+    "outline": "<path d=\"M3.5 8h17\"/><path d=\"M7 8v2.5M12 8v2.8M17 8v2.5\"/><path d=\"M7 12.8c-.8 1-.8 2.3 0 3.4.8-1.1.8-2.4 0-3.4Z\"/><path d=\"M12 14.3c-.8 1-.8 2.3 0 3.4.8-1.1.8-2.4 0-3.4Z\"/><path d=\"M17 12.8c-.8 1-.8 2.3 0 3.4.8-1.1.8-2.4 0-3.4Z\"/>",
+    "solid": null
+  },
+  "soil-bag": {
+    "category": "garden",
+    "keywords": [
+      "tierra",
+      "sustrato",
+      "saco de tierra",
+      "soil bag",
+      "potting soil",
+      "bolsa",
+      "jardin"
+    ],
+    "aliases": [
+      "potting-soil",
+      "compost-bag"
+    ],
+    "outline": "<path d=\"M6.2 9.5 7.7 6.4a1 1 0 0 1 .9-.6h6.8a1 1 0 0 1 .9.6l1.5 3.1\"/><path d=\"M8.8 6 8 4M15.2 6 16 4\"/><path d=\"M6.2 9.5h11.6l-.7 10a1.6 1.6 0 0 1-1.6 1.5H8.5a1.6 1.6 0 0 1-1.6-1.5Z\"/><path d=\"M8.5 17c.8-1.9 2-2.9 3.5-2.9s2.7 1 3.5 2.9Z\"/>",
+    "solid": "<path d=\"M8.9 6.2 7.6 3.8l2.1.7Z\"/><path d=\"M15.1 6.2 16.4 3.8l-2.1.7Z\"/><path fill-rule=\"evenodd\" d=\"M6.2 9.4 7.7 6.3a1 1 0 0 1 .9-.55h6.8a1 1 0 0 1 .9.55l1.5 3.1a1 1 0 0 1 .1.5l-.66 9.7a1.8 1.8 0 0 1-1.8 1.68H8.36a1.8 1.8 0 0 1-1.8-1.68L5.6 9.9a1 1 0 0 1 .1-.5Zm5.8 4.5c-1.6 0-2.9 1.1-3.7 3.1h7.4c-.8-2-2.1-3.1-3.7-3.1Z\"/>"
+  },
+  "garden-cart": {
+    "category": "garden",
+    "keywords": [
+      "carro",
+      "carrito",
+      "carreta",
+      "garden cart",
+      "utility cart",
+      "jardin",
+      "transporte"
+    ],
+    "aliases": [
+      "utility-cart",
+      "yard-cart"
+    ],
+    "outline": "<path d=\"M4.5 10h12l-1.1 6.3H5.6Z\"/><path d=\"M6.2 13h9.1\"/><path d=\"M9.3 10 9 16.3M12.7 10l.3 6.3\"/><circle cx=\"8\" cy=\"18.5\" r=\"1.8\"/><circle cx=\"13.5\" cy=\"18.5\" r=\"1.8\"/><path d=\"M16.5 10 21 6.3\"/>",
+    "solid": null
+  },
+  "topiary": {
+    "category": "garden",
+    "keywords": [
+      "topiario",
+      "arbusto",
+      "poda ornamental",
+      "topiary",
+      "shaped shrub",
+      "jardin",
+      "seto"
+    ],
+    "aliases": [
+      "topiary-tree",
+      "shaped-shrub"
+    ],
+    "outline": "<circle cx=\"12\" cy=\"6.5\" r=\"2.4\"/><circle cx=\"12\" cy=\"12.5\" r=\"3.1\"/><path d=\"M12 8.9v.8M12 15.6v1.4\"/><path d=\"M8.5 20.5l-.7-3.2h8.4l-.7 3.2Z\"/>",
+    "solid": "<circle cx=\"12\" cy=\"6.5\" r=\"2.6\"/><circle cx=\"12\" cy=\"12.5\" r=\"3.3\"/><rect x=\"11.2\" y=\"15\" width=\"1.6\" height=\"2.8\" rx=\".6\"/><path d=\"M8.4 20.6l-.7-3a.4.4 0 0 1 .4-.5h7.8a.4.4 0 0 1 .4.5l-.7 3a.6.6 0 0 1-.58.46H8.98A.6.6 0 0 1 8.4 20.6Z\"/>"
+  },
+  "flower-bed": {
+    "category": "garden",
+    "keywords": [
+      "parterre",
+      "arriate",
+      "macizo",
+      "flower bed",
+      "flowerbed",
+      "flores",
+      "jardin"
+    ],
+    "aliases": [
+      "flowerbed",
+      "flower-border"
+    ],
+    "outline": "<path d=\"M2.5 20c1.3-3.4 4-5.4 9.5-5.4s8.2 2 9.5 5.4Z\"/><path d=\"M7 14.8V11M12 14.6V8.5M17 14.8V11\"/><circle cx=\"7\" cy=\"9.3\" r=\"1.8\"/><circle cx=\"12\" cy=\"6.8\" r=\"2\"/><circle cx=\"17\" cy=\"9.3\" r=\"1.8\"/><path d=\"M12 11.5c-1.2-.5-2.3-.1-2.8 1 1.2.5 2.3.1 2.8-1Z\"/>",
+    "solid": "<path d=\"M2.5 20.2c1.3-3.5 4.1-5.6 9.5-5.6s8.2 2.1 9.5 5.6a.4.4 0 0 1-.38.55H2.88A.4.4 0 0 1 2.5 20.2Z\"/><rect x=\"6.4\" y=\"9.3\" width=\"1.2\" height=\"6\" rx=\".6\"/><rect x=\"11.3\" y=\"6.8\" width=\"1.4\" height=\"8\" rx=\".7\"/><rect x=\"16.4\" y=\"9.3\" width=\"1.2\" height=\"6\" rx=\".6\"/><circle cx=\"7\" cy=\"9\" r=\"2\"/><circle cx=\"12\" cy=\"6.5\" r=\"2.3\"/><circle cx=\"17\" cy=\"9\" r=\"2\"/>"
+  }
+}

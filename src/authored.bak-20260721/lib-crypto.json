@@ -1,0 +1,317 @@
+{
+  "bitcoin": {
+    "category": "crypto",
+    "keywords": ["btc", "bitcoin", "cripto", "crypto", "moneda", "coin", "currency"],
+    "aliases": ["btc"],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M10 7.8v8.4\"/><path d=\"M10 7.8h3.4a2.1 2.1 0 0 1 0 4.2H10\"/><path d=\"M10 12h3.8a2.1 2.1 0 0 1 0 4.2H10\"/><path d=\"M11.6 6v1.8M13.6 6v1.8M11.6 16.2V18M13.6 16.2V18\"/>",
+    "solid": null
+  },
+  "ethereum": {
+    "category": "crypto",
+    "keywords": ["eth", "ethereum", "ether", "cripto", "crypto", "moneda", "altcoin"],
+    "aliases": ["eth", "ether"],
+    "outline": "<path d=\"M12 2.5 6 12l6 3.5L18 12z\"/><path d=\"M6 13.2 12 21.5 18 13.2 12 16.7z\"/>",
+    "solid": "<path d=\"M12 2.5 6 12l6 3.5L18 12z\"/><path d=\"M6 13.2 12 21.5 18 13.2 12 16.7z\"/>"
+  },
+  "litecoin": {
+    "category": "crypto",
+    "keywords": ["ltc", "litecoin", "cripto", "crypto", "moneda", "altcoin"],
+    "aliases": ["ltc"],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M13.6 6.8 11.3 15a1 1 0 0 0 .96 1.27H16\"/><path d=\"M9.2 12.2 14.4 10.6\"/>",
+    "solid": null
+  },
+  "dogecoin": {
+    "category": "crypto",
+    "keywords": ["doge", "dogecoin", "cripto", "crypto", "meme", "moneda"],
+    "aliases": ["doge"],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M9.8 7.6h2.4a4.2 4.2 0 0 1 0 8.4H9.8z\"/><path d=\"M8.2 11.8h4\"/>",
+    "solid": null
+  },
+  "cardano": {
+    "category": "crypto",
+    "keywords": ["ada", "cardano", "cripto", "crypto", "moneda", "altcoin"],
+    "aliases": ["ada"],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"2\"/><circle cx=\"12\" cy=\"5.5\" r=\"1.2\"/><circle cx=\"12\" cy=\"18.5\" r=\"1.2\"/><circle cx=\"6\" cy=\"8.5\" r=\"1.2\"/><circle cx=\"18\" cy=\"8.5\" r=\"1.2\"/><circle cx=\"6\" cy=\"15.5\" r=\"1.2\"/><circle cx=\"18\" cy=\"15.5\" r=\"1.2\"/>",
+    "solid": "<circle cx=\"12\" cy=\"12\" r=\"2.3\"/><circle cx=\"12\" cy=\"5.3\" r=\"1.5\"/><circle cx=\"12\" cy=\"18.7\" r=\"1.5\"/><circle cx=\"5.8\" cy=\"8.4\" r=\"1.5\"/><circle cx=\"18.2\" cy=\"8.4\" r=\"1.5\"/><circle cx=\"5.8\" cy=\"15.6\" r=\"1.5\"/><circle cx=\"18.2\" cy=\"15.6\" r=\"1.5\"/>"
+  },
+  "solana": {
+    "category": "crypto",
+    "keywords": ["sol", "solana", "cripto", "crypto", "moneda", "altcoin"],
+    "aliases": ["sol"],
+    "outline": "<path d=\"M8 7h11l-2 2H6z\"/><path d=\"M6 11h11l2 2H8z\"/><path d=\"M8 15h11l-2 2H6z\"/>",
+    "solid": "<path d=\"M8 7h11l-2 2H6z\"/><path d=\"M6 11h11l2 2H8z\"/><path d=\"M8 15h11l-2 2H6z\"/>"
+  },
+  "polkadot": {
+    "category": "crypto",
+    "keywords": ["dot", "polkadot", "cripto", "crypto", "moneda", "altcoin"],
+    "aliases": ["dot"],
+    "outline": "<circle cx=\"12\" cy=\"5.5\" r=\"1.7\"/><circle cx=\"12\" cy=\"18.5\" r=\"1.7\"/><circle cx=\"6.4\" cy=\"8.75\" r=\"1.7\"/><circle cx=\"17.6\" cy=\"8.75\" r=\"1.7\"/><circle cx=\"6.4\" cy=\"15.25\" r=\"1.7\"/><circle cx=\"17.6\" cy=\"15.25\" r=\"1.7\"/>",
+    "solid": "<circle cx=\"12\" cy=\"5.5\" r=\"1.9\"/><circle cx=\"12\" cy=\"18.5\" r=\"1.9\"/><circle cx=\"6.4\" cy=\"8.75\" r=\"1.9\"/><circle cx=\"17.6\" cy=\"8.75\" r=\"1.9\"/><circle cx=\"6.4\" cy=\"15.25\" r=\"1.9\"/><circle cx=\"17.6\" cy=\"15.25\" r=\"1.9\"/>"
+  },
+  "ripple-xrp": {
+    "category": "crypto",
+    "keywords": ["xrp", "ripple", "cripto", "crypto", "moneda", "altcoin"],
+    "aliases": ["xrp", "ripple"],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M8.5 8 12 11.5 15.5 8\"/><path d=\"M8.5 16 12 12.5 15.5 16\"/>",
+    "solid": null
+  },
+  "tether-usdt": {
+    "category": "crypto",
+    "keywords": ["usdt", "tether", "stablecoin", "cripto", "crypto", "dolar", "estable"],
+    "aliases": ["usdt", "tether"],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 8.5h9M12 8.5V16\"/><path d=\"M9 11.5h6\"/>",
+    "solid": null
+  },
+  "bnb-coin": {
+    "category": "crypto",
+    "keywords": ["bnb", "binance", "cripto", "crypto", "moneda", "altcoin"],
+    "aliases": ["bnb", "binance"],
+    "outline": "<path d=\"M12 5 14 7 12 9 10 7z\"/><path d=\"M12 15 14 17 12 19 10 17z\"/><path d=\"M7 10 9 12 7 14 5 12z\"/><path d=\"M17 10 19 12 17 14 15 12z\"/><path d=\"M12 10 14 12 12 14 10 12z\"/>",
+    "solid": "<path d=\"M12 5 14 7 12 9 10 7z\"/><path d=\"M12 15 14 17 12 19 10 17z\"/><path d=\"M7 10 9 12 7 14 5 12z\"/><path d=\"M17 10 19 12 17 14 15 12z\"/><path d=\"M12 10 14 12 12 14 10 12z\"/>"
+  },
+  "monero": {
+    "category": "crypto",
+    "keywords": ["xmr", "monero", "privacidad", "privacy", "cripto", "crypto", "moneda"],
+    "aliases": ["xmr"],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7 16V8l5 5 5-5v8\"/>",
+    "solid": null
+  },
+  "tron-crypto": {
+    "category": "crypto",
+    "keywords": ["trx", "tron", "cripto", "crypto", "moneda", "altcoin"],
+    "aliases": ["trx", "tron"],
+    "outline": "<path d=\"M4.5 7.5 19.5 9.5 12 20z\"/><path d=\"M4.5 7.5 13 13 19.5 9.5\"/>",
+    "solid": "<path d=\"M4.5 7.5 19.5 9.5 12 20z\"/>"
+  },
+  "avalanche-crypto": {
+    "category": "crypto",
+    "keywords": ["avax", "avalanche", "cripto", "crypto", "moneda", "altcoin"],
+    "aliases": ["avax", "avalanche"],
+    "outline": "<path d=\"M12 5 20 19 4 19z\"/><path d=\"M13.5 13 17 19h-7z\"/>",
+    "solid": "<path d=\"M12 5 20 19 4 19ZM13.5 13 17 19 10 19Z\" fill-rule=\"evenodd\"/>"
+  },
+  "chainlink": {
+    "category": "crypto",
+    "keywords": ["link", "chainlink", "oraculo", "oracle", "cripto", "crypto"],
+    "aliases": ["link-token"],
+    "outline": "<path d=\"M12 3.5 19.5 8v8L12 20.5 4.5 16V8z\"/>",
+    "solid": "<path d=\"M12 3.5 19.5 8v8L12 20.5 4.5 16V8z\"/>"
+  },
+  "uniswap": {
+    "category": "crypto",
+    "keywords": ["uni", "uniswap", "unicornio", "unicorn", "dex", "cripto", "crypto"],
+    "aliases": ["uni"],
+    "outline": "<path d=\"M7 20c-1.6-1.5-2.5-3.6-2.5-5.9 0-4.2 3-7.1 6.8-7.1h2.4c2.5.7 4 3 4 5.6 0 1.7-.6 3.2-1.7 4.3\"/><path d=\"M11.3 7 12.6 3 14 7\"/><circle cx=\"9.6\" cy=\"12\" r=\"1\"/>",
+    "solid": null
+  },
+  "blockchain": {
+    "category": "crypto",
+    "keywords": ["cadena", "bloques", "blocks", "chain", "ledger", "cripto", "crypto"],
+    "aliases": ["chain"],
+    "outline": "<rect x=\"2.5\" y=\"9.5\" width=\"5\" height=\"5\" rx=\"1\"/><rect x=\"9.5\" y=\"9.5\" width=\"5\" height=\"5\" rx=\"1\"/><rect x=\"16.5\" y=\"9.5\" width=\"5\" height=\"5\" rx=\"1\"/><path d=\"M7.5 12h2M14.5 12h2\"/>",
+    "solid": "<rect x=\"2.5\" y=\"9.5\" width=\"5\" height=\"5\" rx=\"1\"/><rect x=\"9.5\" y=\"9.5\" width=\"5\" height=\"5\" rx=\"1\"/><rect x=\"16.5\" y=\"9.5\" width=\"5\" height=\"5\" rx=\"1\"/><rect x=\"7.4\" y=\"11.2\" width=\"2.2\" height=\"1.6\"/><rect x=\"14.4\" y=\"11.2\" width=\"2.2\" height=\"1.6\"/>"
+  },
+  "nft": {
+    "category": "crypto",
+    "keywords": ["nft", "token", "arte", "art", "coleccionable", "collectible", "cripto", "crypto"],
+    "aliases": ["non-fungible-token"],
+    "outline": "<path d=\"M12 2.8 20 7.4v9.2L12 21.2 4 16.6V7.4z\"/><path d=\"M8 15l2.5-3 2 2 3-3.5\"/><circle cx=\"9\" cy=\"9.5\" r=\"1.2\"/>",
+    "solid": null
+  },
+  "defi": {
+    "category": "crypto",
+    "keywords": ["defi", "finanzas", "descentralizado", "decentralized", "finance", "cripto", "crypto"],
+    "aliases": ["decentralized-finance"],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"4\"/><path d=\"M12 10v4M13 11a1.3 1.3 0 0 0-1.3-.8c-.8 0-1.3.4-1.3 1 0 1.4 2.7.8 2.7 2.2 0 .6-.6 1-1.4 1a1.3 1.3 0 0 1-1.3-.8\"/><circle cx=\"12\" cy=\"4\" r=\"1.5\"/><circle cx=\"5\" cy=\"16\" r=\"1.5\"/><circle cx=\"19\" cy=\"16\" r=\"1.5\"/><path d=\"M12 8V5.5M9.4 13.7l-3 1.6M14.6 13.7l3 1.6\"/>",
+    "solid": null
+  },
+  "staking": {
+    "category": "crypto",
+    "keywords": ["staking", "stake", "bloquear", "recompensa", "rewards", "cripto", "crypto"],
+    "aliases": ["stake"],
+    "outline": "<ellipse cx=\"12\" cy=\"7.5\" rx=\"6\" ry=\"2.5\"/><path d=\"M6 7.5v9c0 1.4 2.7 2.5 6 2.5 1 0 2-.1 2.8-.3\"/><path d=\"M18 7.5v3.5\"/><rect x=\"14.5\" y=\"15\" width=\"6\" height=\"5\" rx=\"1\"/><path d=\"M16 15v-1.3a1.5 1.5 0 0 1 3 0V15\"/>",
+    "solid": null
+  },
+  "mining-rig": {
+    "category": "crypto",
+    "keywords": ["mineria", "mining", "gpu", "rig", "minar", "hardware", "cripto", "crypto"],
+    "aliases": ["miner", "gpu"],
+    "outline": "<rect x=\"3\" y=\"6\" width=\"18\" height=\"10\" rx=\"1.5\"/><circle cx=\"8\" cy=\"11\" r=\"2.5\"/><circle cx=\"15\" cy=\"11\" r=\"2.5\"/><path d=\"M6 16v2M18 16v2\"/>",
+    "solid": null
+  },
+  "hardware-wallet": {
+    "category": "crypto",
+    "keywords": ["hardware", "wallet", "cartera", "dispositivo", "device", "cold", "cripto", "crypto"],
+    "aliases": ["cold-wallet"],
+    "outline": "<rect x=\"7\" y=\"3\" width=\"10\" height=\"18\" rx=\"2\"/><rect x=\"9.5\" y=\"6\" width=\"5\" height=\"4\" rx=\".5\"/><circle cx=\"12\" cy=\"15.5\" r=\"2\"/>",
+    "solid": null
+  },
+  "seed-phrase": {
+    "category": "crypto",
+    "keywords": ["semilla", "seed", "frase", "mnemonic", "recuperacion", "recovery", "palabras", "cripto", "crypto"],
+    "aliases": ["mnemonic", "recovery-phrase"],
+    "outline": "<rect x=\"4\" y=\"4\" width=\"16\" height=\"16\" rx=\"2\"/><path d=\"M7.5 9h2M12 9h4.5M7.5 12h2M12 12h4.5M7.5 15h2M12 15h4.5\"/>",
+    "solid": null
+  },
+  "gas-fee": {
+    "category": "crypto",
+    "keywords": ["gas", "comision", "fee", "combustible", "fuel", "tarifa", "cripto", "crypto"],
+    "aliases": ["gas", "fee"],
+    "outline": "<path d=\"M5 20V6a2 2 0 0 1 2-2h5a2 2 0 0 1 2 2v14\"/><path d=\"M4 20h11\"/><rect x=\"6.5\" y=\"7\" width=\"6\" height=\"4\" rx=\".5\"/><path d=\"M14 9h2a2 2 0 0 1 2 2v4a1.5 1.5 0 0 0 3 0V9l-2.5-2.5\"/>",
+    "solid": null
+  },
+  "dao": {
+    "category": "crypto",
+    "keywords": ["dao", "organizacion", "gobernanza", "governance", "comunidad", "community", "cripto", "crypto"],
+    "aliases": ["governance"],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"2.6\"/><circle cx=\"12\" cy=\"4.5\" r=\"1.8\"/><circle cx=\"4.8\" cy=\"9.5\" r=\"1.8\"/><circle cx=\"7.5\" cy=\"18.5\" r=\"1.8\"/><circle cx=\"16.5\" cy=\"18.5\" r=\"1.8\"/><circle cx=\"19.2\" cy=\"9.5\" r=\"1.8\"/><path d=\"M12 6.3v3M10 11 6.4 9.9M14 11l3.6-1.1M11 14.3 8.4 17M13 14.3l2.6 2.7\"/>",
+    "solid": null
+  },
+  "crypto-token": {
+    "category": "crypto",
+    "keywords": ["token", "ficha", "moneda", "coin", "activo", "asset", "cripto", "crypto"],
+    "aliases": ["token"],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M12 7.5 16 12l-4 4.5L8 12z\"/>",
+    "solid": "<path d=\"M12 3a9 9 0 1 0 0 18 9 9 0 0 0 0-18ZM12 7.5 16 12l-4 4.5L8 12Z\" fill-rule=\"evenodd\"/>"
+  },
+  "smart-contract": {
+    "category": "crypto",
+    "keywords": ["contrato", "contract", "inteligente", "smart", "codigo", "code", "cripto", "crypto"],
+    "aliases": ["contract"],
+    "outline": "<path d=\"M6 3h8l4 4v14a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1z\"/><path d=\"M13 3v4h4\"/><path d=\"m9.5 12-1.5 1.5 1.5 1.5M14.5 12l1.5 1.5-1.5 1.5\"/>",
+    "solid": null
+  },
+  "cold-storage": {
+    "category": "crypto",
+    "keywords": ["cold", "frio", "almacenamiento", "storage", "offline", "boveda", "seguro", "cripto", "crypto"],
+    "aliases": ["vault"],
+    "outline": "<rect x=\"3.5\" y=\"5.5\" width=\"17\" height=\"13\" rx=\"2\"/><path d=\"M12 8v7.5M8.7 9.9l6.6 3.7M15.3 9.9l-6.6 3.7\"/>",
+    "solid": null
+  },
+  "hot-wallet": {
+    "category": "crypto",
+    "keywords": ["hot", "caliente", "wallet", "cartera", "online", "conectado", "cripto", "crypto"],
+    "aliases": ["online-wallet"],
+    "outline": "<rect x=\"3.5\" y=\"9\" width=\"17\" height=\"10\" rx=\"2\"/><path d=\"M16 13.5h2.5\"/><path d=\"M12 2.5c2.5 2 3.5 4 2.3 6.2-.5.9-1.6 1.2-2.5.7-.8-.5-1-1.5-.4-2.4-1 .3-1.4 1.2-1.2 2.3\"/>",
+    "solid": null
+  },
+  "crypto-exchange": {
+    "category": "crypto",
+    "keywords": ["exchange", "bolsa", "plataforma", "trading", "mercado", "cex", "cripto", "crypto"],
+    "aliases": ["exchange", "cex"],
+    "outline": "<path d=\"M4 9.5 12 4.5l8 5\"/><path d=\"M5.5 9.5v8.5M18.5 9.5v8.5M9.5 9.5v8.5M14.5 9.5v8.5M4 18.5h16\"/>",
+    "solid": null
+  },
+  "candlestick-crypto": {
+    "category": "crypto",
+    "keywords": ["velas", "candlestick", "grafico", "chart", "trading", "precio", "cripto", "crypto"],
+    "aliases": ["candles", "ohlc"],
+    "outline": "<path d=\"M5.75 4v4M5.75 15v4\"/><rect x=\"4\" y=\"8\" width=\"3.5\" height=\"7\" rx=\"1\"/><path d=\"M12 3v3M12 15v5\"/><rect x=\"10.25\" y=\"6\" width=\"3.5\" height=\"9\" rx=\"1\"/><path d=\"M18.25 5v4M18.25 15v3\"/><rect x=\"16.5\" y=\"9\" width=\"3.5\" height=\"6\" rx=\"1\"/>",
+    "solid": null
+  },
+  "bull-market": {
+    "category": "crypto",
+    "keywords": ["toro", "bull", "alcista", "bullish", "mercado", "market", "subida", "cripto", "crypto"],
+    "aliases": ["bullish", "toro"],
+    "outline": "<circle cx=\"12\" cy=\"13\" r=\"5.5\"/><path d=\"M6.6 10.5C4.6 8.7 4 6.2 5 4M17.4 10.5c2-1.8 2.6-4.3 1.6-6.5\"/><ellipse cx=\"12\" cy=\"15\" rx=\"2.6\" ry=\"1.7\"/><circle cx=\"9.8\" cy=\"11.3\" r=\".7\"/><circle cx=\"14.2\" cy=\"11.3\" r=\".7\"/>",
+    "solid": null
+  },
+  "bear-market": {
+    "category": "crypto",
+    "keywords": ["oso", "bear", "bajista", "bearish", "mercado", "market", "caida", "cripto", "crypto"],
+    "aliases": ["bearish", "oso"],
+    "outline": "<circle cx=\"12\" cy=\"13\" r=\"6\"/><circle cx=\"7\" cy=\"7.5\" r=\"2.5\"/><circle cx=\"17\" cy=\"7.5\" r=\"2.5\"/><circle cx=\"12\" cy=\"14.5\" r=\"2\"/><circle cx=\"10\" cy=\"11.5\" r=\".7\"/><circle cx=\"14\" cy=\"11.5\" r=\".7\"/>",
+    "solid": null
+  },
+  "airdrop": {
+    "category": "crypto",
+    "keywords": ["airdrop", "reparto", "gratis", "free", "paracaidas", "parachute", "tokens", "cripto", "crypto"],
+    "aliases": ["drop"],
+    "outline": "<path d=\"M3.5 11a8.5 8.5 0 0 1 17 0z\"/><path d=\"M4.2 11 11 17.5M19.8 11 13 17.5M12 11v6.5\"/><rect x=\"10\" y=\"17.5\" width=\"4\" height=\"3.5\" rx=\".7\"/>",
+    "solid": null
+  },
+  "whitepaper": {
+    "category": "crypto",
+    "keywords": ["whitepaper", "documento", "paper", "informe", "libro", "blanco", "cripto", "crypto"],
+    "aliases": ["paper"],
+    "outline": "<path d=\"M6 3h8l4 4v13a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1z\"/><path d=\"M13 3v4h4\"/><path d=\"M8 12h8M8 15h8M8 18h5\"/>",
+    "solid": null
+  },
+  "ledger-device": {
+    "category": "crypto",
+    "keywords": ["ledger", "dispositivo", "device", "nano", "hardware", "cartera", "cripto", "crypto"],
+    "aliases": ["ledger", "nano"],
+    "outline": "<rect x=\"3\" y=\"8\" width=\"18\" height=\"8\" rx=\"2\"/><rect x=\"14\" y=\"10\" width=\"5\" height=\"4\" rx=\".5\"/><path d=\"M6 8V6a1 1 0 0 1 1-1h3a1 1 0 0 1 1 1v2\"/>",
+    "solid": null
+  },
+  "satoshi": {
+    "category": "crypto",
+    "keywords": ["satoshi", "nakamoto", "anonimo", "creador", "founder", "unidad", "sats", "cripto", "crypto"],
+    "aliases": ["nakamoto", "sats"],
+    "outline": "<path d=\"M6 21c0-3.5 2.7-5.5 6-5.5s6 2 6 5.5\"/><path d=\"M8 9a4 4 0 0 1 8 0c0 1.5-.5 2.5-1 3.5H9c-.5-1-1-2-1-3.5z\"/><path d=\"M8.5 9 12 7l3.5 2\"/>",
+    "solid": null
+  },
+  "hashrate": {
+    "category": "crypto",
+    "keywords": ["hashrate", "hash", "tasa", "rate", "velocidad", "mineria", "mining", "cripto", "crypto"],
+    "aliases": ["hash-rate"],
+    "outline": "<path d=\"M4 16a8 8 0 0 1 16 0\"/><path d=\"M12 16 16 11\"/><circle cx=\"12\" cy=\"16\" r=\"1\"/><path d=\"M4 16h1.5M18.5 16H20M12 8V6.5\"/>",
+    "solid": null
+  },
+  "block-reward": {
+    "category": "crypto",
+    "keywords": ["bloque", "block", "recompensa", "reward", "premio", "mineria", "mining", "cripto", "crypto"],
+    "aliases": ["reward"],
+    "outline": "<rect x=\"3.5\" y=\"10\" width=\"10\" height=\"10\" rx=\"1.5\"/><circle cx=\"17\" cy=\"8\" r=\"4\"/><path d=\"M17 5.8v4.4M14.8 8h4.4\"/>",
+    "solid": null
+  },
+  "wallet-connect": {
+    "category": "crypto",
+    "keywords": ["walletconnect", "conectar", "connect", "wallet", "cartera", "dapp", "cripto", "crypto"],
+    "aliases": ["walletconnect"],
+    "outline": "<rect x=\"3.5\" y=\"10\" width=\"17\" height=\"9.5\" rx=\"2\"/><path d=\"M16 14.5h2\"/><path d=\"M6.5 8a8 8 0 0 1 11 0M9 5.8a4.5 4.5 0 0 1 6 0\"/>",
+    "solid": null
+  },
+  "dex-swap": {
+    "category": "crypto",
+    "keywords": ["dex", "swap", "intercambio", "trade", "canjear", "tokens", "cripto", "crypto"],
+    "aliases": ["dex"],
+    "outline": "<circle cx=\"8\" cy=\"8\" r=\"2.5\"/><circle cx=\"16\" cy=\"16\" r=\"2.5\"/><path d=\"M5.5 13.5A6 6 0 0 1 13.5 5.5\"/><path d=\"M18.5 10.5a6 6 0 0 1-8 8\"/><path d=\"M13.5 5.5 11 5.8M13.5 5.5 13.8 8.2M10.5 18.5 13 18.2M10.5 18.5 10.2 15.8\"/>",
+    "solid": null
+  },
+  "yield-farming": {
+    "category": "crypto",
+    "keywords": ["yield", "farming", "rendimiento", "cosecha", "apy", "recompensa", "cripto", "crypto"],
+    "aliases": ["farming", "yield"],
+    "outline": "<circle cx=\"12\" cy=\"16.5\" r=\"4.5\"/><path d=\"M12 16.5v-7\"/><path d=\"M12 10C9.8 10 8 8.2 8 6c2.2 0 4 1.8 4 4z\"/><path d=\"M12 10c0-1.9 1.6-3.5 3.5-3.5 0 1.9-1.6 3.5-3.5 3.5z\"/>",
+    "solid": null
+  },
+  "liquidity-pool": {
+    "category": "crypto",
+    "keywords": ["liquidez", "liquidity", "pool", "fondo", "amm", "reserva", "cripto", "crypto"],
+    "aliases": ["pool", "amm"],
+    "outline": "<path d=\"M4 8v6c0 2.2 3.6 4 8 4s8-1.8 8-4V8\"/><ellipse cx=\"12\" cy=\"8\" rx=\"8\" ry=\"2.5\"/><circle cx=\"9.5\" cy=\"12\" r=\"1.3\"/><circle cx=\"14.5\" cy=\"13\" r=\"1.3\"/>",
+    "solid": null
+  },
+  "burn-token": {
+    "category": "crypto",
+    "keywords": ["quemar", "burn", "fuego", "fire", "destruir", "token", "cripto", "crypto"],
+    "aliases": ["burn"],
+    "outline": "<circle cx=\"12\" cy=\"18\" r=\"3\"/><path d=\"M9.5 18h5\"/><path d=\"M12 2.8c.6 2.9-.9 4.5-2.2 6C8.5 10.3 8 11.6 8 13a4 4 0 0 0 8 0c0-1.3-.5-2.6-1.6-3.8-.5.5-1 .6-1.5.5 1.2-1.9 1.1-4.1-.9-6.9z\"/>",
+    "solid": null
+  },
+  "mint-token": {
+    "category": "crypto",
+    "keywords": ["acunar", "mint", "crear", "create", "emitir", "token", "nuevo", "cripto", "crypto"],
+    "aliases": ["mint"],
+    "outline": "<circle cx=\"12\" cy=\"13\" r=\"7\"/><path d=\"M12 9.5v7M8.5 13h7\"/><path d=\"M19 4.5v2M18 5.5h2\"/>",
+    "solid": null
+  },
+  "crypto-chart": {
+    "category": "crypto",
+    "keywords": ["grafico", "chart", "precio", "price", "mercado", "market", "trading", "cripto", "crypto"],
+    "aliases": ["price-chart"],
+    "outline": "<rect x=\"2.5\" y=\"4.5\" width=\"19\" height=\"15\" rx=\"2\"/><path d=\"M6 14l3-3.5 2.5 2L15 8l3 3\"/><circle cx=\"6\" cy=\"14\" r=\"1\"/><circle cx=\"18\" cy=\"11\" r=\"1\"/>",
+    "solid": null
+  }
+}

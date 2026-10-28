@@ -1,0 +1,490 @@
+{
+  "hammer": {
+    "category": "tools",
+    "keywords": [
+      "hammer",
+      "tool",
+      "build",
+      "construction",
+      "martillo",
+      "herramienta",
+      "carpentry",
+      "claw"
+    ],
+    "aliases": [
+      "claw-hammer",
+      "mallet"
+    ],
+    "outline": "<path d=\"M10.92 4.24 18.6 10 16.08 13.36 8.4 7.6 11.1 7Z\"/><path d=\"M12.04 9.78L6.04 17.78A1.2 1.2 0 0 1 7.96 19.22L13.96 11.22Z\"/>",
+    "solid": "<path d=\"M10.92 4.24 18.6 10 16.08 13.36 8.4 7.6 11.1 7Z\"/><path d=\"M12.04 9.78L6.04 17.78A1.2 1.2 0 0 1 7.96 19.22L13.96 11.22Z\"/>"
+  },
+  "wrench": {
+    "category": "tools",
+    "keywords": [
+      "wrench",
+      "spanner",
+      "tool",
+      "fix",
+      "llave",
+      "herramienta",
+      "ajustar",
+      "mechanic"
+    ],
+    "aliases": [
+      "spanner"
+    ],
+    "outline": "<path d=\"M14.5 6.5a1.6 1.6 0 0 0 0 2.3l1.2 1.2a1.6 1.6 0 0 0 2.3 0l3-3a6 6 0 0 1-7.9 7.9l-6.4 6.4a2.1 2.1 0 0 1-3-3l6.4-6.4a6 6 0 0 1 7.9-7.9Z\"/>",
+    "solid": "<path d=\"M14.5 6.5a1.6 1.6 0 0 0 0 2.3l1.2 1.2a1.6 1.6 0 0 0 2.3 0l3-3a6 6 0 0 1-7.9 7.9l-6.4 6.4a2.1 2.1 0 0 1-3-3l6.4-6.4a6 6 0 0 1 7.9-7.9Z\"/>"
+  },
+  "screwdriver": {
+    "category": "tools",
+    "keywords": [
+      "screwdriver",
+      "tool",
+      "screw",
+      "fix",
+      "destornillador",
+      "herramienta",
+      "atornillar"
+    ],
+    "aliases": [],
+    "outline": "<path d=\"M17.02 4.02L11.52 9.52L14.48 12.48L19.98 6.98A2.1 2.1 0 0 1 17.02 4.02Z\"/><path d=\"M12.9 9.9L6.4 16.4L7.6 17.6L14.1 11.1Z\"/><path d=\"M7.8 15.6 5 18.4l1.6 1.6 2.8-2.8Z\"/>",
+    "solid": "<path d=\"M17.02 4.02L11.52 9.52L14.48 12.48L19.98 6.98A2.1 2.1 0 0 1 17.02 4.02Z\"/><path d=\"M12.9 9.9L6.4 16.4L7.6 17.6L14.1 11.1Z\"/><path d=\"M7.8 15.6 5 18.4l1.6 1.6 2.8-2.8Z\"/>"
+  },
+  "drill": {
+    "category": "tools",
+    "keywords": [
+      "drill",
+      "power-tool",
+      "tool",
+      "taladro",
+      "herramienta",
+      "electrica",
+      "bit"
+    ],
+    "aliases": [
+      "power-drill"
+    ],
+    "outline": "<path d=\"M3 7.5a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v.5h1.5a1 1 0 0 1 1 1V11a1 1 0 0 1-1 1H15v.5a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2Z\"/><path d=\"M18.5 8.7h3\"/><path d=\"M6 14.5v2.5a2 2 0 0 0 2 2h1.5a2 2 0 0 0 2-2v-2.5\"/>",
+    "solid": "<path d=\"M3 7.5a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v.5h1.5a1 1 0 0 1 1 1V11a1 1 0 0 1-1 1H15v.5a2 2 0 0 1-.5 1.3 2 2 0 0 1 .5 1.2v1.5a3 3 0 0 1-3 3H9a3 3 0 0 1-3-3v-1.5H5a2 2 0 0 1-2-2Z\" fill-rule=\"evenodd\"/><path d=\"M18 7.9h3.5a.9.9 0 0 1 0 1.8H18Z\"/>"
+  },
+  "saw": {
+    "category": "tools",
+    "keywords": [
+      "saw",
+      "handsaw",
+      "cut",
+      "tool",
+      "sierra",
+      "serrucho",
+      "cortar",
+      "herramienta"
+    ],
+    "aliases": [
+      "handsaw"
+    ],
+    "outline": "<path d=\"M8 6.5H5.5A3 3 0 0 0 2.5 9.5v1A3 3 0 0 0 5.5 13.5H8Z\"/><rect x=\"4.3\" y=\"8.7\" width=\"2.4\" height=\"2.6\" rx=\"1.2\"/><path d=\"M7.5 7.5H20.5V10.5L19.57 12.5L18.64 10.5L17.71 12.5L16.79 10.5L15.86 12.5L14.93 10.5L14 12.5L13.07 10.5L12.14 12.5L11.21 10.5L10.29 12.5L9.36 10.5L8.43 12.5L7.5 10.5Z\"/>",
+    "solid": "<path d=\"M7.5 7.5H20.5V10.5L19.57 12.5L18.64 10.5L17.71 12.5L16.79 10.5L15.86 12.5L14.93 10.5L14 12.5L13.07 10.5L12.14 12.5L11.21 10.5L10.29 12.5L9.36 10.5L8.43 12.5L7.5 10.5Z\"/><path d=\"M8 6.5H5.5A3 3 0 0 0 2.5 9.5v1A3 3 0 0 0 5.5 13.5H8ZM4.3 10a1.2 1.2 0 1 0 2.4 0a1.2 1.2 0 1 0 -2.4 0Z\" fill-rule=\"evenodd\"/>"
+  },
+  "axe": {
+    "category": "tools",
+    "keywords": [
+      "axe",
+      "hatchet",
+      "chop",
+      "tool",
+      "hacha",
+      "cortar",
+      "lena",
+      "herramienta"
+    ],
+    "aliases": [
+      "hatchet"
+    ],
+    "outline": "<path d=\"M12.4 10.2 14.6 3.9a1 1 0 0 1 1.5-.5c2.4 1.6 4 4.2 4.4 7.2a1 1 0 0 1-1.2 1.1c-2.9-.6-5.2-.9-6.9-1.5Z\"/><path d=\"M12.52 8.49L6.52 19.99A1.1 1.1 0 0 1 8.48 21.01L14.48 9.51Z\"/>",
+    "solid": "<path d=\"M12.4 10.2 14.6 3.9a1 1 0 0 1 1.5-.5c2.4 1.6 4 4.2 4.4 7.2a1 1 0 0 1-1.2 1.1c-2.9-.6-5.2-.9-6.9-1.5Z\"/><path d=\"M12.52 8.49L6.52 19.99A1.1 1.1 0 0 1 8.48 21.01L14.48 9.51Z\"/>"
+  },
+  "pliers": {
+    "category": "tools",
+    "keywords": [
+      "pliers",
+      "tool",
+      "grip",
+      "alicates",
+      "tenaza",
+      "herramienta",
+      "pinch"
+    ],
+    "aliases": [
+      "pincers"
+    ],
+    "outline": "<path d=\"M10.5 3.5c-1 3.3-.7 6 1.5 7.8l4 9.2\"/><path d=\"M13.5 3.5c1 3.3.7 6-1.5 7.8l-4 9.2\"/><circle cx=\"12\" cy=\"11\" r=\"1\"/>",
+    "solid": null
+  },
+  "toolbox": {
+    "category": "tools",
+    "keywords": [
+      "toolbox",
+      "tools",
+      "kit",
+      "caja",
+      "herramientas",
+      "maletin",
+      "repair"
+    ],
+    "aliases": [
+      "tool-box",
+      "toolkit"
+    ],
+    "outline": "<rect x=\"3\" y=\"8.5\" width=\"18\" height=\"11\" rx=\"2\"/><path d=\"M3 12.5h18\"/><path d=\"M9 8.5V7a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2v1.5\"/><rect x=\"10\" y=\"11\" width=\"4\" height=\"3\" rx=\"1\"/>",
+    "solid": "<path d=\"M9 4a3 3 0 0 0-3 3v1H5a2 2 0 0 0-2 2v9a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-9a2 2 0 0 0-2-2h-1V7a3 3 0 0 0-3-3Zm0 2h6a1 1 0 0 1 1 1v1H8V7a1 1 0 0 1 1-1Zm3 5a1 1 0 0 1 1 1v2a1 1 0 0 1-2 0v-2a1 1 0 0 1 1-1Z\" fill-rule=\"evenodd\"/>"
+  },
+  "ruler": {
+    "category": "tools",
+    "keywords": [
+      "ruler",
+      "measure",
+      "scale",
+      "regla",
+      "medir",
+      "escala",
+      "length"
+    ],
+    "aliases": [
+      "scale"
+    ],
+    "outline": "<rect x=\"2.5\" y=\"8\" width=\"19\" height=\"8\" rx=\"1.5\"/><path d=\"M6 8v3M9 8v2M12 8v3M15 8v2M18 8v3\"/>",
+    "solid": null
+  },
+  "triangle-ruler": {
+    "category": "tools",
+    "keywords": [
+      "ruler",
+      "triangle",
+      "set-square",
+      "escuadra",
+      "cartabon",
+      "medir",
+      "angle"
+    ],
+    "aliases": [
+      "set-square",
+      "square"
+    ],
+    "outline": "<path d=\"M5 3.5v14a2 2 0 0 0 2 2h13a1 1 0 0 0 .7-1.7L6.7 2.8A1 1 0 0 0 5 3.5Z\"/><path d=\"M5 9h2M5 13h2M9 17.5v-2M13 17.5v-2\"/>",
+    "solid": "<path d=\"M5 3.5v14a2 2 0 0 0 2 2h13a1 1 0 0 0 .7-1.7L6.7 2.8A1 1 0 0 0 5 3.5Zm3 5.6 8.4 8.4H8Z\" fill-rule=\"evenodd\"/>"
+  },
+  "tape-measure": {
+    "category": "tools",
+    "keywords": [
+      "tape",
+      "measure",
+      "measuring",
+      "metro",
+      "cinta",
+      "medir",
+      "ruler"
+    ],
+    "aliases": [
+      "measuring-tape"
+    ],
+    "outline": "<path d=\"M12 4a8 8 0 0 0-8 8v6a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-6a8 8 0 0 0-8-8Z\"/><circle cx=\"12\" cy=\"12\" r=\"3.5\"/><path d=\"M15 19v-3.5H9V19\"/>",
+    "solid": "<path d=\"M12 3a9 9 0 0 0-9 9v6a2 2 0 0 0 2 2h4v-3.5a3 3 0 1 1 6 0V20h4a2 2 0 0 0 2-2v-6a9 9 0 0 0-9-9Zm0 6.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5Z\" fill-rule=\"evenodd\"/><path d=\"M10 16.5h4V20h-4z\"/>"
+  },
+  "spirit-level": {
+    "category": "tools",
+    "keywords": [
+      "level",
+      "spirit-level",
+      "bubble",
+      "nivel",
+      "burbuja",
+      "horizontal",
+      "align"
+    ],
+    "aliases": [
+      "bubble-level",
+      "level"
+    ],
+    "outline": "<rect x=\"2.5\" y=\"9\" width=\"19\" height=\"6\" rx=\"1.5\"/><rect x=\"9\" y=\"10.3\" width=\"6\" height=\"3.4\" rx=\"1.7\"/><path d=\"M11.4 12h1.2\"/>",
+    "solid": "<path d=\"M4 9a1.5 1.5 0 0 0-1.5 1.5v3A1.5 1.5 0 0 0 4 15h16a1.5 1.5 0 0 0 1.5-1.5v-3A1.5 1.5 0 0 0 20 9Zm5 1.3h6a1.7 1.7 0 0 1 0 3.4H9a1.7 1.7 0 0 1 0-3.4Z\" fill-rule=\"evenodd\"/><circle cx=\"12\" cy=\"12\" r=\"1\"/>"
+  },
+  "paint-roller": {
+    "category": "tools",
+    "keywords": [
+      "paint",
+      "roller",
+      "decorate",
+      "rodillo",
+      "pintar",
+      "pintura",
+      "wall"
+    ],
+    "aliases": [
+      "roller"
+    ],
+    "outline": "<rect x=\"3\" y=\"4\" width=\"16\" height=\"6\" rx=\"2\"/><path d=\"M19 6h1.5a1 1 0 0 1 1 1v1.5a2 2 0 0 1-2 2h-6a1.5 1.5 0 0 0-1.5 1.5V13\"/><rect x=\"10.5\" y=\"13\" width=\"3\" height=\"7.5\" rx=\"1.5\"/>",
+    "solid": "<rect x=\"3\" y=\"4\" width=\"16\" height=\"6\" rx=\"2\"/><path d=\"M19.5 6.2v1.8a1 1 0 0 1-1 1h-5a2.5 2.5 0 0 0-2.5 2.5v1.2a1.5 1.5 0 0 0 3 0v-1.2h4.5A3 3 0 0 0 22 8.5V6.2Z\"/><rect x=\"10.5\" y=\"13\" width=\"3\" height=\"7.5\" rx=\"1.5\"/>"
+  },
+  "paint-bucket": {
+    "category": "tools",
+    "keywords": [
+      "paint",
+      "bucket",
+      "pail",
+      "cubo",
+      "pintura",
+      "balde",
+      "fill"
+    ],
+    "aliases": [
+      "paint-can",
+      "paint-pail"
+    ],
+    "outline": "<path d=\"M5 7.5h14l-1.3 11.3a1.5 1.5 0 0 1-1.5 1.3H7.8a1.5 1.5 0 0 1-1.5-1.3Z\"/><path d=\"M6.5 7.5a5.5 4 0 0 1 11 0\"/><path d=\"M6.6 11h10.8\"/><path d=\"M20 12.5c1.4 0 1.4 2.5 0 2.5s-1.4-2.5 0-2.5Z\"/>",
+    "solid": "<path d=\"M6.5 7a5.5 4 0 0 1 11 0 .5.5 0 0 1 0 .1l-.1.9H6.6l-.1-.9A.5.5 0 0 1 6.5 7Zm-1.3 2.5h13.6l-1 8.4a2 2 0 0 1-2 1.8H8.2a2 2 0 0 1-2-1.8Z\" fill-rule=\"evenodd\"/><path d=\"M20 12.3c1.6 0 1.6 2.9 0 2.9s-1.6-2.9 0-2.9Z\"/>"
+  },
+  "paintbrush": {
+    "category": "tools",
+    "keywords": [
+      "paint",
+      "brush",
+      "paintbrush",
+      "pincel",
+      "brocha",
+      "pintar",
+      "art"
+    ],
+    "aliases": [
+      "brush"
+    ],
+    "outline": "<path d=\"M19.36 3.36L12.86 9.86L14.14 11.14L20.64 4.64A0.9 0.9 0 0 1 19.36 3.36Z\"/><path d=\"M13.9 10.9 11 8l-1.8 1.8a2 2 0 0 0 0 2.8l1.2 1.2a2 2 0 0 0 2.8 0Z\"/><path d=\"M9.2 12.6 5 20l7.4-4.2a2 2 0 0 0 .6-3Z\"/>",
+    "solid": "<path d=\"M19.36 3.36L12.86 9.86L14.14 11.14L20.64 4.64A0.9 0.9 0 0 1 19.36 3.36Z\"/><path d=\"M13.9 10.9 11 8l-1.8 1.8a2 2 0 0 0 0 2.8l1.2 1.2a2 2 0 0 0 2.8 0Z\"/><path d=\"M9.2 12.6 5 20l7.4-4.2a2 2 0 0 0 .6-3Z\"/>"
+  },
+  "trowel": {
+    "category": "tools",
+    "keywords": [
+      "trowel",
+      "masonry",
+      "bricklayer",
+      "paleta",
+      "llana",
+      "albanil",
+      "cement"
+    ],
+    "aliases": [
+      "bricklayer-trowel",
+      "margin-trowel"
+    ],
+    "outline": "<path d=\"M8.8 9.6 15 14.2 4 19.8a.6.6 0 0 1-.8-.8Z\"/><path d=\"M12.2 11.9 14.9 8.7\"/><path d=\"M17.94 3.64L13.84 7.74L15.96 9.86L20.06 5.76A1.5 1.5 0 0 1 17.94 3.64Z\"/>",
+    "solid": "<path d=\"M8.8 9.6 15 14.2 4 19.8a.6.6 0 0 1-.8-.8Z\"/><path d=\"M12.59 12.24L15.49 9.04L14.31 7.96L11.41 11.16Z\"/><path d=\"M17.94 3.64L13.84 7.74L15.96 9.86L20.06 5.76A1.5 1.5 0 0 1 17.94 3.64Z\"/>"
+  },
+  "shovel": {
+    "category": "tools",
+    "keywords": [
+      "shovel",
+      "spade",
+      "dig",
+      "pala",
+      "excavar",
+      "cavar",
+      "garden"
+    ],
+    "aliases": [
+      "spade"
+    ],
+    "outline": "<path d=\"M12 4.5v9\"/><path d=\"M9.5 4.5h5\"/><path d=\"M12 4.5V3\"/><path d=\"M7.5 13h9l-1 3.4a4.5 4.5 0 0 1-7 0Z\"/>",
+    "solid": "<path d=\"M9.5 3.5h5a1 1 0 0 1 0 2H13v6.5h3.5a1 1 0 0 1 1 1.3l-1 3.4a5.5 5.5 0 0 1-9 0l-1-3.4a1 1 0 0 1 1-1.3H11V5.5H9.5a1 1 0 0 1 0-2Z\" fill-rule=\"evenodd\"/>"
+  },
+  "pickaxe": {
+    "category": "tools",
+    "keywords": [
+      "pickaxe",
+      "pick",
+      "mine",
+      "mining",
+      "pico",
+      "picar",
+      "herramienta",
+      "dig"
+    ],
+    "aliases": [
+      "pick",
+      "mattock"
+    ],
+    "outline": "<path d=\"M3 11.5C6.5 8 9.5 6.7 12 6.7c2.5 0 5.5 1.3 9 4.8-3.5-1.8-6.2-2.6-9-2.6s-5.5.8-9 2.6Z\"/><path d=\"M11 8.8L11 20.5A1 1 0 0 1 13 20.5L13 8.8Z\"/>",
+    "solid": "<path d=\"M3 11.5C6.5 8 9.5 6.7 12 6.7c2.5 0 5.5 1.3 9 4.8-3.5-1.8-6.2-2.6-9-2.6s-5.5.8-9 2.6Z\"/><path d=\"M11 8.8L11 20.5A1 1 0 0 1 13 20.5L13 8.8Z\"/>"
+  },
+  "ladder": {
+    "category": "tools",
+    "keywords": [
+      "ladder",
+      "climb",
+      "steps",
+      "escalera",
+      "subir",
+      "peldanos",
+      "rungs"
+    ],
+    "aliases": [],
+    "outline": "<path d=\"M7 3v18M17 3v18\"/><path d=\"M7 7h10M7 11h10M7 15h10M7 19h10\"/>",
+    "solid": null
+  },
+  "hard-hat": {
+    "category": "tools",
+    "keywords": [
+      "hard-hat",
+      "helmet",
+      "safety",
+      "construction",
+      "casco",
+      "obra",
+      "seguridad"
+    ],
+    "aliases": [
+      "helmet",
+      "construction-hat"
+    ],
+    "outline": "<path d=\"M4 16v-1a8 8 0 0 1 16 0v1\"/><path d=\"M9 8.5v7.5M15 8.5v7.5\"/><path d=\"M2.5 16h19a1 1 0 0 1 1 1v.5a1.5 1.5 0 0 1-1.5 1.5h-18A1.5 1.5 0 0 1 1.5 17.5V17a1 1 0 0 1 1-1Z\"/>",
+    "solid": "<path d=\"M12 6a8 8 0 0 0-8 8v1.5h4.5V9.2a1 1 0 0 1 2 0V15.5h3V9.2a1 1 0 0 1 2 0V15.5H20V14a8 8 0 0 0-8-8Z\"/><path d=\"M2.5 15.5h19a1.2 1.2 0 0 1 1.2 1.2v.6a1.7 1.7 0 0 1-1.7 1.7h-18a1.7 1.7 0 0 1-1.7-1.7v-.6a1.2 1.2 0 0 1 1.2-1.2Z\"/>"
+  },
+  "nut-bolt": {
+    "category": "tools",
+    "keywords": [
+      "nut",
+      "bolt",
+      "hex",
+      "hardware",
+      "tuerca",
+      "tornillo",
+      "fastener",
+      "screw"
+    ],
+    "aliases": [
+      "nut",
+      "hex-nut",
+      "bolt"
+    ],
+    "outline": "<path d=\"M20.5 12 16.25 19.36 7.75 19.36 3.5 12 7.75 4.64 16.25 4.64Z\"/><circle cx=\"12\" cy=\"12\" r=\"3.5\"/>",
+    "solid": "<path d=\"M20.5 12 16.25 19.36 7.75 19.36 3.5 12 7.75 4.64 16.25 4.64ZM8.5 12a3.5 3.5 0 1 0 7 0a3.5 3.5 0 1 0 -7 0Z\" fill-rule=\"evenodd\"/>"
+  },
+  "screw": {
+    "category": "tools",
+    "keywords": [
+      "screw",
+      "fastener",
+      "thread",
+      "tornillo",
+      "rosca",
+      "fijar",
+      "hardware"
+    ],
+    "aliases": [],
+    "outline": "<circle cx=\"12\" cy=\"5.5\" r=\"3.2\"/><path d=\"M10 5.5h4\"/><path d=\"M9.5 8.7h5v6.3L12 20.5 9.5 15Z\"/><path d=\"M9.5 10.5h5M9.5 12.5h5M9.5 14.5h5\"/>",
+    "solid": "<path d=\"M12 2a3.5 3.5 0 0 0-1.9 6.4H9.5a.5.5 0 0 0-.5.5v6a.5.5 0 0 0 .05.22l2.5 5.5a.5.5 0 0 0 .9 0l2.5-5.5A.5.5 0 0 0 15 15V9a.5.5 0 0 0-.5-.5h-.6A3.5 3.5 0 0 0 12 2Zm-1.8 9.6h3.6v.8h-3.6Zm0 2h3.6v.8l-.4.9h-2.8l-.4-.9Z\" fill-rule=\"evenodd\"/><path d=\"M10.2 5h3.6v1h-3.6z\"/>"
+  },
+  "nail": {
+    "category": "tools",
+    "keywords": [
+      "nail",
+      "fastener",
+      "hammer",
+      "clavo",
+      "fijar",
+      "punta",
+      "hardware"
+    ],
+    "aliases": [],
+    "outline": "<rect x=\"7.5\" y=\"4.5\" width=\"9\" height=\"2.2\" rx=\"1.1\"/><path d=\"M10 6.7h4l-1.3 12.3-.7 2-.7-2Z\"/>",
+    "solid": "<rect x=\"7.5\" y=\"4.3\" width=\"9\" height=\"2.4\" rx=\"1.2\"/><path d=\"M10 6.7h4l-1.3 12.3-.7 2.2-.7-2.2Z\"/>"
+  },
+  "gears": {
+    "category": "tools",
+    "keywords": [
+      "gears",
+      "cogs",
+      "settings",
+      "machine",
+      "engranajes",
+      "ruedas",
+      "mecanismo",
+      "system"
+    ],
+    "aliases": [
+      "cogs",
+      "cogwheels"
+    ],
+    "outline": "<path d=\"M15.03 7.55L15.03 10.45L13.86 10.17L13.26 11.61L14.29 12.24L12.24 14.29L11.61 13.26L10.17 13.86L10.45 15.03L7.55 15.03L7.83 13.86L6.39 13.26L5.76 14.29L3.71 12.24L4.74 11.61L4.14 10.17L2.97 10.45L2.97 7.55L4.14 7.83L4.74 6.39L3.71 5.76L5.76 3.71L6.39 4.74L7.83 4.14L7.55 2.97L10.45 2.97L10.17 4.14L11.61 4.74L12.24 3.71L14.29 5.76L13.26 6.39L13.86 7.83Z\"/><circle cx=\"9\" cy=\"9\" r=\"2\"/><path d=\"M20.58 15.52L20.58 17.48L19.71 17.27L19.31 18.22L20.08 18.69L18.69 20.08L18.22 19.31L17.27 19.71L17.48 20.58L15.52 20.58L15.73 19.71L14.78 19.31L14.31 20.08L12.92 18.69L13.69 18.22L13.29 17.27L12.42 17.48L12.42 15.52L13.29 15.73L13.69 14.78L12.92 14.31L14.31 12.92L14.78 13.69L15.73 13.29L15.52 12.42L17.48 12.42L17.27 13.29L18.22 13.69L18.69 12.92L20.08 14.31L19.31 14.78L19.71 15.73Z\"/><circle cx=\"16.5\" cy=\"16.5\" r=\"1.4\"/>",
+    "solid": "<path d=\"M15.03 7.55L15.03 10.45L13.86 10.17L13.26 11.61L14.29 12.24L12.24 14.29L11.61 13.26L10.17 13.86L10.45 15.03L7.55 15.03L7.83 13.86L6.39 13.26L5.76 14.29L3.71 12.24L4.74 11.61L4.14 10.17L2.97 10.45L2.97 7.55L4.14 7.83L4.74 6.39L3.71 5.76L5.76 3.71L6.39 4.74L7.83 4.14L7.55 2.97L10.45 2.97L10.17 4.14L11.61 4.74L12.24 3.71L14.29 5.76L13.26 6.39L13.86 7.83ZM7 9a2 2 0 1 0 4 0a2 2 0 1 0 -4 0Z\" fill-rule=\"evenodd\"/><path d=\"M20.58 15.52L20.58 17.48L19.71 17.27L19.31 18.22L20.08 18.69L18.69 20.08L18.22 19.31L17.27 19.71L17.48 20.58L15.52 20.58L15.73 19.71L14.78 19.31L14.31 20.08L12.92 18.69L13.69 18.22L13.29 17.27L12.42 17.48L12.42 15.52L13.29 15.73L13.69 14.78L12.92 14.31L14.31 12.92L14.78 13.69L15.73 13.29L15.52 12.42L17.48 12.42L17.27 13.29L18.22 13.69L18.69 12.92L20.08 14.31L19.31 14.78L19.71 15.73ZM15.1 16.5a1.4 1.4 0 1 0 2.8 0a1.4 1.4 0 1 0 -2.8 0Z\" fill-rule=\"evenodd\"/>"
+  },
+  "vise": {
+    "category": "tools",
+    "keywords": [
+      "vise",
+      "vice",
+      "clamp",
+      "tornillo-banco",
+      "mordaza",
+      "sujetar",
+      "grip"
+    ],
+    "aliases": [
+      "vice",
+      "clamp"
+    ],
+    "outline": "<path d=\"M3.5 6h7.5v7.5h-7.5z\"/><path d=\"M7.25 6v7.5\"/><path d=\"M11 9.75h4.5\"/><circle cx=\"18\" cy=\"9.75\" r=\"2.5\"/><path d=\"M2.5 13.5h9.5v2a2 2 0 0 1-2 2H4.5a2 2 0 0 1-2-2z\"/>",
+    "solid": "<path d=\"M3.5 6h7.5v7.5H8.25V6.5h-2v7H3.5Z\" fill-rule=\"evenodd\"/><rect x=\"10.5\" y=\"8.75\" width=\"6\" height=\"2\" rx=\"1\"/><circle cx=\"18\" cy=\"9.75\" r=\"2.7\"/><path d=\"M2.5 13.5h9.5v2a2 2 0 0 1-2 2H4.5a2 2 0 0 1-2-2z\"/>"
+  },
+  "chisel": {
+    "category": "tools",
+    "keywords": [
+      "chisel",
+      "carve",
+      "wood",
+      "cincel",
+      "formon",
+      "tallar",
+      "herramienta"
+    ],
+    "aliases": [
+      "gouge"
+    ],
+    "outline": "<path d=\"M17.8 3.8L12.3 9.3L14.7 11.7L20.2 6.2A1.7 1.7 0 0 1 17.8 3.8Z\"/><path d=\"M17.2 3.3 20.7 6.8\"/><path d=\"M12.79 9.79L5.79 16.79L7.21 18.21L14.21 11.21Z\"/><path d=\"M6 17 4 19l1 1 2-2Z\"/>",
+    "solid": "<path d=\"M17.8 3.8L12.3 9.3L14.7 11.7L20.2 6.2A1.7 1.7 0 0 1 17.8 3.8Z\"/><path d=\"M12.79 9.79L5.79 16.79L7.21 18.21L14.21 11.21Z\"/><path d=\"M6 17 4 19l1 1 2-2Z\"/>"
+  },
+  "sander": {
+    "category": "tools",
+    "keywords": [
+      "sander",
+      "sand",
+      "power-tool",
+      "lijadora",
+      "lijar",
+      "herramienta",
+      "orbital"
+    ],
+    "aliases": [
+      "orbital-sander",
+      "palm-sander"
+    ],
+    "outline": "<rect x=\"3\" y=\"16.5\" width=\"18\" height=\"3\" rx=\"1.2\"/><path d=\"M6 16v-3.5a3 3 0 0 1 3-3h6a3 3 0 0 1 3 3V16\"/><rect x=\"8\" y=\"4.5\" width=\"8\" height=\"6\" rx=\"3\"/>",
+    "solid": "<rect x=\"3\" y=\"16.5\" width=\"18\" height=\"3\" rx=\"1.2\"/><path d=\"M9 9.5a3 3 0 0 0-3 3V16h12v-3.5a3 3 0 0 0-3-3h-.5a3.5 3.5 0 0 0-5 0Z\"/><rect x=\"8\" y=\"4.5\" width=\"8\" height=\"6\" rx=\"3\"/>"
+  },
+  "wheelbarrow": {
+    "category": "tools",
+    "keywords": [
+      "wheelbarrow",
+      "cart",
+      "garden",
+      "carretilla",
+      "carro",
+      "jardin",
+      "construction"
+    ],
+    "aliases": [
+      "barrow"
+    ],
+    "outline": "<path d=\"M3.5 7.5h16l-3.5 6.5H8Z\"/><circle cx=\"7\" cy=\"18\" r=\"2.5\"/><path d=\"M8.3 14 6 18M16 14l3.5 2.2\"/><path d=\"M16 11h4\"/>",
+    "solid": null
+  }
+}

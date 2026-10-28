@@ -1,0 +1,268 @@
+{
+  "solar-panel": {
+    "category": "energy",
+    "keywords": ["solar", "panel", "photovoltaic", "renewable", "placa solar", "energia solar", "fotovoltaica"],
+    "aliases": ["photovoltaic-panel", "pv-panel"],
+    "outline": "<rect x=\"3\" y=\"4\" width=\"18\" height=\"9.5\" rx=\"1\"/><path d=\"M3 9h18\"/><path d=\"M9 4v9.5\"/><path d=\"M15 4v9.5\"/><path d=\"M12 13.5V17\"/><path d=\"M8 21l4-4 4 4\"/>",
+    "solid": null
+  },
+  "wind-turbine": {
+    "category": "energy",
+    "keywords": ["wind", "turbine", "aeolic", "renewable", "turbina", "eolica", "molino"],
+    "aliases": ["wind-power", "aeolic"],
+    "outline": "<circle cx=\"12\" cy=\"7\" r=\"1.2\"/><path d=\"M12 5.8V2\"/><path d=\"M11 7.6 7 10\"/><path d=\"M13 7.6 17 10\"/><path d=\"M11.5 8.1 10.5 21\"/><path d=\"M12.5 8.1 13.5 21\"/><path d=\"M9.5 21h5\"/>",
+    "solid": null
+  },
+  "power-plant": {
+    "category": "energy",
+    "keywords": ["power", "plant", "factory", "electricity", "central electrica", "planta", "fabrica"],
+    "aliases": ["powerplant", "electric-plant"],
+    "outline": "<path d=\"M2 21h20\"/><path d=\"M4 21v-7h7v7\"/><path d=\"M14 21V8h3v13\"/><path d=\"M13.4 8h4.2\"/><path d=\"M8 15.2 6.5 18h2l-1.3 2.6\"/><path d=\"M15.6 5.8a1.6 1.6 0 0 1 2.9-.5\"/>",
+    "solid": null
+  },
+  "nuclear-plant": {
+    "category": "energy",
+    "keywords": ["nuclear", "atomic", "reactor", "energia nuclear", "atomo", "central nuclear"],
+    "aliases": ["atomic-plant", "reactor"],
+    "outline": "<path d=\"M8 6h8c.4 5 .8 10 1.5 15h-11c.7-5 1.1-10 1.5-15z\"/><circle cx=\"12\" cy=\"11\" r=\"1\"/><ellipse cx=\"12\" cy=\"11\" rx=\"3.2\" ry=\"1.3\"/><ellipse cx=\"12\" cy=\"11\" rx=\"1.3\" ry=\"3.2\"/><path d=\"M10.5 4.5c0-1 1-1 1-2M13.5 4.5c0-1-1-1-1-2\"/>",
+    "solid": null
+  },
+  "oil-rig": {
+    "category": "energy",
+    "keywords": ["oil", "rig", "petroleum", "drilling", "petroleo", "torre", "plataforma"],
+    "aliases": ["oil-derrick", "drilling-rig"],
+    "outline": "<path d=\"M3.5 21h11\"/><path d=\"M5 21 9 4l4 17\"/><path d=\"M6.7 14h4.6\"/><path d=\"M7.6 10h2.8\"/><path d=\"M17 13c-1.4 1.8-2 2.6-2 3.6a2 2 0 0 0 4 0c0-1-.6-1.8-2-3.6z\"/>",
+    "solid": null
+  },
+  "hydroelectric-dam": {
+    "category": "energy",
+    "keywords": ["hydro", "dam", "water", "hydroelectric", "presa", "hidroelectrica", "embalse"],
+    "aliases": ["hydro-dam", "hydropower"],
+    "outline": "<path d=\"M4 9c4 2 12 2 16 0\"/><path d=\"M4 9v8h16V9\"/><path d=\"M9 9.6v7.4\"/><path d=\"M15 9.6v7.4\"/><path d=\"M5 20.6c1.3-1.1 2.7-1.1 4 0s2.7 1.1 4 0 2.7-1.1 4 0\"/><path d=\"M6.5 6c1-.7 2-.7 3 0\"/><path d=\"M14.5 6c1-.7 2-.7 3 0\"/>",
+    "solid": null
+  },
+  "coal-energy": {
+    "category": "energy",
+    "keywords": ["coal", "carbon", "fossil", "mineral", "carbon", "fosil", "hulla"],
+    "aliases": ["coal-power", "fossil-fuel"],
+    "outline": "<path d=\"M13 3 9 11h3l-1 5 5-8h-3z\"/><path d=\"M3.5 20.5h17\"/><path d=\"M4.5 20 6 16l3-.5 1.6 2.6-1 1.9z\"/><path d=\"M11 20l1-3 4-.4 1.9 2.6-1.2.8z\"/>",
+    "solid": null
+  },
+  "biomass": {
+    "category": "energy",
+    "keywords": ["biomass", "bio", "organic", "sprout", "biomasa", "organico", "brote"],
+    "aliases": ["bioenergy", "biofuel"],
+    "outline": "<path d=\"M12 21v-7\"/><path d=\"M12 15.5c0-2.6-2.1-4.2-4.7-4.2 0 2.6 2.1 4.2 4.7 4.2z\"/><path d=\"M12 13c0-2.9 2.1-4.7 4.9-4.7C16.9 11.2 14.8 13 12 13z\"/><path d=\"M8 21h8\"/>",
+    "solid": null
+  },
+  "geothermal": {
+    "category": "energy",
+    "keywords": ["geothermal", "heat", "ground", "earth", "geotermica", "calor", "tierra"],
+    "aliases": ["geothermal-energy", "ground-heat"],
+    "outline": "<path d=\"M3 15h18\"/><path d=\"M8 13c-1-1-1-2 0-3.2s1-2.2 0-3.3\"/><path d=\"M12 13.2c-1-1-1-2 0-3.2s1-2.2 0-3.3\"/><path d=\"M16 13c-1-1-1-2 0-3.2s1-2.2 0-3.3\"/><path d=\"M8.5 15v2.5a3.5 3.5 0 0 0 7 0V15\"/>",
+    "solid": null
+  },
+  "ev-charging-station": {
+    "category": "energy",
+    "keywords": ["ev", "charging", "electric", "vehicle", "station", "cargador", "estacion", "coche electrico"],
+    "aliases": ["charging-station", "ev-charger"],
+    "outline": "<path d=\"M5 21V5a2 2 0 0 1 2-2h5a2 2 0 0 1 2 2v16\"/><path d=\"M3.5 21h12\"/><rect x=\"7\" y=\"6\" width=\"5\" height=\"4\" rx=\"0.5\"/><path d=\"M14 9h1.5A1.5 1.5 0 0 1 17 10.5V17a1.5 1.5 0 0 0 3 0v-6l-2-2\"/><path d=\"M9.5 12.5 8 15.2h2.2L8.7 18\"/>",
+    "solid": null
+  },
+  "power-grid": {
+    "category": "energy",
+    "keywords": ["grid", "network", "electricity", "distribution", "red electrica", "red", "distribucion"],
+    "aliases": ["electric-grid", "grid-network"],
+    "outline": "<circle cx=\"5\" cy=\"6\" r=\"1.6\"/><circle cx=\"19\" cy=\"6\" r=\"1.6\"/><circle cx=\"5\" cy=\"18\" r=\"1.6\"/><circle cx=\"19\" cy=\"18\" r=\"1.6\"/><path d=\"M6.3 6.8 10.8 11\"/><path d=\"M17.7 6.8 13.2 11\"/><path d=\"M6.3 17.2 10.8 13\"/><path d=\"M17.7 17.2 13.2 13\"/><path d=\"M12 9.5 10.5 12h3L12 14.5\"/>",
+    "solid": null
+  },
+  "transformer-energy": {
+    "category": "energy",
+    "keywords": ["transformer", "substation", "voltage", "transformador", "subestacion", "voltaje"],
+    "aliases": ["power-transformer", "substation"],
+    "outline": "<rect x=\"6\" y=\"8\" width=\"12\" height=\"10\" rx=\"1\"/><path d=\"M9 8V6M12 8V5.5M15 8V6\"/><path d=\"M4.5 10.5h1.5M4.5 13h1.5M4.5 15.5h1.5M18 10.5h1.5M18 13h1.5M18 15.5h1.5\"/><path d=\"M12.5 10 10.5 13.2h2L11 16.5\"/><path d=\"M2.5 21h19\"/>",
+    "solid": null
+  },
+  "generator": {
+    "category": "energy",
+    "keywords": ["generator", "power", "engine", "generador", "motor", "electricidad"],
+    "aliases": ["power-generator", "genset"],
+    "outline": "<rect x=\"4\" y=\"8\" width=\"16\" height=\"9\" rx=\"1.5\"/><path d=\"M8 8V7a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v1\"/><rect x=\"6.5\" y=\"11\" width=\"4.5\" height=\"3.5\" rx=\"0.5\"/><path d=\"M15.5 10.8 13.8 13.5h2.2l-1.2 2.7\"/><path d=\"M7 17v2M17 17v2\"/>",
+    "solid": null
+  },
+  "fuel-cell": {
+    "category": "energy",
+    "keywords": ["fuel", "cell", "hydrogen", "celda", "combustible", "pila"],
+    "aliases": ["hydrogen-cell", "fuelcell"],
+    "outline": "<rect x=\"5\" y=\"4\" width=\"14\" height=\"16\" rx=\"1.5\"/><path d=\"M9 4V2.5M15 4V2.5\"/><path d=\"M5 9h14\"/><path d=\"M12 11c-1.2 1.6-2 2.4-2 3.4a2 2 0 0 0 4 0c0-1-.8-1.8-2-3.4z\"/>",
+    "solid": null
+  },
+  "battery-charging-energy": {
+    "category": "energy",
+    "keywords": ["battery", "charging", "charge", "bateria", "carga", "cargando"],
+    "aliases": ["battery-charge", "charging-battery"],
+    "outline": "<rect x=\"3\" y=\"7\" width=\"16\" height=\"10\" rx=\"2\"/><path d=\"M21 10.5v3\"/><path d=\"M11 9 8.5 12.5h2.5l-2 3.5 5-5h-2.5z\"/>",
+    "solid": "<path d=\"M4 7h12a2 2 0 0 1 2 2v1h1a1 1 0 0 1 1 1v2a1 1 0 0 1-1 1h-1v1a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V9a2 2 0 0 1 2-2zM11.5 8.7 8.3 13.1a.5.5 0 0 0 .4.8h2l-.7 2.5a.4.4 0 0 0 .72.34l3.2-4.4a.5.5 0 0 0-.4-.8h-1.9l.66-2.4a.4.4 0 0 0-.72-.34z\" fill-rule=\"evenodd\"/>"
+  },
+  "energy-meter": {
+    "category": "energy",
+    "keywords": ["meter", "gauge", "consumption", "medidor", "contador", "consumo"],
+    "aliases": ["power-meter", "electricity-meter"],
+    "outline": "<rect x=\"4\" y=\"3\" width=\"16\" height=\"18\" rx=\"2\"/><circle cx=\"12\" cy=\"9\" r=\"4\"/><path d=\"M12 9 14.2 6.8\"/><path d=\"M8 15h8\"/><path d=\"M8 18h5\"/>",
+    "solid": null
+  },
+  "light-bulb-energy": {
+    "category": "energy",
+    "keywords": ["bulb", "light", "idea", "bombilla", "luz", "lampara"],
+    "aliases": ["lightbulb", "bulb-energy"],
+    "outline": "<path d=\"M8.5 14.6A6 6 0 1 1 15.5 14.6c-.7.7-1 1.4-1 2.4h-5c0-1-.3-1.7-1-2.4z\"/><path d=\"M9.5 17.5h5\"/><path d=\"M10 20.5h4\"/><path d=\"M12.6 7.5 11 11h2l-1.6 3.2\"/>",
+    "solid": "<path d=\"M12 2.5A6.5 6.5 0 0 0 7.7 13.9c.5.5.8 1.1.9 1.9h6.8c.1-.8.4-1.4.9-1.9A6.5 6.5 0 0 0 12 2.5zm.5 3.6-3 4.5a.5.5 0 0 0 .42.78H11.4l-.7 2.5a.45.45 0 0 0 .8.36l3-4.5a.5.5 0 0 0-.42-.78H12.6l.7-2.5a.45.45 0 0 0-.8-.36z\" fill-rule=\"evenodd\"/><path d=\"M9.2 17.3h5.6a.9.9 0 0 1 0 1.8H9.2a.9.9 0 0 1 0-1.8zM10 20h4a.9.9 0 0 1 0 1.8h-4a.9.9 0 0 1 0-1.8z\" fill-rule=\"evenodd\"/>"
+  },
+  "wind-farm": {
+    "category": "energy",
+    "keywords": ["wind", "farm", "turbines", "renewable", "parque eolico", "aerogeneradores", "eolico"],
+    "aliases": ["wind-park", "turbine-farm"],
+    "outline": "<path d=\"M3 21h18\"/><path d=\"M12 21V7M12 7V4.2M12 7 9.6 8.6M12 7 14.4 8.6\"/><path d=\"M5 21v-9M5 12V9.8M5 12 3.4 13.2M5 12 6.6 13.2\"/><path d=\"M19 21v-9M19 12V9.8M19 12 17.4 13.2M19 12 20.6 13.2\"/>",
+    "solid": null
+  },
+  "solar-farm": {
+    "category": "energy",
+    "keywords": ["solar", "farm", "panels", "photovoltaic", "huerto solar", "paneles", "fotovoltaica"],
+    "aliases": ["solar-park", "pv-farm"],
+    "outline": "<path d=\"M2 18.5h20\"/><path d=\"M3 14 5.3 8.5h6L9 14z\"/><path d=\"M6.15 14 8.45 8.5\"/><path d=\"M4.1 11.2h6\"/><path d=\"M6 14v4.5\"/><path d=\"M12.7 14 15 8.5h6L18.7 14z\"/><path d=\"M15.85 14 18.15 8.5\"/><path d=\"M13.8 11.2h6\"/><path d=\"M15.7 14v4.5\"/>",
+    "solid": null
+  },
+  "tidal-energy": {
+    "category": "energy",
+    "keywords": ["tidal", "wave", "ocean", "marine", "mareomotriz", "olas", "marea"],
+    "aliases": ["wave-energy", "tidal-power"],
+    "outline": "<path d=\"M2 19c2.2 0 2.2-2.2 4.4-2.2s2.2 2.2 4.4 2.2 2.2-2.2 4.4-2.2 2.2 2.2 4.4 2.2\"/><path d=\"M2 14c2.2 0 2.2-2.2 4.4-2.2s2.2 2.2 4.4 2.2 2.2-2.2 4.4-2.2 2.2 2.2 4.4 2.2\"/><path d=\"M13 3 10 8h2.5l-1 4 4-6h-2.5z\"/>",
+    "solid": null
+  },
+  "hydrogen-energy": {
+    "category": "energy",
+    "keywords": ["hydrogen", "h2", "gas", "molecule", "hidrogeno", "gas", "molecula"],
+    "aliases": ["h2-energy", "hydrogen-fuel"],
+    "outline": "<circle cx=\"8\" cy=\"14\" r=\"4\"/><circle cx=\"16\" cy=\"14\" r=\"4\"/><path d=\"M13 4 10.5 8h2.2l-1 3 3.3-4.5h-2.2z\"/>",
+    "solid": null
+  },
+  "power-line": {
+    "category": "energy",
+    "keywords": ["power", "line", "cable", "transmission", "linea electrica", "cable", "tendido"],
+    "aliases": ["power-cable", "transmission-line"],
+    "outline": "<path d=\"M5 21V6\"/><path d=\"M19 21V6\"/><path d=\"M2.5 8h5\"/><path d=\"M16.5 8h5\"/><path d=\"M3 8c5 5 13 5 18 0\"/><path d=\"M5 11c4 3.5 10 3.5 14 0\"/>",
+    "solid": null
+  },
+  "electric-tower": {
+    "category": "energy",
+    "keywords": ["tower", "pylon", "transmission", "high voltage", "torre electrica", "pilon", "alta tension"],
+    "aliases": ["pylon", "transmission-tower"],
+    "outline": "<path d=\"M10 3h4\"/><path d=\"M6 21 10 3M18 21 14 3\"/><path d=\"M7 9h10\"/><path d=\"M5.5 15h13\"/><path d=\"M8.8 9 15.2 15M15.2 9 8.8 15\"/><path d=\"M7 9v1.5M17 9v1.5M5.5 15v1.5M18.5 15v1.5\"/>",
+    "solid": null
+  },
+  "gas-pipeline": {
+    "category": "energy",
+    "keywords": ["gas", "pipeline", "pipe", "valve", "gasoducto", "tuberia", "valvula"],
+    "aliases": ["pipeline", "gas-pipe"],
+    "outline": "<rect x=\"8.5\" y=\"8\" width=\"7\" height=\"8\" rx=\"1\"/><path d=\"M2 10h6.5M15.5 10h6.5M2 14h6.5M15.5 14h6.5\"/><path d=\"M4 8.5v7M20 8.5v7\"/><path d=\"M12 8V5.5\"/><path d=\"M9.5 5.5h5\"/>",
+    "solid": null
+  },
+  "thermostat-energy": {
+    "category": "energy",
+    "keywords": ["thermostat", "temperature", "climate", "termostato", "temperatura", "clima"],
+    "aliases": ["thermostat-dial", "climate-control"],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"8.5\"/><path d=\"M12 3.5v1.5M20.5 12H19M12 20.5V19M3.5 12H5M18 6l-1 1M6 18l1-1M18 18l-1-1M6 6l1 1\"/><path d=\"M12 9.2v3.6a1.8 1.8 0 1 0 1 0V9.2a.5.5 0 0 0-1 0z\"/>",
+    "solid": null
+  },
+  "smart-meter": {
+    "category": "energy",
+    "keywords": ["smart", "meter", "digital", "reading", "contador inteligente", "medidor", "lectura"],
+    "aliases": ["digital-meter", "smart-metering"],
+    "outline": "<rect x=\"4\" y=\"3\" width=\"16\" height=\"18\" rx=\"2\"/><rect x=\"7\" y=\"6\" width=\"10\" height=\"4.5\" rx=\"0.8\"/><path d=\"M9.3 15a4 4 0 0 1 5.4 0\"/><path d=\"M10.8 16.8a2 2 0 0 1 2.4 0\"/><path d=\"M12 18.5h.01\"/>",
+    "solid": null
+  },
+  "power-button-energy": {
+    "category": "energy",
+    "keywords": ["power", "button", "on", "off", "boton de encendido", "encendido", "apagado"],
+    "aliases": ["power-switch", "on-off-button"],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M12 6.5v6\"/><path d=\"M8.5 8.8a5 5 0 1 0 7 0\"/>",
+    "solid": null
+  },
+  "plug-charging": {
+    "category": "energy",
+    "keywords": ["plug", "charging", "connector", "enchufe", "cargando", "conector"],
+    "aliases": ["charging-plug", "plug-charge"],
+    "outline": "<path d=\"M8 2.5v4M12 2.5v4\"/><path d=\"M5.5 6.5h9v2.5a4.5 4.5 0 0 1-9 0z\"/><path d=\"M10 13.5v2a2 2 0 0 0 2 2h1\"/><path d=\"M18 8 15 12.5h2.5l-1 4 4-5.5h-2.5z\"/>",
+    "solid": null
+  },
+  "renewable-energy": {
+    "category": "energy",
+    "keywords": ["renewable", "recycle", "green", "sustainable", "renovable", "reciclaje", "sostenible"],
+    "aliases": ["renewables", "green-energy"],
+    "outline": "<path d=\"M6.2 7.8A7.5 7.5 0 0 1 19.2 9.6\"/><path d=\"M19.6 5.8 19.8 9.8 15.8 9.6\"/><path d=\"M17.8 16.2A7.5 7.5 0 0 1 4.8 14.4\"/><path d=\"M4.4 18.2 4.2 14.2 8.2 14.4\"/><path d=\"M9.5 15.2c-1-3 1-5.6 5-5.6-.1 3.6-1.9 5.6-5 5.6z\"/>",
+    "solid": null
+  },
+  "carbon-footprint": {
+    "category": "energy",
+    "keywords": ["carbon", "footprint", "emissions", "co2", "huella de carbono", "emisiones", "pisada"],
+    "aliases": ["co2-footprint", "carbon-emissions"],
+    "outline": "<path d=\"M7 20.5c-2 0-3.2-1.6-3.2-4 0-3.2 1.2-9 4.2-9s3.6 4 3.6 7-1 6-4.6 6z\"/><circle cx=\"14\" cy=\"6.2\" r=\"1.1\"/><circle cx=\"16\" cy=\"8.6\" r=\"1\"/><circle cx=\"16.7\" cy=\"11.4\" r=\"0.9\"/><path d=\"M6.5 15c0-2 1.4-3.2 3.2-3.2C9.7 13.8 8.3 15 6.5 15z\"/>",
+    "solid": null
+  },
+  "energy-saving": {
+    "category": "energy",
+    "keywords": ["saving", "efficient", "eco", "efficiency", "ahorro energetico", "eficiencia", "eficiente"],
+    "aliases": ["energy-efficiency", "power-saving"],
+    "outline": "<path d=\"M8.5 14.6A6 6 0 1 1 15.5 14.6c-.7.7-1 1.4-1 2.4h-5c0-1-.3-1.7-1-2.4z\"/><path d=\"M9.5 17.5h5\"/><path d=\"M10 20.5h4\"/><path d=\"M12 12.5c0-2.2 1.4-3.6 3.4-3.6C15.4 11.1 14 12.5 12 12.5z\"/><path d=\"M12 12.5c0-2.2-1.4-3.6-3.4-3.6C8.6 11.1 10 12.5 12 12.5z\"/>",
+    "solid": null
+  },
+  "high-voltage": {
+    "category": "energy",
+    "keywords": ["voltage", "danger", "warning", "electric", "alta tension", "peligro", "electricidad"],
+    "aliases": ["danger-electric", "voltage-warning"],
+    "outline": "<path d=\"M12 3.5 21 19.5a1 1 0 0 1-.9 1.5H3.9a1 1 0 0 1-.9-1.5z\"/><path d=\"M13 8 10 13h2.5l-1 4 3.5-6h-2.5z\"/>",
+    "solid": "<path d=\"M12 3.5 21 19.5a1 1 0 0 1-.9 1.5H3.9a1 1 0 0 1-.9-1.5zm.8 4.4a.4.4 0 0 0-.74-.06L9.1 12.5a.5.5 0 0 0 .43.76H11.4l-.8 3.2a.4.4 0 0 0 .73.3l3-4.8a.5.5 0 0 0-.42-.76H12.1z\" fill-rule=\"evenodd\"/>"
+  },
+  "circuit-energy": {
+    "category": "energy",
+    "keywords": ["circuit", "board", "electronic", "chip", "circuito", "electronico", "placa"],
+    "aliases": ["electric-circuit", "circuit-board"],
+    "outline": "<rect x=\"8.5\" y=\"8.5\" width=\"7\" height=\"7\" rx=\"1\"/><path d=\"M12.6 10 11 12.4h1.9l-1.5 2.4\"/><path d=\"M12 8.5V5h4.6\"/><circle cx=\"18\" cy=\"5\" r=\"1.3\"/><path d=\"M8.5 12H4.6\"/><circle cx=\"3.3\" cy=\"12\" r=\"1.3\"/><path d=\"M12 15.5V19H8.1\"/><circle cx=\"6.5\" cy=\"19\" r=\"1.3\"/><path d=\"M15.5 13.5H19.4\"/><circle cx=\"20.7\" cy=\"13.5\" r=\"1.3\"/>",
+    "solid": null
+  },
+  "turbine": {
+    "category": "energy",
+    "keywords": ["turbine", "rotor", "fan", "engine", "turbina", "rotor", "ventilador"],
+    "aliases": ["rotor", "impeller"],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"9\"/><circle cx=\"12\" cy=\"12\" r=\"1.6\"/><path d=\"M12 10.4V3M12 13.6V21M10.4 12H3M13.6 12H21M10.9 10.9 5.6 5.6M13.1 13.1 18.4 18.4M13.1 10.9 18.4 5.6M10.9 13.1 5.6 18.4\"/>",
+    "solid": null
+  },
+  "dam-energy": {
+    "category": "energy",
+    "keywords": ["dam", "water", "reservoir", "barrier", "presa", "agua", "embalse"],
+    "aliases": ["water-dam", "energy-dam"],
+    "outline": "<path d=\"M4 8c4 1.6 12 1.6 16 0v11a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2z\"/><path d=\"M13 10.5 10.5 14.2h2.4l-1.1 3.8 3.7-5.5h-2.4z\"/><path d=\"M5.5 5.5c2-1 4-1 6 0M13 5c2-1 4-1 5.5 0\"/>",
+    "solid": null
+  },
+  "sun-panel": {
+    "category": "energy",
+    "keywords": ["solar", "sun", "panel", "energy", "panel solar", "sol", "energia"],
+    "aliases": ["sun-solar-panel", "solar-collector"],
+    "outline": "<circle cx=\"12\" cy=\"5.5\" r=\"2.5\"/><path d=\"M12 1.5V2.6M12 8.4V9.5M8 5.5H6.9M17.1 5.5H16M9.2 2.7 8.4 1.9M15.6 2.7l.8-.8\"/><path d=\"M4 14h16l1.2 5.5H2.8z\"/><path d=\"M8.8 14 8.3 19.5M13.5 14v5.5M18.2 14 18.7 19.5M3.4 16.7h17.2\"/>",
+    "solid": null
+  },
+  "wind-mill-energy": {
+    "category": "energy",
+    "keywords": ["windmill", "mill", "wind", "molino de viento", "molino", "viento"],
+    "aliases": ["windmill", "wind-mill"],
+    "outline": "<path d=\"M9 21 10 11h4l1 10\"/><path d=\"M7.5 21h9\"/><path d=\"M11 21v-3.5h2V21\"/><circle cx=\"12\" cy=\"9.5\" r=\"1\"/><path d=\"M11.3 8.8 7.5 5M12.7 10.2 16.5 14M12.7 8.8 16.5 5M11.3 10.2 7.5 14\"/>",
+    "solid": null
+  },
+  "eco-power": {
+    "category": "energy",
+    "keywords": ["eco", "green", "power", "leaf", "energia verde", "ecologico", "hoja"],
+    "aliases": ["green-power", "eco-energy"],
+    "outline": "<path d=\"M11.5 20A7 7 0 0 1 10.3 6.4C15.5 5.4 17 5 19 2.5c1 2 1.8 4.2 1.8 7.3 0 5.2-4.6 10.2-9.3 10.2z\"/><path d=\"M13 8.5 10 13h2.4l-1 4 4-6h-2.4z\"/>",
+    "solid": "<path d=\"M11.5 20A7 7 0 0 1 10.3 6.4C15.5 5.4 17 5 19 2.5c1 2 1.8 4.2 1.8 7.3 0 5.2-4.6 10.2-9.3 10.2zm1.5-11.5-3 4.5a.5.5 0 0 0 .42.78H12l-.8 3a.4.4 0 0 0 .72.32l3-4.5a.5.5 0 0 0-.42-.78H13l.7-2.8a.4.4 0 0 0-.72-.32z\" fill-rule=\"evenodd\"/>"
+  }
+}

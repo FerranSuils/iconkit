@@ -1,0 +1,738 @@
+{
+  "car-engine": {
+    "category": "automotive",
+    "keywords": [
+      "engine",
+      "motor",
+      "block",
+      "car",
+      "motor de coche",
+      "bloque",
+      "mecanica"
+    ],
+    "aliases": [
+      "engine",
+      "motor",
+      "check-engine"
+    ],
+    "outline": "<path d=\"M2 13h2v-2h2V9h2V6h2v2h3l2 2h2V9h2v5h-2v2l-2 2h-1v1h-2v-1H8l-2-2H4v-2H2Z\"/>",
+    "solid": "<path d=\"M2 13h2v-2h2V9h2V6h2v2h3l2 2h2V9h2v5h-2v2l-2 2h-1v1h-2v-1H8l-2-2H4v-2H2Z\"/>"
+  },
+  "car-tire": {
+    "category": "automotive",
+    "keywords": [
+      "tire",
+      "tyre",
+      "wheel",
+      "rueda",
+      "neumatico",
+      "llanta",
+      "goma"
+    ],
+    "aliases": [
+      "tire",
+      "tyre"
+    ],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"9\"/><circle cx=\"12\" cy=\"12\" r=\"4.5\"/><path d=\"M12 4v2M12 18v2M4 12h2M18 12h2M6.3 6.3 7.8 7.8M17.7 6.3 16.2 7.8M6.3 17.7 7.8 16.2M17.7 17.7 16.2 16.2\"/>",
+    "solid": "<path d=\"M12 3a9 9 0 1 0 0 18 9 9 0 0 0 0-18Zm0 5a4 4 0 1 0 0 8 4 4 0 0 0 0-8Z\" fill-rule=\"evenodd\"/><circle cx=\"12\" cy=\"12\" r=\"1.5\"/>"
+  },
+  "steering-wheel": {
+    "category": "automotive",
+    "keywords": [
+      "steering",
+      "wheel",
+      "volante",
+      "conducir",
+      "direccion",
+      "timon"
+    ],
+    "aliases": [
+      "steering",
+      "volante"
+    ],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"9\"/><circle cx=\"12\" cy=\"12\" r=\"2.5\"/><path d=\"M9.5 12H3M14.5 12H21M12 14.5V21\"/>",
+    "solid": null
+  },
+  "gear-shift": {
+    "category": "automotive",
+    "keywords": [
+      "gear",
+      "shift",
+      "stick",
+      "manual",
+      "palanca",
+      "cambio",
+      "marchas"
+    ],
+    "aliases": [
+      "gearshift",
+      "shifter",
+      "stick-shift"
+    ],
+    "outline": "<circle cx=\"12\" cy=\"5\" r=\"2.5\"/><path d=\"M12 7.5V13\"/><path d=\"M6 13h12\"/><path d=\"M7 13v4M12 13v4M17 13v4\"/>",
+    "solid": "<circle cx=\"12\" cy=\"5\" r=\"2.7\"/><rect x=\"11\" y=\"6.5\" width=\"2\" height=\"6.5\" rx=\"1\"/><rect x=\"5.5\" y=\"12\" width=\"13\" height=\"2\" rx=\"1\"/>"
+  },
+  "dashboard-car": {
+    "category": "automotive",
+    "keywords": [
+      "dashboard",
+      "cluster",
+      "instrument",
+      "panel",
+      "tablero",
+      "cuadro",
+      "salpicadero"
+    ],
+    "aliases": [
+      "instrument-cluster",
+      "cluster"
+    ],
+    "outline": "<path d=\"M3 17v-2.5a9 9 0 0 1 18 0V17a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1Z\"/><circle cx=\"8.5\" cy=\"13.5\" r=\"2.2\"/><circle cx=\"15.5\" cy=\"13.5\" r=\"2.2\"/><path d=\"M8.5 13.5 7.4 12M15.5 13.5l1.1-1.5\"/>",
+    "solid": "<path d=\"M12 5a10 10 0 0 0-10 9.8V17a1.5 1.5 0 0 0 1.5 1.5h17A1.5 1.5 0 0 0 22 17v-2.2A10 10 0 0 0 12 5Zm-3.5 6.5a2 2 0 1 1 0 4 2 2 0 0 1 0-4Zm7 0a2 2 0 1 1 0 4 2 2 0 0 1 0-4Z\" fill-rule=\"evenodd\"/>"
+  },
+  "speedometer": {
+    "category": "automotive",
+    "keywords": [
+      "speed",
+      "dial",
+      "mph",
+      "kmh",
+      "velocimetro",
+      "velocidad",
+      "aguja",
+      "dashboard",
+      "ticks",
+      "marcas"
+    ],
+    "aliases": [
+      "speedo"
+    ],
+    "outline": "<circle cx=\"12\" cy=\"11.9\" r=\"8.7\"/><path d=\"M12 5.1v1.4M5.2 11.9h1.4M17.4 11.9h1.4M7.2 7.1l1 1M16.8 7.1l-1 1\"/><path d=\"M12 11.9l3.1-3.1\"/><circle cx=\"12\" cy=\"11.9\" r=\"1.3\"/><path d=\"M9.4 15.9h5.2M10.4 17.9h3.2\"/>",
+    "solid": null
+  },
+  "fuel-gauge": {
+    "category": "automotive",
+    "keywords": [
+      "fuel",
+      "gas",
+      "tank",
+      "gasolina",
+      "combustible",
+      "deposito",
+      "nivel"
+    ],
+    "aliases": [
+      "gas-gauge",
+      "petrol-gauge"
+    ],
+    "outline": "<path d=\"M3.5 17a8.5 8.5 0 0 1 17 0\"/><circle cx=\"12\" cy=\"17\" r=\"1.3\"/><path d=\"M12 17 8 14.5\"/><path d=\"M4.5 17H6M18.5 17H20\"/><path d=\"M12 6.5s-2 2.2-2 3.5a2 2 0 0 0 4 0c0-1.3-2-3.5-2-3.5Z\"/>",
+    "solid": null
+  },
+  "seatbelt": {
+    "category": "automotive",
+    "keywords": [
+      "seatbelt",
+      "belt",
+      "safety",
+      "buckle",
+      "cinturon",
+      "seguridad",
+      "hebilla"
+    ],
+    "aliases": [
+      "seat-belt",
+      "safety-belt"
+    ],
+    "outline": "<path d=\"M8.5 12.5h5A2 2 0 0 1 15.5 14.5v2.5A2 2 0 0 1 13.5 19h-5A2 2 0 0 1 6.5 17v-2.5A2 2 0 0 1 8.5 12.5Z\"/><path d=\"M9 15.5h6\"/><path d=\"M17 3.5 12.5 11\"/>",
+    "solid": "<path d=\"M8.5 12.5h5A2 2 0 0 1 15.5 14.5v2.5A2 2 0 0 1 13.5 19h-5A2 2 0 0 1 6.5 17v-2.5A2 2 0 0 1 8.5 12.5Zm.5 3v1.5h5V15.5Z\" fill-rule=\"evenodd\"/><path d=\"M15.5 3.2 17.1 4.1 12.9 11.3 11.3 10.4Z\"/>"
+  },
+  "airbag": {
+    "category": "automotive",
+    "keywords": [
+      "airbag",
+      "safety",
+      "srs",
+      "bolsa",
+      "seguridad",
+      "proteccion"
+    ],
+    "aliases": [
+      "srs",
+      "air-bag"
+    ],
+    "outline": "<circle cx=\"8\" cy=\"13.5\" r=\"4\"/><circle cx=\"16\" cy=\"6\" r=\"2\"/><path d=\"M16 8v3.5a1 1 0 0 1-.3.7L13 15\"/><path d=\"M12.5 18.5h6.5\"/>",
+    "solid": "<circle cx=\"8\" cy=\"13.5\" r=\"4\"/><circle cx=\"16\" cy=\"5.8\" r=\"2.3\"/><path d=\"M13.6 18.5 15 9.8a1.5 1.5 0 0 1 3 0l1.4 8.7a.6.6 0 0 1-.6.7h-4.6a.6.6 0 0 1-.6-.7Z\"/>"
+  },
+  "car-brake": {
+    "category": "automotive",
+    "keywords": [
+      "brake",
+      "warning",
+      "stop",
+      "freno",
+      "alerta",
+      "frenar"
+    ],
+    "aliases": [
+      "brake-warning"
+    ],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"5\"/><path d=\"M12 9.3v3.2M12 14.9v.01\"/><path d=\"M5 8a8 8 0 0 0 0 8M19 8a8 8 0 0 1 0 8\"/>",
+    "solid": null
+  },
+  "car-battery": {
+    "category": "automotive",
+    "keywords": [
+      "battery",
+      "accumulator",
+      "12v",
+      "bateria",
+      "acumulador",
+      "energia"
+    ],
+    "aliases": [
+      "auto-battery",
+      "accumulator"
+    ],
+    "outline": "<rect x=\"3\" y=\"8\" width=\"18\" height=\"11\" rx=\"2\"/><path d=\"M6 8V6h3v2M15 8V6h3v2\"/><path d=\"M6 13h3M7.5 11.5v3M15 13h3\"/>",
+    "solid": "<path d=\"M6.5 5.5h2a1 1 0 0 1 1 1V8h5V6.5a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1V8h1a2 2 0 0 1 2 2v7a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2v-7a2 2 0 0 1 2-2h1V6.5a1 1 0 0 1 1-1Zm.6 7a1 1 0 0 0 0 2h.4v.4a1 1 0 0 0 2 0V14.5h.4a1 1 0 0 0 0-2h-.4V12a1 1 0 0 0-2 0v.5Zm7.9 0a1 1 0 0 0 0 2h3a1 1 0 0 0 0-2Z\" fill-rule=\"evenodd\"/>"
+  },
+  "engine-oil": {
+    "category": "automotive",
+    "keywords": [
+      "oil",
+      "lubricant",
+      "oilcan",
+      "aceite",
+      "lubricante",
+      "aceitera"
+    ],
+    "aliases": [
+      "oil",
+      "oil-can",
+      "lubricant"
+    ],
+    "outline": "<rect x=\"2.5\" y=\"13\" width=\"10.5\" height=\"6\" rx=\"2\"/><path d=\"M13 14.5 19.5 10\"/><path d=\"M18 9l2 1.5\"/><path d=\"M5.5 13v-1.5a1 1 0 0 1 1-1h3a1 1 0 0 1 1 1V13\"/><path d=\"M20 15c0 .8-.7 1.4-1.4 1.4s-1.4-.6-1.4-1.4c0-.8 1.4-2.3 1.4-2.3s1.4 1.5 1.4 2.3Z\"/>",
+    "solid": "<rect x=\"2.5\" y=\"13\" width=\"10.5\" height=\"6\" rx=\"2\"/><path d=\"M12.8 13.8 19.3 9.3l1.2 1.6L14.5 15.4Z\"/><rect x=\"5.5\" y=\"10.3\" width=\"4.5\" height=\"3\" rx=\"1\"/><path d=\"M20 15c0 .8-.7 1.4-1.4 1.4s-1.4-.6-1.4-1.4c0-.8 1.4-2.3 1.4-2.3s1.4 1.5 1.4 2.3Z\"/>"
+  },
+  "windshield-wiper": {
+    "category": "automotive",
+    "keywords": [
+      "wiper",
+      "windshield",
+      "windscreen",
+      "rain",
+      "limpiaparabrisas",
+      "escobilla",
+      "lluvia"
+    ],
+    "aliases": [
+      "wiper",
+      "windscreen-wiper"
+    ],
+    "outline": "<circle cx=\"6\" cy=\"19\" r=\"1.3\"/><path d=\"M6.5 17.8 15 6.5\"/><path d=\"M12 9l4.5 3\"/><path d=\"M5.5 19.5a12 12 0 0 0 13.5-3.5\"/>",
+    "solid": null
+  },
+  "headlight": {
+    "category": "automotive",
+    "keywords": [
+      "headlight",
+      "headlamp",
+      "beam",
+      "light",
+      "faro",
+      "luz",
+      "haz"
+    ],
+    "aliases": [
+      "headlamp",
+      "head-light"
+    ],
+    "outline": "<path d=\"M11 5a7 7 0 0 0 0 14\"/><path d=\"M11 5V19\"/><path d=\"M15 8h5M15 12h5.5M15 16h5\"/>",
+    "solid": "<path d=\"M11 4.5a7.5 7.5 0 0 0 0 15Z\"/><path d=\"M15 7h5v2h-5zM15 11h5.5v2H15zM15 15h5v2h-5z\"/>"
+  },
+  "car-mirror": {
+    "category": "automotive",
+    "keywords": [
+      "mirror",
+      "rearview",
+      "reflection",
+      "espejo",
+      "retrovisor",
+      "reflejo"
+    ],
+    "aliases": [
+      "rearview-mirror",
+      "rear-view-mirror"
+    ],
+    "outline": "<rect x=\"3\" y=\"8\" width=\"18\" height=\"7\" rx=\"3.5\"/><path d=\"M7 10.5 10.5 14\"/><path d=\"M12 15v2M9.5 19h5\"/>",
+    "solid": "<path d=\"M6.5 8h11a3.5 3.5 0 0 1 0 7h-11a3.5 3.5 0 0 1 0-7Z\"/><rect x=\"11\" y=\"14.5\" width=\"2\" height=\"3\" rx=\"0.6\"/><rect x=\"8.5\" y=\"17.5\" width=\"7\" height=\"2\" rx=\"1\"/>"
+  },
+  "car-key": {
+    "category": "automotive",
+    "keywords": [
+      "key",
+      "fob",
+      "remote",
+      "unlock",
+      "llave",
+      "mando",
+      "cerrar"
+    ],
+    "aliases": [
+      "key-fob",
+      "car-remote"
+    ],
+    "outline": "<rect x=\"7\" y=\"2.5\" width=\"10\" height=\"13\" rx=\"3\"/><circle cx=\"10.5\" cy=\"7\" r=\"1.2\"/><circle cx=\"13.5\" cy=\"7\" r=\"1.2\"/><path d=\"M12 10.5v1.5\"/><path d=\"M12 15.5v6M10 18h2M10 20h2\"/>",
+    "solid": "<path d=\"M10 2h4a3 3 0 0 1 3 3v7a3 3 0 0 1-3 3h-1v6.5a1 1 0 0 1-.45.83L12 23l-.55-.67A1 1 0 0 1 11 21.5V15h-1a3 3 0 0 1-3-3V5a3 3 0 0 1 3-3Zm.5 3.5a1.3 1.3 0 1 0 0 2.6 1.3 1.3 0 0 0 0-2.6Zm3 0a1.3 1.3 0 1 0 0 2.6 1.3 1.3 0 0 0 0-2.6Z\" fill-rule=\"evenodd\"/>"
+  },
+  "car-door": {
+    "category": "automotive",
+    "keywords": [
+      "door",
+      "ajar",
+      "open",
+      "puerta",
+      "abierta",
+      "portezuela"
+    ],
+    "aliases": [
+      "car-door-open",
+      "door-ajar"
+    ],
+    "outline": "<path d=\"M4 20V11a3 3 0 0 1 3-3h10a3 3 0 0 1 3 3v9\"/><path d=\"M4 20h16\"/><path d=\"M7 12h6a1 1 0 0 1 1 1v2H7z\"/><path d=\"M15 16.5h2.5\"/>",
+    "solid": "<path d=\"M7 8h10a3 3 0 0 1 3 3v9a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-9a3 3 0 0 1 3-3Zm.5 4a1 1 0 0 0-1 1v2a1 1 0 0 0 1 1H13a1 1 0 0 0 1-1v-2a1 1 0 0 0-1-1Z\" fill-rule=\"evenodd\"/><rect x=\"15\" y=\"16\" width=\"3\" height=\"1.6\" rx=\"0.8\"/>"
+  },
+  "car-seat": {
+    "category": "automotive",
+    "keywords": [
+      "seat",
+      "chair",
+      "cushion",
+      "asiento",
+      "silla",
+      "butaca"
+    ],
+    "aliases": [
+      "car-chair",
+      "vehicle-seat"
+    ],
+    "outline": "<rect x=\"9\" y=\"2.5\" width=\"5.5\" height=\"3\" rx=\"1.2\"/><path d=\"M10 5.5V12a1 1 0 0 0 1 1h6.5a1.5 1.5 0 0 1 1.5 1.5V17\"/><path d=\"M10 13H8a1.5 1.5 0 0 0-1.5 1.5V18\"/><path d=\"M6 19.5h13\"/>",
+    "solid": "<rect x=\"8.5\" y=\"2.5\" width=\"6\" height=\"3.2\" rx=\"1.4\"/><path d=\"M9.5 6h2v6h6a2 2 0 0 1 2 2v2.5a1 1 0 0 1-2 0V14.5a.5.5 0 0 0-.5-.5H9a1.5 1.5 0 0 1-1.5-1.5V8a2 2 0 0 1 2-2Z\"/><rect x=\"6\" y=\"18.5\" width=\"13\" height=\"2\" rx=\"1\"/>"
+  },
+  "spark-plug": {
+    "category": "automotive",
+    "keywords": [
+      "spark",
+      "plug",
+      "ignition",
+      "bujia",
+      "chispa",
+      "encendido"
+    ],
+    "aliases": [
+      "sparkplug",
+      "glow-plug"
+    ],
+    "outline": "<rect x=\"10.5\" y=\"2.5\" width=\"3\" height=\"2\" rx=\"0.5\"/><path d=\"M11 4.5h2l-.4 4.5h-1.2z\"/><path d=\"M9.5 9h5l-1 3.5h-3z\"/><path d=\"M10.5 12.5h3v4.5h-3z\"/><path d=\"M10.5 14h3M10.5 15.5h3\"/><path d=\"M13.5 17v1a1.5 1.5 0 0 1-1.5 1.5H11\"/>",
+    "solid": "<path d=\"M10.5 2.5h3a.5.5 0 0 1 .5.5v1.5h-4V3a.5.5 0 0 1 .5-.5Z\"/><path d=\"M10.8 4.5h2.4l.9 4.5h-4.2Z\"/><path d=\"M9.4 9h5.2l-1 3.5h-3.2Z\"/><path d=\"M10.5 12.5h3v5h-3Z\"/><path d=\"M13.5 17.5v.5a2 2 0 0 1-2 2H10.5v-1.5H11.5a.5.5 0 0 0 .5-.5v-.5Z\"/>"
+  },
+  "radiator": {
+    "category": "automotive",
+    "keywords": [
+      "radiator",
+      "cooling",
+      "core",
+      "radiador",
+      "refrigeracion",
+      "enfriar"
+    ],
+    "aliases": [
+      "cooling-radiator",
+      "rad"
+    ],
+    "outline": "<rect x=\"3.5\" y=\"5.5\" width=\"17\" height=\"13\" rx=\"1.5\"/><path d=\"M3.5 8.5h17M3.5 15.5h17\"/><path d=\"M8 8.5v7M12 8.5v7M16 8.5v7\"/><rect x=\"9.5\" y=\"3\" width=\"5\" height=\"2.5\" rx=\"1\"/>",
+    "solid": "<path d=\"M4 5.5h16a2 2 0 0 1 2 2v9a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2v-9a2 2 0 0 1 2-2Zm3.2 3.5v6h1.4V9Zm4.1 0v6h1.4V9Zm4.1 0v6h1.4V9Z\" fill-rule=\"evenodd\"/><rect x=\"9.5\" y=\"3\" width=\"5\" height=\"2.7\" rx=\"1\"/>"
+  },
+  "exhaust-pipe": {
+    "category": "automotive",
+    "keywords": [
+      "exhaust",
+      "muffler",
+      "tailpipe",
+      "smoke",
+      "escape",
+      "tubo",
+      "silenciador",
+      "humo"
+    ],
+    "aliases": [
+      "muffler",
+      "tailpipe",
+      "exhaust"
+    ],
+    "outline": "<rect x=\"2.5\" y=\"12.5\" width=\"12\" height=\"5\" rx=\"2.5\"/><path d=\"M14.5 14h3.5a1.2 1.2 0 0 1 0 2.4h-3.5\"/><path d=\"M3 15h11\"/><path d=\"M18 11c.8-.8 0-1.6.8-2.6M20.5 11c.8-.8 0-1.6.8-2.6\"/>",
+    "solid": "<rect x=\"2.5\" y=\"12\" width=\"12.5\" height=\"6\" rx=\"3\"/><path d=\"M14 13.5h4a1.5 1.5 0 0 1 0 3h-4z\"/><circle cx=\"18.5\" cy=\"9.5\" r=\"1\"/><circle cx=\"21\" cy=\"8\" r=\"0.9\"/>"
+  },
+  "car-jack": {
+    "category": "automotive",
+    "keywords": [
+      "jack",
+      "lift",
+      "scissor",
+      "gato",
+      "elevar",
+      "tijera"
+    ],
+    "aliases": [
+      "scissor-jack"
+    ],
+    "outline": "<path d=\"M12 4.5 6 11 12 17.5 18 11Z\"/><path d=\"M3.5 11h17\"/><circle cx=\"20.5\" cy=\"11\" r=\"1\"/><path d=\"M10 3.5h4M9.5 18.5h5\"/>",
+    "solid": null
+  },
+  "mechanic-wrench": {
+    "category": "automotive",
+    "keywords": [
+      "mechanic",
+      "service",
+      "tools",
+      "repair",
+      "mecanico",
+      "herramientas",
+      "taller",
+      "reparar"
+    ],
+    "aliases": [
+      "service-tools",
+      "screwdriver-wrench"
+    ],
+    "outline": "<path d=\"M14.5 6.5a1.6 1.6 0 0 0 0 2.3l1.2 1.2a1.6 1.6 0 0 0 2.3 0l3-3a6 6 0 0 1-7.9 7.9l-6.4 6.4a2.1 2.1 0 0 1-3-3l6.4-6.4a6 6 0 0 1 7.9-7.9Z\"/><path d=\"M6.98 4.02 12.48 9.52 9.52 12.48 4.02 6.98A2.1 2.1 0 0 0 6.98 4.02Z\"/><path d=\"M11.1 9.9 17.6 16.4 16.4 17.6 9.9 11.1Z\"/><path d=\"M16.2 15.6 19 18.4 17.4 20 14.6 17.2Z\"/>",
+    "solid": "<path d=\"M14.5 6.5a1.6 1.6 0 0 0 0 2.3l1.2 1.2a1.6 1.6 0 0 0 2.3 0l3-3a6 6 0 0 1-7.9 7.9l-6.4 6.4a2.1 2.1 0 0 1-3-3l6.4-6.4a6 6 0 0 1 7.9-7.9Z\"/><path d=\"M6.98 4.02 12.48 9.52 9.52 12.48 4.02 6.98A2.1 2.1 0 0 0 6.98 4.02Z\"/><path d=\"M11.1 9.9 17.6 16.4 16.4 17.6 9.9 11.1Z\"/><path d=\"M16.2 15.6 19 18.4 17.4 20 14.6 17.2Z\"/>"
+  },
+  "car-repair": {
+    "category": "automotive",
+    "keywords": [
+      "repair",
+      "service",
+      "garage",
+      "fix",
+      "reparacion",
+      "taller",
+      "arreglar",
+      "mecanica"
+    ],
+    "aliases": [
+      "car-service",
+      "auto-repair"
+    ],
+    "outline": "<path d=\"M2.5 13 3.8 9.8A1.8 1.8 0 0 1 5.5 8.6h4.2a1.8 1.8 0 0 1 1.7 1.2l1 3\"/><path d=\"M2 16.8v-2.3a1.3 1.3 0 0 1 1.3-1.3H11a1 1 0 0 1 1 1v2.6\"/><path d=\"M2 16.8h9\"/><circle cx=\"5\" cy=\"16.8\" r=\"1.5\"/><circle cx=\"9.5\" cy=\"16.8\" r=\"1.5\"/><path d=\"M20.8 12.4a3 3 0 0 1-3.9 3.9l-2.6 2.6a1.4 1.4 0 0 1-2-2l2.6-2.6a3 3 0 0 1 3.9-3.9l-1.6 1.6.5 1.5 1.5.5Z\"/>",
+    "solid": null
+  },
+  "car-wash-auto": {
+    "category": "automotive",
+    "keywords": [
+      "wash",
+      "clean",
+      "carwash",
+      "spray",
+      "lavado",
+      "lavar",
+      "limpiar",
+      "chorro"
+    ],
+    "aliases": [
+      "car-wash",
+      "auto-wash"
+    ],
+    "outline": "<path d=\"M4 5h16\"/><path d=\"M7.5 6v2M11 6v2.5M14.5 6v2M18 6v2.5\"/><path d=\"M4 17.8v-1a1 1 0 0 1 .8-1l1.5-.35 1.5-1.8a2 2 0 0 1 1.5-.7h3.8a2 2 0 0 1 1.45.63l1.45 1.57 1.5.4a1 1 0 0 1 .8 1v1.25\"/><circle cx=\"7.5\" cy=\"17.9\" r=\"1.4\"/><circle cx=\"15\" cy=\"17.9\" r=\"1.4\"/>",
+    "solid": null
+  },
+  "tire-pressure": {
+    "category": "automotive",
+    "keywords": [
+      "pressure",
+      "tpms",
+      "psi",
+      "inflate",
+      "presion",
+      "neumatico",
+      "inflar"
+    ],
+    "aliases": [
+      "tpms",
+      "tire-pressure-warning"
+    ],
+    "outline": "<path d=\"M4.5 11a7.5 7.5 0 0 1 15 0v3a2.5 2.5 0 0 1-2.5 2.5h-10A2.5 2.5 0 0 1 4.5 14Z\"/><path d=\"M12 8v4.5M12 15h.01\"/><path d=\"M9.5 16.5l-.6 2M14.5 16.5l.6 2M6.5 15.5l-1 1.8M17.5 15.5l1 1.8\"/>",
+    "solid": null
+  },
+  "odometer": {
+    "category": "automotive",
+    "keywords": [
+      "odometer",
+      "mileage",
+      "distance",
+      "counter",
+      "cuentakilometros",
+      "kilometraje",
+      "distancia"
+    ],
+    "aliases": [
+      "mileage",
+      "milometer"
+    ],
+    "outline": "<rect x=\"2.5\" y=\"8.5\" width=\"19\" height=\"7\" rx=\"1.5\"/><path d=\"M6.3 8.5v7M10.1 8.5v7M13.9 8.5v7M17.7 8.5v7\"/>",
+    "solid": "<path d=\"M4 8.5h16a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2Zm2.3 1.5h.7v4h-.7Zm3.8 0h.7v4h-.7Zm3.8 0h.7v4h-.7Zm3.8 0h.7v4h-.7Z\" fill-rule=\"evenodd\"/>"
+  },
+  "cruise-control": {
+    "category": "automotive",
+    "keywords": [
+      "cruise",
+      "control",
+      "speed",
+      "adaptive",
+      "crucero",
+      "velocidad",
+      "regulador",
+      "arrow",
+      "flecha",
+      "constant",
+      "constante"
+    ],
+    "aliases": [
+      "cruise",
+      "acc"
+    ],
+    "outline": "<path d=\"M5.5 4.4h11\"/><polyline points=\"14.8 2.2 17 4.4 14.8 6.6\"/><circle cx=\"12\" cy=\"15\" r=\"6\"/><path d=\"M12 10.5v1.2M7.5 15h1.2M15.3 15h1.2\"/><path d=\"M12 15l2.35-2.35\"/><circle cx=\"12\" cy=\"15\" r=\"1.1\"/>",
+    "solid": null
+  },
+  "parking-sensor": {
+    "category": "automotive",
+    "keywords": [
+      "parking",
+      "sensor",
+      "proximity",
+      "radar",
+      "aparcamiento",
+      "proximidad",
+      "estacionar"
+    ],
+    "aliases": [
+      "park-assist",
+      "proximity-sensor"
+    ],
+    "outline": "<path d=\"M3 9h6a2 2 0 0 1 2 2v4a2 2 0 0 1-2 2H3\"/><path d=\"M3 20h8\"/><path d=\"M13.5 9a5.5 5.5 0 0 1 0 6M16.5 7a9 9 0 0 1 0 10\"/><path d=\"M20.5 5v14\"/>",
+    "solid": null
+  },
+  "car-alarm": {
+    "category": "automotive",
+    "keywords": [
+      "alarm",
+      "security",
+      "siren",
+      "alarma",
+      "seguridad",
+      "sirena",
+      "warning",
+      "exclamacion",
+      "ondas"
+    ],
+    "aliases": [
+      "car-security",
+      "auto-alarm"
+    ],
+    "outline": "<path d=\"M12 2.8v3.4M12 8.8h.01\"/><path d=\"M7.4 16.5 8.3 13.9A2 2 0 0 1 10.1 12.5h3.8a2 2 0 0 1 1.9 1.3l1 2.7\"/><path d=\"M6.9 16.5h10.2v2a.5.5 0 0 1-.5.5h-1.1\"/><path d=\"M9 19H7.4a.5.5 0 0 1-.5-.5v-2\"/><circle cx=\"9.7\" cy=\"19\" r=\"1.2\"/><circle cx=\"14.3\" cy=\"19\" r=\"1.2\"/><path d=\"M4.3 9.4a8.5 8.5 0 0 0 0 8.8M19.7 9.4a8.5 8.5 0 0 1 0 8.8\"/>",
+    "solid": null
+  },
+  "turbo": {
+    "category": "automotive",
+    "keywords": [
+      "turbo",
+      "turbocharger",
+      "boost",
+      "turbina",
+      "turbocompresor",
+      "sobrealimentacion",
+      "spiral",
+      "espiral",
+      "voluta",
+      "snail",
+      "caracol"
+    ],
+    "aliases": [
+      "turbocharger",
+      "boost"
+    ],
+    "outline": "<circle cx=\"10.8\" cy=\"13\" r=\"6.6\"/><path d=\"M10.8 6.4H21V9.8H16.6\"/><path d=\"M10.8 9.6a3.4 3.4 0 1 0 3.4 3.4\"/><path d=\"M10.8 13h.01\"/>",
+    "solid": null
+  },
+  "transmission": {
+    "category": "automotive",
+    "keywords": [
+      "transmission",
+      "gearbox",
+      "gears",
+      "shift",
+      "transmision",
+      "caja",
+      "marchas",
+      "cambios"
+    ],
+    "aliases": [
+      "gearbox",
+      "shift-pattern"
+    ],
+    "outline": "<path d=\"M6 6v12M12 6v12M18 6v12M6 12h12\"/><circle cx=\"6\" cy=\"6\" r=\"1\"/><circle cx=\"12\" cy=\"6\" r=\"1\"/><circle cx=\"18\" cy=\"6\" r=\"1\"/><circle cx=\"6\" cy=\"18\" r=\"1\"/><circle cx=\"12\" cy=\"18\" r=\"1\"/><circle cx=\"18\" cy=\"18\" r=\"1\"/>",
+    "solid": null
+  },
+  "suspension": {
+    "category": "automotive",
+    "keywords": [
+      "suspension",
+      "spring",
+      "shock",
+      "coil",
+      "muelle",
+      "amortiguador",
+      "resorte"
+    ],
+    "aliases": [
+      "shock-absorber",
+      "coil-spring"
+    ],
+    "outline": "<path d=\"M7.5 4h9\"/><path d=\"M12 4v1.8\"/><path d=\"M8 6.5 16 8.5 8 10.5 16 12.5 8 14.5 16 16.5\"/><path d=\"M12 16.5V18.2\"/><path d=\"M7.5 18h9\"/>",
+    "solid": null
+  },
+  "brake-disc": {
+    "category": "automotive",
+    "keywords": [
+      "brake",
+      "disc",
+      "rotor",
+      "caliper",
+      "freno",
+      "disco",
+      "pinza"
+    ],
+    "aliases": [
+      "brake-rotor",
+      "disc-brake"
+    ],
+    "outline": "<circle cx=\"11\" cy=\"12\" r=\"8\"/><circle cx=\"11\" cy=\"12\" r=\"2.5\"/><circle cx=\"11\" cy=\"6.5\" r=\"0.7\"/><circle cx=\"15.5\" cy=\"9\" r=\"0.7\"/><circle cx=\"15.5\" cy=\"15\" r=\"0.7\"/><circle cx=\"11\" cy=\"17.5\" r=\"0.7\"/><circle cx=\"6.5\" cy=\"15\" r=\"0.7\"/><circle cx=\"6.5\" cy=\"9\" r=\"0.7\"/><path d=\"M16 8.5a2.7 2.7 0 0 1 4 2.3v2.4a2.7 2.7 0 0 1-4 2.3\"/>",
+    "solid": "<path d=\"M11 3.5a8.5 8.5 0 1 0 0 17 8.5 8.5 0 0 0 0-17Zm0 6a2.5 2.5 0 1 1 0 5 2.5 2.5 0 0 1 0-5Z\" fill-rule=\"evenodd\"/><path d=\"M16.5 8.2a3 3 0 0 1 3.5 3v1.6a3 3 0 0 1-3.5 3Z\"/>"
+  },
+  "car-hood": {
+    "category": "automotive",
+    "keywords": [
+      "hood",
+      "bonnet",
+      "open",
+      "engine",
+      "capo",
+      "abierto",
+      "cofre",
+      "rod",
+      "varilla",
+      "prop"
+    ],
+    "aliases": [
+      "bonnet",
+      "hood-open"
+    ],
+    "outline": "<path d=\"M5.2 14.3 15.8 5.6l1.8 1.2\"/><path d=\"M12.6 14.3V8.5\"/><path d=\"M2.6 14.3H15.4a5 5 0 0 1 5 5v.4H11.2a3 3 0 0 0-6 0H2.6Z\"/><circle cx=\"8.2\" cy=\"19.7\" r=\"1\"/><path d=\"M17.7 16.8h.01\"/>",
+    "solid": null
+  },
+  "license-plate": {
+    "category": "automotive",
+    "keywords": [
+      "plate",
+      "license",
+      "number",
+      "registration",
+      "matricula",
+      "placa",
+      "patente"
+    ],
+    "aliases": [
+      "number-plate",
+      "registration-plate"
+    ],
+    "outline": "<rect x=\"2.5\" y=\"6.5\" width=\"19\" height=\"11\" rx=\"2\"/><circle cx=\"5.5\" cy=\"8.7\" r=\"0.6\"/><circle cx=\"18.5\" cy=\"8.7\" r=\"0.6\"/><path d=\"M6 13h1.5M9.2 13h1.5M12.4 13h1.5M15.6 13h2.4\"/>",
+    "solid": "<path d=\"M4 6.5h16a2 2 0 0 1 2 2v7a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2v-7a2 2 0 0 1 2-2Zm2.5 5.5a1 1 0 0 0 0 2h1a1 1 0 0 0 0-2Zm4 0a1 1 0 0 0 0 2h1a1 1 0 0 0 0-2Zm4 0a1 1 0 0 0 0 2h1a1 1 0 0 0 0-2Zm4 0a1 1 0 0 0 0 2h.5a1 1 0 0 0 0-2Z\" fill-rule=\"evenodd\"/>"
+  },
+  "car-lift": {
+    "category": "automotive",
+    "keywords": [
+      "lift",
+      "hoist",
+      "ramp",
+      "garage",
+      "elevador",
+      "puente",
+      "taller"
+    ],
+    "aliases": [
+      "car-hoist",
+      "vehicle-lift"
+    ],
+    "outline": "<path d=\"M6 8 7.2 5.6A2 2 0 0 1 9 4.5h6a2 2 0 0 1 1.8 1.1L18 8\"/><path d=\"M5 8h14a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-.5.5H5a.5.5 0 0 1-.5-.5V8.5A.5.5 0 0 1 5 8Z\"/><circle cx=\"8.5\" cy=\"11.5\" r=\"1.1\"/><circle cx=\"15.5\" cy=\"11.5\" r=\"1.1\"/><path d=\"M4 21V5.5M20 21V5.5\"/><path d=\"M4 13h4M20 13h-4\"/>",
+    "solid": null
+  },
+  "diagnostic-obd": {
+    "category": "automotive",
+    "keywords": [
+      "diagnostic",
+      "obd",
+      "scanner",
+      "scan",
+      "code",
+      "diagnostico",
+      "escaner",
+      "codigo"
+    ],
+    "aliases": [
+      "obd",
+      "obd2",
+      "scan-tool"
+    ],
+    "outline": "<rect x=\"6\" y=\"3\" width=\"12\" height=\"15\" rx=\"2\"/><rect x=\"8.5\" y=\"5.5\" width=\"7\" height=\"5\" rx=\"1\"/><path d=\"M9 8.5 10.5 7l1.5 2 1.5-2 1.5 1.5\"/><circle cx=\"9.5\" cy=\"14\" r=\"1\"/><circle cx=\"14.5\" cy=\"14\" r=\"1\"/><path d=\"M12 18v1.5a1.5 1.5 0 0 0 1.5 1.5H16\"/>",
+    "solid": "<path d=\"M8 2.5h8a2.5 2.5 0 0 1 2.5 2.5v10a2.5 2.5 0 0 1-2.5 2.5H8A2.5 2.5 0 0 1 5.5 15V5A2.5 2.5 0 0 1 8 2.5Zm.5 3a1 1 0 0 0-1 1v3a1 1 0 0 0 1 1h7a1 1 0 0 0 1-1V6.5a1 1 0 0 0-1-1Z\" fill-rule=\"evenodd\"/><circle cx=\"9.5\" cy=\"13.5\" r=\"1.1\"/><circle cx=\"14.5\" cy=\"13.5\" r=\"1.1\"/><path d=\"M11.5 17.8a.8.8 0 0 1 1.6 0v1.4a.8.8 0 0 0 .8.8h2a.8.8 0 0 1 0 1.6h-2a2.4 2.4 0 0 1-2.4-2.4Z\"/>"
+  },
+  "coolant": {
+    "category": "automotive",
+    "keywords": [
+      "coolant",
+      "temperature",
+      "antifreeze",
+      "engine",
+      "refrigerante",
+      "temperatura",
+      "anticongelante"
+    ],
+    "aliases": [
+      "engine-temp",
+      "antifreeze"
+    ],
+    "outline": "<path d=\"M12 3.5a1.8 1.8 0 0 1 1.8 1.8v6.5a3 3 0 1 1-3.6 0V5.3A1.8 1.8 0 0 1 12 3.5Z\"/><path d=\"M12 8v4.8\"/><path d=\"M3 19c1 0 1-1.1 2-1.1s1 1.1 2 1.1M8 19c1 0 1-1.1 2-1.1M13 19c1 0 1-1.1 2-1.1s1 1.1 2 1.1M18 19c1 0 1-1.1 2-1.1\"/>",
+    "solid": null
+  },
+  "wheel-alignment": {
+    "category": "automotive",
+    "keywords": [
+      "alignment",
+      "wheel",
+      "toe",
+      "camber",
+      "alineacion",
+      "ruedas",
+      "geometria",
+      "arrows",
+      "flechas",
+      "convergente"
+    ],
+    "aliases": [
+      "tracking",
+      "toe-alignment"
+    ],
+    "outline": "<rect x=\"3.6\" y=\"10\" width=\"4\" height=\"10\" rx=\"2\"/><rect x=\"16.4\" y=\"10\" width=\"4\" height=\"10\" rx=\"2\"/><path d=\"M3.8 5.5h4.6M20.2 5.5h-4.6\"/><polyline points=\"6.6 3.7 8.4 5.5 6.6 7.3\"/><polyline points=\"17.4 3.7 15.6 5.5 17.4 7.3\"/><path d=\"M12 3.6v4.2\"/><path d=\"M7.6 15h8.8\"/>",
+    "solid": null
+  }
+}

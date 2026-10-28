@@ -1,0 +1,200 @@
+{
+  "keyboard-full": {
+    "category": "devices",
+    "keywords": ["keyboard", "typing", "keys", "teclado", "teclas", "input"],
+    "aliases": ["keyboard"],
+    "outline": "<rect x=\"3\" y=\"7\" width=\"18\" height=\"10\" rx=\"1.5\"/><path d=\"M6.5 10.5h.01M9.5 10.5h.01M12 10.5h.01M14.5 10.5h.01M17.5 10.5h.01M6.5 13h.01M9.5 13h.01M12 13h.01M14.5 13h.01M17.5 13h.01\"/><path d=\"M8.5 15.5h7\"/>",
+    "solid": null
+  },
+  "mouse-device": {
+    "category": "devices",
+    "keywords": ["mouse", "pointer", "click", "raton", "cursor", "ordenador"],
+    "aliases": ["mouse", "pointer"],
+    "outline": "<rect x=\"6\" y=\"3\" width=\"12\" height=\"18\" rx=\"6\"/><path d=\"M12 6.5v3.5\"/>",
+    "solid": "<path fill-rule=\"evenodd\" d=\"M12 3a6 6 0 0 0-6 6v6a6 6 0 0 0 12 0V9a6 6 0 0 0-6-6Zm0 2.6a1 1 0 0 1 1 1v3a1 1 0 0 1-2 0v-3a1 1 0 0 1 1-1Z\"/>"
+  },
+  "printer-device": {
+    "category": "devices",
+    "keywords": ["printer", "print", "office", "impresora", "imprimir", "oficina"],
+    "aliases": ["printer", "print"],
+    "outline": "<path d=\"M7 8V4.5A1.5 1.5 0 0 1 8.5 3h7A1.5 1.5 0 0 1 17 4.5V8\"/><path d=\"M7 17H5a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2h-2\"/><rect x=\"7\" y=\"15\" width=\"10\" height=\"6\" rx=\"1\"/><path d=\"M17.5 12.5h.01\"/>",
+    "solid": null
+  },
+  "scanner": {
+    "category": "devices",
+    "keywords": ["scanner", "scan", "document", "escaner", "escanear", "flatbed"],
+    "aliases": ["scan"],
+    "outline": "<rect x=\"3\" y=\"9\" width=\"18\" height=\"10\" rx=\"2\"/><path d=\"M3 12.5h18\"/><path d=\"M7 9V5.5A1.5 1.5 0 0 1 8.5 4h7A1.5 1.5 0 0 1 17 5.5V9\"/><path d=\"M6.5 16h.01M9 16h.01M17.5 16h.01\"/>",
+    "solid": null
+  },
+  "webcam": {
+    "category": "devices",
+    "keywords": ["webcam", "camera", "video", "camara", "web", "streaming"],
+    "aliases": ["web-camera"],
+    "outline": "<circle cx=\"12\" cy=\"10\" r=\"7\"/><circle cx=\"12\" cy=\"10\" r=\"3\"/><path d=\"M15.7 6.3h.01\"/><path d=\"M12 17v3.5\"/><path d=\"M8 20.5h8\"/>",
+    "solid": "<path fill-rule=\"evenodd\" d=\"M5 10a7 7 0 1 1 14 0 7 7 0 0 1-14 0Zm7-3a3 3 0 1 0 0 6 3 3 0 0 0 0-6Z\"/><path d=\"M11 16h2v4h-2z\"/><rect x=\"8\" y=\"19.5\" width=\"8\" height=\"1.8\" rx=\"0.9\"/>"
+  },
+  "headset": {
+    "category": "devices",
+    "keywords": ["headset", "headphones", "gaming", "auriculares", "cascos", "microfono"],
+    "aliases": ["gaming-headset"],
+    "outline": "<path d=\"M4 14.5v-2.5a8 8 0 0 1 16 0v2.5\"/><rect x=\"3\" y=\"14\" width=\"4\" height=\"6\" rx=\"1.5\"/><rect x=\"17\" y=\"14\" width=\"4\" height=\"6\" rx=\"1.5\"/><path d=\"M19 20v1a1.5 1.5 0 0 1-1.5 1.5H12.5\"/>",
+    "solid": null
+  },
+  "speaker-box": {
+    "category": "devices",
+    "keywords": ["speaker", "audio", "sound", "altavoz", "sonido", "bocina"],
+    "aliases": ["speaker", "loudspeaker"],
+    "outline": "<rect x=\"5\" y=\"3\" width=\"14\" height=\"18\" rx=\"2\"/><circle cx=\"12\" cy=\"14\" r=\"4\"/><circle cx=\"12\" cy=\"14\" r=\"1.3\"/><circle cx=\"12\" cy=\"6.5\" r=\"1.5\"/>",
+    "solid": "<path fill-rule=\"evenodd\" d=\"M7 3h10a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2ZM12 10a4 4 0 1 0 0 8 4 4 0 0 0 0-8ZM12 12.2a1.8 1.8 0 1 1 0 3.6 1.8 1.8 0 0 1 0-3.6ZM12 5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3Z\"/>"
+  },
+  "hard-drive": {
+    "category": "devices",
+    "keywords": ["hard drive", "hdd", "storage", "disco duro", "almacenamiento", "disk"],
+    "aliases": ["hdd", "disk", "hard-disk"],
+    "outline": "<path d=\"M4 11 6.1 5.3A2 2 0 0 1 8 4h8a2 2 0 0 1 1.9 1.3L20 11v5.7A2.3 2.3 0 0 1 17.7 19H6.3A2.3 2.3 0 0 1 4 16.7Z\"/><path d=\"M4 11h16\"/><path d=\"M7 15.5h.01M10.5 15.5h.01\"/>",
+    "solid": "<path fill-rule=\"evenodd\" d=\"M4 11 6.1 5.3A2 2 0 0 1 8 4h8a2 2 0 0 1 1.9 1.3L20 11ZM4 12.5h16v4.2A2.3 2.3 0 0 1 17.7 19H6.3A2.3 2.3 0 0 1 4 16.7ZM7 14.8a1 1 0 1 0 0 2 1 1 0 0 0 0-2ZM10.5 14.8a1 1 0 1 0 0 2 1 1 0 0 0 0-2Z\"/>"
+  },
+  "ssd": {
+    "category": "devices",
+    "keywords": ["ssd", "solid state", "storage", "nvme", "disco", "m2"],
+    "aliases": ["solid-state-drive", "nvme"],
+    "outline": "<rect x=\"4\" y=\"9\" width=\"17\" height=\"6\" rx=\"1.5\"/><path d=\"M8 9v6\"/><path d=\"M5.6 11.3v1.4M6.9 11.3v1.4\"/><rect x=\"10.8\" y=\"10.6\" width=\"6.6\" height=\"2.8\" rx=\"0.6\"/><circle cx=\"19.2\" cy=\"12\" r=\"0.9\"/>",
+    "solid": null
+  },
+  "usb": {
+    "category": "devices",
+    "keywords": ["usb", "connector", "port", "conector", "puerto", "cable"],
+    "aliases": ["usb-connector"],
+    "outline": "<path d=\"M12 4v15\"/><path d=\"M9.7 6.3 12 4l2.3 2.3\"/><circle cx=\"12\" cy=\"19.5\" r=\"1.4\"/><path d=\"M12 12 15.7 8.3\"/><rect x=\"14.3\" y=\"6.1\" width=\"2.8\" height=\"2.8\" rx=\"0.5\"/><path d=\"M12 14 8.4 10.4\"/><circle cx=\"7.6\" cy=\"9.6\" r=\"1.4\"/>",
+    "solid": null
+  },
+  "sd-card": {
+    "category": "devices",
+    "keywords": ["sd", "memory card", "storage", "tarjeta", "memoria", "microsd"],
+    "aliases": ["memory-card", "sd"],
+    "outline": "<path d=\"M9 3H16A1.5 1.5 0 0 1 17.5 4.5V18.5A1.5 1.5 0 0 1 16 20H8A1.5 1.5 0 0 1 6.5 18.5V5.5Z\"/><path d=\"M9.5 6.5v2.5M12 6.5v2.5M14.5 6.5v2.5\"/>",
+    "solid": "<path fill-rule=\"evenodd\" d=\"M9 3H16A1.5 1.5 0 0 1 17.5 4.5V18.5A1.5 1.5 0 0 1 16 20H8A1.5 1.5 0 0 1 6.5 18.5V5.5ZM9.5 6a.8.8 0 0 0-.8.8v1.9a.8.8 0 0 0 1.6 0V6.8A.8.8 0 0 0 9.5 6ZM12 6a.8.8 0 0 0-.8.8v1.9a.8.8 0 0 0 1.6 0V6.8A.8.8 0 0 0 12 6ZM14.5 6a.8.8 0 0 0-.8.8v1.9a.8.8 0 0 0 1.6 0V6.8A.8.8 0 0 0 14.5 6Z\"/>"
+  },
+  "memory-ram": {
+    "category": "devices",
+    "keywords": ["ram", "memory", "module", "memoria", "dimm", "modulo"],
+    "aliases": ["ram", "dimm"],
+    "outline": "<rect x=\"3\" y=\"6.5\" width=\"18\" height=\"8\" rx=\"1\"/><rect x=\"5.5\" y=\"8.5\" width=\"3.5\" height=\"4\" rx=\"0.5\"/><rect x=\"10.25\" y=\"8.5\" width=\"3.5\" height=\"4\" rx=\"0.5\"/><rect x=\"15\" y=\"8.5\" width=\"3.5\" height=\"4\" rx=\"0.5\"/><path d=\"M6 14.5v3M9 14.5v3M12 14.5v3M15 14.5v3M18 14.5v3\"/>",
+    "solid": null
+  },
+  "gpu-card": {
+    "category": "devices",
+    "keywords": ["gpu", "graphics card", "video", "tarjeta grafica", "grafica", "fan"],
+    "aliases": ["gpu", "graphics-card", "video-card"],
+    "outline": "<rect x=\"3\" y=\"6.5\" width=\"18\" height=\"9\" rx=\"1.5\"/><circle cx=\"8\" cy=\"11\" r=\"2.8\"/><circle cx=\"15\" cy=\"11\" r=\"2.8\"/><path d=\"M8 11h.01M15 11h.01\"/><path d=\"M6 15.5v2.5M8.5 15.5v2.5M11 15.5v2.5\"/>",
+    "solid": null
+  },
+  "router-device": {
+    "category": "devices",
+    "keywords": ["router", "network", "wifi", "enrutador", "red", "internet"],
+    "aliases": ["router"],
+    "outline": "<rect x=\"3\" y=\"13\" width=\"18\" height=\"6\" rx=\"2\"/><path d=\"M8 13 6.5 7.5\"/><path d=\"M16 13l1.5-5.5\"/><path d=\"M6.5 7.5h.01M17.5 7.5h.01\"/><path d=\"M6.5 16h.01M9 16h.01M11.5 16h.01\"/>",
+    "solid": null
+  },
+  "modem": {
+    "category": "devices",
+    "keywords": ["modem", "internet", "broadband", "gateway", "banda ancha", "red"],
+    "aliases": ["gateway"],
+    "outline": "<rect x=\"4\" y=\"10\" width=\"16\" height=\"10\" rx=\"2\"/><path d=\"M7 13.5h.01M10 13.5h.01M13 13.5h.01\"/><path d=\"M8.5 17h7\"/><path d=\"M8.5 6.8a5 5 0 0 1 7 0\"/><path d=\"M10.5 4.8a2.2 2.2 0 0 1 3 0\"/>",
+    "solid": null
+  },
+  "ethernet-port": {
+    "category": "devices",
+    "keywords": ["ethernet", "rj45", "network", "red", "conector", "lan"],
+    "aliases": ["rj45", "lan-port", "network-port"],
+    "outline": "<rect x=\"5\" y=\"5.5\" width=\"14\" height=\"9\" rx=\"1.5\"/><path d=\"M8 5.5v3M10.5 5.5v3M13 5.5v3M15.5 5.5v3\"/><path d=\"M9 14.5v2.5a1 1 0 0 0 1 1h4a1 1 0 0 0 1-1v-2.5\"/>",
+    "solid": null
+  },
+  "projector": {
+    "category": "devices",
+    "keywords": ["projector", "beamer", "presentation", "proyector", "presentacion", "cine"],
+    "aliases": ["beamer"],
+    "outline": "<rect x=\"3\" y=\"7.5\" width=\"18\" height=\"9\" rx=\"2\"/><circle cx=\"9\" cy=\"12\" r=\"3\"/><path d=\"M15 10.5h.01\"/><path d=\"M17.5 10.5h.01\"/><path d=\"M15 13.5h3\"/><path d=\"M6 16.5v1.5M18 16.5v1.5\"/>",
+    "solid": null
+  },
+  "smartwatch": {
+    "category": "devices",
+    "keywords": ["smartwatch", "watch", "wearable", "reloj", "reloj inteligente", "pulsera"],
+    "aliases": ["watch", "wearable"],
+    "outline": "<rect x=\"6.5\" y=\"6.5\" width=\"11\" height=\"11\" rx=\"3\"/><path d=\"M9 6.5 9.3 3h5.4l.3 3.5\"/><path d=\"M9 17.5 9.3 21h5.4l.3-3.5\"/><path d=\"M17.5 10.5h2\"/>",
+    "solid": "<rect x=\"6.5\" y=\"6.5\" width=\"11\" height=\"11\" rx=\"3\"/><path d=\"M9.3 3h5.4l.3 3.5H9zM9 17.5h6l-.3 3.5H9.3z\"/><path d=\"M18 9.8h1.5a.7.7 0 0 1 0 1.4H18z\"/>"
+  },
+  "earbuds": {
+    "category": "devices",
+    "keywords": ["earbuds", "earphones", "airpods", "auriculares", "cascos", "inalambrico"],
+    "aliases": ["earphones", "airpods"],
+    "outline": "<circle cx=\"7\" cy=\"8\" r=\"3.2\"/><path d=\"M7 11.2v4.8a1.2 1.2 0 0 0 1.2 1.2\"/><circle cx=\"17\" cy=\"8\" r=\"3.2\"/><path d=\"M17 11.2v4.8a1.2 1.2 0 0 1-1.2 1.2\"/>",
+    "solid": null
+  },
+  "joystick-device": {
+    "category": "devices",
+    "keywords": ["joystick", "arcade", "game", "palanca", "juego", "control"],
+    "aliases": ["joystick", "arcade-stick"],
+    "outline": "<circle cx=\"12\" cy=\"5.5\" r=\"2.5\"/><path d=\"M12 8v7\"/><path d=\"M6.5 20c0-3 2.5-4.5 5.5-4.5s5.5 1.5 5.5 4.5Z\"/>",
+    "solid": "<circle cx=\"12\" cy=\"5.5\" r=\"2.5\"/><path d=\"M11 8h2v7h-2z\"/><path d=\"M6.5 20c0-3 2.5-4.5 5.5-4.5s5.5 1.5 5.5 4.5Z\"/>"
+  },
+  "remote-control": {
+    "category": "devices",
+    "keywords": ["remote", "tv", "control", "mando", "television", "remoto"],
+    "aliases": ["remote", "tv-remote"],
+    "outline": "<rect x=\"7\" y=\"3\" width=\"10\" height=\"18\" rx=\"3\"/><path d=\"M12 6.3h.01\"/><circle cx=\"12\" cy=\"10.5\" r=\"2\"/><path d=\"M12 10.5h.01\"/><path d=\"M10 14.5h.01M14 14.5h.01M10 17h.01M14 17h.01\"/>",
+    "solid": "<path fill-rule=\"evenodd\" d=\"M10 3h4a3 3 0 0 1 3 3v12a3 3 0 0 1-3 3h-4a3 3 0 0 1-3-3V6a3 3 0 0 1 3-3Zm2 2.3a1 1 0 1 0 0 2 1 1 0 0 0 0-2Zm0 3a2.2 2.2 0 1 0 0 4.4 2.2 2.2 0 0 0 0-4.4Zm-2 5.5a.9.9 0 1 0 0 1.8.9.9 0 0 0 0-1.8Zm4 0a.9.9 0 1 0 0 1.8.9.9 0 0 0 0-1.8Zm-4 2.6a.9.9 0 1 0 0 1.8.9.9 0 0 0 0-1.8Zm4 0a.9.9 0 1 0 0 1.8.9.9 0 0 0 0-1.8Z\"/>"
+  },
+  "satellite-dish": {
+    "category": "devices",
+    "keywords": ["satellite", "dish", "antenna", "antena", "parabolica", "satelite"],
+    "aliases": ["dish", "parabolic-antenna"],
+    "outline": "<path d=\"M4 12.5a8.5 8.5 0 0 0 7.5 7.5Z\"/><path d=\"m10.5 14 3-3.5\"/><circle cx=\"13.7\" cy=\"10.3\" r=\"1.2\"/><path d=\"M15 9.4A4.4 4.4 0 0 0 10.6 5\"/><path d=\"M17 8.2A7.3 7.3 0 0 0 9.7 0.9\"/><path d=\"M6.8 17.6 5 21\"/>",
+    "solid": null
+  },
+  "plug-eu": {
+    "category": "devices",
+    "keywords": ["plug", "power", "europe", "enchufe", "corriente", "clavija"],
+    "aliases": ["plug", "power-plug"],
+    "outline": "<path d=\"M10 4v3.5M14 4v3.5\"/><path d=\"M8 7.5h8a1 1 0 0 1 1 1v1.5a5 5 0 0 1-10 0V8.5a1 1 0 0 1 1-1Z\"/><path d=\"M12 15v3a2 2 0 0 0 2 2h2\"/>",
+    "solid": "<rect x=\"9.2\" y=\"3.8\" width=\"1.6\" height=\"4.2\" rx=\"0.8\"/><rect x=\"13.2\" y=\"3.8\" width=\"1.6\" height=\"4.2\" rx=\"0.8\"/><path d=\"M8 7.5h8a1 1 0 0 1 1 1v1.5a5 5 0 0 1-10 0V8.5a1 1 0 0 1 1-1Z\"/>"
+  },
+  "power-strip": {
+    "category": "devices",
+    "keywords": ["power strip", "extension", "outlet", "regleta", "enchufes", "ladron"],
+    "aliases": ["extension-cord", "surge-protector"],
+    "outline": "<rect x=\"3\" y=\"8.5\" width=\"18\" height=\"7\" rx=\"2\"/><circle cx=\"7.5\" cy=\"12\" r=\"1.8\"/><circle cx=\"12\" cy=\"12\" r=\"1.8\"/><circle cx=\"16.5\" cy=\"12\" r=\"1.8\"/><path d=\"M4 15.5v1a2 2 0 0 1-2 2\"/>",
+    "solid": null
+  },
+  "nfc": {
+    "category": "devices",
+    "keywords": ["nfc", "contactless", "tap", "near field", "pago", "inalambrico"],
+    "aliases": ["contactless", "near-field"],
+    "outline": "<rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"4\"/><path d=\"M9.5 9a4.5 4.5 0 0 1 0 6\"/><path d=\"M13 7a8.5 8.5 0 0 1 0 10\"/>",
+    "solid": null
+  },
+  "laptop-device": {
+    "category": "devices",
+    "keywords": ["laptop", "notebook", "computer", "portatil", "ordenador", "pc"],
+    "aliases": ["laptop", "notebook"],
+    "outline": "<rect x=\"4\" y=\"4.5\" width=\"16\" height=\"10.5\" rx=\"1.5\"/><path d=\"M2 19h20l-1.3-3.2a1 1 0 0 0-.93-.62H4.23a1 1 0 0 0-.93.62Z\"/>",
+    "solid": null
+  },
+  "tablet-device": {
+    "category": "devices",
+    "keywords": ["tablet", "ipad", "device", "tableta", "pantalla", "dispositivo"],
+    "aliases": ["tablet", "ipad"],
+    "outline": "<rect x=\"5\" y=\"3\" width=\"14\" height=\"18\" rx=\"2.5\"/><path d=\"M12 18h.01\"/>",
+    "solid": "<path fill-rule=\"evenodd\" d=\"M7.5 3h9A2.5 2.5 0 0 1 19 5.5v13a2.5 2.5 0 0 1-2.5 2.5h-9A2.5 2.5 0 0 1 5 18.5v-13A2.5 2.5 0 0 1 7.5 3Zm-.5 3.5v11h10v-11Z\"/>"
+  },
+  "drone": {
+    "category": "devices",
+    "keywords": ["drone", "quadcopter", "uav", "dron", "cuadricoptero", "volar"],
+    "aliases": ["quadcopter", "uav"],
+    "outline": "<rect x=\"9\" y=\"9\" width=\"6\" height=\"6\" rx=\"1.5\"/><path d=\"M9.5 9.5 6.5 6.5M14.5 9.5 17.5 6.5M9.5 14.5 6.5 17.5M14.5 14.5 17.5 17.5\"/><ellipse cx=\"5.6\" cy=\"5.6\" rx=\"2.6\" ry=\"1.3\"/><ellipse cx=\"18.4\" cy=\"5.6\" rx=\"2.6\" ry=\"1.3\"/><ellipse cx=\"5.6\" cy=\"18.4\" rx=\"2.6\" ry=\"1.3\"/><ellipse cx=\"18.4\" cy=\"18.4\" rx=\"2.6\" ry=\"1.3\"/>",
+    "solid": null
+  }
+}
+
+

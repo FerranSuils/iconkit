@@ -1,0 +1,163 @@
+{
+  "pause": {
+    "category": "media",
+    "keywords": ["pausa", "detener", "media", "hold", "wait"],
+    "aliases": ["hold"],
+    "outline": "<path d=\"M9 5v14M15 5v14\"/>",
+    "solid": "<rect x=\"6.5\" y=\"5\" width=\"4\" height=\"14\" rx=\"1.2\"/><rect x=\"13.5\" y=\"5\" width=\"4\" height=\"14\" rx=\"1.2\"/>"
+  },
+  "stop": {
+    "category": "media",
+    "keywords": ["parar", "detener", "media", "square", "halt"],
+    "aliases": ["halt"],
+    "outline": "<rect x=\"5\" y=\"5\" width=\"14\" height=\"14\" rx=\"2\"/>",
+    "solid": "<rect x=\"5\" y=\"5\" width=\"14\" height=\"14\" rx=\"2\"/>"
+  },
+  "skip-forward": {
+    "category": "media",
+    "keywords": ["next", "siguiente", "forward", "track", "adelante"],
+    "aliases": ["next", "skip-next"],
+    "outline": "<path d=\"M5 5 15 12 5 19Z\"/><path d=\"M18 5v14\"/>",
+    "solid": null
+  },
+  "skip-back": {
+    "category": "media",
+    "keywords": ["previous", "anterior", "back", "track", "atras"],
+    "aliases": ["previous", "skip-previous", "skip-prev"],
+    "outline": "<path d=\"M6 5v14\"/><path d=\"M19 5 9 12 19 19Z\"/>",
+    "solid": null
+  },
+  "fast-forward": {
+    "category": "media",
+    "keywords": ["forward", "avance", "rapido", "seek", "adelantar"],
+    "aliases": ["ff"],
+    "outline": "<path d=\"M3.5 6 11.5 12 3.5 18Z\"/><path d=\"M12.5 6 20.5 12 12.5 18Z\"/>",
+    "solid": null
+  },
+  "rewind": {
+    "category": "media",
+    "keywords": ["back", "rebobinar", "retroceder", "seek", "atras"],
+    "aliases": ["rew"],
+    "outline": "<path d=\"M11.5 6 3.5 12 11.5 18Z\"/><path d=\"M20.5 6 12.5 12 20.5 18Z\"/>",
+    "solid": null
+  },
+  "volume": {
+    "category": "media",
+    "keywords": ["sound", "sonido", "audio", "speaker", "altavoz"],
+    "aliases": ["speaker", "sound", "volume-medium"],
+    "outline": "<path d=\"M11 5 7 9H3v6h4l4 4V5Z\"/>",
+    "solid": null
+  },
+  "volume-low": {
+    "category": "media",
+    "keywords": ["sound", "sonido", "audio", "bajo", "quiet"],
+    "aliases": ["volume-1"],
+    "outline": "<path d=\"M11 5 7 9H3v6h4l4 4V5Z\"/><path d=\"M14.5 9.5a3.5 3.5 0 0 1 0 5\"/>",
+    "solid": null
+  },
+  "volume-high": {
+    "category": "media",
+    "keywords": ["sound", "sonido", "audio", "alto", "loud"],
+    "aliases": ["volume-2", "volume-max"],
+    "outline": "<path d=\"M11 5 7 9H3v6h4l4 4V5Z\"/><path d=\"M14.5 9.5a3.5 3.5 0 0 1 0 5\"/><path d=\"M17 7a7 7 0 0 1 0 10\"/>",
+    "solid": null
+  },
+  "volume-x": {
+    "category": "media",
+    "keywords": ["mute", "silencio", "muted", "off", "sin sonido"],
+    "aliases": ["mute", "volume-mute", "volume-off"],
+    "outline": "<path d=\"M11 5 7 9H3v6h4l4 4V5Z\"/><path d=\"M15.5 9.5 20.5 14.5M20.5 9.5 15.5 14.5\"/>",
+    "solid": null
+  },
+  "shuffle": {
+    "category": "media",
+    "keywords": ["random", "aleatorio", "mix", "mezclar", "media"],
+    "aliases": ["random"],
+    "outline": "<path d=\"M3 18h1.8c1.3 0 2.5-.6 3.3-1.7l6.1-8.6c.8-1.1 2-1.7 3.3-1.7H21\"/><path d=\"m18 3 3 3-3 3\"/><path d=\"M3 6h1.8c1.3 0 2.5.6 3.3 1.7l.5.7\"/><path d=\"M21 18h-1.8c-1.3 0-2.5-.6-3.3-1.7l-.5-.7\"/><path d=\"m18 15 3 3-3 3\"/>",
+    "solid": null
+  },
+  "repeat": {
+    "category": "media",
+    "keywords": ["loop", "bucle", "repetir", "cycle", "media"],
+    "aliases": ["loop"],
+    "outline": "<path d=\"M3 11v-1a4 4 0 0 1 4-4h14\"/><path d=\"m17 2 4 4-4 4\"/><path d=\"M21 13v1a4 4 0 0 1-4 4H3\"/><path d=\"m7 22-4-4 4-4\"/>",
+    "solid": null
+  },
+  "repeat-1": {
+    "category": "media",
+    "keywords": ["loop", "bucle", "repetir uno", "repeat one", "single"],
+    "aliases": ["repeat-one", "loop-1"],
+    "outline": "<path d=\"M3 11v-1a4 4 0 0 1 4-4h14\"/><path d=\"m17 2 4 4-4 4\"/><path d=\"M21 13v1a4 4 0 0 1-4 4H3\"/><path d=\"m7 22-4-4 4-4\"/><path d=\"M11 10h1v4\"/>",
+    "solid": null
+  },
+  "record": {
+    "category": "media",
+    "keywords": ["rec", "grabar", "circle", "media", "dot"],
+    "aliases": ["rec"],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"6.5\"/>",
+    "solid": "<circle cx=\"12\" cy=\"12\" r=\"6.5\"/>"
+  },
+  "camera": {
+    "category": "media",
+    "keywords": ["photo", "foto", "picture", "camara", "snapshot"],
+    "aliases": ["photo", "photo-camera"],
+    "outline": "<path d=\"M9.5 5H14.5L16.5 7.5H20a2 2 0 0 1 2 2V18a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V9.5a2 2 0 0 1 2-2H7.5L9.5 5Z\"/><circle cx=\"12\" cy=\"13.5\" r=\"3.5\"/>",
+    "solid": "<path fill-rule=\"evenodd\" d=\"M9.5 5H14.5L16.5 7.5H20a2 2 0 0 1 2 2V18a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V9.5a2 2 0 0 1 2-2H7.5L9.5 5ZM8.5 13.5a3.5 3.5 0 1 0 7 0 3.5 3.5 0 1 0-7 0Z\"/>"
+  },
+  "video": {
+    "category": "media",
+    "keywords": ["camera", "camara", "film", "grabar", "recorder"],
+    "aliases": ["video-camera", "camcorder"],
+    "outline": "<rect x=\"2\" y=\"6\" width=\"13\" height=\"12\" rx=\"2\"/><path d=\"M21 8 15.5 12 21 16Z\"/>",
+    "solid": null
+  },
+  "image": {
+    "category": "media",
+    "keywords": ["picture", "imagen", "photo", "foto", "gallery"],
+    "aliases": ["picture", "gallery"],
+    "outline": "<rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/><circle cx=\"8.5\" cy=\"8.5\" r=\"1.8\"/><path d=\"m21 15-3-3a2 2 0 0 0-2.83 0L6 21\"/>",
+    "solid": null
+  },
+  "music": {
+    "category": "media",
+    "keywords": ["note", "nota", "song", "cancion", "audio"],
+    "aliases": ["note", "song"],
+    "outline": "<path d=\"M10 18V6l10-2v11\"/><circle cx=\"7\" cy=\"18\" r=\"2.8\"/><circle cx=\"17\" cy=\"15\" r=\"2.8\"/>",
+    "solid": null
+  },
+  "headphones": {
+    "category": "media",
+    "keywords": ["audio", "auriculares", "cascos", "sound", "listen"],
+    "aliases": ["headset"],
+    "outline": "<path d=\"M5 16v-4a7 7 0 0 1 14 0v4\"/><rect x=\"3\" y=\"15\" width=\"4\" height=\"6\" rx=\"2\"/><rect x=\"17\" y=\"15\" width=\"4\" height=\"6\" rx=\"2\"/>",
+    "solid": null
+  },
+  "mic": {
+    "category": "media",
+    "keywords": ["microphone", "microfono", "audio", "record", "voice"],
+    "aliases": ["microphone"],
+    "outline": "<path d=\"M12 3.5a3 3 0 0 1 3 3v4a3 3 0 0 1-6 0v-4a3 3 0 0 1 3-3Z\"/><path d=\"M6 10.5v1.5a6 6 0 0 0 12 0v-1.5\"/><path d=\"M12 18v3\"/><path d=\"M9 21h6\"/>",
+    "solid": null
+  },
+  "mic-off": {
+    "category": "media",
+    "keywords": ["mute", "microfono", "silenciar", "muted", "voice"],
+    "aliases": ["microphone-off", "mic-mute"],
+    "outline": "<path d=\"M12 3.5a3 3 0 0 1 3 3v4a3 3 0 0 1-6 0v-4a3 3 0 0 1 3-3Z\"/><path d=\"M6 10.5v1.5a6 6 0 0 0 12 0v-1.5\"/><path d=\"M12 18v3\"/><path d=\"M9 21h6\"/><path d=\"M4 4 20 20\"/>",
+    "solid": null
+  },
+  "cast": {
+    "category": "media",
+    "keywords": ["screen", "pantalla", "stream", "emitir", "chromecast"],
+    "aliases": ["screencast", "stream"],
+    "outline": "<path d=\"M3 8V6.5A2.5 2.5 0 0 1 5.5 4h13A2.5 2.5 0 0 1 21 6.5v11A2.5 2.5 0 0 1 18.5 20H12\"/><path d=\"M3 12a8 8 0 0 1 8 8\"/><path d=\"M3 16a4 4 0 0 1 4 4\"/><path d=\"M3 20h.01\"/>",
+    "solid": null
+  },
+  "airplay": {
+    "category": "media",
+    "keywords": ["screen", "pantalla", "stream", "emitir", "mirror"],
+    "aliases": ["air-play"],
+    "outline": "<path d=\"M6 17H4.5A2.5 2.5 0 0 1 2 14.5v-9A2.5 2.5 0 0 1 4.5 3h15A2.5 2.5 0 0 1 22 5.5v9A2.5 2.5 0 0 1 19.5 17H18\"/><path d=\"M12 14.5 17.5 21H6.5Z\"/>",
+    "solid": null
+  }
+}

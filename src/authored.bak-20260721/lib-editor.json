@@ -1,0 +1,198 @@
+{
+  "bold": {
+    "category": "editor",
+    "keywords": ["bold", "strong", "weight", "negrita", "fuerte", "format"],
+    "aliases": ["strong"],
+    "outline": "<path d=\"M7 5h6a3.5 3.5 0 0 1 0 7H7Z\"/><path d=\"M7 12h7a3.5 3.5 0 0 1 0 7H7Z\"/>",
+    "solid": null
+  },
+  "italic": {
+    "category": "editor",
+    "keywords": ["italic", "emphasis", "slant", "cursiva", "italica", "oblique"],
+    "aliases": ["emphasis", "oblique"],
+    "outline": "<path d=\"M10 4h8\"/><path d=\"M6 20h8\"/><path d=\"M15 4 9 20\"/>",
+    "solid": null
+  },
+  "underline": {
+    "category": "editor",
+    "keywords": ["underline", "format", "text", "subrayado", "underscore", "type"],
+    "aliases": ["underscore"],
+    "outline": "<path d=\"M6 4v6a6 6 0 0 0 12 0V4\"/><path d=\"M5 20h14\"/>",
+    "solid": null
+  },
+  "strikethrough": {
+    "category": "editor",
+    "keywords": ["strikethrough", "strike", "cross-out", "tachado", "strikethru", "delete"],
+    "aliases": ["strike", "strikethru"],
+    "outline": "<path d=\"M17 6H10a3 3 0 0 0-2.4 4\"/><path d=\"M14 14a3 3 0 0 1-1 6H7\"/><path d=\"M4 12h16\"/>",
+    "solid": null
+  },
+  "align-left": {
+    "category": "editor",
+    "keywords": ["align", "left", "text", "alinear", "izquierda", "paragraph"],
+    "aliases": ["text-align-left"],
+    "outline": "<path d=\"M4 6h16M4 10h10M4 14h14M4 18h8\"/>",
+    "solid": null
+  },
+  "align-center": {
+    "category": "editor",
+    "keywords": ["align", "center", "text", "alinear", "centro", "centrar"],
+    "aliases": ["text-align-center", "align-middle"],
+    "outline": "<path d=\"M4 6h16M7 10h10M5 14h14M8 18h8\"/>",
+    "solid": null
+  },
+  "align-right": {
+    "category": "editor",
+    "keywords": ["align", "right", "text", "alinear", "derecha", "paragraph"],
+    "aliases": ["text-align-right"],
+    "outline": "<path d=\"M4 6h16M10 10h10M6 14h14M12 18h8\"/>",
+    "solid": null
+  },
+  "align-justify": {
+    "category": "editor",
+    "keywords": ["align", "justify", "text", "justificar", "justificado", "block"],
+    "aliases": ["text-align-justify", "justify"],
+    "outline": "<path d=\"M4 6h16M4 10h16M4 14h16M4 18h16\"/>",
+    "solid": null
+  },
+  "list-bullet": {
+    "category": "editor",
+    "keywords": ["list", "bullet", "unordered", "lista", "vinetas", "puntos"],
+    "aliases": ["bullet-list", "unordered-list", "ul"],
+    "outline": "<circle cx=\"4.5\" cy=\"7\" r=\"1.3\"/><circle cx=\"4.5\" cy=\"12\" r=\"1.3\"/><circle cx=\"4.5\" cy=\"17\" r=\"1.3\"/><path d=\"M9 7h11M9 12h11M9 17h11\"/>",
+    "solid": null
+  },
+  "list-number": {
+    "category": "editor",
+    "keywords": ["list", "number", "ordered", "lista", "numerada", "numeros"],
+    "aliases": ["numbered-list", "ordered-list", "ol"],
+    "outline": "<path d=\"M5 6 6 5v4\"/><path d=\"M4.7 11a1.3 1.3 0 1 1 2.3.8L4.7 15H7.2\"/><path d=\"M4.7 15.9a1.2 1.2 0 1 1 1.6 1.6 1.2 1.2 0 1 1-1.6 1.6\"/><path d=\"M10 7h10M10 12h10M10 17h10\"/>",
+    "solid": null
+  },
+  "indent-increase": {
+    "category": "editor",
+    "keywords": ["indent", "increase", "tab", "sangria", "aumentar", "paragraph"],
+    "aliases": ["indent", "tab-right"],
+    "outline": "<path d=\"M4 6h16M4 18h16M11 10h9M11 14h9\"/><path d=\"m4 9 3 3-3 3\"/>",
+    "solid": null
+  },
+  "indent-decrease": {
+    "category": "editor",
+    "keywords": ["indent", "decrease", "outdent", "sangria", "reducir", "dedent"],
+    "aliases": ["outdent", "dedent", "tab-left"],
+    "outline": "<path d=\"M4 6h16M4 18h16M11 10h9M11 14h9\"/><path d=\"m7 9-3 3 3 3\"/>",
+    "solid": null
+  },
+  "quote-block": {
+    "category": "editor",
+    "keywords": ["quote", "quotation", "citation", "cita", "comillas", "testimonial"],
+    "aliases": ["quotation-mark", "quotes"],
+    "outline": "<path d=\"M9 8H4a1 1 0 0 0-1 1v4a1 1 0 0 0 1 1h3v1a3 3 0 0 1-3 3\"/><path d=\"M19 8h-5a1 1 0 0 0-1 1v4a1 1 0 0 0 1 1h3v1a3 3 0 0 1-3 3\"/>",
+    "solid": null
+  },
+  "heading": {
+    "category": "editor",
+    "keywords": ["heading", "header", "title", "titulo", "encabezado", "h1"],
+    "aliases": ["header", "title", "h1"],
+    "outline": "<path d=\"M6 4v16M18 4v16M6 12h12\"/>",
+    "solid": null
+  },
+  "paragraph": {
+    "category": "editor",
+    "keywords": ["paragraph", "pilcrow", "text", "parrafo", "calderon", "format"],
+    "aliases": ["pilcrow"],
+    "outline": "<path d=\"M13 4v16M17 4v16M18 4H9.5a4.5 4.5 0 0 0 0 9H13\"/>",
+    "solid": null
+  },
+  "table-grid": {
+    "category": "editor",
+    "keywords": ["table", "grid", "spreadsheet", "tabla", "cuadricula", "rows"],
+    "aliases": ["table", "data-table"],
+    "outline": "<rect x=\"3\" y=\"4\" width=\"18\" height=\"16\" rx=\"2\"/><path d=\"M3 9h18M3 15h18M9 4v16M15 4v16\"/>",
+    "solid": null
+  },
+  "code-block": {
+    "category": "editor",
+    "keywords": ["code", "block", "snippet", "codigo", "bloque", "preformatted"],
+    "aliases": ["code-snippet", "preformatted", "pre"],
+    "outline": "<rect x=\"3\" y=\"4\" width=\"18\" height=\"16\" rx=\"2\"/><path d=\"m9 10-2 2 2 2M15 10 17 12l-2 2\"/>",
+    "solid": null
+  },
+  "superscript": {
+    "category": "editor",
+    "keywords": ["superscript", "exponent", "power", "superindice", "exponente", "math"],
+    "aliases": ["super", "exponent"],
+    "outline": "<path d=\"m5 8 8 9M13 8 5 17\"/><path d=\"M16.5 6.5a1.5 1.5 0 1 1 2.8.7L16.5 11h3\"/>",
+    "solid": null
+  },
+  "subscript": {
+    "category": "editor",
+    "keywords": ["subscript", "index", "chemical", "subindice", "indice", "math"],
+    "aliases": ["sub", "index"],
+    "outline": "<path d=\"m5 7 8 9M13 7 5 16\"/><path d=\"M16.5 15.5a1.5 1.5 0 1 1 2.8.7L16.5 20h3\"/>",
+    "solid": null
+  },
+  "font-size": {
+    "category": "editor",
+    "keywords": ["font", "size", "text", "fuente", "tamano", "typography"],
+    "aliases": ["text-size", "type-size"],
+    "outline": "<path d=\"M2 19 6.5 7 11 19M3.6 15h5.8\"/><path d=\"M13 19 16.5 10 20 19M14.3 15.5h4.4\"/>",
+    "solid": null
+  },
+  "text-color": {
+    "category": "editor",
+    "keywords": ["text", "color", "font", "texto", "colour", "fill"],
+    "aliases": ["font-color", "text-colour", "color-text"],
+    "outline": "<path d=\"M6.5 16 12 5l5.5 11M8.5 12h7\"/><path d=\"M5 20h14\"/>",
+    "solid": "<path d=\"M11.1 5.3a1 1 0 0 1 1.8 0l4.9 10.4a1 1 0 0 1-1.8.8L14.6 14H9.4l-1.4 2.5a1 1 0 0 1-1.8-.8ZM10.4 12h3.2L12 8.5Z\" fill-rule=\"evenodd\"/><rect x=\"5\" y=\"18.5\" width=\"14\" height=\"2.5\" rx=\"1.25\"/>"
+  },
+  "highlighter": {
+    "category": "editor",
+    "keywords": ["highlight", "marker", "pen", "resaltador", "marcador", "subrayar"],
+    "aliases": ["highlight", "marker", "text-highlight"],
+    "outline": "<rect x=\"8\" y=\"3\" width=\"8\" height=\"8\" rx=\"1.5\"/><path d=\"M8 11v3l1.5 3h5l1.5-3v-3\"/><path d=\"M6 21h12\"/>",
+    "solid": "<rect x=\"8\" y=\"3\" width=\"8\" height=\"8\" rx=\"1.5\"/><path d=\"M8 11h8v3l-1.5 3h-5L8 14Z\"/><rect x=\"6\" y=\"19.8\" width=\"12\" height=\"2.2\" rx=\"1.1\"/>"
+  },
+  "clear-format": {
+    "category": "editor",
+    "keywords": ["clear", "format", "remove", "borrar", "formato", "eliminar"],
+    "aliases": ["remove-format", "clear-formatting", "remove-formatting"],
+    "outline": "<path d=\"M4 7V4h16v3\"/><path d=\"M13 4 9 18\"/><path d=\"M6 18h6\"/><path d=\"m15 15 5 5M20 15l-5 5\"/>",
+    "solid": null
+  },
+  "spellcheck": {
+    "category": "editor",
+    "keywords": ["spell", "check", "spelling", "ortografia", "corrector", "grammar"],
+    "aliases": ["spelling", "spell-check"],
+    "outline": "<path d=\"M4 15 8.5 5 13 15M5.7 11h5.6\"/><path d=\"m14 16.5 2.5 2.5 4.5-5\"/>",
+    "solid": null
+  },
+  "insert-image": {
+    "category": "editor",
+    "keywords": ["image", "insert", "picture", "imagen", "insertar", "photo"],
+    "aliases": ["add-image", "image-plus", "picture-add"],
+    "outline": "<path d=\"M20 14V5a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h10\"/><circle cx=\"7.5\" cy=\"8\" r=\"1.6\"/><path d=\"m3 16.5 3-3a2 2 0 0 1 2.6 0L13.5 16\"/><path d=\"M18 15v6M15 18h6\"/>",
+    "solid": null
+  },
+  "insert-link": {
+    "category": "editor",
+    "keywords": ["link", "insert", "url", "enlace", "insertar", "hyperlink"],
+    "aliases": ["add-link", "link-plus", "hyperlink"],
+    "outline": "<path d=\"M10 8H7.5a4 4 0 0 0 0 8H10\"/><path d=\"M14 16h2.5a4 4 0 0 0 0-8H14\"/><path d=\"M8.5 12h7\"/>",
+    "solid": null
+  },
+  "blockquote": {
+    "category": "editor",
+    "keywords": ["blockquote", "quote", "indent", "cita", "bloque", "markdown"],
+    "aliases": ["block-quote", "quote-line"],
+    "outline": "<path d=\"M5 6v12\"/><path d=\"M9 7h11M9 12h11M9 17h7\"/>",
+    "solid": null
+  },
+  "line-height": {
+    "category": "editor",
+    "keywords": ["line", "height", "spacing", "interlineado", "espaciado", "leading"],
+    "aliases": ["line-spacing", "leading", "spacing"],
+    "outline": "<path d=\"M5 6v12\"/><path d=\"m7.5 8.5-2.5-2.5-2.5 2.5M2.5 15.5 5 18l2.5-2.5\"/><path d=\"M10 6h11M10 12h11M10 18h11\"/>",
+    "solid": null
+  }
+}

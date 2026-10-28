@@ -1,0 +1,610 @@
+{
+  "arrow-uturn-left": {
+    "category": "arrows",
+    "keywords": [
+      "flecha",
+      "uturn",
+      "giro-u",
+      "vuelta",
+      "left",
+      "izquierda"
+    ],
+    "aliases": [
+      "u-turn-left"
+    ],
+    "outline": "<path d=\"M18 19V10a5 5 0 0 0-10 0v9\"/><path d=\"m4 15 4 4 4-4\"/>",
+    "solid": null
+  },
+  "arrow-uturn-right": {
+    "category": "arrows",
+    "keywords": [
+      "flecha",
+      "uturn",
+      "giro-u",
+      "vuelta",
+      "right",
+      "derecha"
+    ],
+    "aliases": [
+      "u-turn-right"
+    ],
+    "outline": "<path d=\"M6 19V10a5 5 0 0 1 10 0v9\"/><path d=\"m12 15 4 4 4-4\"/>",
+    "solid": null
+  },
+  "arrow-merge": {
+    "category": "arrows",
+    "keywords": [
+      "flecha",
+      "merge",
+      "fusionar",
+      "unir",
+      "combinar",
+      "confluir"
+    ],
+    "aliases": [
+      "merge"
+    ],
+    "outline": "<path d=\"m8 8 4-4 4 4\"/><path d=\"M12 4v6\"/><path d=\"M6 20c4-2 6-5 6-10\"/><path d=\"M18 20c-4-2-6-5-6-10\"/>",
+    "solid": null
+  },
+  "arrow-split": {
+    "category": "arrows",
+    "keywords": [
+      "flecha",
+      "split",
+      "dividir",
+      "bifurcar",
+      "separar",
+      "branch"
+    ],
+    "aliases": [
+      "split"
+    ],
+    "outline": "<path d=\"M12 4v6\"/><path d=\"M12 10c0 5-2 8-6 10\"/><path d=\"M12 10c0 5 2 8 6 10\"/><path d=\"M6 16v4h4\"/><path d=\"M18 16v4h-4\"/>",
+    "solid": null
+  },
+  "arrow-swap": {
+    "category": "arrows",
+    "keywords": [
+      "flecha",
+      "swap",
+      "intercambiar",
+      "permutar",
+      "cambiar",
+      "exchange"
+    ],
+    "aliases": [
+      "swap"
+    ],
+    "outline": "<path d=\"m6 14 8-8\"/><path d=\"M14 11V6h-5\"/><path d=\"m18 10-8 8\"/><path d=\"M10 13v5h5\"/>",
+    "solid": null
+  },
+  "arrows-shuffle": {
+    "category": "arrows",
+    "keywords": [
+      "flechas",
+      "shuffle",
+      "aleatorio",
+      "barajar",
+      "mezclar",
+      "random"
+    ],
+    "aliases": [
+      "shuffle-arrows"
+    ],
+    "outline": "<path d=\"M3 18C9 18 12 6 18 6\"/><path d=\"m15 3 3 3-3 3\"/><path d=\"M3 6C9 6 12 18 18 18\"/><path d=\"m15 15 3 3-3 3\"/>",
+    "solid": null
+  },
+  "arrow-loop": {
+    "category": "arrows",
+    "keywords": [
+      "flecha",
+      "loop",
+      "bucle",
+      "lazo",
+      "ciclo",
+      "repetir"
+    ],
+    "aliases": [
+      "loop-arrow"
+    ],
+    "outline": "<path d=\"M12 6a6 6 0 1 1-3.8 1.4\"/><path d=\"M8 4 12 6 9 9\"/>",
+    "solid": null
+  },
+  "arrow-bounce": {
+    "category": "arrows",
+    "keywords": [
+      "flecha",
+      "bounce",
+      "rebotar",
+      "rebote",
+      "ricochet",
+      "salto"
+    ],
+    "aliases": [
+      "bounce"
+    ],
+    "outline": "<path d=\"M4 6 12 18l8-10\"/><path d=\"M20 13V8h-5\"/><path d=\"M6 18h12\"/>",
+    "solid": null
+  },
+  "arrow-trend-up": {
+    "category": "arrows",
+    "keywords": [
+      "flecha",
+      "tendencia",
+      "subir",
+      "crecer",
+      "up",
+      "trend"
+    ],
+    "aliases": [
+      "uptrend"
+    ],
+    "outline": "<path d=\"M4 17C9 16 13 13 18 6\"/><path d=\"M18 11V6h-5\"/>",
+    "solid": null
+  },
+  "arrow-trend-down": {
+    "category": "arrows",
+    "keywords": [
+      "flecha",
+      "tendencia",
+      "bajar",
+      "caer",
+      "down",
+      "trend"
+    ],
+    "aliases": [
+      "downtrend"
+    ],
+    "outline": "<path d=\"M4 7C9 8 13 11 18 18\"/><path d=\"M18 13v5h-5\"/>",
+    "solid": null
+  },
+  "arrow-diagonal-out": {
+    "category": "arrows",
+    "keywords": [
+      "flecha",
+      "diagonal",
+      "salir",
+      "fuera",
+      "expandir",
+      "out"
+    ],
+    "aliases": [
+      "diagonal-out"
+    ],
+    "outline": "<path d=\"M6 18 18 6\"/><path d=\"M18 12V6h-6\"/>",
+    "solid": null
+  },
+  "arrow-diagonal-in": {
+    "category": "arrows",
+    "keywords": [
+      "flecha",
+      "diagonal",
+      "entrar",
+      "dentro",
+      "contraer",
+      "in"
+    ],
+    "aliases": [
+      "diagonal-in"
+    ],
+    "outline": "<path d=\"M18 6 6 18\"/><path d=\"M6 12v6h6\"/>",
+    "solid": null
+  },
+  "arrow-corner-down": {
+    "category": "arrows",
+    "keywords": [
+      "flecha",
+      "esquina",
+      "giro",
+      "turn",
+      "abajo",
+      "corner"
+    ],
+    "aliases": [
+      "corner-down"
+    ],
+    "outline": "<path d=\"M4 7h8a2 2 0 0 1 2 2v7\"/><path d=\"m10 12 4 4 4-4\"/>",
+    "solid": null
+  },
+  "arrow-corner-up": {
+    "category": "arrows",
+    "keywords": [
+      "flecha",
+      "esquina",
+      "giro",
+      "turn",
+      "arriba",
+      "corner"
+    ],
+    "aliases": [
+      "corner-up"
+    ],
+    "outline": "<path d=\"M4 17h8a2 2 0 0 0 2-2V8\"/><path d=\"m10 12 4-4 4 4\"/>",
+    "solid": null
+  },
+  "arrow-return": {
+    "category": "arrows",
+    "keywords": [
+      "flecha",
+      "return",
+      "enter",
+      "retorno",
+      "intro",
+      "volver"
+    ],
+    "aliases": [
+      "enter-key"
+    ],
+    "outline": "<path d=\"M19 6v6a2 2 0 0 1-2 2H6\"/><path d=\"m10 10-4 4 4 4\"/>",
+    "solid": null
+  },
+  "arrow-redo": {
+    "category": "arrows",
+    "keywords": [
+      "flecha",
+      "redo",
+      "rehacer",
+      "repetir",
+      "forward",
+      "again"
+    ],
+    "aliases": [
+      "redo-arrow"
+    ],
+    "outline": "<path d=\"M20 8h-9a6 6 0 0 0-6 6v2\"/><path d=\"m16 4 4 4-4 4\"/>",
+    "solid": null
+  },
+  "arrow-undo": {
+    "category": "arrows",
+    "keywords": [
+      "flecha",
+      "undo",
+      "deshacer",
+      "revertir",
+      "back",
+      "atras"
+    ],
+    "aliases": [
+      "undo-arrow"
+    ],
+    "outline": "<path d=\"M4 8h9a6 6 0 0 1 6 6v2\"/><path d=\"m8 4-4 4 4 4\"/>",
+    "solid": null
+  },
+  "arrows-collapse": {
+    "category": "arrows",
+    "keywords": [
+      "flechas",
+      "collapse",
+      "contraer",
+      "colapsar",
+      "juntar",
+      "reducir"
+    ],
+    "aliases": [
+      "collapse-diagonal"
+    ],
+    "outline": "<path d=\"M4 4 10 10\"/><path d=\"M10 5v5H5\"/><path d=\"M20 20 14 14\"/><path d=\"M14 19v-5h5\"/>",
+    "solid": null
+  },
+  "arrows-expand-diagonal": {
+    "category": "arrows",
+    "keywords": [
+      "flechas",
+      "expand",
+      "expandir",
+      "ampliar",
+      "diagonal",
+      "agrandar"
+    ],
+    "aliases": [
+      "expand-diagonal"
+    ],
+    "outline": "<path d=\"M6 18 18 6\"/><path d=\"M18 12V6h-6\"/><path d=\"M6 12v6h6\"/>",
+    "solid": null
+  },
+  "arrow-curve-left": {
+    "category": "arrows",
+    "keywords": [
+      "flecha",
+      "curva",
+      "curvar",
+      "girar",
+      "left",
+      "izquierda"
+    ],
+    "aliases": [
+      "curve-left"
+    ],
+    "outline": "<path d=\"M17 20C17 12 13 8 7 8\"/><path d=\"M11 4 7 8l4 4\"/>",
+    "solid": null
+  },
+  "arrow-curve-right": {
+    "category": "arrows",
+    "keywords": [
+      "flecha",
+      "curva",
+      "curvar",
+      "girar",
+      "right",
+      "derecha"
+    ],
+    "aliases": [
+      "curve-right"
+    ],
+    "outline": "<path d=\"M7 20C7 12 11 8 17 8\"/><path d=\"M13 4 17 8l-4 4\"/>",
+    "solid": null
+  },
+  "arrow-zigzag": {
+    "category": "arrows",
+    "keywords": [
+      "flecha",
+      "zigzag",
+      "zigzagueante",
+      "diagonal",
+      "rayo",
+      "dientes"
+    ],
+    "aliases": [
+      "zigzag-arrow"
+    ],
+    "outline": "<path d=\"M7 4 15 8 8 13 16 17\"/><path d=\"M16 13v4h-4\"/>",
+    "solid": null
+  },
+  "arrow-wave": {
+    "category": "arrows",
+    "keywords": [
+      "flecha",
+      "wave",
+      "onda",
+      "ondular",
+      "sinusoide",
+      "curva"
+    ],
+    "aliases": [
+      "wave-arrow"
+    ],
+    "outline": "<path d=\"M3 12q3-6 6 0t6 0\"/><path d=\"m15 9 3 3-3 3\"/>",
+    "solid": null
+  },
+  "arrow-cross": {
+    "category": "arrows",
+    "keywords": [
+      "flechas",
+      "cross",
+      "cruz",
+      "diagonal",
+      "cuatro",
+      "expandir"
+    ],
+    "aliases": [
+      "cross-arrows"
+    ],
+    "outline": "<path d=\"M5 5 19 19\"/><path d=\"M5 9V5h4\"/><path d=\"M19 15v4h-4\"/><path d=\"M19 5 5 19\"/><path d=\"M19 9V5h-4\"/><path d=\"M5 15v4h4\"/>",
+    "solid": null
+  },
+  "arrow-rotate-cw": {
+    "category": "arrows",
+    "keywords": [
+      "flecha",
+      "rotar",
+      "girar",
+      "horario",
+      "reload",
+      "rotate"
+    ],
+    "aliases": [
+      "spin-cw"
+    ],
+    "outline": "<path d=\"M12 4a8 8 0 1 1-8 8\"/><path d=\"m8 8 4-4 4 4\"/>",
+    "solid": null
+  },
+  "arrow-rotate-ccw": {
+    "category": "arrows",
+    "keywords": [
+      "flecha",
+      "rotar",
+      "girar",
+      "antihorario",
+      "reload",
+      "rotate"
+    ],
+    "aliases": [
+      "rotate-ccw"
+    ],
+    "outline": "<path d=\"M12 4a8 8 0 1 0 8 8\"/><path d=\"m8 8 4-4 4 4\"/>",
+    "solid": null
+  },
+  "arrow-into-box": {
+    "category": "arrows",
+    "keywords": [
+      "flecha",
+      "caja",
+      "entrar",
+      "importar",
+      "meter",
+      "box"
+    ],
+    "aliases": [
+      "import-box"
+    ],
+    "outline": "<path d=\"M6 12v6a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2v-6\"/><path d=\"M12 3v11\"/><path d=\"m8 10 4 4 4-4\"/>",
+    "solid": null
+  },
+  "arrow-out-box": {
+    "category": "arrows",
+    "keywords": [
+      "flecha",
+      "caja",
+      "salir",
+      "exportar",
+      "sacar",
+      "box"
+    ],
+    "aliases": [
+      "export-box"
+    ],
+    "outline": "<path d=\"M6 12v6a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2v-6\"/><path d=\"M12 14V3\"/><path d=\"m8 7 4-4 4 4\"/>",
+    "solid": null
+  },
+  "arrows-vertical": {
+    "category": "arrows",
+    "keywords": [
+      "flechas",
+      "vertical",
+      "redimensionar",
+      "resize",
+      "altura",
+      "up-down"
+    ],
+    "aliases": [
+      "resize-vertical"
+    ],
+    "outline": "<path d=\"M12 3v18\"/><path d=\"m8 7 4-4 4 4\"/><path d=\"m8 17 4 4 4-4\"/>",
+    "solid": "<path d=\"M12 2 8 7h3v10H8l4 5 4-5h-3V7h3z\"/>"
+  },
+  "arrows-horizontal": {
+    "category": "arrows",
+    "keywords": [
+      "flechas",
+      "horizontal",
+      "redimensionar",
+      "resize",
+      "ancho",
+      "left-right"
+    ],
+    "aliases": [
+      "resize-horizontal"
+    ],
+    "outline": "<path d=\"M3 12h18\"/><path d=\"m7 8-4 4 4 4\"/><path d=\"m17 8 4 4-4 4\"/>",
+    "solid": "<path d=\"M2 12 7 8v3h10V8l5 4-5 4v-3H7v3z\"/>"
+  },
+  "arrow-up-then-right": {
+    "category": "arrows",
+    "keywords": [
+      "flecha",
+      "esquina",
+      "giro",
+      "arriba",
+      "derecha",
+      "turn"
+    ],
+    "aliases": [
+      "up-then-right"
+    ],
+    "outline": "<path d=\"M7 20v-8a2 2 0 0 1 2-2h7\"/><path d=\"m12 6 4 4-4 4\"/>",
+    "solid": null
+  },
+  "arrow-left-then-down": {
+    "category": "arrows",
+    "keywords": [
+      "flecha",
+      "esquina",
+      "giro",
+      "izquierda",
+      "abajo",
+      "turn"
+    ],
+    "aliases": [
+      "left-then-down"
+    ],
+    "outline": "<path d=\"M20 7h-8a2 2 0 0 0-2 2v7\"/><path d=\"m6 12 4 4 4-4\"/>",
+    "solid": null
+  },
+  "arrow-branch": {
+    "category": "arrows",
+    "keywords": [
+      "flecha",
+      "rama",
+      "ramificar",
+      "branch",
+      "desviar",
+      "bifurcacion"
+    ],
+    "aliases": [
+      "branch-arrow"
+    ],
+    "outline": "<path d=\"M7 4v16\"/><path d=\"M7 10h6a3 3 0 0 1 3 3v3\"/><path d=\"m12 12 4 4 4-4\"/>",
+    "solid": null
+  },
+  "arrow-random": {
+    "category": "arrows",
+    "keywords": [
+      "flecha",
+      "random",
+      "aleatorio",
+      "azar",
+      "caotico",
+      "walk"
+    ],
+    "aliases": [
+      "random-arrow"
+    ],
+    "outline": "<path d=\"M4 20 8 14 5 10 12 11 18 6\"/><path d=\"M18 11V6h-5\"/>",
+    "solid": null
+  },
+  "arrow-progress": {
+    "category": "arrows",
+    "keywords": [
+      "flecha",
+      "progreso",
+      "avance",
+      "progress",
+      "pasos",
+      "cargando"
+    ],
+    "aliases": [
+      "progress-arrow"
+    ],
+    "outline": "<path d=\"M3 12h4\"/><path d=\"M10 12h4\"/><path d=\"m15 8 4 4-4 4\"/>",
+    "solid": null
+  },
+  "arrow-skip": {
+    "category": "arrows",
+    "keywords": [
+      "flecha",
+      "skip",
+      "saltar",
+      "siguiente",
+      "next",
+      "adelantar"
+    ],
+    "aliases": [
+      "skip"
+    ],
+    "outline": "<path d=\"M5 12h11\"/><path d=\"m11 7 5 5-5 5\"/><path d=\"M19 6v12\"/>",
+    "solid": null
+  },
+  "arrow-repeat": {
+    "category": "arrows",
+    "keywords": [
+      "flecha",
+      "repeat",
+      "repetir",
+      "bucle",
+      "ciclo",
+      "loop"
+    ],
+    "aliases": [
+      "repeat-arrow"
+    ],
+    "outline": "<path d=\"M4 9V8a3 3 0 0 1 3-3h10\"/><path d=\"m14 2 3 3-3 3\"/><path d=\"M20 15v1a3 3 0 0 1-3 3H7\"/><path d=\"m10 22-3-3 3-3\"/>",
+    "solid": null
+  },
+  "arrow-autorenew": {
+    "category": "arrows",
+    "keywords": [
+      "flecha",
+      "renovar",
+      "autorenovar",
+      "reciclar",
+      "sync",
+      "renew"
+    ],
+    "aliases": [
+      "autorenew"
+    ],
+    "outline": "<path d=\"M20 12a8 8 0 0 1-8 8 8 8 0 0 1-6.7-3.7\"/><path d=\"M4 20v-4h4\"/><path d=\"M4 12a8 8 0 0 1 8-8 8 8 0 0 1 6.7 3.7\"/><path d=\"M20 4v4h-4\"/>",
+    "solid": null
+  }
+}

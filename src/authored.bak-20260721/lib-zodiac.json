@@ -1,0 +1,170 @@
+{
+  "aries": {
+    "category": "zodiac",
+    "keywords": ["zodiac", "astrology", "ram", "aries", "carnero", "signo", "horoscopo", "fire"],
+    "aliases": ["ram"],
+    "outline": "<path d=\"M4 13C4 9 5 6.5 7 6.5C9.5 6.5 11 8.5 12 11C13 8.5 14.5 6.5 17 6.5C19 6.5 20 9 20 13\"/>",
+    "solid": null
+  },
+  "taurus": {
+    "category": "zodiac",
+    "keywords": ["zodiac", "astrology", "bull", "tauro", "toro", "signo", "horoscopo", "earth"],
+    "aliases": ["bull"],
+    "outline": "<circle cx=\"12\" cy=\"15\" r=\"5\"/><path d=\"M6.5 5C6.5 8.5 8.5 10 12 10C15.5 10 17.5 8.5 17.5 5\"/>",
+    "solid": null
+  },
+  "gemini": {
+    "category": "zodiac",
+    "keywords": ["zodiac", "astrology", "twins", "geminis", "gemelos", "signo", "horoscopo", "air"],
+    "aliases": ["twins"],
+    "outline": "<path d=\"M9 5V19\"/><path d=\"M15 5V19\"/><path d=\"M6.5 6C9 4 15 4 17.5 6\"/><path d=\"M6.5 18C9 20 15 20 17.5 18\"/>",
+    "solid": null
+  },
+  "cancer-zodiac": {
+    "category": "zodiac",
+    "keywords": ["zodiac", "astrology", "crab", "cancer", "cangrejo", "signo", "horoscopo", "water"],
+    "aliases": ["crab", "cancer-sign"],
+    "outline": "<path d=\"M4 10C7 7.5 13 7.5 15.5 10.5\"/><circle cx=\"17.5\" cy=\"10.5\" r=\"2\"/><path d=\"M20 14C17 16.5 11 16.5 8.5 13.5\"/><circle cx=\"6.5\" cy=\"13.5\" r=\"2\"/>",
+    "solid": null
+  },
+  "leo": {
+    "category": "zodiac",
+    "keywords": ["zodiac", "astrology", "lion", "leo", "leon", "signo", "horoscopo", "fire"],
+    "aliases": ["lion"],
+    "outline": "<circle cx=\"8\" cy=\"15\" r=\"3\"/><path d=\"M10.5 13C13 8 17 6 18.5 9.5C20 13 16 15 15.5 12\"/>",
+    "solid": null
+  },
+  "virgo": {
+    "category": "zodiac",
+    "keywords": ["zodiac", "astrology", "maiden", "virgo", "virgen", "signo", "horoscopo", "earth"],
+    "aliases": ["maiden", "virgin"],
+    "outline": "<path d=\"M5 19V11C5 8 9.5 8 9.5 11V19\"/><path d=\"M9.5 11C9.5 8 14 8 14 11V15C14 18.5 18 18.5 18 14.5C18 12 15 12 15 15\"/>",
+    "solid": null
+  },
+  "libra": {
+    "category": "zodiac",
+    "keywords": ["zodiac", "astrology", "scales", "libra", "balanza", "signo", "horoscopo", "balance", "air"],
+    "aliases": ["scales"],
+    "outline": "<path d=\"M4 18H20\"/><path d=\"M4 14H7.5A4.5 4.5 0 0 1 16.5 14H20\"/>",
+    "solid": null
+  },
+  "scorpio": {
+    "category": "zodiac",
+    "keywords": ["zodiac", "astrology", "scorpion", "escorpio", "escorpion", "signo", "horoscopo", "water"],
+    "aliases": ["scorpion", "scorpius"],
+    "outline": "<path d=\"M5 19V11C5 8 9.5 8 9.5 11V19\"/><path d=\"M9.5 11C9.5 8 14 8 14 11V16L17.5 20\"/><path d=\"M17.5 17.5V20H15\"/>",
+    "solid": null
+  },
+  "sagittarius": {
+    "category": "zodiac",
+    "keywords": ["zodiac", "astrology", "archer", "sagitario", "arquero", "arrow", "flecha", "signo", "fire"],
+    "aliases": ["archer"],
+    "outline": "<path d=\"M6 18 18 6\"/><path d=\"M13.5 6H18V10.5\"/><path d=\"M8 12 12 16\"/>",
+    "solid": null
+  },
+  "capricorn": {
+    "category": "zodiac",
+    "keywords": ["zodiac", "astrology", "goat", "sea-goat", "capricornio", "cabra", "signo", "earth"],
+    "aliases": ["goat", "sea-goat"],
+    "outline": "<path d=\"M4 15C4 9 7 8 8.5 11C10 14 11.5 13 12.5 11C14 8 17 9 17 12.5C17 15 14.5 15.5 13.5 13.5\"/>",
+    "solid": null
+  },
+  "aquarius": {
+    "category": "zodiac",
+    "keywords": ["zodiac", "astrology", "water-bearer", "acuario", "agua", "waves", "ondas", "signo", "air"],
+    "aliases": ["water-bearer"],
+    "outline": "<path d=\"M4 11 8 9 12 11 16 9 20 11\"/><path d=\"M4 15 8 13 12 15 16 13 20 15\"/>",
+    "solid": null
+  },
+  "pisces": {
+    "category": "zodiac",
+    "keywords": ["zodiac", "astrology", "fish", "piscis", "peces", "signo", "horoscopo", "water"],
+    "aliases": ["fish", "fishes"],
+    "outline": "<path d=\"M8 4C6 7 6 17 8 20\"/><path d=\"M16 4C18 7 18 17 16 20\"/><path d=\"M7 12H17\"/>",
+    "solid": null
+  },
+  "zodiac-wheel": {
+    "category": "zodiac",
+    "keywords": ["zodiac", "astrology", "wheel", "rueda", "zodiaco", "signs", "houses", "casas", "circle"],
+    "aliases": ["astrology-wheel", "zodiac-circle"],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"9\"/><circle cx=\"12\" cy=\"12\" r=\"2.5\"/><path d=\"M12 2.5v6.5M12 15v6.5M2.5 12h6.5M15 12h6.5\"/><path d=\"M13.8 10.2 18.4 5.6M13.8 13.8 18.4 18.4M10.2 13.8 5.6 18.4M10.2 10.2 5.6 5.6\"/>",
+    "solid": null
+  },
+  "horoscope": {
+    "category": "zodiac",
+    "keywords": ["astrology", "zodiac", "horoscopo", "moon", "stars", "estrellas", "luna", "forecast", "prediccion"],
+    "aliases": ["astrology", "forecast"],
+    "outline": "<path d=\"M18.5 12A7 7 0 1 1 10 3.5 5.6 5.6 0 0 0 18.5 12Z\"/><path d=\"M18 14.8 18.64 16.56 20.4 17.2 18.64 17.84 18 19.6 17.36 17.84 15.6 17.2 17.36 16.56Z\"/><path d=\"M13.5 18.2 13.92 19.38 15.1 19.8 13.92 20.22 13.5 21.4 13.08 20.22 11.9 19.8 13.08 19.38Z\"/>",
+    "solid": null
+  },
+  "sun-sign": {
+    "category": "zodiac",
+    "keywords": ["astrology", "zodiac", "sun", "sol", "signo solar", "star sign", "solar"],
+    "aliases": ["star-sign", "solar-sign"],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"4\"/><path d=\"M12 6.5V4M12 17.5V20M17.5 12H20M6.5 12H4M15.9 8.1 17.7 6.3M15.9 15.9 17.7 17.7M8.1 15.9 6.3 17.7M8.1 8.1 6.3 6.3\"/>",
+    "solid": null
+  },
+  "moon-sign": {
+    "category": "zodiac",
+    "keywords": ["astrology", "zodiac", "moon", "luna", "signo lunar", "lunar", "crescent"],
+    "aliases": ["lunar-sign"],
+    "outline": "<path d=\"M20.5 13.5A8.5 8.5 0 1 1 10.5 3.2 6.7 6.7 0 0 0 20.5 13.5Z\"/>",
+    "solid": "<path d=\"M20.5 13.5A8.5 8.5 0 1 1 10.5 3.2 6.7 6.7 0 0 0 20.5 13.5Z\"/>"
+  },
+  "rising-sign": {
+    "category": "zodiac",
+    "keywords": ["astrology", "zodiac", "ascendant", "ascendente", "rising", "horizon", "horizonte", "sunrise"],
+    "aliases": ["ascendant", "asc"],
+    "outline": "<path d=\"M3 18H21\"/><path d=\"M6.5 18a5.5 5.5 0 0 1 11 0\"/><path d=\"M12 4v2.5M5.5 8.5l1.8 1.8M18.5 8.5l-1.8 1.8\"/>",
+    "solid": null
+  },
+  "astrology-chart": {
+    "category": "zodiac",
+    "keywords": ["astrology", "chart", "natal", "carta astral", "north indian", "houses", "horoscopo", "square"],
+    "aliases": ["astro-chart", "kundli"],
+    "outline": "<rect x=\"3.5\" y=\"3.5\" width=\"17\" height=\"17\" rx=\"1\"/><path d=\"M3.5 3.5 20.5 20.5M20.5 3.5 3.5 20.5\"/><path d=\"M12 3.5 20.5 12 12 20.5 3.5 12Z\"/>",
+    "solid": null
+  },
+  "constellation-zodiac": {
+    "category": "zodiac",
+    "keywords": ["stars", "constellation", "constelacion", "estrellas", "zodiac", "sky", "cielo", "night"],
+    "aliases": ["constellation", "star-map"],
+    "outline": "<path d=\"M4 8 8 14 12 9 16 14 20 8\"/><circle cx=\"4\" cy=\"8\" r=\"1.1\"/><circle cx=\"8\" cy=\"14\" r=\"1.1\"/><circle cx=\"12\" cy=\"9\" r=\"1.1\"/><circle cx=\"16\" cy=\"14\" r=\"1.1\"/><circle cx=\"20\" cy=\"8\" r=\"1.1\"/>",
+    "solid": null
+  },
+  "birth-chart": {
+    "category": "zodiac",
+    "keywords": ["astrology", "natal", "birth", "carta natal", "nacimiento", "chart", "horoscopo", "planets", "planetas"],
+    "aliases": ["natal-wheel", "natal-chart"],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"9\"/><circle cx=\"12\" cy=\"12\" r=\"4\"/><path d=\"M12 3v5M12 16v5M3 12h5M16 12h5\"/><circle cx=\"12\" cy=\"12\" r=\".7\"/><circle cx=\"7.7\" cy=\"8.4\" r=\".7\"/><circle cx=\"15.6\" cy=\"15.6\" r=\".7\"/>",
+    "solid": null
+  },
+  "tarot-card": {
+    "category": "zodiac",
+    "keywords": ["tarot", "card", "carta", "fortune", "cartas", "divination", "adivinacion", "mystic", "star"],
+    "aliases": ["tarot"],
+    "outline": "<rect x=\"6\" y=\"3\" width=\"12\" height=\"18\" rx=\"2\"/><path d=\"M12 5.2 12.82 7.37 15.14 7.48 13.33 8.93 13.94 11.17 12 9.9 10.06 11.17 10.67 8.93 8.86 7.48 11.18 7.37Z\"/><path d=\"M9 17.5H15\"/><circle cx=\"10\" cy=\"15\" r=\".6\"/><circle cx=\"14\" cy=\"15\" r=\".6\"/>",
+    "solid": null
+  },
+  "crystal-ball": {
+    "category": "zodiac",
+    "keywords": ["fortune", "crystal", "ball", "bola de cristal", "future", "futuro", "psychic", "divination", "mystic"],
+    "aliases": ["fortune-ball", "psychic"],
+    "outline": "<circle cx=\"12\" cy=\"10.5\" r=\"6.5\"/><path d=\"M8.5 16.5 7 20M15.5 16.5 17 20M6 20H18\"/><path d=\"M8.8 9.2A3.2 3.2 0 0 1 11.6 6.3\"/>",
+    "solid": "<circle cx=\"12\" cy=\"10.5\" r=\"6.5\"/><path d=\"M8.8 16.2 6 19.6A1 1 0 0 0 6.8 21.2H17.2A1 1 0 0 0 18 19.6L15.2 16.2Z\"/>"
+  },
+  "palm-reading": {
+    "category": "zodiac",
+    "keywords": ["palmistry", "palm", "hand", "mano", "quiromancia", "fortune", "reading", "future", "futuro"],
+    "aliases": ["palmistry", "chiromancy"],
+    "outline": "<rect x=\"7\" y=\"10\" width=\"10\" height=\"11\" rx=\"4\"/><path d=\"M8.7 10.5V6.5M11.2 10V4.5M13.8 10V4.5M16.3 10.5V7\"/><path d=\"M17 13 19.5 11.5\"/><path d=\"M9.5 15.5C11 16.8 13.5 16.8 15 15.5\"/>",
+    "solid": null
+  },
+  "fortune-telling": {
+    "category": "zodiac",
+    "keywords": ["fortune", "divination", "adivinacion", "mystic", "eye", "ojo", "psychic", "future", "futuro", "clairvoyant"],
+    "aliases": ["divination", "clairvoyance"],
+    "outline": "<path d=\"M12 4 20 19H4Z\"/><path d=\"M7.5 14.5C9.5 12.1 14.5 12.1 16.5 14.5 14.5 16.9 9.5 16.9 7.5 14.5Z\"/><circle cx=\"12\" cy=\"14.5\" r=\"1.5\"/>",
+    "solid": null
+  }
+}

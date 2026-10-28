@@ -1,0 +1,652 @@
+{
+  "file-doc": {
+    "category": "files-formats",
+    "keywords": [
+      "word",
+      "doc",
+      "docx",
+      "document",
+      "documento",
+      "texto"
+    ],
+    "aliases": [
+      "doc"
+    ],
+    "outline": "<path d=\"M13 3H6.5A1.5 1.5 0 0 0 5 4.5v15A1.5 1.5 0 0 0 6.5 21h11a1.5 1.5 0 0 0 1.5-1.5V9Z\"/><path d=\"M13 3v5a1 1 0 0 0 1 1h5\"/><path d=\"M9 13.6 10.3 18.4 12 15.2 13.7 18.4 15 13.6\"/>",
+    "solid": null
+  },
+  "file-xls": {
+    "category": "files-formats",
+    "keywords": [
+      "excel",
+      "xls",
+      "xlsx",
+      "spreadsheet",
+      "hoja de calculo",
+      "tabla"
+    ],
+    "aliases": [
+      "xls"
+    ],
+    "outline": "<path d=\"M13 3H6.5A1.5 1.5 0 0 0 5 4.5v15A1.5 1.5 0 0 0 6.5 21h11a1.5 1.5 0 0 0 1.5-1.5V9Z\"/><path d=\"M13 3v5a1 1 0 0 0 1 1h5\"/><path d=\"M9.8 13.6 14.2 18.4M14.2 13.6 9.8 18.4\"/>",
+    "solid": null
+  },
+  "file-ppt": {
+    "category": "files-formats",
+    "keywords": [
+      "powerpoint",
+      "ppt",
+      "pptx",
+      "presentation",
+      "presentacion",
+      "diapositivas"
+    ],
+    "aliases": [
+      "ppt"
+    ],
+    "outline": "<path d=\"M13 3H6.5A1.5 1.5 0 0 0 5 4.5v15A1.5 1.5 0 0 0 6.5 21h11a1.5 1.5 0 0 0 1.5-1.5V9Z\"/><path d=\"M13 3v5a1 1 0 0 0 1 1h5\"/><path d=\"M10.4 18.4V13.6h2.3a1.7 1.7 0 0 1 0 3.4h-2.3\"/>",
+    "solid": null
+  },
+  "file-txt": {
+    "category": "files-formats",
+    "keywords": [
+      "text",
+      "txt",
+      "plain",
+      "texto",
+      "plano",
+      "notas"
+    ],
+    "aliases": [
+      "txt",
+      "file-plaintext"
+    ],
+    "outline": "<path d=\"M13 3H6.5A1.5 1.5 0 0 0 5 4.5v15A1.5 1.5 0 0 0 6.5 21h11a1.5 1.5 0 0 0 1.5-1.5V9Z\"/><path d=\"M13 3v5a1 1 0 0 0 1 1h5\"/><path d=\"M8.4 12.7h7.2M8.4 15h7.2M8.4 17.3h7.2M8.4 19.6h4.2\"/>",
+    "solid": null
+  },
+  "file-rtf": {
+    "category": "files-formats",
+    "keywords": [
+      "rich text",
+      "rtf",
+      "format",
+      "texto enriquecido",
+      "documento"
+    ],
+    "aliases": [
+      "rtf"
+    ],
+    "outline": "<path d=\"M13 3H6.5A1.5 1.5 0 0 0 5 4.5v15A1.5 1.5 0 0 0 6.5 21h11a1.5 1.5 0 0 0 1.5-1.5V9Z\"/><path d=\"M13 3v5a1 1 0 0 0 1 1h5\"/><path d=\"M14.4 13.4h-2.6a2.1 2.1 0 0 0 0 4.2h.8M14.4 13.4v6.2M12.6 17.6v2\"/>",
+    "solid": null
+  },
+  "file-html": {
+    "category": "files-formats",
+    "keywords": [
+      "html",
+      "web",
+      "code",
+      "markup",
+      "codigo",
+      "pagina"
+    ],
+    "aliases": [
+      "html",
+      "file-web"
+    ],
+    "outline": "<path d=\"M13 3H6.5A1.5 1.5 0 0 0 5 4.5v15A1.5 1.5 0 0 0 6.5 21h11a1.5 1.5 0 0 0 1.5-1.5V9Z\"/><path d=\"M13 3v5a1 1 0 0 0 1 1h5\"/><path d=\"M9.9 13.4 7.6 15.9 9.9 18.4M14.1 13.4 16.4 15.9 14.1 18.4M12.8 12.7 11.2 19.1\"/>",
+    "solid": null
+  },
+  "file-css": {
+    "category": "files-formats",
+    "keywords": [
+      "css",
+      "style",
+      "stylesheet",
+      "estilos",
+      "web",
+      "hoja de estilos"
+    ],
+    "aliases": [
+      "css"
+    ],
+    "outline": "<path d=\"M13 3H6.5A1.5 1.5 0 0 0 5 4.5v15A1.5 1.5 0 0 0 6.5 21h11a1.5 1.5 0 0 0 1.5-1.5V9Z\"/><path d=\"M13 3v5a1 1 0 0 0 1 1h5\"/><path d=\"M10.3 13.6 9.5 18.4M14.5 13.6 13.7 18.4M9 15.4h6M8.7 16.9h6\"/>",
+    "solid": null
+  },
+  "file-js": {
+    "category": "files-formats",
+    "keywords": [
+      "javascript",
+      "js",
+      "code",
+      "script",
+      "codigo"
+    ],
+    "aliases": [
+      "js",
+      "file-javascript"
+    ],
+    "outline": "<path d=\"M13 3H6.5A1.5 1.5 0 0 0 5 4.5v15A1.5 1.5 0 0 0 6.5 21h11a1.5 1.5 0 0 0 1.5-1.5V9Z\"/><path d=\"M13 3v5a1 1 0 0 0 1 1h5\"/><path d=\"M11.8 13.4v3.6a1.5 1.5 0 0 1-2.8.7M16.2 14.1a1.5 1.5 0 0 0-2.6.6c0 1.4 2.6.7 2.6 2.1a1.5 1.5 0 0 1-2.6.9\"/>",
+    "solid": null
+  },
+  "file-xml": {
+    "category": "files-formats",
+    "keywords": [
+      "xml",
+      "markup",
+      "data",
+      "code",
+      "datos",
+      "codigo"
+    ],
+    "aliases": [
+      "xml"
+    ],
+    "outline": "<path d=\"M13 3H6.5A1.5 1.5 0 0 0 5 4.5v15A1.5 1.5 0 0 0 6.5 21h11a1.5 1.5 0 0 0 1.5-1.5V9Z\"/><path d=\"M13 3v5a1 1 0 0 0 1 1h5\"/><path d=\"M10.2 13.6 7.9 16 10.2 18.4M13.8 13.6 16.1 16 13.8 18.4\"/>",
+    "solid": null
+  },
+  "file-sql": {
+    "category": "files-formats",
+    "keywords": [
+      "sql",
+      "database",
+      "query",
+      "base de datos",
+      "consulta",
+      "db"
+    ],
+    "aliases": [
+      "sql",
+      "file-database"
+    ],
+    "outline": "<path d=\"M13 3H6.5A1.5 1.5 0 0 0 5 4.5v15A1.5 1.5 0 0 0 6.5 21h11a1.5 1.5 0 0 0 1.5-1.5V9Z\"/><path d=\"M13 3v5a1 1 0 0 0 1 1h5\"/><ellipse cx=\"12\" cy=\"14\" rx=\"3\" ry=\"1.4\"/><path d=\"M9 14v3.4c0 .8 1.3 1.4 3 1.4s3-.6 3-1.4V14\"/>",
+    "solid": null
+  },
+  "file-md": {
+    "category": "files-formats",
+    "keywords": [
+      "markdown",
+      "md",
+      "readme",
+      "text",
+      "texto",
+      "documentacion"
+    ],
+    "aliases": [
+      "md",
+      "file-markdown"
+    ],
+    "outline": "<path d=\"M13 3H6.5A1.5 1.5 0 0 0 5 4.5v15A1.5 1.5 0 0 0 6.5 21h11a1.5 1.5 0 0 0 1.5-1.5V9Z\"/><path d=\"M13 3v5a1 1 0 0 0 1 1h5\"/><path d=\"M8.6 18.4V13.6l2 2.4 2-2.4v4.8M14.8 13.6v4m0 0 1.2-1.3m-1.2 1.3-1.2-1.3\"/>",
+    "solid": null
+  },
+  "file-svg": {
+    "category": "files-formats",
+    "keywords": [
+      "svg",
+      "vector",
+      "graphic",
+      "image",
+      "vectorial",
+      "imagen"
+    ],
+    "aliases": [
+      "svg",
+      "file-vector"
+    ],
+    "outline": "<path d=\"M13 3H6.5A1.5 1.5 0 0 0 5 4.5v15A1.5 1.5 0 0 0 6.5 21h11a1.5 1.5 0 0 0 1.5-1.5V9Z\"/><path d=\"M13 3v5a1 1 0 0 0 1 1h5\"/><path d=\"M8.6 18c0-3.2 6.8-3.2 6.8 0\"/><rect x=\"7.6\" y=\"17\" width=\"2\" height=\"2\" rx=\".4\"/><rect x=\"14.4\" y=\"17\" width=\"2\" height=\"2\" rx=\".4\"/>",
+    "solid": null
+  },
+  "file-png": {
+    "category": "files-formats",
+    "keywords": [
+      "png",
+      "image",
+      "picture",
+      "imagen",
+      "foto",
+      "transparente"
+    ],
+    "aliases": [
+      "png"
+    ],
+    "outline": "<path d=\"M13 3H6.5A1.5 1.5 0 0 0 5 4.5v15A1.5 1.5 0 0 0 6.5 21h11a1.5 1.5 0 0 0 1.5-1.5V9Z\"/><path d=\"M13 3v5a1 1 0 0 0 1 1h5\"/><circle cx=\"9.4\" cy=\"13.7\" r=\"1.2\"/><path d=\"M7.5 18.8 10.9 15.2l1.8 1.9 2-2.5 3.1 4.2\"/>",
+    "solid": "<path fill-rule=\"evenodd\" d=\"M6.5 3H13L19 9v10a2 2 0 0 1-2 2H6.5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2Zm6.5 0v5a1 1 0 0 0 1 1h5Z  M8.15 13.7a1.25 1.25 0 1 0 2.5 0a1.25 1.25 0 1 0 -2.5 0Z M7.4 18.8 10.8 15 12.6 16.9 14.6 14.4 17.5 18.8Z\"/>"
+  },
+  "file-jpg": {
+    "category": "files-formats",
+    "keywords": [
+      "jpg",
+      "jpeg",
+      "image",
+      "photo",
+      "imagen",
+      "foto"
+    ],
+    "aliases": [
+      "jpg",
+      "jpeg",
+      "file-jpeg"
+    ],
+    "outline": "<path d=\"M13 3H6.5A1.5 1.5 0 0 0 5 4.5v15A1.5 1.5 0 0 0 6.5 21h11a1.5 1.5 0 0 0 1.5-1.5V9Z\"/><path d=\"M13 3v5a1 1 0 0 0 1 1h5\"/><circle cx=\"9.4\" cy=\"13.7\" r=\"1.2\"/><path d=\"M7.4 18.8 9.8 16l1.5 1.6M10.9 17.5l2.3-2.9 3.4 4.2\"/>",
+    "solid": "<path fill-rule=\"evenodd\" d=\"M6.5 3H13L19 9v10a2 2 0 0 1-2 2H6.5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2Zm6.5 0v5a1 1 0 0 0 1 1h5Z  M8.15 13.7a1.25 1.25 0 1 0 2.5 0a1.25 1.25 0 1 0 -2.5 0Z M7.4 18.8 9.9 16 11.4 17.5 13.6 14.8 16.6 18.8Z\"/>"
+  },
+  "file-gif": {
+    "category": "files-formats",
+    "keywords": [
+      "gif",
+      "animation",
+      "image",
+      "animado",
+      "imagen",
+      "meme"
+    ],
+    "aliases": [
+      "gif"
+    ],
+    "outline": "<path d=\"M13 3H6.5A1.5 1.5 0 0 0 5 4.5v15A1.5 1.5 0 0 0 6.5 21h11a1.5 1.5 0 0 0 1.5-1.5V9Z\"/><path d=\"M13 3v5a1 1 0 0 0 1 1h5\"/><rect x=\"8\" y=\"13.4\" width=\"8\" height=\"5.6\" rx=\"1\"/><path d=\"M11 15.3v2.6l2.3-1.3Z\"/>",
+    "solid": null
+  },
+  "file-mp3": {
+    "category": "files-formats",
+    "keywords": [
+      "mp3",
+      "audio",
+      "music",
+      "sound",
+      "musica",
+      "sonido"
+    ],
+    "aliases": [
+      "mp3",
+      "file-song"
+    ],
+    "outline": "<path d=\"M13 3H6.5A1.5 1.5 0 0 0 5 4.5v15A1.5 1.5 0 0 0 6.5 21h11a1.5 1.5 0 0 0 1.5-1.5V9Z\"/><path d=\"M13 3v5a1 1 0 0 0 1 1h5\"/><circle cx=\"10.8\" cy=\"17.8\" r=\"1.6\"/><path d=\"M12.4 17.8v-5.4l3-1v3.6\"/>",
+    "solid": "<path fill-rule=\"evenodd\" d=\"M6.5 3H13L19 9v10a2 2 0 0 1-2 2H6.5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2Zm6.5 0v5a1 1 0 0 0 1 1h5Z  M9.2 17.8a1.6 1.6 0 1 0 3.2 0a1.6 1.6 0 1 0 -3.2 0Z M12.4 12.4H13.2V17.8H12.4Z\"/>"
+  },
+  "file-mp4": {
+    "category": "files-formats",
+    "keywords": [
+      "mp4",
+      "video",
+      "movie",
+      "film",
+      "pelicula",
+      "reproducir"
+    ],
+    "aliases": [
+      "mp4"
+    ],
+    "outline": "<path d=\"M13 3H6.5A1.5 1.5 0 0 0 5 4.5v15A1.5 1.5 0 0 0 6.5 21h11a1.5 1.5 0 0 0 1.5-1.5V9Z\"/><path d=\"M13 3v5a1 1 0 0 0 1 1h5\"/><path d=\"M10.6 13.6v5.2a.5.5 0 0 0 .77.42l4-2.6a.5.5 0 0 0 0-.84l-4-2.6a.5.5 0 0 0-.77.42Z\"/>",
+    "solid": "<path fill-rule=\"evenodd\" d=\"M6.5 3H13L19 9v10a2 2 0 0 1-2 2H6.5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2Zm6.5 0v5a1 1 0 0 0 1 1h5Z  M10.8 13.9 15.4 16.3 10.8 18.7Z\"/>"
+  },
+  "file-mov": {
+    "category": "files-formats",
+    "keywords": [
+      "mov",
+      "video",
+      "movie",
+      "quicktime",
+      "pelicula",
+      "clip"
+    ],
+    "aliases": [
+      "mov",
+      "file-quicktime"
+    ],
+    "outline": "<path d=\"M13 3H6.5A1.5 1.5 0 0 0 5 4.5v15A1.5 1.5 0 0 0 6.5 21h11a1.5 1.5 0 0 0 1.5-1.5V9Z\"/><path d=\"M13 3v5a1 1 0 0 0 1 1h5\"/><rect x=\"8\" y=\"13.4\" width=\"8\" height=\"5.6\" rx=\"1\"/><path d=\"M10.4 13.4v5.6M13.6 13.4v5.6\"/><path d=\"M8 15.3h1M8 17.1h1M15 15.3h1M15 17.1h1\"/>",
+    "solid": null
+  },
+  "file-wav": {
+    "category": "files-formats",
+    "keywords": [
+      "wav",
+      "audio",
+      "sound",
+      "wave",
+      "sonido",
+      "onda"
+    ],
+    "aliases": [
+      "wav",
+      "file-waveform"
+    ],
+    "outline": "<path d=\"M13 3H6.5A1.5 1.5 0 0 0 5 4.5v15A1.5 1.5 0 0 0 6.5 21h11a1.5 1.5 0 0 0 1.5-1.5V9Z\"/><path d=\"M13 3v5a1 1 0 0 0 1 1h5\"/><path d=\"M8.6 15.6v1.8M10.3 14v5M12 12.9v6.2M13.7 13.8v4.4M15.4 15.2v1.6\"/>",
+    "solid": null
+  },
+  "file-iso": {
+    "category": "files-formats",
+    "keywords": [
+      "iso",
+      "disc",
+      "image",
+      "cd",
+      "dvd",
+      "disco",
+      "imagen de disco"
+    ],
+    "aliases": [
+      "iso",
+      "file-disc"
+    ],
+    "outline": "<path d=\"M13 3H6.5A1.5 1.5 0 0 0 5 4.5v15A1.5 1.5 0 0 0 6.5 21h11a1.5 1.5 0 0 0 1.5-1.5V9Z\"/><path d=\"M13 3v5a1 1 0 0 0 1 1h5\"/><circle cx=\"12\" cy=\"15.8\" r=\"3.4\"/><circle cx=\"12\" cy=\"15.8\" r=\".9\"/>",
+    "solid": "<path fill-rule=\"evenodd\" d=\"M6.5 3H13L19 9v10a2 2 0 0 1-2 2H6.5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2Zm6.5 0v5a1 1 0 0 0 1 1h5Z  M8.6 15.8a3.4 3.4 0 1 0 6.8 0a3.4 3.4 0 1 0 -6.8 0Z M11.1 15.8a.9 .9 0 1 0 1.8 0a.9 .9 0 1 0 -1.8 0Z\"/>"
+  },
+  "file-exe": {
+    "category": "files-formats",
+    "keywords": [
+      "exe",
+      "executable",
+      "program",
+      "app",
+      "ejecutable",
+      "programa",
+      "aplicacion"
+    ],
+    "aliases": [
+      "exe",
+      "file-executable"
+    ],
+    "outline": "<path d=\"M13 3H6.5A1.5 1.5 0 0 0 5 4.5v15A1.5 1.5 0 0 0 6.5 21h11a1.5 1.5 0 0 0 1.5-1.5V9Z\"/><path d=\"M13 3v5a1 1 0 0 0 1 1h5\"/><path d=\"M9 13.8 11.4 16.2 9 18.6M12.4 18.6h3.6\"/>",
+    "solid": null
+  },
+  "file-apk": {
+    "category": "files-formats",
+    "keywords": [
+      "apk",
+      "android",
+      "app",
+      "install",
+      "aplicacion",
+      "instalar"
+    ],
+    "aliases": [
+      "apk",
+      "file-android"
+    ],
+    "outline": "<path d=\"M13 3H6.5A1.5 1.5 0 0 0 5 4.5v15A1.5 1.5 0 0 0 6.5 21h11a1.5 1.5 0 0 0 1.5-1.5V9Z\"/><path d=\"M13 3v5a1 1 0 0 0 1 1h5\"/><path d=\"M8.6 16.1a3.4 3.4 0 0 1 6.8 0v2.9a.6.6 0 0 1-.6.6H9.2a.6.6 0 0 1-.6-.6Z\"/><path d=\"M9.9 13.8 9.1 12.6M14.1 13.8 14.9 12.6\"/><path d=\"M10.9 15.7h.01M13.1 15.7h.01\"/>",
+    "solid": null
+  },
+  "file-dmg": {
+    "category": "files-formats",
+    "keywords": [
+      "dmg",
+      "mac",
+      "disk image",
+      "macos",
+      "imagen de disco",
+      "instalador"
+    ],
+    "aliases": [
+      "dmg",
+      "file-diskimage"
+    ],
+    "outline": "<path d=\"M13 3H6.5A1.5 1.5 0 0 0 5 4.5v15A1.5 1.5 0 0 0 6.5 21h11a1.5 1.5 0 0 0 1.5-1.5V9Z\"/><path d=\"M13 3v5a1 1 0 0 0 1 1h5\"/><rect x=\"8\" y=\"14\" width=\"8\" height=\"4.8\" rx=\"1\"/><path d=\"M9.6 16.4h3.4\"/><circle cx=\"14.2\" cy=\"16.4\" r=\".5\"/>",
+    "solid": null
+  },
+  "file-torrent": {
+    "category": "files-formats",
+    "keywords": [
+      "torrent",
+      "download",
+      "p2p",
+      "seed",
+      "descarga",
+      "compartir"
+    ],
+    "aliases": [
+      "torrent",
+      "file-bittorrent"
+    ],
+    "outline": "<path d=\"M13 3H6.5A1.5 1.5 0 0 0 5 4.5v15A1.5 1.5 0 0 0 6.5 21h11a1.5 1.5 0 0 0 1.5-1.5V9Z\"/><path d=\"M13 3v5a1 1 0 0 0 1 1h5\"/><path d=\"M10 13.4v4.4m0 0-1.4-1.5m1.4 1.5 1.4-1.5M14 18.6v-4.4m0 0-1.4 1.5m1.4-1.5 1.4 1.5\"/>",
+    "solid": null
+  },
+  "file-font": {
+    "category": "files-formats",
+    "keywords": [
+      "font",
+      "typeface",
+      "ttf",
+      "otf",
+      "tipografia",
+      "fuente",
+      "letras"
+    ],
+    "aliases": [
+      "font",
+      "file-ttf",
+      "file-typeface"
+    ],
+    "outline": "<path d=\"M13 3H6.5A1.5 1.5 0 0 0 5 4.5v15A1.5 1.5 0 0 0 6.5 21h11a1.5 1.5 0 0 0 1.5-1.5V9Z\"/><path d=\"M13 3v5a1 1 0 0 0 1 1h5\"/><path d=\"M9.5 18.4 12 12.9l2.5 5.5M10.4 16.5h3.2\"/>",
+    "solid": null
+  },
+  "file-3d": {
+    "category": "files-formats",
+    "keywords": [
+      "3d",
+      "model",
+      "cube",
+      "object",
+      "modelo",
+      "cubo",
+      "obj"
+    ],
+    "aliases": [
+      "file-model",
+      "file-obj"
+    ],
+    "outline": "<path d=\"M13 3H6.5A1.5 1.5 0 0 0 5 4.5v15A1.5 1.5 0 0 0 6.5 21h11a1.5 1.5 0 0 0 1.5-1.5V9Z\"/><path d=\"M13 3v5a1 1 0 0 0 1 1h5\"/><path d=\"M12 13.2 15.3 15.1 12 17 8.7 15.1Z\"/><path d=\"M8.7 15.1v3.5L12 20.5l3.3-1.9V15.1M12 17v3.5\"/>",
+    "solid": null
+  },
+  "file-cad": {
+    "category": "files-formats",
+    "keywords": [
+      "cad",
+      "drawing",
+      "blueprint",
+      "dwg",
+      "plano",
+      "diseno",
+      "tecnico"
+    ],
+    "aliases": [
+      "cad",
+      "file-dwg",
+      "file-blueprint"
+    ],
+    "outline": "<path d=\"M13 3H6.5A1.5 1.5 0 0 0 5 4.5v15A1.5 1.5 0 0 0 6.5 21h11a1.5 1.5 0 0 0 1.5-1.5V9Z\"/><path d=\"M13 3v5a1 1 0 0 0 1 1h5\"/><circle cx=\"12\" cy=\"13.6\" r=\".9\"/><path d=\"M11.6 14.4 9.6 18.8M12.4 14.4 14.4 18.8\"/>",
+    "solid": null
+  },
+  "file-psd": {
+    "category": "files-formats",
+    "keywords": [
+      "psd",
+      "photoshop",
+      "design",
+      "image",
+      "diseno",
+      "imagen",
+      "capas"
+    ],
+    "aliases": [
+      "psd",
+      "file-photoshop"
+    ],
+    "outline": "<path d=\"M13 3H6.5A1.5 1.5 0 0 0 5 4.5v15A1.5 1.5 0 0 0 6.5 21h11a1.5 1.5 0 0 0 1.5-1.5V9Z\"/><path d=\"M13 3v5a1 1 0 0 0 1 1h5\"/><path d=\"M9 18.4V13.6h1.9a1.5 1.5 0 0 1 0 3h-1.9M15.7 15.6a1.1 1.1 0 0 0-1.9-.2c-.2.9 1.8.6 1.6 1.6a1.1 1.1 0 0 1-1.9.3\"/>",
+    "solid": null
+  },
+  "file-ai": {
+    "category": "files-formats",
+    "keywords": [
+      "ai",
+      "illustrator",
+      "vector",
+      "design",
+      "diseno",
+      "vectorial"
+    ],
+    "aliases": [
+      "file-illustrator"
+    ],
+    "outline": "<path d=\"M13 3H6.5A1.5 1.5 0 0 0 5 4.5v15A1.5 1.5 0 0 0 6.5 21h11a1.5 1.5 0 0 0 1.5-1.5V9Z\"/><path d=\"M13 3v5a1 1 0 0 0 1 1h5\"/><path d=\"M8.6 18.4 10.8 13.6l2.2 4.8M9.4 16.8h2.8\"/><path d=\"M15.3 15.6v2.8M15.3 13.7h.01\"/>",
+    "solid": null
+  },
+  "file-eps": {
+    "category": "files-formats",
+    "keywords": [
+      "eps",
+      "vector",
+      "postscript",
+      "print",
+      "vectorial",
+      "impresion"
+    ],
+    "aliases": [
+      "eps",
+      "file-postscript"
+    ],
+    "outline": "<path d=\"M13 3H6.5A1.5 1.5 0 0 0 5 4.5v15A1.5 1.5 0 0 0 6.5 21h11a1.5 1.5 0 0 0 1.5-1.5V9Z\"/><path d=\"M13 3v5a1 1 0 0 0 1 1h5\"/><path d=\"M9.8 13.6h4.4L12 18.6Z\"/><path d=\"M12 15v2.4\"/>",
+    "solid": null
+  },
+  "file-epub": {
+    "category": "files-formats",
+    "keywords": [
+      "epub",
+      "ebook",
+      "book",
+      "reader",
+      "libro",
+      "lectura",
+      "kindle"
+    ],
+    "aliases": [
+      "epub",
+      "file-ebook",
+      "file-book"
+    ],
+    "outline": "<path d=\"M13 3H6.5A1.5 1.5 0 0 0 5 4.5v15A1.5 1.5 0 0 0 6.5 21h11a1.5 1.5 0 0 0 1.5-1.5V9Z\"/><path d=\"M13 3v5a1 1 0 0 0 1 1h5\"/><path d=\"M12 14.2c-1-.7-2.6-1.1-4-1.1v5.2c1.4 0 3 .4 4 1.1m0-5.2c1-.7 2.6-1.1 4-1.1v5.2c-1.4 0-3 .4-4 1.1m0-5.2v5.2\"/>",
+    "solid": null
+  },
+  "file-key": {
+    "category": "files-formats",
+    "keywords": [
+      "key",
+      "license",
+      "security",
+      "password",
+      "clave",
+      "licencia",
+      "seguridad"
+    ],
+    "aliases": [
+      "file-license",
+      "file-secret"
+    ],
+    "outline": "<path d=\"M13 3H6.5A1.5 1.5 0 0 0 5 4.5v15A1.5 1.5 0 0 0 6.5 21h11a1.5 1.5 0 0 0 1.5-1.5V9Z\"/><path d=\"M13 3v5a1 1 0 0 0 1 1h5\"/><circle cx=\"10.4\" cy=\"14.8\" r=\"1.8\"/><path d=\"M11.7 16.1 15.4 19.8M14 18.4l1-1M13 17.4l.9-.9\"/>",
+    "solid": null
+  },
+  "file-heart": {
+    "category": "files-formats",
+    "keywords": [
+      "heart",
+      "favorite",
+      "love",
+      "like",
+      "corazon",
+      "favorito",
+      "megusta"
+    ],
+    "aliases": [
+      "file-favorite",
+      "file-love"
+    ],
+    "outline": "<path d=\"M13 3H6.5A1.5 1.5 0 0 0 5 4.5v15A1.5 1.5 0 0 0 6.5 21h11a1.5 1.5 0 0 0 1.5-1.5V9Z\"/><path d=\"M13 3v5a1 1 0 0 0 1 1h5\"/><path d=\"M12 18.6s-3.6-2.4-3.6-4.6a1.9 1.9 0 0 1 3.6-.8 1.9 1.9 0 0 1 3.6.8c0 2.2-3.6 4.6-3.6 4.6Z\"/>",
+    "solid": "<path fill-rule=\"evenodd\" d=\"M6.5 3H13L19 9v10a2 2 0 0 1-2 2H6.5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2Zm6.5 0v5a1 1 0 0 0 1 1h5Z  M12 18.4C12 18.4 8.4 16 8.4 13.9A1.9 1.9 0 0 1 12 13.1A1.9 1.9 0 0 1 15.6 13.9C15.6 16 12 18.4 12 18.4Z\"/>"
+  },
+  "file-shared": {
+    "category": "files-formats",
+    "keywords": [
+      "share",
+      "shared",
+      "send",
+      "network",
+      "compartir",
+      "compartido",
+      "red"
+    ],
+    "aliases": [
+      "file-share"
+    ],
+    "outline": "<path d=\"M13 3H6.5A1.5 1.5 0 0 0 5 4.5v15A1.5 1.5 0 0 0 6.5 21h11a1.5 1.5 0 0 0 1.5-1.5V9Z\"/><path d=\"M13 3v5a1 1 0 0 0 1 1h5\"/><circle cx=\"9.6\" cy=\"15.8\" r=\"1.4\"/><circle cx=\"15\" cy=\"13.6\" r=\"1.4\"/><circle cx=\"15\" cy=\"18\" r=\"1.4\"/><path d=\"m10.9 15.2 2.8-1.1M10.9 16.4l2.8 1.1\"/>",
+    "solid": "<path fill-rule=\"evenodd\" d=\"M6.5 3H13L19 9v10a2 2 0 0 1-2 2H6.5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2Zm6.5 0v5a1 1 0 0 0 1 1h5Z  M8.2 15.8a1.4 1.4 0 1 0 2.8 0a1.4 1.4 0 1 0 -2.8 0Z M13.6 13.6a1.4 1.4 0 1 0 2.8 0a1.4 1.4 0 1 0 -2.8 0Z M13.6 18a1.4 1.4 0 1 0 2.8 0a1.4 1.4 0 1 0 -2.8 0Z\"/>"
+  },
+  "file-cloud": {
+    "category": "files-formats",
+    "keywords": [
+      "cloud",
+      "online",
+      "sync",
+      "backup",
+      "nube",
+      "sincronizar",
+      "respaldo"
+    ],
+    "aliases": [
+      "file-online",
+      "file-sync"
+    ],
+    "outline": "<path d=\"M13 3H6.5A1.5 1.5 0 0 0 5 4.5v15A1.5 1.5 0 0 0 6.5 21h11a1.5 1.5 0 0 0 1.5-1.5V9Z\"/><path d=\"M13 3v5a1 1 0 0 0 1 1h5\"/><path d=\"M9.6 18.4A2.2 2.2 0 0 1 9.3 14 2.6 2.6 0 0 1 14.3 13.6 2.2 2.2 0 0 1 14.4 18.4Z\"/>",
+    "solid": "<path fill-rule=\"evenodd\" d=\"M6.5 3H13L19 9v10a2 2 0 0 1-2 2H6.5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2Zm6.5 0v5a1 1 0 0 0 1 1h5Z  M9.6 18.4A2.2 2.2 0 0 1 9.3 14A2.6 2.6 0 0 1 14.3 13.6A2.2 2.2 0 0 1 14.4 18.4Z\"/>"
+  },
+  "file-history": {
+    "category": "files-formats",
+    "keywords": [
+      "history",
+      "version",
+      "revision",
+      "previous",
+      "historial",
+      "versiones",
+      "recuperar"
+    ],
+    "aliases": [
+      "file-version",
+      "file-recent"
+    ],
+    "outline": "<path d=\"M13 3H6.5A1.5 1.5 0 0 0 5 4.5v15A1.5 1.5 0 0 0 6.5 21h11a1.5 1.5 0 0 0 1.5-1.5V9Z\"/><path d=\"M13 3v5a1 1 0 0 0 1 1h5\"/><circle cx=\"12\" cy=\"16.3\" r=\"3\"/><path d=\"M12 14.6v1.7l1.3.8\"/><path d=\"M9 12.8a3.6 3.6 0 0 1 3-1.4\"/><path d=\"M9.4 11.2 8.9 12.9l1.7.3\"/>",
+    "solid": null
+  },
+  "file-search": {
+    "category": "files-formats",
+    "keywords": [
+      "search",
+      "find",
+      "magnifier",
+      "buscar",
+      "lupa",
+      "encontrar"
+    ],
+    "aliases": [
+      "file-find",
+      "file-magnifier"
+    ],
+    "outline": "<path d=\"M13 3H6.5A1.5 1.5 0 0 0 5 4.5v15A1.5 1.5 0 0 0 6.5 21h11a1.5 1.5 0 0 0 1.5-1.5V9Z\"/><path d=\"M13 3v5a1 1 0 0 0 1 1h5\"/><circle cx=\"11.4\" cy=\"15\" r=\"2.6\"/><path d=\"m13.4 17 2 2\"/>",
+    "solid": null
+  },
+  "folder-shared": {
+    "category": "files-formats",
+    "keywords": [
+      "folder",
+      "shared",
+      "share",
+      "network",
+      "carpeta",
+      "compartida",
+      "red"
+    ],
+    "aliases": [
+      "folder-share",
+      "folder-network"
+    ],
+    "outline": "<path d=\"M3 7.5A1.5 1.5 0 0 1 4.5 6h4l2 2.5h9A1.5 1.5 0 0 1 21 10v8.5a1.5 1.5 0 0 1-1.5 1.5h-15A1.5 1.5 0 0 1 3 18.5Z\"/><circle cx=\"9.8\" cy=\"15.2\" r=\"1.3\"/><circle cx=\"14.4\" cy=\"13\" r=\"1.3\"/><circle cx=\"14.4\" cy=\"17.4\" r=\"1.3\"/><path d=\"m11 14.6 2.3-1M11 15.8l2.3 1\"/>",
+    "solid": "<path fill-rule=\"evenodd\" d=\"M4 5.5A1.5 1.5 0 0 0 2.5 7v11.5A1.5 1.5 0 0 0 4 20h16a1.5 1.5 0 0 0 1.5-1.5V10A1.5 1.5 0 0 0 20 8.5h-9L9 6a1.5 1.5 0 0 0-1.2-.5Z  M8.5 15.2a1.3 1.3 0 1 0 2.6 0a1.3 1.3 0 1 0 -2.6 0Z M13.1 13a1.3 1.3 0 1 0 2.6 0a1.3 1.3 0 1 0 -2.6 0Z M13.1 17.4a1.3 1.3 0 1 0 2.6 0a1.3 1.3 0 1 0 -2.6 0Z\"/>"
+  }
+}

@@ -7,6 +7,7 @@ import { genSvg, genManifest, genCss, genWebComponent, genDemo } from './gen/web
 import { genReact, genVue, genAngular, genSvelte } from './gen/frameworks.js';
 import { genFlutter, genKotlin, genSwift } from './gen/native.js';
 import { genPython, genPhp, genDotnet } from './gen/backends.js';
+import { genWordpress } from './gen/wordpress.js';
 import { genFigma } from './gen/figma.js';
 import { genLanding } from './gen/landing.js';
 
@@ -21,6 +22,7 @@ const steps = [
   ['react', genReact], ['vue', genVue], ['angular', genAngular], ['svelte', genSvelte],
   ['flutter', genFlutter], ['kotlin', genKotlin], ['swift', genSwift],
   ['python', genPython], ['php', genPhp], ['dotnet', genDotnet],
+  ['wordpress', genWordpress], // depende de genPhp: reutiliza dist/php/IconKit.php
   ['figma', genFigma],
   ['landing', genLanding],
 ];
@@ -84,6 +86,14 @@ iconkit.svg("home", mode="solid", size=20, color="#e05b4c")
 require 'IconKit.php';
 echo IconKit::svg('home', ['mode'=>'solid','size'=>20,'color'=>'#e05b4c']);
 \`\`\`
+## WordPress
+Instala \`wordpress/${config.brand.toLowerCase()}/\` como plugin (o súbelo en zip). Renderiza en el servidor:
+\`\`\`html
+<${p}-icon name="home" mode="solid" size="24"></${p}-icon>
+\`\`\`
+También \`[${p}_icon name="home"]\` y, desde PHP, \`${p}_icon('home', ['mode'=>'solid'])\`.
+Funciona en temas de bloques (FSE) y desactiva el conversor de emojis de WordPress.
+
 ## C# / .NET / Blazor
 \`\`\`csharp
 IconKit.Svg("home", mode:"solid", size:20, color:"#e05b4c");

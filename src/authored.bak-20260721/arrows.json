@@ -1,0 +1,170 @@
+{
+  "arrow-up": {
+    "category": "arrows",
+    "keywords": ["direction", "up", "north", "arriba", "flecha", "subir"],
+    "aliases": ["up"],
+    "outline": "<path d=\"M12 20V5\"/><path d=\"m6 11 6-6 6 6\"/>",
+    "solid": null
+  },
+  "arrow-down": {
+    "category": "arrows",
+    "keywords": ["direction", "down", "south", "abajo", "flecha", "bajar"],
+    "aliases": ["down"],
+    "outline": "<path d=\"M12 4v15\"/><path d=\"m6 13 6 6 6-6\"/>",
+    "solid": null
+  },
+  "arrow-left": {
+    "category": "arrows",
+    "keywords": ["direction", "back", "previous", "izquierda", "flecha", "atras"],
+    "aliases": ["back"],
+    "outline": "<path d=\"M20 12H5\"/><path d=\"m11 6-6 6 6 6\"/>",
+    "solid": null
+  },
+  "arrow-up-right": {
+    "category": "arrows",
+    "keywords": ["diagonal", "northeast", "ne", "arriba", "derecha", "flecha"],
+    "aliases": ["arrow-ne"],
+    "outline": "<path d=\"m7 17 10-10\"/><path d=\"M17 15.5V7H8.5\"/>",
+    "solid": null
+  },
+  "arrow-up-left": {
+    "category": "arrows",
+    "keywords": ["diagonal", "northwest", "nw", "arriba", "izquierda", "flecha"],
+    "aliases": ["arrow-nw"],
+    "outline": "<path d=\"m7 7 10 10\"/><path d=\"M7 15.5V7H15.5\"/>",
+    "solid": null
+  },
+  "arrow-down-right": {
+    "category": "arrows",
+    "keywords": ["diagonal", "southeast", "se", "abajo", "derecha", "flecha"],
+    "aliases": ["arrow-se"],
+    "outline": "<path d=\"m7 7 10 10\"/><path d=\"M17 8.5V17H8.5\"/>",
+    "solid": null
+  },
+  "arrow-down-left": {
+    "category": "arrows",
+    "keywords": ["diagonal", "southwest", "sw", "abajo", "izquierda", "flecha"],
+    "aliases": ["arrow-sw"],
+    "outline": "<path d=\"m17 7-10 10\"/><path d=\"M7 8.5V17H15.5\"/>",
+    "solid": null
+  },
+  "chevron-up": {
+    "category": "arrows",
+    "keywords": ["expand", "collapse", "up", "arriba", "angle", "less"],
+    "aliases": ["angle-up"],
+    "outline": "<path d=\"m5 15 7-7 7 7\"/>",
+    "solid": null
+  },
+  "chevron-down": {
+    "category": "arrows",
+    "keywords": ["expand", "dropdown", "down", "abajo", "angle", "more"],
+    "aliases": ["angle-down"],
+    "outline": "<path d=\"m5 9 7 7 7-7\"/>",
+    "solid": null
+  },
+  "chevron-left": {
+    "category": "arrows",
+    "keywords": ["back", "previous", "left", "izquierda", "angle", "prev"],
+    "aliases": ["angle-left"],
+    "outline": "<path d=\"m15 5-7 7 7 7\"/>",
+    "solid": null
+  },
+  "chevrons-left": {
+    "category": "arrows",
+    "keywords": ["first", "rewind", "previous", "doble", "izquierda", "start"],
+    "aliases": ["chevron-double-left", "first"],
+    "outline": "<path d=\"m18 7-5 5 5 5\"/><path d=\"m12 7-5 5 5 5\"/>",
+    "solid": null
+  },
+  "chevrons-right": {
+    "category": "arrows",
+    "keywords": ["last", "forward", "next", "doble", "derecha", "end"],
+    "aliases": ["chevron-double-right", "last"],
+    "outline": "<path d=\"m6 7 5 5-5 5\"/><path d=\"m12 7 5 5-5 5\"/>",
+    "solid": null
+  },
+  "caret-up": {
+    "category": "arrows",
+    "keywords": ["triangle", "sort", "up", "arriba", "triangulo", "dropdown"],
+    "aliases": ["triangle-up"],
+    "outline": "<path d=\"M7 15h10l-5-6z\"/>",
+    "solid": "<path d=\"M7 15h10l-5-6z\"/>"
+  },
+  "caret-down": {
+    "category": "arrows",
+    "keywords": ["triangle", "sort", "down", "abajo", "triangulo", "dropdown"],
+    "aliases": ["triangle-down"],
+    "outline": "<path d=\"M7 9h10l-5 6z\"/>",
+    "solid": "<path d=\"M7 9h10l-5 6z\"/>"
+  },
+  "corner-down-right": {
+    "category": "arrows",
+    "keywords": ["return", "branch", "turn", "enter", "esquina", "giro"],
+    "aliases": ["return", "corner"],
+    "outline": "<path d=\"M6 5v6a3 3 0 0 0 3 3h9\"/><path d=\"m14 10 4 4-4 4\"/>",
+    "solid": null
+  },
+  "move": {
+    "category": "arrows",
+    "keywords": ["drag", "arrows", "pan", "mover", "cross", "reposition"],
+    "aliases": ["drag", "pan"],
+    "outline": "<path d=\"M12 3v18M3 12h18\"/><path d=\"m9 6 3-3 3 3\"/><path d=\"m9 18 3 3 3-3\"/><path d=\"m6 9-3 3 3 3\"/><path d=\"m18 9 3 3-3 3\"/>",
+    "solid": null
+  },
+  "swap-horizontal": {
+    "category": "arrows",
+    "keywords": ["exchange", "switch", "transfer", "intercambiar", "horizontal", "arrows"],
+    "aliases": ["arrow-left-right", "exchange-h"],
+    "outline": "<path d=\"M4 9h15\"/><path d=\"m15 5 4 4-4 4\"/><path d=\"M20 15H5\"/><path d=\"m9 11-4 4 4 4\"/>",
+    "solid": null
+  },
+  "swap-vertical": {
+    "category": "arrows",
+    "keywords": ["exchange", "switch", "transfer", "intercambiar", "vertical", "arrows"],
+    "aliases": ["arrow-up-down", "exchange-v"],
+    "outline": "<path d=\"M9 20V5\"/><path d=\"m5 9 4-4 4 4\"/><path d=\"M15 4v15\"/><path d=\"m11 15 4 4 4-4\"/>",
+    "solid": null
+  },
+  "download": {
+    "category": "arrows",
+    "keywords": ["save", "import", "down", "descargar", "bajar", "tray"],
+    "aliases": ["import"],
+    "outline": "<path d=\"M12 4v11\"/><path d=\"m7 10 5 5 5-5\"/><path d=\"M6 16v3a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1v-3\"/>",
+    "solid": null
+  },
+  "upload": {
+    "category": "arrows",
+    "keywords": ["export", "send", "up", "subir", "cargar", "tray"],
+    "aliases": ["export"],
+    "outline": "<path d=\"M12 15V4\"/><path d=\"m7 9 5-5 5 5\"/><path d=\"M6 16v3a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1v-3\"/>",
+    "solid": null
+  },
+  "log-in": {
+    "category": "arrows",
+    "keywords": ["sign-in", "enter", "login", "entrar", "acceso", "signin"],
+    "aliases": ["sign-in", "login"],
+    "outline": "<path d=\"M15 4h3a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2h-3\"/><path d=\"M3 12h12\"/><path d=\"m11 8 4 4-4 4\"/>",
+    "solid": null
+  },
+  "log-out": {
+    "category": "arrows",
+    "keywords": ["sign-out", "exit", "logout", "salir", "cerrar-sesion", "signout"],
+    "aliases": ["sign-out", "logout"],
+    "outline": "<path d=\"M9 4H6a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h3\"/><path d=\"M9 12h11\"/><path d=\"m16 8 4 4-4 4\"/>",
+    "solid": null
+  },
+  "undo": {
+    "category": "arrows",
+    "keywords": ["back", "revert", "history", "deshacer", "atras", "reverse"],
+    "aliases": ["revert"],
+    "outline": "<path d=\"M5 9h9a5 5 0 0 1 0 10h-3\"/><path d=\"m9 5-4 4 4 4\"/>",
+    "solid": null
+  },
+  "redo": {
+    "category": "arrows",
+    "keywords": ["forward", "reapply", "history", "rehacer", "adelante", "again"],
+    "aliases": ["reapply"],
+    "outline": "<path d=\"M19 9h-9a5 5 0 0 0 0 10h3\"/><path d=\"m15 5 4 4-4 4\"/>",
+    "solid": null
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "domino": {
+    "category": "gaming",
+    "keywords": ["domino", "tile", "domino tile", "ficha", "domino", "pips", "juego"],
+    "aliases": ["domino-tile", "dominoes"],
+    "outline": "<rect x=\"7\" y=\"3\" width=\"10\" height=\"18\" rx=\"2\"/><path d=\"M7 12h10\"/><path d=\"M9.7 6h.01M14.3 6h.01M9.7 9.5h.01M14.3 9.5h.01M9.7 14.5h.01M12 16.5h.01M14.3 18.5h.01\"/>",
+    "solid": "<path fill-rule=\"evenodd\" d=\"M9 3h6a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H9a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2Z M7 11.5h10v1H7Z M9.7 5.1a.85.85 0 1 0 0 1.7.85.85 0 0 0 0-1.7Z M14.3 5.1a.85.85 0 1 0 0 1.7.85.85 0 0 0 0-1.7Z M9.7 8.6a.85.85 0 1 0 0 1.7.85.85 0 0 0 0-1.7Z M14.3 8.6a.85.85 0 1 0 0 1.7.85.85 0 0 0 0-1.7Z M9.7 13.6a.85.85 0 1 0 0 1.7.85.85 0 0 0 0-1.7Z M12 15.6a.85.85 0 1 0 0 1.7.85.85 0 0 0 0-1.7Z M14.3 17.6a.85.85 0 1 0 0 1.7.85.85 0 0 0 0-1.7Z\"/>"
+  },
+  "dice-five": {
+    "category": "gaming",
+    "keywords": ["dice", "die", "five", "dado", "cinco", "roll", "game"],
+    "aliases": ["die-five", "d6-five"],
+    "outline": "<rect x=\"4\" y=\"4\" width=\"16\" height=\"16\" rx=\"3\"/><path d=\"M8.5 8.5h.01M15.5 8.5h.01M12 12h.01M8.5 15.5h.01M15.5 15.5h.01\"/>",
+    "solid": "<path fill-rule=\"evenodd\" d=\"M6.5 4h11A2.5 2.5 0 0 1 20 6.5v11a2.5 2.5 0 0 1-2.5 2.5h-11A2.5 2.5 0 0 1 4 17.5v-11A2.5 2.5 0 0 1 6.5 4Z M8.5 7.4a1.1 1.1 0 1 0 0 2.2 1.1 1.1 0 0 0 0-2.2Z M15.5 7.4a1.1 1.1 0 1 0 0 2.2 1.1 1.1 0 0 0 0-2.2Z M12 10.9a1.1 1.1 0 1 0 0 2.2 1.1 1.1 0 0 0 0-2.2Z M8.5 14.4a1.1 1.1 0 1 0 0 2.2 1.1 1.1 0 0 0 0-2.2Z M15.5 14.4a1.1 1.1 0 1 0 0 2.2 1.1 1.1 0 0 0 0-2.2Z\"/>"
+  },
+  "dice-six": {
+    "category": "gaming",
+    "keywords": ["dice", "die", "six", "dado", "seis", "roll", "game"],
+    "aliases": ["die-six", "d6-six"],
+    "outline": "<rect x=\"4\" y=\"4\" width=\"16\" height=\"16\" rx=\"3\"/><path d=\"M8.5 8h.01M15.5 8h.01M8.5 12h.01M15.5 12h.01M8.5 16h.01M15.5 16h.01\"/>",
+    "solid": "<path fill-rule=\"evenodd\" d=\"M6.5 4h11A2.5 2.5 0 0 1 20 6.5v11a2.5 2.5 0 0 1-2.5 2.5h-11A2.5 2.5 0 0 1 4 17.5v-11A2.5 2.5 0 0 1 6.5 4Z M8.5 6.9a1.1 1.1 0 1 0 0 2.2 1.1 1.1 0 0 0 0-2.2Z M15.5 6.9a1.1 1.1 0 1 0 0 2.2 1.1 1.1 0 0 0 0-2.2Z M8.5 10.9a1.1 1.1 0 1 0 0 2.2 1.1 1.1 0 0 0 0-2.2Z M15.5 10.9a1.1 1.1 0 1 0 0 2.2 1.1 1.1 0 0 0 0-2.2Z M8.5 14.9a1.1 1.1 0 1 0 0 2.2 1.1 1.1 0 0 0 0-2.2Z M15.5 14.9a1.1 1.1 0 1 0 0 2.2 1.1 1.1 0 0 0 0-2.2Z\"/>"
+  },
+  "poker-chip": {
+    "category": "gaming",
+    "keywords": ["poker", "chip", "casino", "token", "ficha", "poquer", "apuesta", "gamble"],
+    "aliases": ["casino-chip", "gambling-chip"],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"9\"/><circle cx=\"12\" cy=\"12\" r=\"4.5\"/><path d=\"M12 3v3M12 18v3M3 12h3M18 12h3\"/>",
+    "solid": "<path fill-rule=\"evenodd\" d=\"M12 3a9 9 0 1 0 0 18 9 9 0 0 0 0-18Zm0 4.5a4.5 4.5 0 1 1 0 9 4.5 4.5 0 0 1 0-9Z M11 3.1h2v3h-2Z M11 17.9h2v3h-2Z M3.1 11h3v2h-3Z M17.9 11h3v2h-3Z\"/>"
+  },
+  "poker-chips-stack": {
+    "category": "gaming",
+    "keywords": ["poker", "chips", "stack", "casino", "fichas", "pila", "apuesta", "gamble"],
+    "aliases": ["chips-stack", "casino-chips"],
+    "outline": "<ellipse cx=\"12\" cy=\"7\" rx=\"7\" ry=\"3\"/><path d=\"M5 7v4c0 1.66 3.13 3 7 3s7-1.34 7-3V7\"/><path d=\"M5 11v4c0 1.66 3.13 3 7 3s7-1.34 7-3v-4\"/>",
+    "solid": null
+  },
+  "playing-card-ace": {
+    "category": "gaming",
+    "keywords": ["playing", "card", "ace", "spade", "carta", "as", "naipe", "poker"],
+    "aliases": ["ace-card", "ace-spades"],
+    "outline": "<rect x=\"6\" y=\"3\" width=\"12\" height=\"18\" rx=\"2\"/><path d=\"M8.5 6h.01M15.5 18h.01\"/><path d=\"M12 8C12.9 10 15.3 11 15.3 13A1.7 1.7 0 0 1 12.6 14.3C12.75 15.2 13.1 16 13.9 16.6H10.1C10.9 16 11.25 15.2 11.4 14.3A1.7 1.7 0 0 1 8.7 13C8.7 11 11.1 10 12 8Z\"/>",
+    "solid": "<path fill-rule=\"evenodd\" d=\"M8 3h8a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2Z M12 8C12.9 10 15.3 11 15.3 13A1.7 1.7 0 0 1 12.6 14.3C12.75 15.2 13.1 16 13.9 16.6H10.1C10.9 16 11.25 15.2 11.4 14.3A1.7 1.7 0 0 1 8.7 13C8.7 11 11.1 10 12 8Z\"/>"
+  },
+  "card-hand": {
+    "category": "gaming",
+    "keywords": ["cards", "hand", "fan", "cartas", "mano", "naipes", "deal", "poker"],
+    "aliases": ["hand-of-cards", "cards-in-hand"],
+    "outline": "<path d=\"M14.85 19.57 9.15 21.43 4.67 7.64 10.37 5.78Z\"/><path d=\"M9.15 19.57 14.85 21.43 19.33 7.64 13.63 5.78Z\"/><rect x=\"9.1\" y=\"5.5\" width=\"5.8\" height=\"15\" rx=\"1.3\"/>",
+    "solid": null
+  },
+  "jigsaw-piece": {
+    "category": "gaming",
+    "keywords": ["jigsaw", "puzzle", "piece", "puzle", "pieza", "rompecabezas", "solve"],
+    "aliases": ["puzzle-piece", "jigsaw"],
+    "outline": "<path d=\"M9.5 4.2a2 2 0 0 1 4 0c0 .5-.2 1-.5 1.4-.2.3-.3.6-.3.9 0 .8.7 1.5 1.5 1.5.3 0 .6-.1.9-.3.4-.3.9-.5 1.4-.5a2 2 0 0 1 0 4c-.5 0-1-.2-1.4-.5-.3-.2-.6-.3-.9-.3-.8 0-1.5.7-1.5 1.5 0 .3.1.6.3.9.3.4.5.9.5 1.4a2 2 0 0 1-4 0c0-.5.2-1 .5-1.4.2-.3.3-.6.3-.9 0-.8-.7-1.5-1.5-1.5-.3 0-.6.1-.9.3-.4.3-.9.5-1.4.5a2 2 0 0 1 0-4c.5 0 1 .2 1.4.5.3.2.6.3.9.3.8 0 1.5-.7 1.5-1.5 0-.3-.1-.6-.3-.9-.3-.4-.5-.9-.5-1.4Z\"/>",
+    "solid": "<path d=\"M9.5 4.2a2 2 0 0 1 4 0c0 .5-.2 1-.5 1.4-.2.3-.3.6-.3.9 0 .8.7 1.5 1.5 1.5.3 0 .6-.1.9-.3.4-.3.9-.5 1.4-.5a2 2 0 0 1 0 4c-.5 0-1-.2-1.4-.5-.3-.2-.6-.3-.9-.3-.8 0-1.5.7-1.5 1.5 0 .3.1.6.3.9.3.4.5.9.5 1.4a2 2 0 0 1-4 0c0-.5.2-1 .5-1.4.2-.3.3-.6.3-.9 0-.8-.7-1.5-1.5-1.5-.3 0-.6.1-.9.3-.4.3-.9.5-1.4.5a2 2 0 0 1 0-4c.5 0 1 .2 1.4.5.3.2.6.3.9.3.8 0 1.5-.7 1.5-1.5 0-.3-.1-.6-.3-.9-.3-.4-.5-.9-.5-1.4Z\"/>"
+  },
+  "jenga-tower": {
+    "category": "gaming",
+    "keywords": ["jenga", "tower", "blocks", "torre", "bloques", "stack", "balance"],
+    "aliases": ["block-tower", "wood-blocks"],
+    "outline": "<rect x=\"6.5\" y=\"6\" width=\"11\" height=\"14\" rx=\"1\"/><path d=\"M6.5 10.7h11M6.5 15.3h11\"/><path d=\"M10.2 6v4.7M13.8 6v4.7M10.2 15.3V20M13.8 15.3V20\"/><rect x=\"12.5\" y=\"11.1\" width=\"8.5\" height=\"3.7\" rx=\"0.8\"/>",
+    "solid": null
+  },
+  "board-game": {
+    "category": "gaming",
+    "keywords": ["board", "game", "track", "tablero", "juego", "mesa", "tabletop", "pawn"],
+    "aliases": ["boardgame", "tabletop-game"],
+    "outline": "<rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/><path d=\"M11 7.5h.01M15 7.5h.01M15 11.5h.01M15 15.5h.01M11 15.5h.01\"/><circle cx=\"7.5\" cy=\"11.5\" r=\"1.8\"/>",
+    "solid": null
+  },
+  "monopoly-board": {
+    "category": "gaming",
+    "keywords": ["monopoly", "board", "property", "tablero", "propiedades", "square", "banca"],
+    "aliases": ["property-board", "real-estate-game"],
+    "outline": "<rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"1.5\"/><rect x=\"8\" y=\"8\" width=\"8\" height=\"8\"/><path d=\"M8 3v5M16 3v5M8 16v5M16 16v5M3 8h5M3 16h5M16 8h5M16 16h5M12 3v2.5M12 18.5V21M3 12h2.5M18.5 12H21\"/>",
+    "solid": null
+  },
+  "checkers": {
+    "category": "gaming",
+    "keywords": ["checkers", "draughts", "board", "damas", "tablero", "fichas", "game"],
+    "aliases": ["draughts", "checkerboard-game"],
+    "outline": "<rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"1.5\"/><path d=\"M3 9h18M3 15h18M9 3v18M15 3v18\"/><circle cx=\"6\" cy=\"6\" r=\"1.8\"/><circle cx=\"18\" cy=\"18\" r=\"1.8\"/>",
+    "solid": null
+  },
+  "backgammon": {
+    "category": "gaming",
+    "keywords": ["backgammon", "board", "points", "backgamon", "tablero", "puntas", "dice"],
+    "aliases": ["backgammon-board", "tables-game"],
+    "outline": "<rect x=\"3\" y=\"4\" width=\"18\" height=\"16\" rx=\"1.5\"/><path d=\"M12 4v16\"/><path d=\"M3.3 4 5 11.5 6.7 4M6.7 4 8 11.5 9.3 4M14.7 4 15 11.5 16.7 4M16.7 4 18 11.5 19.7 4M3.3 20 5 12.5 6.7 20M6.7 20 8 12.5 9.3 20M14.7 20 15 12.5 16.7 20M16.7 20 18 12.5 19.7 20\"/>",
+    "solid": null
+  },
+  "mahjong-tile-game": {
+    "category": "gaming",
+    "keywords": ["mahjong", "tiles", "pair", "fichas", "mahjong", "pareja", "majong", "game"],
+    "aliases": ["mahjong-tiles", "mahjong-pair"],
+    "outline": "<rect x=\"4\" y=\"5\" width=\"8\" height=\"14\" rx=\"2\"/><rect x=\"12.5\" y=\"5\" width=\"8\" height=\"14\" rx=\"2\"/><path d=\"M8 9.5v5M6.5 12h3\"/><circle cx=\"16.5\" cy=\"12\" r=\"2.2\"/>",
+    "solid": "<path fill-rule=\"evenodd\" d=\"M6 5h4a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2Z M8 8.6a.7.7 0 0 0-.7.7v1.3H6a.7.7 0 0 0 0 1.4h1.3v1.3a.7.7 0 0 0 1.4 0v-1.3H10a.7.7 0 0 0 0-1.4H8.7V9.3A.7.7 0 0 0 8 8.6Z M14.5 5h4a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2h-4a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2Z M16.5 9.8a2.2 2.2 0 1 0 0 4.4 2.2 2.2 0 0 0 0-4.4Z\"/>"
+  },
+  "go-board": {
+    "category": "gaming",
+    "keywords": ["go", "board", "stones", "goban", "tablero", "piedras", "weiqi", "baduk"],
+    "aliases": ["goban", "weiqi"],
+    "outline": "<rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"1\"/><path d=\"M7.5 3v18M12 3v18M16.5 3v18M3 7.5h18M3 12h18M3 16.5h18\"/><circle cx=\"7.5\" cy=\"7.5\" r=\"1.7\"/><circle cx=\"12\" cy=\"16.5\" r=\"1.7\"/><circle cx=\"16.5\" cy=\"12\" r=\"1.7\"/>",
+    "solid": null
+  },
+  "tic-tac-toe": {
+    "category": "gaming",
+    "keywords": ["tic tac toe", "noughts", "crosses", "tres en raya", "gato", "xo", "game"],
+    "aliases": ["noughts-crosses", "tres-en-raya"],
+    "outline": "<path d=\"M9 3v18M15 3v18M3 9h18M3 15h18\"/><path d=\"M4.8 4.8 7.2 7.2M7.2 4.8 4.8 7.2\"/><circle cx=\"12\" cy=\"12\" r=\"1.8\"/>",
+    "solid": null
+  },
+  "connect-four": {
+    "category": "gaming",
+    "keywords": ["connect four", "four in a row", "cuatro en raya", "conecta", "discs", "grid"],
+    "aliases": ["four-in-a-row", "conecta-4"],
+    "outline": "<rect x=\"4\" y=\"3.5\" width=\"16\" height=\"15\" rx=\"2\"/><circle cx=\"8\" cy=\"7\" r=\"1.5\"/><circle cx=\"12\" cy=\"7\" r=\"1.5\"/><circle cx=\"16\" cy=\"7\" r=\"1.5\"/><circle cx=\"8\" cy=\"11\" r=\"1.5\"/><circle cx=\"12\" cy=\"11\" r=\"1.5\"/><circle cx=\"16\" cy=\"11\" r=\"1.5\"/><circle cx=\"8\" cy=\"15\" r=\"1.5\"/><circle cx=\"12\" cy=\"15\" r=\"1.5\"/><circle cx=\"16\" cy=\"15\" r=\"1.5\"/><path d=\"M7 18.5v2M17 18.5v2\"/>",
+    "solid": "<path fill-rule=\"evenodd\" d=\"M6 3.5h12a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2v-11a2 2 0 0 1 2-2Z M8 5.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3Z M12 5.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3Z M16 5.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3Z M8 9.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3Z M12 9.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3Z M16 9.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3Z M8 13.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3Z M12 13.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3Z M16 13.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3Z\"/><path d=\"M6.2 18.5h1.6v2.2H6.2ZM16.2 18.5h1.6v2.2h-1.6Z\"/>"
+  },
+  "scrabble-tile": {
+    "category": "gaming",
+    "keywords": ["scrabble", "letter", "tile", "letra", "ficha", "word", "palabra", "crossword"],
+    "aliases": ["letter-tile", "word-tile"],
+    "outline": "<rect x=\"5\" y=\"5\" width=\"14\" height=\"14\" rx=\"2\"/><path d=\"M9.7 15.2 12 8l2.3 7.2M10.6 12.8h2.8\"/><path d=\"M15.6 15 16 14.6v2.4\"/>",
+    "solid": null
+  },
+  "game-die": {
+    "category": "gaming",
+    "keywords": ["die", "dice", "cube", "3d", "dado", "cubo", "roll", "random"],
+    "aliases": ["die-3d", "cube-die"],
+    "outline": "<path d=\"M12 3.5 20 8 12 12.5 4 8Z\"/><path d=\"M4 8v8l8 4.5V12.5\"/><path d=\"M20 8v8l-8 4.5\"/><path d=\"M12 7.8h.01M7.3 11h.01M8.8 15h.01M15.2 11.6h.01M16.5 14h.01\"/>",
+    "solid": null
+  },
+  "card-shuffle": {
+    "category": "gaming",
+    "keywords": ["shuffle", "cards", "swap", "barajar", "cartas", "mezclar", "random", "deal"],
+    "aliases": ["shuffle-cards", "deal-cards"],
+    "outline": "<rect x=\"3.5\" y=\"6.5\" width=\"8\" height=\"11\" rx=\"1.5\"/><rect x=\"12.5\" y=\"6.5\" width=\"8\" height=\"11\" rx=\"1.5\"/><path d=\"M9.3 4.3h6.4M13.4 2 15.7 4.3 13.4 6.6\"/><path d=\"M14.7 19.7H8.3M10.6 17.4 8.3 19.7 10.6 22\"/>",
+    "solid": null
+  },
+  "roulette": {
+    "category": "gaming",
+    "keywords": ["roulette", "wheel", "casino", "ruleta", "rueda", "spin", "gamble", "bet"],
+    "aliases": ["roulette-wheel", "casino-wheel"],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"9\"/><circle cx=\"12\" cy=\"12\" r=\"3\"/><path d=\"M12 3v3M12 18v3M3 12h3M18 12h3M5.6 5.6 7.7 7.7M16.3 16.3l2.1 2.1M18.4 5.6 16.3 7.7M7.7 16.3 5.6 18.4\"/><circle cx=\"12\" cy=\"6.2\" r=\"0.9\"/>",
+    "solid": null
+  },
+  "slot-machine": {
+    "category": "gaming",
+    "keywords": ["slot", "machine", "casino", "tragaperras", "tragamonedas", "jackpot", "gamble", "reels"],
+    "aliases": ["slots", "fruit-machine"],
+    "outline": "<rect x=\"4\" y=\"4\" width=\"14\" height=\"16\" rx=\"2\"/><rect x=\"6.5\" y=\"7\" width=\"9\" height=\"6\" rx=\"1\"/><path d=\"M9.5 7v6M12.5 7v6\"/><path d=\"M8 10h.01M11 10h.01M14 10h.01\"/><path d=\"M7.5 16.5h7\"/><path d=\"M18 12h1.5v-3.7\"/><circle cx=\"19.5\" cy=\"7\" r=\"1.4\"/>",
+    "solid": "<path fill-rule=\"evenodd\" d=\"M6 4h10a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2Z M7.3 7a.8.8 0 0 0-.8.8v4.4a.8.8 0 0 0 .8.8h7.4a.8.8 0 0 0 .8-.8V7.8A.8.8 0 0 0 14.7 7Z M9.4 7.3h.9v5h-.9Z M13.7 7.3h.9v5h-.9Z\"/><circle cx=\"19.5\" cy=\"7\" r=\"1.4\"/><rect x=\"18.7\" y=\"8.3\" width=\"1.6\" height=\"3.8\" rx=\"0.6\"/><rect x=\"7.5\" y=\"15.8\" width=\"7\" height=\"1.6\" rx=\"0.8\"/>"
+  },
+  "bingo-ball": {
+    "category": "gaming",
+    "keywords": ["bingo", "ball", "lottery", "bola", "loteria", "number", "numero", "draw"],
+    "aliases": ["lottery-ball", "lotto-ball"],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"9\"/><circle cx=\"12\" cy=\"12\" r=\"4.5\"/><path d=\"M7 8.7A6.8 6.8 0 0 1 9.7 6.4\"/>",
+    "solid": "<path fill-rule=\"evenodd\" d=\"M12 3a9 9 0 1 0 0 18 9 9 0 0 0 0-18Zm0 4.5a4.5 4.5 0 1 1 0 9 4.5 4.5 0 0 1 0-9Z\"/>"
+  },
+  "darts-game": {
+    "category": "gaming",
+    "keywords": ["darts", "dartboard", "bullseye", "dardos", "diana", "target", "aim", "throw"],
+    "aliases": ["dartboard", "dart-board"],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"9\"/><circle cx=\"12\" cy=\"12\" r=\"4.5\"/><circle cx=\"12\" cy=\"12\" r=\"1\"/><path d=\"M12 3v2.3M12 18.7V21M3 12h2.3M18.7 12H21\"/>",
+    "solid": "<path fill-rule=\"evenodd\" d=\"M12 3a9 9 0 1 0 0 18 9 9 0 0 0 0-18Zm0 3.5a5.5 5.5 0 1 1 0 11 5.5 5.5 0 0 1 0-11Z M12 10.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3Z\"/>"
+  },
+  "billiard-ball": {
+    "category": "gaming",
+    "keywords": ["billiard", "pool", "eight ball", "bola", "billar", "ocho", "sphere", "snooker"],
+    "aliases": ["eight-ball", "pool-ball"],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"9\"/><circle cx=\"12\" cy=\"11\" r=\"3.4\"/><circle cx=\"12\" cy=\"10.2\" r=\"0.85\"/><circle cx=\"12\" cy=\"11.9\" r=\"1.1\"/><path d=\"M7.6 8a6.8 6.8 0 0 1 2.6-1.9\"/>",
+    "solid": "<path fill-rule=\"evenodd\" d=\"M12 3a9 9 0 1 0 0 18 9 9 0 0 0 0-18Zm0 4.6a3.4 3.4 0 1 0 0 6.8 3.4 3.4 0 0 0 0-6.8Z M12 9.35a.85.85 0 1 0 0 1.7.85.85 0 0 0 0-1.7Z M12 10.8a1.1 1.1 0 1 0 0 2.2 1.1 1.1 0 0 0 0-2.2Z\"/>"
+  },
+  "pool-table": {
+    "category": "gaming",
+    "keywords": ["pool", "billiard", "table", "billar", "mesa", "snooker", "cue", "pockets"],
+    "aliases": ["billiard-table", "snooker-table"],
+    "outline": "<rect x=\"3\" y=\"5\" width=\"18\" height=\"14\" rx=\"2\"/><circle cx=\"5.5\" cy=\"7.5\" r=\"1\"/><circle cx=\"18.5\" cy=\"7.5\" r=\"1\"/><circle cx=\"5.5\" cy=\"16.5\" r=\"1\"/><circle cx=\"18.5\" cy=\"16.5\" r=\"1\"/><circle cx=\"12\" cy=\"6.5\" r=\"0.9\"/><circle cx=\"12\" cy=\"17.5\" r=\"0.9\"/><circle cx=\"10\" cy=\"12\" r=\"1.6\"/><circle cx=\"14.2\" cy=\"13\" r=\"1.6\"/>",
+    "solid": null
+  },
+  "foosball": {
+    "category": "gaming",
+    "keywords": ["foosball", "table football", "futbolin", "futbol de mesa", "kicker", "rod", "player"],
+    "aliases": ["table-football", "futbolin"],
+    "outline": "<path d=\"M4 5h16\"/><circle cx=\"2.8\" cy=\"5\" r=\"1.1\"/><circle cx=\"21.2\" cy=\"5\" r=\"1.1\"/><path d=\"M12 5v4.5\"/><path d=\"M12 9.5 8.7 15.5M12 9.5l3.3 6\"/><circle cx=\"12\" cy=\"18\" r=\"1.7\"/>",
+    "solid": null
+  },
+  "pinball": {
+    "category": "gaming",
+    "keywords": ["pinball", "arcade", "flipper", "pinball", "millon", "bumper", "ball", "table"],
+    "aliases": ["pinball-machine", "flippers"],
+    "outline": "<rect x=\"5\" y=\"2.5\" width=\"14\" height=\"19\" rx=\"3\"/><circle cx=\"10\" cy=\"7.5\" r=\"1.6\"/><circle cx=\"14.5\" cy=\"8.5\" r=\"1.6\"/><circle cx=\"11\" cy=\"11.5\" r=\"1.6\"/><path d=\"M8.5 17 11.3 18.8M15.5 17l-2.8 1.8\"/><circle cx=\"8\" cy=\"14.5\" r=\"1\"/><path d=\"M16.5 13v6.5\"/>",
+    "solid": null
+  },
+  "arcade-token": {
+    "category": "gaming",
+    "keywords": ["arcade", "token", "coin", "credit", "ficha", "moneda", "recreativa", "gamepad"],
+    "aliases": ["arcade-coin", "game-token"],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M9.2 10.5h5.6a2.3 2.3 0 0 1 2.25 1.8c.14.65.2 1.4.2 1.9a1.15 1.15 0 0 1-2 .78l-.4-.45a1 1 0 0 0-.75-.33H9.9a1 1 0 0 0-.75.33l-.4.45a1.15 1.15 0 0 1-2-.78c0-.5.06-1.25.2-1.9a2.3 2.3 0 0 1 2.25-1.8Z\"/><path d=\"M9.7 12.3h1.4M10.4 11.6v1.4\"/><path d=\"M14.2 12.3h.01M15.4 12.3h.01\"/>",
+    "solid": "<path fill-rule=\"evenodd\" d=\"M12 3a9 9 0 1 0 0 18 9 9 0 0 0 0-18Z M9.2 10.5a2.3 2.3 0 0 0-2.25 1.8c-.14.65-.2 1.4-.2 1.9a1.15 1.15 0 0 0 2 .78l.4-.45a1 1 0 0 1 .75-.33h4.2a1 1 0 0 1 .75.33l.4.45a1.15 1.15 0 0 0 2-.78c0-.5-.06-1.25-.2-1.9a2.3 2.3 0 0 0-2.25-1.8Z\"/>"
+  },
+  "meeple": {
+    "category": "gaming",
+    "keywords": ["meeple", "pawn", "token", "figura", "ficha", "carcassonne", "player", "boardgame"],
+    "aliases": ["boardgame-pawn", "worker"],
+    "outline": "<path d=\"M12 3.6A2.4 2.4 0 0 1 14.3 6.9C16.4 7.2 20 7.8 20 10.2c0 1.2-1.4 1.4-3 1.3-1 0-1.5.6-1.2 1.5l1.3 6.1a1 1 0 0 1-1 1.3h-2.1a1 1 0 0 1-.95-.65L12 16.9l-1.05 3.85a1 1 0 0 1-.95.65H7.9a1 1 0 0 1-1-1.3l1.3-6.1c.3-.9-.2-1.5-1.2-1.5-1.6.1-3-.1-3-1.3C4 7.8 7.6 7.2 9.7 6.9A2.4 2.4 0 0 1 12 3.6Z\"/>",
+    "solid": "<path d=\"M12 3.6A2.4 2.4 0 0 1 14.3 6.9C16.4 7.2 20 7.8 20 10.2c0 1.2-1.4 1.4-3 1.3-1 0-1.5.6-1.2 1.5l1.3 6.1a1 1 0 0 1-1 1.3h-2.1a1 1 0 0 1-.95-.65L12 16.9l-1.05 3.85a1 1 0 0 1-.95.65H7.9a1 1 0 0 1-1-1.3l1.3-6.1c.3-.9-.2-1.5-1.2-1.5-1.6.1-3-.1-3-1.3C4 7.8 7.6 7.2 9.7 6.9A2.4 2.4 0 0 1 12 3.6Z\"/>"
+  },
+  "dungeon-dice": {
+    "category": "gaming",
+    "keywords": ["dice", "d8", "polyhedral", "rpg", "dado", "octaedro", "rol", "dungeon"],
+    "aliases": ["d8", "polyhedral-dice"],
+    "outline": "<path d=\"M12 2.5 20 12 12 21.5 4 12Z\"/><path d=\"M8.5 12h7\"/><path d=\"M12 2.5 8.5 12 12 21.5M12 2.5 15.5 12 12 21.5\"/>",
+    "solid": null
+  },
+  "playing-cards-fan": {
+    "category": "gaming",
+    "keywords": ["cards", "fan", "playing", "cartas", "abanico", "naipes", "poker", "hand"],
+    "aliases": ["cards-fan", "fanned-cards"],
+    "outline": "<path d=\"M14.56 19.14 9.44 21.86 2.64 9.06 7.76 6.34Z\"/><path d=\"M9.44 19.14 14.56 21.86 21.36 9.06 16.24 6.34Z\"/><rect x=\"9.1\" y=\"6\" width=\"5.8\" height=\"14.5\" rx=\"1.2\"/><path d=\"M12 13.4c-.6-.4-1.8-1.2-1.8-2.3a1 1 0 0 1 1.8-.55 1 1 0 0 1 1.8.55c0 1.1-1.2 1.9-1.8 2.3Z\"/>",
+    "solid": null
+  },
+  "chess-clock": {
+    "category": "gaming",
+    "keywords": ["chess", "clock", "timer", "reloj", "ajedrez", "tiempo", "game", "tournament"],
+    "aliases": ["game-clock", "game-timer"],
+    "outline": "<rect x=\"2.5\" y=\"7\" width=\"19\" height=\"11\" rx=\"2\"/><circle cx=\"8\" cy=\"12.5\" r=\"3.2\"/><circle cx=\"16\" cy=\"12.5\" r=\"3.2\"/><path d=\"M8 10.9v1.6h1.2M16 10.9v1.6h1.2\"/><rect x=\"6.3\" y=\"3.8\" width=\"3.4\" height=\"2.2\" rx=\"0.7\"/><rect x=\"14.3\" y=\"3.8\" width=\"3.4\" height=\"2.2\" rx=\"0.7\"/><path d=\"M8 6v1M16 6v1\"/>",
+    "solid": "<path fill-rule=\"evenodd\" d=\"M4.5 7h15a2 2 0 0 1 2 2v7a2 2 0 0 1-2 2h-15a2 2 0 0 1-2-2V9a2 2 0 0 1 2-2Z M8 9.3a3.2 3.2 0 1 0 0 6.4 3.2 3.2 0 0 0 0-6.4Z M16 9.3a3.2 3.2 0 1 0 0 6.4 3.2 3.2 0 0 0 0-6.4Z\"/><rect x=\"6.3\" y=\"3.8\" width=\"3.4\" height=\"3.2\" rx=\"0.7\"/><rect x=\"14.3\" y=\"3.8\" width=\"3.4\" height=\"3.2\" rx=\"0.7\"/>"
+  },
+  "card-suits": {
+    "category": "gaming",
+    "keywords": ["suits", "spade", "heart", "diamond", "club", "palos", "naipes", "poker", "cards"],
+    "aliases": ["poker-suits", "card-symbols"],
+    "outline": "<path d=\"M7 4.2c.55 1 2.3 1.9 2.3 3.2a1.15 1.15 0 0 1-2.3.5 1.15 1.15 0 0 1-2.3-.5C4.7 6.1 6.45 5.2 7 4.2Z\"/><path d=\"M7 7.4c0 .8-.3 1.5-.9 2h1.8c-.6-.5-.9-1.2-.9-2Z\"/><path d=\"M17 9.3s-2.4-1.5-2.4-3a1.2 1.2 0 0 1 2.4-.5 1.2 1.2 0 0 1 2.4.5C19.4 7.8 17 9.3 17 9.3Z\"/><path d=\"M7 13.6 10 17 7 20.4 4 17Z\"/><circle cx=\"17\" cy=\"15.4\" r=\"1.2\"/><circle cx=\"15.5\" cy=\"17.6\" r=\"1.2\"/><circle cx=\"18.5\" cy=\"17.6\" r=\"1.2\"/><path d=\"M17 17.4c0 1.1-.3 2-.9 2.7h1.8c-.6-.7-.9-1.6-.9-2.7Z\"/>",
+    "solid": "<path d=\"M7 4.2c.55 1 2.3 1.9 2.3 3.2a1.15 1.15 0 0 1-2.3.5 1.15 1.15 0 0 1-2.3-.5C4.7 6.1 6.45 5.2 7 4.2Z\"/><path d=\"M7 7.2c0 1-.3 1.8-.9 2.3h1.8c-.6-.5-.9-1.3-.9-2.3Z\"/><path d=\"M17 9.3s-2.4-1.5-2.4-3a1.2 1.2 0 0 1 2.4-.5 1.2 1.2 0 0 1 2.4.5C19.4 7.8 17 9.3 17 9.3Z\"/><path d=\"M7 13.6 10 17 7 20.4 4 17Z\"/><circle cx=\"17\" cy=\"15.4\" r=\"1.2\"/><circle cx=\"15.5\" cy=\"17.6\" r=\"1.2\"/><circle cx=\"18.5\" cy=\"17.6\" r=\"1.2\"/><path d=\"M17 17.2c0 1.2-.3 2.1-.9 2.8h1.8c-.6-.7-.9-1.6-.9-2.8Z\"/>"
+  }
+}

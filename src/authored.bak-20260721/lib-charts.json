@@ -1,0 +1,403 @@
+{
+  "chart-area": {
+    "category": "charts",
+    "keywords": [
+      "area",
+      "graph",
+      "trend",
+      "grafico",
+      "area",
+      "tendencia",
+      "analytics"
+    ],
+    "aliases": [
+      "area-chart"
+    ],
+    "outline": "<path d=\"M4 4v16h16\"/><path d=\"M7 14l3-4 3 2 4-5 3 3V20H7Z\"/>",
+    "solid": "<path d=\"M4 14l3-3 3 2 4-5 3 3 3-2V20H4Z\"/>"
+  },
+  "chart-scatter": {
+    "category": "charts",
+    "keywords": [
+      "scatter",
+      "plot",
+      "points",
+      "dispersion",
+      "puntos",
+      "correlation",
+      "grafico"
+    ],
+    "aliases": [
+      "scatter-plot",
+      "scatterplot"
+    ],
+    "outline": "<path d=\"M4 4v16h16\"/><circle cx=\"7\" cy=\"16\" r=\"1.4\"/><circle cx=\"9\" cy=\"8\" r=\"1.4\"/><circle cx=\"11\" cy=\"12\" r=\"1.4\"/><circle cx=\"14\" cy=\"15\" r=\"1.4\"/><circle cx=\"16\" cy=\"9\" r=\"1.4\"/><circle cx=\"18\" cy=\"14\" r=\"1.4\"/>",
+    "solid": null
+  },
+  "chart-candlestick": {
+    "category": "charts",
+    "keywords": [
+      "candlestick",
+      "finance",
+      "stocks",
+      "trading",
+      "velas",
+      "bolsa",
+      "ohlc"
+    ],
+    "aliases": [
+      "candlestick",
+      "candles",
+      "ohlc"
+    ],
+    "outline": "<path d=\"M7 5v12M12 7v12M17 4v11\"/><rect x=\"5.5\" y=\"8\" width=\"3\" height=\"6\" rx=\"1\"/><rect x=\"10.5\" y=\"10\" width=\"3\" height=\"6\" rx=\"1\"/><rect x=\"15.5\" y=\"6.5\" width=\"3\" height=\"5\" rx=\"1\"/>",
+    "solid": "<rect x=\"6.5\" y=\"5\" width=\"1\" height=\"12\" rx=\"0.5\"/><rect x=\"11.5\" y=\"7\" width=\"1\" height=\"12\" rx=\"0.5\"/><rect x=\"16.5\" y=\"4\" width=\"1\" height=\"11\" rx=\"0.5\"/><rect x=\"5\" y=\"8\" width=\"4\" height=\"6\" rx=\"1\"/><rect x=\"10\" y=\"10\" width=\"4\" height=\"6\" rx=\"1\"/><rect x=\"15\" y=\"6.5\" width=\"4\" height=\"5\" rx=\"1\"/>"
+  },
+  "chart-donut": {
+    "category": "charts",
+    "keywords": [
+      "donut",
+      "doughnut",
+      "ring",
+      "circular",
+      "rosquilla",
+      "anillo",
+      "proportion"
+    ],
+    "aliases": [
+      "donut-chart",
+      "doughnut-chart"
+    ],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"8.5\"/><circle cx=\"12\" cy=\"12\" r=\"4\"/><path d=\"M12 3.5v4.5M20.5 12H16\"/>",
+    "solid": "<path fill-rule=\"evenodd\" d=\"M12 3.5a8.5 8.5 0 1 0 0 17 8.5 8.5 0 0 0 0-17Zm0 5.5a3 3 0 1 0 0 6 3 3 0 0 0 0-6Z\"/>"
+  },
+  "chart-radar": {
+    "category": "charts",
+    "keywords": [
+      "radar",
+      "spider",
+      "polar",
+      "radar",
+      "arana",
+      "web",
+      "metrics"
+    ],
+    "aliases": [
+      "radar-chart",
+      "spider-chart"
+    ],
+    "outline": "<polygon points=\"12 3 20.5 9 17 19 7 19 3.5 9\"/><polygon points=\"12 7.5 16 10.5 14.5 15.5 9.5 15.5 7.5 10.5\"/><path d=\"M12 12 12 3M12 12 20.5 9M12 12 17 19M12 12 7 19M12 12 3.5 9\"/>",
+    "solid": null
+  },
+  "chart-bubble": {
+    "category": "charts",
+    "keywords": [
+      "bubble",
+      "scatter",
+      "packed",
+      "burbujas",
+      "circulos",
+      "grafico"
+    ],
+    "aliases": [
+      "bubble-chart"
+    ],
+    "outline": "<path d=\"M4 4v16h16\"/><circle cx=\"9\" cy=\"13\" r=\"3\"/><circle cx=\"15.5\" cy=\"9\" r=\"2.3\"/><circle cx=\"17.5\" cy=\"15.5\" r=\"1.8\"/>",
+    "solid": null
+  },
+  "gauge": {
+    "category": "charts",
+    "keywords": [
+      "gauge",
+      "meter",
+      "dial",
+      "speedometer",
+      "medidor",
+      "aguja",
+      "indicador"
+    ],
+    "aliases": [
+      "meter",
+      "dial",
+      "speedometer"
+    ],
+    "outline": "<path d=\"M4 14a8 8 0 0 1 16 0\"/><path d=\"M12 14 9.5 9\"/><circle cx=\"12\" cy=\"14\" r=\"1.4\"/>",
+    "solid": "<path d=\"M4 14a8 8 0 0 1 16 0h-2.5a5.5 5.5 0 0 0-11 0Z\"/><polygon points=\"9.5 9 12.8 14.4 11.2 13.6\"/><circle cx=\"12\" cy=\"14\" r=\"1.8\"/>"
+  },
+  "gauge-high": {
+    "category": "charts",
+    "keywords": [
+      "gauge",
+      "high",
+      "meter",
+      "full",
+      "medidor",
+      "alto",
+      "maximo",
+      "performance"
+    ],
+    "aliases": [
+      "gauge-max",
+      "meter-high"
+    ],
+    "outline": "<path d=\"M4 14a8 8 0 0 1 16 0\"/><path d=\"M12 14 16 9\"/><circle cx=\"12\" cy=\"14\" r=\"1.4\"/>",
+    "solid": "<path d=\"M4 14a8 8 0 0 1 16 0h-2.5a5.5 5.5 0 0 0-11 0Z\"/><polygon points=\"16 9 12.6 14.5 11.4 13.5\"/><circle cx=\"12\" cy=\"14\" r=\"1.8\"/>"
+  },
+  "funnel-chart": {
+    "category": "charts",
+    "keywords": [
+      "funnel",
+      "conversion",
+      "sales",
+      "embudo",
+      "conversion",
+      "ventas",
+      "pipeline"
+    ],
+    "aliases": [
+      "funnel",
+      "conversion-funnel"
+    ],
+    "outline": "<path d=\"M4 6h16l-6 13h-4Z\"/><path d=\"M6 10h12M8 14h8\"/>",
+    "solid": "<path fill-rule=\"evenodd\" d=\"M4 6h16l-6 13h-4Zm2 3.8h12v0.9H6Zm2 4h8v0.9H8Z\"/>"
+  },
+  "histogram": {
+    "category": "charts",
+    "keywords": [
+      "histogram",
+      "bars",
+      "distribution",
+      "histograma",
+      "barras",
+      "frecuencia",
+      "distribucion"
+    ],
+    "aliases": [
+      "histogram-chart"
+    ],
+    "outline": "<path d=\"M4 20h16\"/><rect x=\"5\" y=\"13\" width=\"3\" height=\"7\"/><rect x=\"8\" y=\"9\" width=\"3\" height=\"11\"/><rect x=\"11\" y=\"6\" width=\"3\" height=\"14\"/><rect x=\"14\" y=\"11\" width=\"3\" height=\"9\"/><rect x=\"17\" y=\"15\" width=\"3\" height=\"5\"/>",
+    "solid": "<rect x=\"5\" y=\"13\" width=\"2.4\" height=\"7\"/><rect x=\"8\" y=\"9\" width=\"2.4\" height=\"11\"/><rect x=\"11\" y=\"6\" width=\"2.4\" height=\"14\"/><rect x=\"14\" y=\"11\" width=\"2.4\" height=\"9\"/><rect x=\"17\" y=\"15\" width=\"2.4\" height=\"5\"/>"
+  },
+  "kpi-card": {
+    "category": "charts",
+    "keywords": [
+      "kpi",
+      "metric",
+      "stat",
+      "card",
+      "indicador",
+      "metrica",
+      "tarjeta",
+      "dashboard"
+    ],
+    "aliases": [
+      "metric-card",
+      "stat-card"
+    ],
+    "outline": "<rect x=\"3\" y=\"5\" width=\"18\" height=\"14\" rx=\"2.5\"/><path d=\"M6.5 9h4M6.5 13.5h7\"/><path d=\"m14.5 15.5 2-2.5 2 2.5\"/>",
+    "solid": null
+  },
+  "presentation-chart": {
+    "category": "charts",
+    "keywords": [
+      "presentation",
+      "slides",
+      "board",
+      "chart",
+      "presentacion",
+      "pizarra",
+      "grafico",
+      "report"
+    ],
+    "aliases": [
+      "presentation",
+      "chart-board"
+    ],
+    "outline": "<path d=\"M3 4h18\"/><rect x=\"4.5\" y=\"4\" width=\"15\" height=\"11\" rx=\"1.5\"/><path d=\"M7.5 13h9\"/><path d=\"M9.5 13v-2.5M12.5 13v-4.5M15.5 13v-3.5\"/><path d=\"M12 15v3\"/><path d=\"m8.5 21 3.5-3 3.5 3\"/>",
+    "solid": null
+  },
+  "report-doc": {
+    "category": "charts",
+    "keywords": [
+      "report",
+      "document",
+      "analytics",
+      "informe",
+      "documento",
+      "reporte",
+      "chart"
+    ],
+    "aliases": [
+      "report",
+      "document-chart"
+    ],
+    "outline": "<path d=\"M13 3H6.5A1.5 1.5 0 0 0 5 4.5v15A1.5 1.5 0 0 0 6.5 21h11a1.5 1.5 0 0 0 1.5-1.5V9Z\"/><path d=\"M13 3v5a1 1 0 0 0 1 1h5\"/><path d=\"M8.5 12.5h4\"/><path d=\"M8.5 17h7\"/><path d=\"M10 17v-2.5M12.5 17v-4M15 17v-2\"/>",
+    "solid": null
+  },
+  "spreadsheet-grid": {
+    "category": "charts",
+    "keywords": [
+      "spreadsheet",
+      "excel",
+      "grid",
+      "cells",
+      "hoja de calculo",
+      "celdas",
+      "tabla",
+      "sheet"
+    ],
+    "aliases": [
+      "spreadsheet",
+      "sheet"
+    ],
+    "outline": "<rect x=\"3\" y=\"4\" width=\"18\" height=\"16\" rx=\"2\"/><path d=\"M3 8h18M3 12h18M3 16h18\"/><path d=\"M8.5 4v16M13 4v16M17.5 4v16\"/>",
+    "solid": null
+  },
+  "heatmap": {
+    "category": "charts",
+    "keywords": [
+      "heatmap",
+      "matrix",
+      "cells",
+      "intensity",
+      "mapa de calor",
+      "matriz",
+      "cuadricula"
+    ],
+    "aliases": [
+      "heat-map",
+      "matrix"
+    ],
+    "outline": "<rect x=\"3.5\" y=\"3.5\" width=\"5\" height=\"5\" rx=\"1\"/><rect x=\"9.5\" y=\"3.5\" width=\"5\" height=\"5\" rx=\"1\"/><rect x=\"15.5\" y=\"3.5\" width=\"5\" height=\"5\" rx=\"1\"/><rect x=\"3.5\" y=\"9.5\" width=\"5\" height=\"5\" rx=\"1\"/><rect x=\"9.5\" y=\"9.5\" width=\"5\" height=\"5\" rx=\"1\"/><rect x=\"15.5\" y=\"9.5\" width=\"5\" height=\"5\" rx=\"1\"/><rect x=\"3.5\" y=\"15.5\" width=\"5\" height=\"5\" rx=\"1\"/><rect x=\"9.5\" y=\"15.5\" width=\"5\" height=\"5\" rx=\"1\"/><rect x=\"15.5\" y=\"15.5\" width=\"5\" height=\"5\" rx=\"1\"/>",
+    "solid": "<rect x=\"3.5\" y=\"3.5\" width=\"5\" height=\"5\" rx=\"1\"/><rect x=\"10.4\" y=\"4.4\" width=\"3.2\" height=\"3.2\" rx=\"0.8\"/><rect x=\"15.5\" y=\"3.5\" width=\"5\" height=\"5\" rx=\"1\"/><rect x=\"4.4\" y=\"10.4\" width=\"3.2\" height=\"3.2\" rx=\"0.8\"/><rect x=\"9.5\" y=\"9.5\" width=\"5\" height=\"5\" rx=\"1\"/><rect x=\"15.5\" y=\"9.5\" width=\"5\" height=\"5\" rx=\"1\"/><rect x=\"3.5\" y=\"15.5\" width=\"5\" height=\"5\" rx=\"1\"/><rect x=\"10.4\" y=\"16.4\" width=\"3.2\" height=\"3.2\" rx=\"0.8\"/><rect x=\"16.4\" y=\"16.4\" width=\"3.2\" height=\"3.2\" rx=\"0.8\"/>"
+  },
+  "treemap": {
+    "category": "charts",
+    "keywords": [
+      "treemap",
+      "blocks",
+      "hierarchy",
+      "mapa de arbol",
+      "bloques",
+      "jerarquia",
+      "proportion"
+    ],
+    "aliases": [
+      "tree-map"
+    ],
+    "outline": "<rect x=\"3\" y=\"4\" width=\"18\" height=\"16\" rx=\"2\"/><path d=\"M13 4v16M3 13h10M13 10h8M17 10v10\"/>",
+    "solid": "<rect x=\"3\" y=\"4\" width=\"9.4\" height=\"8.4\" rx=\"1\"/><rect x=\"3\" y=\"13\" width=\"9.4\" height=\"7\" rx=\"1\"/><rect x=\"13\" y=\"4\" width=\"8\" height=\"5.4\" rx=\"1\"/><rect x=\"13\" y=\"10\" width=\"3.4\" height=\"10\" rx=\"1\"/><rect x=\"17\" y=\"10\" width=\"4\" height=\"10\" rx=\"1\"/>"
+  },
+  "waterfall-chart": {
+    "category": "charts",
+    "keywords": [
+      "waterfall",
+      "cascade",
+      "bridge",
+      "cascada",
+      "incremental",
+      "finance",
+      "grafico"
+    ],
+    "aliases": [
+      "waterfall",
+      "bridge-chart"
+    ],
+    "outline": "<path d=\"M4 20h16\"/><rect x=\"5\" y=\"13\" width=\"2.4\" height=\"7\"/><rect x=\"8.8\" y=\"9\" width=\"2.4\" height=\"4\"/><rect x=\"12.6\" y=\"9\" width=\"2.4\" height=\"6\"/><rect x=\"16.4\" y=\"7\" width=\"2.4\" height=\"8\"/><path d=\"M7.4 13h1.4M11.2 9h1.4M15 15h1.4\"/>",
+    "solid": null
+  },
+  "pyramid-chart": {
+    "category": "charts",
+    "keywords": [
+      "pyramid",
+      "hierarchy",
+      "funnel",
+      "piramide",
+      "jerarquia",
+      "niveles",
+      "levels"
+    ],
+    "aliases": [
+      "pyramid",
+      "triangle-chart"
+    ],
+    "outline": "<path d=\"M12 4 20 20H4Z\"/><path d=\"M9.25 9.5h5.5M6.75 14.5h10.5\"/>",
+    "solid": "<path d=\"M12 4.5l2.6 4.7H9.4Z\"/><path d=\"M9.1 9.8h5.8l2.2 4.4H6.9Z\"/><path d=\"M6.6 14.8h10.8l2.6 5.2H4Z\"/>"
+  },
+  "venn-diagram": {
+    "category": "charts",
+    "keywords": [
+      "venn",
+      "overlap",
+      "sets",
+      "intersection",
+      "venn",
+      "conjuntos",
+      "interseccion",
+      "diagram"
+    ],
+    "aliases": [
+      "venn",
+      "overlap"
+    ],
+    "outline": "<circle cx=\"9\" cy=\"12\" r=\"6\"/><circle cx=\"15\" cy=\"12\" r=\"6\"/>",
+    "solid": "<path fill-rule=\"evenodd\" d=\"M9 6a6 6 0 1 0 0 12 6 6 0 0 0 0-12Zm6 0a6 6 0 1 0 0 12 6 6 0 0 0 0-12Z\"/>"
+  },
+  "chart-mixed": {
+    "category": "charts",
+    "keywords": [
+      "mixed",
+      "combo",
+      "bars",
+      "line",
+      "combinado",
+      "mixto",
+      "barras",
+      "linea"
+    ],
+    "aliases": [
+      "combo-chart",
+      "mixed-chart"
+    ],
+    "outline": "<path d=\"M4 4v16h16\"/><path d=\"M8 20v-5M12 20v-8M16 20v-4\"/><path d=\"m6.5 12 3-4 4 2 5-6\"/>",
+    "solid": null
+  },
+  "data-table": {
+    "category": "charts",
+    "keywords": [
+      "table",
+      "data",
+      "rows",
+      "grid",
+      "tabla",
+      "datos",
+      "filas",
+      "records"
+    ],
+    "aliases": [
+      "table",
+      "records-table"
+    ],
+    "outline": "<rect x=\"3\" y=\"4\" width=\"18\" height=\"16\" rx=\"2\"/><path d=\"M3 8.5h18M10.5 4v16M3 12.5h18M3 16.5h18\"/>",
+    "solid": null
+  },
+  "analytics-board": {
+    "category": "charts",
+    "keywords": [
+      "analytics",
+      "dashboard",
+      "board",
+      "metrics",
+      "analitica",
+      "tablero",
+      "panel",
+      "widgets"
+    ],
+    "aliases": [
+      "analytics",
+      "dashboard-board"
+    ],
+    "outline": "<rect x=\"3\" y=\"4\" width=\"18\" height=\"16\" rx=\"2\"/><path d=\"M12 4v16\"/><path d=\"M5 16h6\"/><path d=\"M6 16v-3M8 16v-4.5M10 16v-2\"/><path d=\"m14 14 2-2.5 2 1.5 2-3\"/>",
+    "solid": null
+  }
+}

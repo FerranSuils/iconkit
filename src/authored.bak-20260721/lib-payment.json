@@ -1,0 +1,736 @@
+{
+  "visa-card": {
+    "category": "payment",
+    "keywords": [
+      "visa",
+      "tarjeta",
+      "card",
+      "pago",
+      "payment",
+      "credito"
+    ],
+    "aliases": [
+      "visa-payment"
+    ],
+    "outline": "<rect x=\"2.5\" y=\"5\" width=\"19\" height=\"14\" rx=\"2.5\"/><path d=\"M9 9l3 6 3-6\"/>",
+    "solid": null
+  },
+  "mastercard": {
+    "category": "payment",
+    "keywords": [
+      "mastercard",
+      "tarjeta",
+      "card",
+      "pago",
+      "payment"
+    ],
+    "aliases": [
+      "master-card",
+      "mc-card"
+    ],
+    "outline": "<rect x=\"2.5\" y=\"5\" width=\"19\" height=\"14\" rx=\"2.5\"/><circle cx=\"10.6\" cy=\"12\" r=\"2.9\"/><circle cx=\"13.4\" cy=\"12\" r=\"2.9\"/>",
+    "solid": "<path d=\"M5 5H19a2.5 2.5 0 0 1 2.5 2.5V16.5a2.5 2.5 0 0 1-2.5 2.5H5a2.5 2.5 0 0 1-2.5-2.5V7.5A2.5 2.5 0 0 1 5 5ZM7.7 12a2.9 2.9 0 1 0 5.8 0 2.9 2.9 0 1 0-5.8 0ZM10.5 12a2.9 2.9 0 1 0 5.8 0 2.9 2.9 0 1 0-5.8 0Z\" fill-rule=\"evenodd\"/>"
+  },
+  "amex-card": {
+    "category": "payment",
+    "keywords": [
+      "amex",
+      "american express",
+      "tarjeta",
+      "card",
+      "pago",
+      "payment"
+    ],
+    "aliases": [
+      "american-express",
+      "amex"
+    ],
+    "outline": "<rect x=\"2.5\" y=\"5\" width=\"19\" height=\"14\" rx=\"2.5\"/><rect x=\"9.4\" y=\"9.4\" width=\"5.2\" height=\"5.2\" rx=\"0.6\"/>",
+    "solid": "<path d=\"M5 5H19a2.5 2.5 0 0 1 2.5 2.5V16.5a2.5 2.5 0 0 1-2.5 2.5H5a2.5 2.5 0 0 1-2.5-2.5V7.5A2.5 2.5 0 0 1 5 5ZM9.4 9.4h5.2v5.2h-5.2Z\" fill-rule=\"evenodd\"/>"
+  },
+  "discover-card": {
+    "category": "payment",
+    "keywords": [
+      "discover",
+      "tarjeta",
+      "card",
+      "pago",
+      "payment"
+    ],
+    "aliases": [
+      "discover"
+    ],
+    "outline": "<rect x=\"2.5\" y=\"5\" width=\"19\" height=\"14\" rx=\"2.5\"/><circle cx=\"12\" cy=\"12\" r=\"2.9\"/>",
+    "solid": "<path d=\"M5 5H19a2.5 2.5 0 0 1 2.5 2.5V16.5a2.5 2.5 0 0 1-2.5 2.5H5a2.5 2.5 0 0 1-2.5-2.5V7.5A2.5 2.5 0 0 1 5 5ZM9.1 12a2.9 2.9 0 1 0 5.8 0 2.9 2.9 0 1 0-5.8 0Z\" fill-rule=\"evenodd\"/>"
+  },
+  "paypal-pay": {
+    "category": "payment",
+    "keywords": [
+      "paypal",
+      "pago",
+      "payment",
+      "online",
+      "wallet"
+    ],
+    "aliases": [
+      "paypal-checkout",
+      "pp-pay"
+    ],
+    "outline": "<rect x=\"3.5\" y=\"3.5\" width=\"17\" height=\"17\" rx=\"4\"/><path d=\"M10 16V8h2.8a2.4 2.4 0 0 1 0 4.8H10\"/>",
+    "solid": null
+  },
+  "apple-pay": {
+    "category": "payment",
+    "keywords": [
+      "apple pay",
+      "apple",
+      "pago",
+      "payment",
+      "movil",
+      "mobile"
+    ],
+    "aliases": [
+      "applepay"
+    ],
+    "outline": "<path d=\"M12 9.4c-1-1.1-2.7-1.4-4-.6-1.4.9-1.7 3-1 5 .6 1.7 1.8 3.4 3 3.4.7 0 1.2-.4 2-.4s1.3.4 2 .4c1.2 0 2.4-1.7 3-3.4.7-2 .4-4.1-1-5-1.3-.8-3-.5-4 .6Z\"/><path d=\"M12.4 9c-.3-1.2.5-2.4 1.7-2.7.3 1.2-.5 2.4-1.7 2.7Z\"/>",
+    "solid": "<path d=\"M12 9.4c-1-1.1-2.7-1.4-4-.6-1.4.9-1.7 3-1 5 .6 1.7 1.8 3.4 3 3.4.7 0 1.2-.4 2-.4s1.3.4 2 .4c1.2 0 2.4-1.7 3-3.4.7-2 .4-4.1-1-5-1.3-.8-3-.5-4 .6Z\"/><path d=\"M12.4 9c-.3-1.2.5-2.4 1.7-2.7.3 1.2-.5 2.4-1.7 2.7Z\"/>"
+  },
+  "google-pay": {
+    "category": "payment",
+    "keywords": [
+      "google pay",
+      "google",
+      "gpay",
+      "pago",
+      "payment"
+    ],
+    "aliases": [
+      "gpay",
+      "googlepay"
+    ],
+    "outline": "<rect x=\"3.5\" y=\"3.5\" width=\"17\" height=\"17\" rx=\"4\"/><path d=\"M15.2 9.3A4.2 4.2 0 1 0 16.2 12.4H12.2\"/>",
+    "solid": null
+  },
+  "samsung-pay": {
+    "category": "payment",
+    "keywords": [
+      "samsung pay",
+      "samsung",
+      "pago",
+      "payment",
+      "movil"
+    ],
+    "aliases": [
+      "samsungpay"
+    ],
+    "outline": "<rect x=\"3.5\" y=\"3.5\" width=\"17\" height=\"17\" rx=\"4\"/><path d=\"M14.6 9.5a2.7 2.7 0 0 0-2.6-1.3c-1.5 0-2.6.8-2.6 1.9 0 2.6 5.2 1.2 5.2 3.9 0 1.1-1.2 1.9-2.7 1.9a2.8 2.8 0 0 1-2.5-1.4\"/>",
+    "solid": null
+  },
+  "stripe-pay": {
+    "category": "payment",
+    "keywords": [
+      "stripe",
+      "pago",
+      "payment",
+      "checkout",
+      "online"
+    ],
+    "aliases": [
+      "stripe-checkout"
+    ],
+    "outline": "<rect x=\"3.5\" y=\"3.5\" width=\"17\" height=\"17\" rx=\"4\"/><path d=\"M9 15l2-6M11.5 15l2-6M14 15l2-6\"/>",
+    "solid": null
+  },
+  "klarna": {
+    "category": "payment",
+    "keywords": [
+      "klarna",
+      "pago",
+      "payment",
+      "plazos",
+      "installments"
+    ],
+    "aliases": [
+      "klarna-pay"
+    ],
+    "outline": "<rect x=\"3.5\" y=\"3.5\" width=\"17\" height=\"17\" rx=\"4\"/><path d=\"M10 8v8M15 8l-4.5 4L15 16\"/>",
+    "solid": null
+  },
+  "sepa": {
+    "category": "payment",
+    "keywords": [
+      "sepa",
+      "euro",
+      "transferencia",
+      "transfer",
+      "pago",
+      "payment"
+    ],
+    "aliases": [
+      "sepa-transfer",
+      "sepa-payment"
+    ],
+    "outline": "<rect x=\"3.5\" y=\"3.5\" width=\"17\" height=\"17\" rx=\"4\"/><path d=\"M15.3 9.4a4 4 0 1 0 0 5.2\"/><path d=\"M8 11.2h5M8 13h4.5\"/>",
+    "solid": null
+  },
+  "bizum": {
+    "category": "payment",
+    "keywords": [
+      "bizum",
+      "pago movil",
+      "mobile payment",
+      "espana",
+      "transferencia"
+    ],
+    "aliases": [
+      "bizum-pay"
+    ],
+    "outline": "<rect x=\"3.5\" y=\"3.5\" width=\"17\" height=\"17\" rx=\"4\"/><path d=\"M10 8v8\"/><path d=\"M10 8h3a2 2 0 0 1 0 4h-3\"/><path d=\"M10 12h3.3a2.1 2.1 0 0 1 0 4h-3.3\"/>",
+    "solid": null
+  },
+  "ideal-pay": {
+    "category": "payment",
+    "keywords": [
+      "ideal",
+      "pago",
+      "payment",
+      "banco",
+      "bank",
+      "holanda"
+    ],
+    "aliases": [
+      "ideal",
+      "ideal-payment"
+    ],
+    "outline": "<rect x=\"3.5\" y=\"3.5\" width=\"17\" height=\"17\" rx=\"4\"/><path d=\"M12 11.5v4.5\"/><path d=\"M12 8.3h.01\"/><path d=\"M9 18h6\"/>",
+    "solid": null
+  },
+  "alipay": {
+    "category": "payment",
+    "keywords": [
+      "alipay",
+      "pago",
+      "payment",
+      "china",
+      "wallet",
+      "movil"
+    ],
+    "aliases": [
+      "ali-pay",
+      "alipay-wallet"
+    ],
+    "outline": "<rect x=\"3.5\" y=\"3.5\" width=\"17\" height=\"17\" rx=\"4\"/><path d=\"M9 16l3-8 3 8M10.2 13h3.6\"/>",
+    "solid": null
+  },
+  "wechat-pay": {
+    "category": "payment",
+    "keywords": [
+      "wechat pay",
+      "wechat",
+      "weixin",
+      "china",
+      "pago",
+      "payment",
+      "chat"
+    ],
+    "aliases": [
+      "wechatpay",
+      "weixin-pay"
+    ],
+    "outline": "<path d=\"M4 8.5A2 2 0 0 1 6 6.5h12a2 2 0 0 1 2 2v4.5a2 2 0 0 1-2 2h-6.5L8 18v-3H6a2 2 0 0 1-2-2Z\"/><path d=\"M10 8.6l2 1.9 2-1.9\"/><path d=\"M12 10.5v3.8\"/><path d=\"M10.3 11.7h3.4M10.3 13.1h3.4\"/>",
+    "solid": null
+  },
+  "cash-payment": {
+    "category": "payment",
+    "keywords": [
+      "efectivo",
+      "cash",
+      "dinero",
+      "money",
+      "billetes",
+      "payment"
+    ],
+    "aliases": [
+      "pay-cash",
+      "bills-payment"
+    ],
+    "outline": "<rect x=\"3\" y=\"9\" width=\"15\" height=\"8.5\" rx=\"1.5\"/><circle cx=\"10.5\" cy=\"13.2\" r=\"2\"/><path d=\"M6.5 9V8.5A1.5 1.5 0 0 1 8 7h10.5A1.5 1.5 0 0 1 20 8.5v6A1.5 1.5 0 0 1 18.5 16H18\"/>",
+    "solid": null
+  },
+  "card-payment": {
+    "category": "payment",
+    "keywords": [
+      "pago con tarjeta",
+      "card payment",
+      "tarjeta",
+      "pay",
+      "checkout"
+    ],
+    "aliases": [
+      "pay-by-card",
+      "card-pay"
+    ],
+    "outline": "<rect x=\"2.5\" y=\"5.5\" width=\"16\" height=\"11\" rx=\"2\"/><path d=\"M2.5 9h16\"/><circle cx=\"17.5\" cy=\"16\" r=\"4.2\"/><path d=\"M17.5 14.3v3.4\"/><path d=\"M18.7 15a1.2 1.2 0 0 0-1.2-.6c-.8 0-1.3.4-1.3 1 0 1.3 2.6.6 2.6 1.9 0 .5-.6 1-1.3 1a1.2 1.2 0 0 1-1.2-.6\"/>",
+    "solid": null
+  },
+  "contactless-pay": {
+    "category": "payment",
+    "keywords": [
+      "contactless",
+      "sin contacto",
+      "nfc",
+      "tap",
+      "pago",
+      "payment"
+    ],
+    "aliases": [
+      "nfc-pay",
+      "tap-to-pay"
+    ],
+    "outline": "<rect x=\"3\" y=\"6.5\" width=\"9\" height=\"11\" rx=\"1.5\"/><path d=\"M14.5 9a4.6 4.6 0 0 1 0 6\"/><path d=\"M17.3 7.3a8.2 8.2 0 0 1 0 9.4\"/>",
+    "solid": null
+  },
+  "qr-payment": {
+    "category": "payment",
+    "keywords": [
+      "qr",
+      "codigo qr",
+      "qr code",
+      "escanear",
+      "scan",
+      "pago",
+      "payment"
+    ],
+    "aliases": [
+      "scan-to-pay",
+      "qr-pay"
+    ],
+    "outline": "<rect x=\"3.5\" y=\"3.5\" width=\"6\" height=\"6\" rx=\"1.2\"/><rect x=\"14.5\" y=\"3.5\" width=\"6\" height=\"6\" rx=\"1.2\"/><rect x=\"3.5\" y=\"14.5\" width=\"6\" height=\"6\" rx=\"1.2\"/><path d=\"M6.5 6.5h.01M17.5 6.5h.01M6.5 17.5h.01\"/><path d=\"M17 14.5v5\"/><path d=\"M18.4 15.5a1.5 1.5 0 0 0-1.4-.8c-.9 0-1.6.5-1.6 1.2 0 1.5 3 .7 3 2.2 0 .7-.7 1.2-1.6 1.2a1.6 1.6 0 0 1-1.4-.8\"/>",
+    "solid": null
+  },
+  "bank-transfer": {
+    "category": "payment",
+    "keywords": [
+      "transferencia",
+      "bank transfer",
+      "banco",
+      "bank",
+      "pago",
+      "payment"
+    ],
+    "aliases": [
+      "bank-payment",
+      "transfer-bank"
+    ],
+    "outline": "<path d=\"M4 8.7 12 4.5l8 4.2\"/><path d=\"M4 8.7h16\"/><path d=\"M6.5 9v8.5M17.5 9v8.5\"/><path d=\"M3.5 20.5h17\"/><path d=\"M9.5 13h5M13 11.5l1.5 1.5-1.5 1.5\"/><path d=\"M14.5 16h-5M11 14.5 9.5 16l1.5 1.5\"/>",
+    "solid": null
+  },
+  "wire-payment": {
+    "category": "payment",
+    "keywords": [
+      "wire",
+      "giro",
+      "transferencia rapida",
+      "fast transfer",
+      "pago",
+      "payment"
+    ],
+    "aliases": [
+      "money-wire",
+      "fast-transfer"
+    ],
+    "outline": "<circle cx=\"14\" cy=\"12\" r=\"6.5\"/><path d=\"M14 9.5v5\"/><path d=\"M15.3 10.4a1.4 1.4 0 0 0-1.3-.7c-.8 0-1.5.5-1.5 1.1 0 1.5 2.9.7 2.9 2.2 0 .6-.7 1.1-1.5 1.1a1.4 1.4 0 0 1-1.3-.7\"/><path d=\"M2 9.5h3.5M2 12h3M2 14.5h3.5\"/>",
+    "solid": null
+  },
+  "check-payment": {
+    "category": "payment",
+    "keywords": [
+      "cheque",
+      "check",
+      "talon",
+      "bank check",
+      "pago",
+      "payment"
+    ],
+    "aliases": [
+      "cheque-payment",
+      "bank-cheque"
+    ],
+    "outline": "<rect x=\"2.5\" y=\"6\" width=\"19\" height=\"12\" rx=\"2\"/><path d=\"M6 10.5h5M6 13.5h3\"/><path d=\"M17 10.8v3.4\"/><path d=\"M18.2 11.5a1.2 1.2 0 0 0-1.2-.6c-.8 0-1.3.4-1.3 1 0 1.3 2.6.6 2.6 1.9 0 .5-.6 1-1.3 1a1.2 1.2 0 0 1-1.2-.6\"/>",
+    "solid": null
+  },
+  "invoice-pay": {
+    "category": "payment",
+    "keywords": [
+      "factura",
+      "invoice",
+      "pagar factura",
+      "pay invoice",
+      "bill",
+      "payment"
+    ],
+    "aliases": [
+      "pay-invoice",
+      "invoice-paid"
+    ],
+    "outline": "<path d=\"M6 3.5h7l5 5v11a1.5 1.5 0 0 1-1.5 1.5H6A1.5 1.5 0 0 1 4.5 19.5V5A1.5 1.5 0 0 1 6 3.5Z\"/><path d=\"M13 3.5V8.5h5\"/><path d=\"M8 12.5h6M8 15.5h4\"/><circle cx=\"16.5\" cy=\"17.5\" r=\"3.8\"/><path d=\"M14.9 17.6l1.1 1.1 2-2.2\"/>",
+    "solid": null
+  },
+  "refund": {
+    "category": "payment",
+    "keywords": [
+      "reembolso",
+      "refund",
+      "devolucion",
+      "money back",
+      "pago",
+      "payment"
+    ],
+    "aliases": [
+      "money-back",
+      "reimbursement"
+    ],
+    "outline": "<path d=\"M4 12a8 8 0 1 0 2.7-5.96L4 8\"/><path d=\"M4 4v4h4\"/><path d=\"M12 10.3v3.4\"/><path d=\"M13.2 11a1.2 1.2 0 0 0-1.2-.6c-.8 0-1.3.4-1.3 1 0 1.3 2.6.6 2.6 1.9 0 .5-.6 1-1.3 1a1.2 1.2 0 0 1-1.2-.6\"/>",
+    "solid": null
+  },
+  "chargeback": {
+    "category": "payment",
+    "keywords": [
+      "contracargo",
+      "chargeback",
+      "reverso",
+      "reversal",
+      "dispute",
+      "pago"
+    ],
+    "aliases": [
+      "payment-reversal",
+      "dispute-charge"
+    ],
+    "outline": "<rect x=\"2.5\" y=\"4\" width=\"19\" height=\"10.5\" rx=\"2.5\"/><path d=\"M2.5 7.5h19\"/><path d=\"M19.5 18.5H7.5\"/><path d=\"M10.5 15.5l-3 3 3 3\"/>",
+    "solid": null
+  },
+  "split-bill": {
+    "category": "payment",
+    "keywords": [
+      "dividir cuenta",
+      "split bill",
+      "compartir",
+      "share",
+      "cuenta",
+      "payment"
+    ],
+    "aliases": [
+      "bill-split",
+      "share-bill"
+    ],
+    "outline": "<path d=\"M6 20.5V6A1.5 1.5 0 0 1 7.5 4.5H16.5A1.5 1.5 0 0 1 18 6V20.5l-1.5-1.1-1.5 1.1-1.5-1.1-1.5 1.1-1.5-1.1-1.5 1.1-1.5-1.1-1.5 1.1Z\"/><path d=\"M12 5v13.5\"/><path d=\"M8.5 9h2M13.5 9h2M8.5 12h2M13.5 12h2\"/>",
+    "solid": null
+  },
+  "tip-jar": {
+    "category": "payment",
+    "keywords": [
+      "propina",
+      "tip",
+      "jar",
+      "bote",
+      "gratuity",
+      "payment"
+    ],
+    "aliases": [
+      "tips",
+      "gratuity"
+    ],
+    "outline": "<rect x=\"5\" y=\"6\" width=\"14\" height=\"2.8\" rx=\"1.2\"/><path d=\"M10.5 7.4h3\"/><path d=\"M6.2 8.8h11.6l-1 10.6A1.5 1.5 0 0 1 15.3 20.8H8.7A1.5 1.5 0 0 1 7.2 19.4Z\"/><path d=\"M12 12.3v3.4\"/><path d=\"M13.2 13a1.2 1.2 0 0 0-1.2-.6c-.8 0-1.3.4-1.3 1 0 1.3 2.6.6 2.6 1.9 0 .5-.6 1-1.3 1a1.2 1.2 0 0 1-1.2-.6\"/>",
+    "solid": null
+  },
+  "subscription-pay": {
+    "category": "payment",
+    "keywords": [
+      "suscripcion",
+      "subscription",
+      "auto renovar",
+      "auto-renew",
+      "pago",
+      "payment"
+    ],
+    "aliases": [
+      "subscription",
+      "auto-renew"
+    ],
+    "outline": "<path d=\"M21 12a9 9 0 1 1-3-6.7L21 8\"/><path d=\"M21 3v5h-5\"/><rect x=\"8\" y=\"9.3\" width=\"8\" height=\"5.8\" rx=\"1\"/><path d=\"M8 11.5h8\"/>",
+    "solid": null
+  },
+  "recurring-pay": {
+    "category": "payment",
+    "keywords": [
+      "recurrente",
+      "recurring",
+      "repetir",
+      "repeat",
+      "pago",
+      "payment"
+    ],
+    "aliases": [
+      "recurring-payment",
+      "repeat-payment"
+    ],
+    "outline": "<path d=\"M21 12a9 9 0 1 1-3-6.7L21 8\"/><path d=\"M21 3v5h-5\"/><path d=\"M12 10.3v3.4\"/><path d=\"M13.2 11a1.2 1.2 0 0 0-1.2-.6c-.8 0-1.3.4-1.3 1 0 1.3 2.6.6 2.6 1.9 0 .5-.6 1-1.3 1a1.2 1.2 0 0 1-1.2-.6\"/>",
+    "solid": null
+  },
+  "installments": {
+    "category": "payment",
+    "keywords": [
+      "plazos",
+      "installments",
+      "cuotas",
+      "pay in parts",
+      "financiar",
+      "payment"
+    ],
+    "aliases": [
+      "pay-in-parts",
+      "instalments"
+    ],
+    "outline": "<circle cx=\"7.5\" cy=\"12\" r=\"4.8\"/><path d=\"M7.5 10.3v3.4\"/><path d=\"M8.7 11a1.2 1.2 0 0 0-1.2-.6c-.8 0-1.3.4-1.3 1 0 1.3 2.6.6 2.6 1.9 0 .5-.6 1-1.3 1a1.2 1.2 0 0 1-1.2-.6\"/><path d=\"M13 7.6a4.8 4.8 0 0 1 0 8.8\"/><path d=\"M16.5 8.8a4.8 4.8 0 0 1 0 6.4\"/>",
+    "solid": null
+  },
+  "pos-terminal": {
+    "category": "payment",
+    "keywords": [
+      "datafono",
+      "pos",
+      "terminal",
+      "card terminal",
+      "tpv",
+      "payment"
+    ],
+    "aliases": [
+      "card-terminal",
+      "payment-terminal"
+    ],
+    "outline": "<rect x=\"6\" y=\"4\" width=\"12\" height=\"17\" rx=\"2\"/><rect x=\"8.5\" y=\"6\" width=\"7\" height=\"4\" rx=\"0.8\"/><path d=\"M9.5 12.8h.01M12 12.8h.01M14.5 12.8h.01M9.5 15.3h.01M12 15.3h.01M14.5 15.3h.01M9.5 17.8h.01M12 17.8h.01M14.5 17.8h.01\"/><path d=\"M9 4V2.5a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1V4\"/>",
+    "solid": null
+  },
+  "pin-pad": {
+    "category": "payment",
+    "keywords": [
+      "teclado pin",
+      "pin pad",
+      "keypad",
+      "clave",
+      "codigo",
+      "payment"
+    ],
+    "aliases": [
+      "pinpad",
+      "keypad-pin"
+    ],
+    "outline": "<rect x=\"4\" y=\"3\" width=\"16\" height=\"18\" rx=\"2.5\"/><path d=\"M8 7.5h.01M10.7 7.5h.01M13.3 7.5h.01M16 7.5h.01\"/><path d=\"M8.5 12h.01M12 12h.01M15.5 12h.01M8.5 15.2h.01M12 15.2h.01M15.5 15.2h.01M8.5 18.4h.01M12 18.4h.01M15.5 18.4h.01\"/>",
+    "solid": null
+  },
+  "cvv-code": {
+    "category": "payment",
+    "keywords": [
+      "cvv",
+      "codigo seguridad",
+      "security code",
+      "tarjeta",
+      "card",
+      "payment"
+    ],
+    "aliases": [
+      "cvv",
+      "security-code"
+    ],
+    "outline": "<rect x=\"2.5\" y=\"5\" width=\"19\" height=\"14\" rx=\"2.5\"/><path d=\"M2.5 8.5h19\"/><path d=\"M5 12.5h8.5\"/><rect x=\"15\" y=\"11\" width=\"5\" height=\"3\" rx=\"0.6\"/><path d=\"M16.2 12.5h.01M17.5 12.5h.01M18.8 12.5h.01\"/>",
+    "solid": null
+  },
+  "card-expiry": {
+    "category": "payment",
+    "keywords": [
+      "caducidad",
+      "card expiry",
+      "vencimiento",
+      "expiration",
+      "tarjeta",
+      "payment"
+    ],
+    "aliases": [
+      "expiry-date",
+      "card-expiration"
+    ],
+    "outline": "<rect x=\"2.5\" y=\"4.5\" width=\"15\" height=\"10.5\" rx=\"2\"/><path d=\"M2.5 8h15\"/><circle cx=\"17\" cy=\"16.5\" r=\"4.8\"/><path d=\"M17 14.2V16.5l1.6 1\"/>",
+    "solid": null
+  },
+  "secure-pay": {
+    "category": "payment",
+    "keywords": [
+      "pago seguro",
+      "secure payment",
+      "candado",
+      "lock",
+      "seguro",
+      "payment"
+    ],
+    "aliases": [
+      "pay-secure",
+      "protected-payment"
+    ],
+    "outline": "<rect x=\"4.5\" y=\"10\" width=\"15\" height=\"10.5\" rx=\"2.5\"/><path d=\"M7.5 10V7.5a4.5 4.5 0 0 1 9 0V10\"/><path d=\"M12 13.3v3.4\"/><path d=\"M13.2 14a1.2 1.2 0 0 0-1.2-.6c-.8 0-1.3.4-1.3 1 0 1.3 2.6.6 2.6 1.9 0 .5-.6 1-1.3 1a1.2 1.2 0 0 1-1.2-.6\"/>",
+    "solid": null
+  },
+  "fraud-alert": {
+    "category": "payment",
+    "keywords": [
+      "fraude",
+      "fraud",
+      "alerta",
+      "alert",
+      "aviso",
+      "payment"
+    ],
+    "aliases": [
+      "payment-fraud",
+      "fraud-warning"
+    ],
+    "outline": "<rect x=\"2.5\" y=\"4.5\" width=\"15\" height=\"10.5\" rx=\"2\"/><path d=\"M2.5 8h15\"/><path d=\"M16.6 12.4a1.1 1.1 0 0 1 1.8 0l3.1 5.4a1.1 1.1 0 0 1-.9 1.6h-6.2a1.1 1.1 0 0 1-.9-1.6Z\"/><path d=\"M17.5 15v1.6\"/><path d=\"M17.5 18.3h.01\"/>",
+    "solid": null
+  },
+  "donation": {
+    "category": "payment",
+    "keywords": [
+      "donacion",
+      "donation",
+      "donar",
+      "donate",
+      "caridad",
+      "charity"
+    ],
+    "aliases": [
+      "give-money",
+      "charity"
+    ],
+    "outline": "<path d=\"M12 20.3C12 20.3 3.5 15 3.5 8.9A4.6 4.6 0 0 1 12 6a4.6 4.6 0 0 1 8.5 2.9C20.5 15 12 20.3 12 20.3Z\"/><path d=\"M12 9.3v3.4\"/><path d=\"M13.2 10a1.2 1.2 0 0 0-1.2-.6c-.8 0-1.3.4-1.3 1 0 1.3 2.6.6 2.6 1.9 0 .5-.6 1-1.3 1a1.2 1.2 0 0 1-1.2-.6\"/>",
+    "solid": null
+  },
+  "crowdfund": {
+    "category": "payment",
+    "keywords": [
+      "micromecenazgo",
+      "crowdfunding",
+      "financiacion",
+      "fundraising",
+      "colectivo",
+      "payment"
+    ],
+    "aliases": [
+      "crowdfunding",
+      "fundraising"
+    ],
+    "outline": "<circle cx=\"12\" cy=\"7\" r=\"4.3\"/><path d=\"M12 5.3v3.4\"/><path d=\"M13.2 6a1.2 1.2 0 0 0-1.2-.6c-.8 0-1.3.4-1.3 1 0 1.3 2.6.6 2.6 1.9 0 .5-.6 1-1.3 1a1.2 1.2 0 0 1-1.2-.6\"/><circle cx=\"6.5\" cy=\"16\" r=\"1.6\"/><path d=\"M4.8 20.5a1.7 1.7 0 0 1 3.4 0\"/><circle cx=\"12\" cy=\"16\" r=\"1.6\"/><path d=\"M10.3 20.5a1.7 1.7 0 0 1 3.4 0\"/><circle cx=\"17.5\" cy=\"16\" r=\"1.6\"/><path d=\"M15.8 20.5a1.7 1.7 0 0 1 3.4 0\"/>",
+    "solid": null
+  },
+  "payment-link": {
+    "category": "payment",
+    "keywords": [
+      "enlace pago",
+      "payment link",
+      "link",
+      "url",
+      "checkout",
+      "payment"
+    ],
+    "aliases": [
+      "pay-link",
+      "checkout-link"
+    ],
+    "outline": "<rect x=\"2.5\" y=\"5\" width=\"14.5\" height=\"10\" rx=\"2\"/><path d=\"M2.5 8.5h14.5\"/><path d=\"M16.2 15.8l1.3-1.3a2.1 2.1 0 0 1 3 3l-1.4 1.4\"/><path d=\"M18.7 18.3l-1.4 1.4a2.1 2.1 0 0 1-3-3l1.3-1.3\"/><path d=\"M16.5 18l1.6-1.6\"/>",
+    "solid": null
+  },
+  "digital-wallet": {
+    "category": "payment",
+    "keywords": [
+      "monedero digital",
+      "digital wallet",
+      "e-wallet",
+      "cartera",
+      "movil",
+      "payment"
+    ],
+    "aliases": [
+      "e-wallet",
+      "mobile-wallet"
+    ],
+    "outline": "<rect x=\"6\" y=\"2.5\" width=\"12\" height=\"19\" rx=\"2.5\"/><rect x=\"8.5\" y=\"6.5\" width=\"7\" height=\"5\" rx=\"1\"/><path d=\"M8.5 8.5h7\"/><path d=\"M10.5 19.5h3\"/>",
+    "solid": "<path d=\"M8.5 2.5h7A2.5 2.5 0 0 1 18 5v14A2.5 2.5 0 0 1 15.5 21.5h-7A2.5 2.5 0 0 1 6 19V5A2.5 2.5 0 0 1 8.5 2.5ZM9.5 6.5h5A1 1 0 0 1 15.5 7.5v3A1 1 0 0 1 14.5 11.5h-5A1 1 0 0 1 8.5 10.5v-3A1 1 0 0 1 9.5 6.5Z\" fill-rule=\"evenodd\"/>"
+  },
+  "gift-voucher": {
+    "category": "payment",
+    "keywords": [
+      "vale regalo",
+      "gift voucher",
+      "cupon",
+      "voucher",
+      "bono",
+      "payment"
+    ],
+    "aliases": [
+      "prepaid-voucher",
+      "gift-certificate"
+    ],
+    "outline": "<path d=\"M3 7h18a1 1 0 0 1 1 1v2.6a1.4 1.4 0 0 1 0 2.8V17a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1v-3.6a1.4 1.4 0 0 0 0-2.8V8a1 1 0 0 1 1-1Z\"/><path d=\"M12 10.8v3.4\"/><path d=\"M13.2 11.5a1.2 1.2 0 0 0-1.2-.6c-.8 0-1.3.4-1.3 1 0 1.3 2.6.6 2.6 1.9 0 .5-.6 1-1.3 1a1.2 1.2 0 0 1-1.2-.6\"/><path d=\"M6.5 10.5l.7 1.4 1.5.2-1.1 1 .3 1.5-1.3-.7-1.3.7.3-1.5-1.1-1 1.5-.2Z\"/>",
+    "solid": null
+  },
+  "loyalty-card": {
+    "category": "payment",
+    "keywords": [
+      "tarjeta fidelidad",
+      "loyalty card",
+      "puntos",
+      "rewards",
+      "recompensas",
+      "payment"
+    ],
+    "aliases": [
+      "rewards-card",
+      "points-card"
+    ],
+    "outline": "<rect x=\"2.5\" y=\"5\" width=\"19\" height=\"13\" rx=\"2.5\"/><path d=\"M2.5 9h19\"/><path d=\"M12 10.8l1.1 2.2 2.4.35-1.75 1.7.4 2.4L12 15.9l-2.15 1.15.4-2.4-1.75-1.7 2.4-.35Z\"/>",
+    "solid": "<path d=\"M5 5H19a2.5 2.5 0 0 1 2.5 2.5V15.5a2.5 2.5 0 0 1-2.5 2.5H5a2.5 2.5 0 0 1-2.5-2.5V7.5A2.5 2.5 0 0 1 5 5ZM12 9.6l1.5 3 3.3.5-2.4 2.3.56 3.3L12 15.9l-2.96 1.6.56-3.3-2.4-2.3 3.3-.5Z\" fill-rule=\"evenodd\"/>"
+  },
+  "cashback": {
+    "category": "payment",
+    "keywords": [
+      "reembolso",
+      "cashback",
+      "devolucion",
+      "cash back",
+      "dinero",
+      "payment"
+    ],
+    "aliases": [
+      "cash-back",
+      "money-return"
+    ],
+    "outline": "<circle cx=\"11\" cy=\"5.5\" r=\"3.5\"/><path d=\"M11 3.8v3.4\"/><path d=\"M12.2 4.5a1.2 1.2 0 0 0-1.2-.6c-.8 0-1.3.4-1.3 1 0 1.3 2.6.6 2.6 1.9 0 .5-.6 1-1.3 1a1.2 1.2 0 0 1-1.2-.6\"/><path d=\"M11 10v2.8\"/><path d=\"M9.3 11.3 11 13l1.7-1.7\"/><rect x=\"2.5\" y=\"14.5\" width=\"17\" height=\"6.5\" rx=\"1.5\"/><path d=\"M15 17.8h2.5\"/>",
+    "solid": null
+  },
+  "mobile-payment": {
+    "category": "payment",
+    "keywords": [
+      "pago movil",
+      "mobile payment",
+      "telefono",
+      "phone",
+      "smartphone",
+      "payment"
+    ],
+    "aliases": [
+      "mobile-pay",
+      "phone-payment"
+    ],
+    "outline": "<rect x=\"6.5\" y=\"2.5\" width=\"11\" height=\"19\" rx=\"2.5\"/><path d=\"M12 7.3v3.4\"/><path d=\"M13.2 8a1.2 1.2 0 0 0-1.2-.6c-.8 0-1.3.4-1.3 1 0 1.3 2.6.6 2.6 1.9 0 .5-.6 1-1.3 1a1.2 1.2 0 0 1-1.2-.6\"/><path d=\"M10.5 19h3\"/>",
+    "solid": null
+  }
+}

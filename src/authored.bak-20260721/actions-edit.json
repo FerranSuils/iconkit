@@ -1,0 +1,163 @@
+{
+  "minus": {
+    "category": "actions-edit",
+    "keywords": ["subtract", "less", "remove", "menos", "quitar", "restar"],
+    "aliases": ["subtract"],
+    "outline": "<path d=\"M5 12h14\"/>",
+    "solid": null
+  },
+  "edit": {
+    "category": "actions-edit",
+    "keywords": ["pencil", "write", "modify", "editar", "lapiz", "escribir", "modificar"],
+    "aliases": ["pencil", "write"],
+    "outline": "<path d=\"M17 4l3 3L8.5 18.5 4 20l1.5-4.5Z\"/><path d=\"m14 7 3 3\"/>",
+    "solid": null
+  },
+  "copy": {
+    "category": "actions-edit",
+    "keywords": ["duplicate", "clone", "files", "copiar", "copia", "clonar"],
+    "aliases": ["clone"],
+    "outline": "<rect x=\"8\" y=\"8\" width=\"12\" height=\"12\" rx=\"2\"/><path d=\"M16 8V6a2 2 0 0 0-2-2H6a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h2\"/>",
+    "solid": null
+  },
+  "scissors": {
+    "category": "actions-edit",
+    "keywords": ["cut", "trim", "snip", "cortar", "tijeras", "recortar"],
+    "aliases": ["cut"],
+    "outline": "<circle cx=\"6\" cy=\"6\" r=\"3\"/><circle cx=\"6\" cy=\"18\" r=\"3\"/><path d=\"M8.5 7.5 20 19\"/><path d=\"M20 5 8.5 16.5\"/>",
+    "solid": null
+  },
+  "save": {
+    "category": "actions-edit",
+    "keywords": ["disk", "floppy", "store", "guardar", "disco", "diskette"],
+    "aliases": ["disk", "floppy"],
+    "outline": "<path d=\"M6 4h9l5 5v9a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2Z\"/><path d=\"M17 20v-5a1 1 0 0 0-1-1H8a1 1 0 0 0-1 1v5\"/><path d=\"M8 4v3a1 1 0 0 0 1 1h5\"/>",
+    "solid": null
+  },
+  "share": {
+    "category": "actions-edit",
+    "keywords": ["send", "export", "upload", "compartir", "enviar", "exportar"],
+    "aliases": ["share-arrow"],
+    "outline": "<path d=\"M6 12v6a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2v-6\"/><path d=\"M12 3v12\"/><path d=\"m8 7 4-4 4 4\"/>",
+    "solid": null
+  },
+  "share-nodes": {
+    "category": "actions-edit",
+    "keywords": ["network", "connect", "social", "red", "conectar", "nodos"],
+    "aliases": ["network", "share-2"],
+    "outline": "<circle cx=\"17\" cy=\"5\" r=\"2.8\"/><circle cx=\"6\" cy=\"12\" r=\"2.8\"/><circle cx=\"17\" cy=\"19\" r=\"2.8\"/><path d=\"m8.4 10.5 6.2-4\"/><path d=\"m8.4 13.5 6.2 4\"/>",
+    "solid": null
+  },
+  "link": {
+    "category": "actions-edit",
+    "keywords": ["chain", "url", "hyperlink", "enlace", "cadena", "vinculo"],
+    "aliases": ["chain", "url"],
+    "outline": "<path d=\"M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71\"/><path d=\"M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71\"/>",
+    "solid": null
+  },
+  "unlink": {
+    "category": "actions-edit",
+    "keywords": ["broken", "detach", "unchain", "desvincular", "romper", "cadena"],
+    "aliases": ["detach", "chain-broken"],
+    "outline": "<path d=\"m18.84 12.25 1.72-1.71a5 5 0 0 0-.12-7.07 5 5 0 0 0-6.95 0l-1.72 1.71\"/><path d=\"m5.16 11.75-1.72 1.71a5 5 0 0 0 .12 7.07 5 5 0 0 0 6.95 0l1.72-1.71\"/><path d=\"M8 2.5V5M2.5 8H5M16 19v2.5M19 16h2.5\"/>",
+    "solid": null
+  },
+  "lock": {
+    "category": "actions-edit",
+    "keywords": ["secure", "closed", "password", "candado", "seguro", "bloquear"],
+    "aliases": ["secure", "padlock"],
+    "outline": "<rect x=\"5\" y=\"10\" width=\"14\" height=\"11\" rx=\"2\"/><path d=\"M8 10V7a4 4 0 0 1 8 0v3\"/>",
+    "solid": "<path d=\"M8 11V7a4 4 0 0 1 8 0v4h-2V7a2 2 0 0 0-4 0v4Z\"/><path d=\"M7 10h10a2 2 0 0 1 2 2v7a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2v-7a2 2 0 0 1 2-2ZM12 16.6a1.6 1.6 0 1 0 0-3.2A1.6 1.6 0 0 0 12 16.6Z\" fill-rule=\"evenodd\"/>"
+  },
+  "unlock": {
+    "category": "actions-edit",
+    "keywords": ["open", "unsecure", "access", "desbloquear", "abierto", "candado"],
+    "aliases": ["unlocked"],
+    "outline": "<rect x=\"5\" y=\"10\" width=\"14\" height=\"11\" rx=\"2\"/><path d=\"M8 10V7a4 4 0 0 1 7.5-2\"/>",
+    "solid": null
+  },
+  "eye": {
+    "category": "actions-edit",
+    "keywords": ["view", "visible", "show", "watch", "ver", "ojo", "mostrar"],
+    "aliases": ["view", "visible", "show"],
+    "outline": "<path d=\"M2.5 12C2.5 12 6 6 12 6s9.5 6 9.5 6-3.5 6-9.5 6-9.5-6-9.5-6Z\"/><circle cx=\"12\" cy=\"12\" r=\"3.2\"/>",
+    "solid": null
+  },
+  "eye-off": {
+    "category": "actions-edit",
+    "keywords": ["hide", "hidden", "invisible", "ocultar", "oculto", "invisible"],
+    "aliases": ["hide", "hidden"],
+    "outline": "<path d=\"M2.5 12C2.5 12 6 6 12 6s9.5 6 9.5 6-3.5 6-9.5 6-9.5-6-9.5-6Z\"/><circle cx=\"12\" cy=\"12\" r=\"3.2\"/><path d=\"M4 4 20 20\"/>",
+    "solid": null
+  },
+  "pin": {
+    "category": "actions-edit",
+    "keywords": ["location", "map", "marker", "place", "ubicacion", "mapa", "lugar"],
+    "aliases": ["marker"],
+    "outline": "<path d=\"M12 21.5c0 0 6.5-6.5 6.5-11.5a6.5 6.5 0 0 0-13 0c0 5 6.5 11.5 6.5 11.5Z\"/><circle cx=\"12\" cy=\"10\" r=\"2.5\"/>",
+    "solid": "<path d=\"M12 21.5c0 0 6.5-6.5 6.5-11.5a6.5 6.5 0 0 0-13 0c0 5 6.5 11.5 6.5 11.5ZM12 12.5a2.6 2.6 0 1 0 0-5.2A2.6 2.6 0 0 0 12 12.5Z\" fill-rule=\"evenodd\"/>"
+  },
+  "bookmark": {
+    "category": "actions-edit",
+    "keywords": ["save", "ribbon", "favorite", "marcador", "guardar", "cinta"],
+    "aliases": ["ribbon"],
+    "outline": "<path d=\"M6 21V5a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v16l-6-4-6 4Z\"/>",
+    "solid": "<path d=\"M6 21V5a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v16l-6-4-6 4Z\"/>"
+  },
+  "flag": {
+    "category": "actions-edit",
+    "keywords": ["report", "banner", "mark", "bandera", "reportar", "marcar"],
+    "aliases": ["report"],
+    "outline": "<path d=\"M6 21V4h11l-3 4 3 4H6\"/>",
+    "solid": "<rect x=\"4\" y=\"3\" width=\"2\" height=\"18\" rx=\"1\"/><path d=\"M6 4h11l-3 4 3 4H6Z\"/>"
+  },
+  "tag": {
+    "category": "actions-edit",
+    "keywords": ["label", "price", "category", "etiqueta", "precio", "categoria"],
+    "aliases": ["label", "price"],
+    "outline": "<path d=\"M5 5h8l7 7-7 7H5a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1Z\"/><circle cx=\"8.5\" cy=\"12\" r=\"1.5\"/>",
+    "solid": "<path d=\"M5 5h8l7 7-7 7H5a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1ZM8.5 13.6a1.6 1.6 0 1 0 0-3.2A1.6 1.6 0 0 0 8.5 13.6Z\" fill-rule=\"evenodd\"/>"
+  },
+  "clipboard": {
+    "category": "actions-edit",
+    "keywords": ["copy", "paste", "board", "portapapeles", "pegar", "tablilla"],
+    "aliases": ["paste"],
+    "outline": "<rect x=\"9\" y=\"3\" width=\"6\" height=\"4\" rx=\"1\"/><path d=\"M9 5H7a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-2\"/>",
+    "solid": null
+  },
+  "check-double": {
+    "category": "actions-edit",
+    "keywords": ["done", "confirmed", "read", "hecho", "confirmado", "doble"],
+    "aliases": ["check-check", "done-all"],
+    "outline": "<path d=\"M17.5 6.5 7 17 2.5 12.5\"/><path d=\"m21.5 10-7 7-1.5-1.5\"/>",
+    "solid": null
+  },
+  "duplicate": {
+    "category": "actions-edit",
+    "keywords": ["copy", "clone", "add", "duplicar", "clonar", "copia"],
+    "aliases": ["copy-plus"],
+    "outline": "<rect x=\"8\" y=\"8\" width=\"12\" height=\"12\" rx=\"2\"/><path d=\"M16 8V6a2 2 0 0 0-2-2H6a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h2\"/><path d=\"M14 11v6M11 14h6\"/>",
+    "solid": null
+  },
+  "magnet": {
+    "category": "actions-edit",
+    "keywords": ["magnetic", "attract", "horseshoe", "iman", "magnetico", "atraer"],
+    "aliases": ["magnetic"],
+    "outline": "<path d=\"M5 18V9a7 7 0 0 1 14 0v9\"/><path d=\"M9 18V9a3 3 0 0 1 6 0v9\"/><path d=\"M5 15h4M15 15h4\"/>",
+    "solid": null
+  },
+  "crop": {
+    "category": "actions-edit",
+    "keywords": ["resize", "frame", "trim", "recortar", "marco", "encuadre"],
+    "aliases": ["resize"],
+    "outline": "<path d=\"M6 3v13a2 2 0 0 0 2 2h13\"/><path d=\"M18 21V8a2 2 0 0 0-2-2H3\"/>",
+    "solid": null
+  },
+  "filter-x": {
+    "category": "actions-edit",
+    "keywords": ["funnel", "clear", "remove", "filtro", "embudo", "quitar"],
+    "aliases": ["clear-filter", "funnel-x"],
+    "outline": "<path d=\"M13 4H3l7 8v6l4 2v-8\"/><path d=\"m16 4 5 5M21 4l-5 5\"/>",
+    "solid": null
+  }
+}

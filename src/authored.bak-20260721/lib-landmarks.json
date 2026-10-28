@@ -1,0 +1,744 @@
+{
+  "eiffel-tower": {
+    "category": "landmarks",
+    "keywords": [
+      "eiffel",
+      "tower",
+      "paris",
+      "france",
+      "torre",
+      "francia",
+      "monument",
+      "monumento"
+    ],
+    "aliases": [
+      "eiffel",
+      "paris-tower"
+    ],
+    "outline": "<path d=\"M12 3.5C11 9 9 15 6 21\"/><path d=\"M12 3.5C13 9 15 15 18 21\"/><path d=\"M10 9h4\"/><path d=\"M8.5 14h7\"/><path d=\"M8.7 21c.6-3.5 6-3.5 6.6 0\"/><path d=\"M4 21h16\"/>",
+    "solid": null
+  },
+  "big-ben": {
+    "category": "landmarks",
+    "keywords": [
+      "big ben",
+      "clock",
+      "tower",
+      "london",
+      "england",
+      "reloj",
+      "torre",
+      "londres",
+      "westminster"
+    ],
+    "aliases": [
+      "clock-tower",
+      "westminster"
+    ],
+    "outline": "<path d=\"M9 21V7.5l3-3.5 3 3.5V21\"/><circle cx=\"12\" cy=\"11\" r=\"2.1\"/><path d=\"M12 9.5v1.5l1 .7\"/><path d=\"M9.5 16.5h5\"/><path d=\"M7.5 21h9\"/>",
+    "solid": "<path d=\"M9 21V7.6l3-3.5 3 3.5V21ZM14.1 11a2.1 2.1 0 1 0-4.2 0 2.1 2.1 0 1 0 4.2 0Z\" fill-rule=\"evenodd\"/><rect x=\"7.3\" y=\"20.5\" width=\"9.4\" height=\"1.5\" rx=\"0.5\"/>"
+  },
+  "leaning-tower-pisa": {
+    "category": "landmarks",
+    "keywords": [
+      "pisa",
+      "leaning",
+      "tower",
+      "italy",
+      "torre",
+      "inclinada",
+      "italia"
+    ],
+    "aliases": [
+      "pisa",
+      "leaning-tower"
+    ],
+    "outline": "<path d=\"M9 21 11 4.5\"/><path d=\"M12.5 21 14.5 4.5\"/><path d=\"M11 4.5q1.75-1 3.5 0\"/><path d=\"M10.6 8h3.5\"/><path d=\"M10 13h3.5\"/><path d=\"M9.4 17.5h3.5\"/><path d=\"M7 21h6.5\"/>",
+    "solid": "<path d=\"M9 21 11 4.5q1.75-1 3.5 0L12.5 21Z\"/>"
+  },
+  "space-needle": {
+    "category": "landmarks",
+    "keywords": [
+      "space needle",
+      "seattle",
+      "tower",
+      "observation",
+      "aguja",
+      "torre",
+      "mirador"
+    ],
+    "aliases": [
+      "seattle-tower",
+      "needle"
+    ],
+    "outline": "<path d=\"M6.5 8.4c1.6-2.3 9.4-2.3 11 0-1.6 2-9.4 2-11 0Z\"/><path d=\"M12 6.4V3\"/><path d=\"M12 10.4V21\"/><path d=\"M12 14 8.5 21M12 14l3.5 7\"/><path d=\"M10.5 6.4h3\"/><path d=\"M7 21h10\"/>",
+    "solid": null
+  },
+  "burj-khalifa": {
+    "category": "landmarks",
+    "keywords": [
+      "burj khalifa",
+      "dubai",
+      "skyscraper",
+      "tower",
+      "tallest",
+      "rascacielos",
+      "torre",
+      "emiratos"
+    ],
+    "aliases": [
+      "burj",
+      "dubai-tower"
+    ],
+    "outline": "<polygon points=\"12,3 11,8 10,13 9,18 9,21 15,21 15,18 14,13 13,8\"/><path d=\"M10 13h4\"/><path d=\"M9 18h6\"/><path d=\"M12 3.5v3.5\"/><path d=\"M6.5 21h11\"/>",
+    "solid": "<polygon points=\"12,3 11,8 10,13 9,18 9,21 15,21 15,18 14,13 13,8\"/>"
+  },
+  "tokyo-tower": {
+    "category": "landmarks",
+    "keywords": [
+      "tokyo tower",
+      "japan",
+      "tower",
+      "torre",
+      "tokio",
+      "japon",
+      "lattice"
+    ],
+    "aliases": [
+      "tokyo-tv-tower"
+    ],
+    "outline": "<path d=\"M12 4 6 21M12 4l6 17\"/><path d=\"M12 4V2\"/><path d=\"M9.3 12h5.4\"/><path d=\"M7.7 17h8.6\"/><path d=\"M8.4 15 15.6 20M15.6 15 8.4 20\"/><path d=\"M4.5 21h15\"/>",
+    "solid": null
+  },
+  "cn-tower": {
+    "category": "landmarks",
+    "keywords": [
+      "cn tower",
+      "toronto",
+      "canada",
+      "tower",
+      "torre",
+      "observation"
+    ],
+    "aliases": [
+      "toronto-tower"
+    ],
+    "outline": "<path d=\"M12 8V3\"/><path d=\"M9.4 9.4c0-1.8 5.2-1.8 5.2 0 0 1.7-5.2 1.7-5.2 0Z\"/><path d=\"M11.2 10.8 10 21M12.8 10.8 14 21\"/><path d=\"M11 6.2h2\"/><path d=\"M8.5 21h7\"/>",
+    "solid": null
+  },
+  "obelisk": {
+    "category": "landmarks",
+    "keywords": [
+      "obelisk",
+      "monument",
+      "washington",
+      "column",
+      "obelisco",
+      "monumento",
+      "columna",
+      "aguja"
+    ],
+    "aliases": [
+      "washington-monument",
+      "monolith"
+    ],
+    "outline": "<polygon points=\"10,21 10.7,6 12,3 13.3,6 14,21\"/><path d=\"M10.7 6h2.6\"/><path d=\"M8 21h8\"/>",
+    "solid": "<polygon points=\"10,21 10.7,6 12,3 13.3,6 14,21\"/>"
+  },
+  "monument-tower": {
+    "category": "landmarks",
+    "keywords": [
+      "monument",
+      "memorial",
+      "tower",
+      "column",
+      "monumento",
+      "memorial",
+      "torre",
+      "landmark"
+    ],
+    "aliases": [
+      "memorial-tower",
+      "monument-column"
+    ],
+    "outline": "<path d=\"M10 18V8.5a2 2 0 0 1 4 0V18\"/><path d=\"M12 8.5v-2\"/><circle cx=\"12\" cy=\"5\" r=\"1.3\"/><path d=\"M8.5 18h7v3h-7z\"/><path d=\"M7 21h10\"/>",
+    "solid": "<path d=\"M10 18V8.5a2 2 0 0 1 4 0V18Z\"/><circle cx=\"12\" cy=\"5\" r=\"1.3\"/><rect x=\"8.5\" y=\"18\" width=\"7\" height=\"3\"/><rect x=\"7\" y=\"20.4\" width=\"10\" height=\"1.6\" rx=\"0.5\"/>"
+  },
+  "lighthouse-landmark": {
+    "category": "landmarks",
+    "keywords": [
+      "lighthouse",
+      "beacon",
+      "coast",
+      "faro",
+      "costa",
+      "light",
+      "sea",
+      "mar"
+    ],
+    "aliases": [
+      "lighthouse",
+      "beacon"
+    ],
+    "outline": "<path d=\"M9 20 9.8 11h4.4l.8 9Z\"/><path d=\"M9.3 11 9.6 9h4.8l.3 2\"/><rect x=\"10.3\" y=\"5.8\" width=\"3.4\" height=\"3.2\"/><path d=\"M10 5.8 12 3.8l2 2\"/><path d=\"M9.4 14.5h5.2M9.2 17.5h5.6\"/><path d=\"M9.3 7 6.5 6M14.7 7l2.8-1\"/><path d=\"M6.5 20h11\"/>",
+    "solid": "<path d=\"M9 20 9.8 11h4.4l.8 9Z\"/><path d=\"M9.3 11.2 9.6 9h4.8l.3 2.2Z\"/><path d=\"M10.3 5.9h3.4v3.1h-3.4z\"/><path d=\"M9.9 5.9 12 3.7l2.1 2.2Z\"/>"
+  },
+  "arc-de-triomphe": {
+    "category": "landmarks",
+    "keywords": [
+      "arc de triomphe",
+      "arch",
+      "paris",
+      "france",
+      "arco",
+      "triunfo",
+      "monument",
+      "francia"
+    ],
+    "aliases": [
+      "triumphal-arch",
+      "arch-of-triumph"
+    ],
+    "outline": "<path d=\"M5 21V8a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v13\"/><path d=\"M9 21v-6a3 3 0 0 1 6 0v6\"/><path d=\"M5 10.5h14\"/><path d=\"M3.5 21h17\"/>",
+    "solid": "<path d=\"M5 8a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v13H5Z M9 21v-6a3 3 0 0 1 6 0v6Z\" fill-rule=\"evenodd\"/><rect x=\"3.5\" y=\"20.4\" width=\"17\" height=\"1.6\" rx=\"0.5\"/>"
+  },
+  "brandenburg-gate": {
+    "category": "landmarks",
+    "keywords": [
+      "brandenburg gate",
+      "berlin",
+      "germany",
+      "gate",
+      "puerta",
+      "berlin",
+      "alemania",
+      "columns"
+    ],
+    "aliases": [
+      "brandenburg",
+      "berlin-gate"
+    ],
+    "outline": "<rect x=\"4\" y=\"7.5\" width=\"16\" height=\"2.5\"/><path d=\"M6 10v10M9 10v10M12 10v10M15 10v10M18 10v10\"/><rect x=\"10.5\" y=\"4.8\" width=\"3\" height=\"2.7\"/><path d=\"M4 20h16\"/>",
+    "solid": "<rect x=\"4\" y=\"7.5\" width=\"16\" height=\"2.5\"/><rect x=\"10.5\" y=\"4.8\" width=\"3\" height=\"2.7\"/><path d=\"M5 10h2v10H5zM8 10h2v10H8zM11 10h2v10h-2zM14 10h2v10h-2zM17 10h2v10h-2z\"/><rect x=\"3.5\" y=\"20\" width=\"17\" height=\"1.7\" rx=\"0.4\"/>"
+  },
+  "tower-bridge": {
+    "category": "landmarks",
+    "keywords": [
+      "tower bridge",
+      "london",
+      "bridge",
+      "puente",
+      "londres",
+      "thames",
+      "england"
+    ],
+    "aliases": [
+      "london-bridge"
+    ],
+    "outline": "<path d=\"M7 18V7l1.5-3L10 7v11\"/><path d=\"M14 18V7l1.5-3L17 7v11\"/><path d=\"M10 9h4\"/><path d=\"M2 15c2.5 0 4-1 5-3M22 15c-2.5 0-4-1-5-3\"/><path d=\"M10 18c0-2 4-2 4 0\"/><path d=\"M2 18h20\"/>",
+    "solid": null
+  },
+  "golden-gate-bridge": {
+    "category": "landmarks",
+    "keywords": [
+      "golden gate",
+      "bridge",
+      "san francisco",
+      "puente",
+      "suspension",
+      "california"
+    ],
+    "aliases": [
+      "golden-gate",
+      "suspension-bridge"
+    ],
+    "outline": "<path d=\"M7 4.5V20M17 4.5V20\"/><path d=\"M5.5 8h3M15.5 8h3\"/><path d=\"M2 15.5 7 4.5\"/><path d=\"M17 4.5 22 15.5\"/><path d=\"M7 4.5Q12 13 17 4.5\"/><path d=\"M9.5 8.7V16.5M12 11V16.5M14.5 8.7V16.5\"/><path d=\"M2 16.5h20\"/>",
+    "solid": null
+  },
+  "gateway-arch": {
+    "category": "landmarks",
+    "keywords": [
+      "gateway arch",
+      "st louis",
+      "arch",
+      "arco",
+      "saint louis",
+      "catenary",
+      "monument"
+    ],
+    "aliases": [
+      "st-louis-arch"
+    ],
+    "outline": "<path d=\"M4.5 21C4.5 10 8 3.5 12 3.5S19.5 10 19.5 21\"/><path d=\"M3 21h18\"/>",
+    "solid": "<path d=\"M3.5 21C3.5 9 7 3 12 3S20.5 9 20.5 21H17.5C17.5 11 15 6 12 6S6.5 11 6.5 21Z\"/>"
+  },
+  "statue-liberty": {
+    "category": "landmarks",
+    "keywords": [
+      "statue of liberty",
+      "liberty",
+      "new york",
+      "usa",
+      "estatua",
+      "libertad",
+      "nueva york",
+      "torch"
+    ],
+    "aliases": [
+      "liberty",
+      "lady-liberty"
+    ],
+    "outline": "<circle cx=\"10.8\" cy=\"7.5\" r=\"1.6\"/><path d=\"M8.9 7 8.3 5.4M9.7 6.2 9.4 4.4M10.9 6l.1-1.9M12.1 6.3l.6-1.7\"/><path d=\"M12 9.4 16 5\"/><path d=\"M16 5.2c1 .3 1 1.8 0 2.2-1-.4-1-1.9 0-2.2Z\"/><path d=\"M9.3 10.2 8.6 12.4\"/><path d=\"M8 12.4h2.3v3.3H8z\"/><path d=\"M9.2 10 8.3 18M12 10.6 13.7 18\"/><path d=\"M8.3 18h5.4\"/><path d=\"M8.8 18v3M13.2 18v3\"/><path d=\"M7.8 21h7.4\"/>",
+    "solid": null
+  },
+  "christ-redeemer": {
+    "category": "landmarks",
+    "keywords": [
+      "christ the redeemer",
+      "rio",
+      "brazil",
+      "cristo",
+      "redentor",
+      "brasil",
+      "jesus",
+      "statue"
+    ],
+    "aliases": [
+      "cristo-redentor",
+      "redeemer"
+    ],
+    "outline": "<circle cx=\"12\" cy=\"5.2\" r=\"1.7\"/><path d=\"M12 7v10\"/><path d=\"M4 11h16\"/><path d=\"M6 11l1.3 4M18 11l-1.3 4\"/><path d=\"M12 17 9.5 20.5M12 17l2.5 3.5\"/><path d=\"M9 20.5h6\"/>",
+    "solid": "<circle cx=\"12\" cy=\"5.2\" r=\"1.8\"/><path d=\"M4 10.3h16v1.8H4z\"/><path d=\"M11 7h2v9h-2z\"/><path d=\"M12 15.5 8.8 20.8h6.4Z\"/><rect x=\"8.5\" y=\"20.3\" width=\"7\" height=\"1.7\" rx=\"0.4\"/>"
+  },
+  "moai": {
+    "category": "landmarks",
+    "keywords": [
+      "moai",
+      "easter island",
+      "statue",
+      "estatua",
+      "isla de pascua",
+      "head",
+      "stone",
+      "tiki"
+    ],
+    "aliases": [
+      "easter-island",
+      "stone-head"
+    ],
+    "outline": "<path d=\"M8 21V9.5C8 7.6 9.5 6 12 6s4 1.6 4 3.5V21Z\"/><path d=\"M8.4 11.8h7.2\"/><path d=\"M9.3 13.2h1.9M12.8 13.2h1.9\"/><path d=\"M12 12.2v4.3\"/><path d=\"M10.4 18.2h3.2\"/>",
+    "solid": "<path d=\"M8 21V9.5C8 7.6 9.5 6 12 6s4 1.6 4 3.5V21Z M9.2 12.6h2v1.7h-2z M12.8 12.6h2v1.7h-2z M11.3 15h1.4v2h-1.4z\" fill-rule=\"evenodd\"/>"
+  },
+  "sphinx": {
+    "category": "landmarks",
+    "keywords": [
+      "sphinx",
+      "giza",
+      "egypt",
+      "esfinge",
+      "egipto",
+      "lion",
+      "statue",
+      "pharaoh"
+    ],
+    "aliases": [
+      "great-sphinx"
+    ],
+    "outline": "<path d=\"M4.5 14 7 6.5 9.5 14\"/><path d=\"M6.9 11.3 4 12.6l2.9 1.5\"/><path d=\"M5.2 9.6 8.4 10.2M5 11.6l3.6.5\"/><path d=\"M9.5 14h8.5a1.5 1.5 0 0 1 1.5 1.5V19\"/><path d=\"M4 17.3h4.7\"/><path d=\"M8.7 14v3.3\"/><path d=\"M4 19h16\"/>",
+    "solid": null
+  },
+  "mount-fuji": {
+    "category": "landmarks",
+    "keywords": [
+      "mount fuji",
+      "fuji",
+      "japan",
+      "volcano",
+      "monte fuji",
+      "montana",
+      "japon",
+      "snow"
+    ],
+    "aliases": [
+      "fuji",
+      "fujisan"
+    ],
+    "outline": "<path d=\"M3 19 9.5 8.5c1.6 1 3.4 1 5 0L21 19Z\"/><path d=\"M7.3 12.2 9 11l1.2 1.1L11.8 11l1.3 1.1L14.5 11l1.9 1.4\"/><path d=\"M2 19h20\"/>",
+    "solid": "<path d=\"M3 19 9.5 8.5c1.6 1 3.4 1 5 0L21 19Z\"/>"
+  },
+  "pyramid-giza": {
+    "category": "landmarks",
+    "keywords": [
+      "pyramid",
+      "giza",
+      "egypt",
+      "piramide",
+      "egipto",
+      "pharaoh",
+      "desert",
+      "ancient"
+    ],
+    "aliases": [
+      "pyramids",
+      "egyptian-pyramid"
+    ],
+    "outline": "<path d=\"M6 11 2 20h8Z\"/><path d=\"M14 6 7 20h15Z\"/><path d=\"M14 6 11 20\"/>",
+    "solid": "<polygon points=\"6,11 2,20 10,20\"/><polygon points=\"14,6 7,20 22,20\"/>"
+  },
+  "taj-mahal": {
+    "category": "landmarks",
+    "keywords": [
+      "taj mahal",
+      "india",
+      "mausoleum",
+      "dome",
+      "agra",
+      "mausoleo",
+      "cupula",
+      "monument"
+    ],
+    "aliases": [
+      "taj",
+      "mahal"
+    ],
+    "outline": "<path d=\"M9 12c0-2.2 1.2-3.8 3-5.6 1.8 1.8 3 3.4 3 5.6Z\"/><path d=\"M12 6.4V4.3\"/><path d=\"M8 12h8v7H8z\"/><path d=\"M10.5 19v-2.5a1.5 1.5 0 0 1 3 0V19\"/><path d=\"M5 19V8.5\"/><path d=\"M19 19V8.5\"/><circle cx=\"5\" cy=\"7.6\" r=\"0.9\"/><circle cx=\"19\" cy=\"7.6\" r=\"0.9\"/><path d=\"M3.5 19h17\"/>",
+    "solid": "<path d=\"M9 12c0-2.2 1.2-3.8 3-5.6 1.8 1.8 3 3.4 3 5.6Z\"/><rect x=\"11.4\" y=\"4\" width=\"1.2\" height=\"2.6\" rx=\"0.4\"/><path d=\"M8 12h8v7.5H8Z M10.5 19.5v-3a1.5 1.5 0 0 1 3 0v3Z\" fill-rule=\"evenodd\"/><rect x=\"4.2\" y=\"8\" width=\"1.6\" height=\"11.5\"/><rect x=\"18.2\" y=\"8\" width=\"1.6\" height=\"11.5\"/><circle cx=\"5\" cy=\"7.4\" r=\"1\"/><circle cx=\"19\" cy=\"7.4\" r=\"1\"/><rect x=\"3.5\" y=\"19\" width=\"17\" height=\"1.6\" rx=\"0.4\"/>"
+  },
+  "colosseum": {
+    "category": "landmarks",
+    "keywords": [
+      "colosseum",
+      "rome",
+      "italy",
+      "amphitheater",
+      "coliseo",
+      "roma",
+      "italia",
+      "arena"
+    ],
+    "aliases": [
+      "coliseum",
+      "roman-colosseum"
+    ],
+    "outline": "<path d=\"M3.5 18V12a8.5 5 0 0 1 17 0v6\"/><path d=\"M3.5 13h17\"/><path d=\"M4 18v-4m4 4v-4m4 4v-4m4 4v-4m4 4v-4\"/><path d=\"M6 13v-2.3m4 2.3v-2.7m4 2.7v-2.7m4 2.7v-2.3\"/><path d=\"M3.5 18h17\"/>",
+    "solid": "<path d=\"M3.5 18V12a8.5 5 0 0 1 17 0v6Z M5.7 18v-2.5a1 1 0 0 1 2 0V18Z M9.2 18v-2.7a1 1 0 0 1 2 0V18Z M13 18v-2.7a1 1 0 0 1 2 0V18Z M16.5 18v-2.5a1 1 0 0 1 2 0V18Z\" fill-rule=\"evenodd\"/><rect x=\"3\" y=\"18\" width=\"18\" height=\"1.6\" rx=\"0.4\"/>"
+  },
+  "sydney-opera": {
+    "category": "landmarks",
+    "keywords": [
+      "sydney opera house",
+      "sydney",
+      "australia",
+      "opera",
+      "sails",
+      "velas",
+      "teatro"
+    ],
+    "aliases": [
+      "opera-house",
+      "sydney"
+    ],
+    "outline": "<path d=\"M4 18C4 13 6 10 8 18Z\"/><path d=\"M7 18C7 12 9.5 8 12 18Z\"/><path d=\"M10.5 18C10.5 11 13 7 16 18Z\"/><path d=\"M14 18C14 12 16.5 9 19 18Z\"/><path d=\"M3 18h18\"/><path d=\"M3.5 20.5h17\"/>",
+    "solid": "<path d=\"M4 18C4 13 6 10 8 18Z\"/><path d=\"M7 18C7 12 9.5 8 12 18Z\"/><path d=\"M10.5 18C10.5 11 13 7 16 18Z\"/><path d=\"M14 18C14 12 16.5 9 19 18Z\"/><rect x=\"3\" y=\"18\" width=\"18\" height=\"1.6\" rx=\"0.4\"/>"
+  },
+  "great-wall": {
+    "category": "landmarks",
+    "keywords": [
+      "great wall",
+      "china",
+      "wall",
+      "muralla",
+      "china",
+      "fortification",
+      "battlements"
+    ],
+    "aliases": [
+      "great-wall-china",
+      "chinese-wall"
+    ],
+    "outline": "<path d=\"M9 20V9h6v11\"/><path d=\"M9 9V7h1.3v2M11.3 9V7h1.4v2M13.7 9V7H15v2\"/><path d=\"M2.5 20v-6h1.2v-1.3h1.3v1.3h1.3v-1.3h1.3v1.3H9\"/><path d=\"M21.5 20v-6h-1.2v-1.3h-1.3v1.3h-1.3v-1.3h-1.3v1.3H15\"/><path d=\"M2 20h20\"/>",
+    "solid": "<rect x=\"9\" y=\"9\" width=\"6\" height=\"11\"/><rect x=\"9\" y=\"7\" width=\"1.3\" height=\"2\"/><rect x=\"11.35\" y=\"7\" width=\"1.3\" height=\"2\"/><rect x=\"13.7\" y=\"7\" width=\"1.3\" height=\"2\"/><rect x=\"2.5\" y=\"14\" width=\"6.5\" height=\"6\"/><rect x=\"2.5\" y=\"12.7\" width=\"1.2\" height=\"1.3\"/><rect x=\"5\" y=\"12.7\" width=\"1.3\" height=\"1.3\"/><rect x=\"7.6\" y=\"12.7\" width=\"1.4\" height=\"1.3\"/><rect x=\"15\" y=\"14\" width=\"6.5\" height=\"6\"/><rect x=\"15\" y=\"12.7\" width=\"1.4\" height=\"1.3\"/><rect x=\"17.7\" y=\"12.7\" width=\"1.3\" height=\"1.3\"/><rect x=\"20.3\" y=\"12.7\" width=\"1.2\" height=\"1.3\"/><rect x=\"2\" y=\"20\" width=\"20\" height=\"1.5\" rx=\"0.4\"/>"
+  },
+  "castle-landmark": {
+    "category": "landmarks",
+    "keywords": [
+      "castle",
+      "fortress",
+      "palace",
+      "castillo",
+      "fortaleza",
+      "palacio",
+      "medieval",
+      "towers"
+    ],
+    "aliases": [
+      "castle",
+      "fortress"
+    ],
+    "outline": "<path d=\"M4 21V9h3v12\"/><path d=\"M17 21V9h3v12\"/><path d=\"M4 9V7h1v2M6 9V7h1v2\"/><path d=\"M17 9V7h1v2M19 9V7h1v2\"/><path d=\"M7 21v-8h10v8\"/><path d=\"M7 13v-1.5h1.5V13m1.5 0v-1.5h1.5V13m1.5 0v-1.5h1.5V13\"/><path d=\"M10 21v-4a2 2 0 0 1 4 0v4\"/><path d=\"M3.5 21h17\"/>",
+    "solid": "<path d=\"M4 9h3v12H4z\"/><rect x=\"4\" y=\"7\" width=\"1\" height=\"2\"/><rect x=\"6\" y=\"7\" width=\"1\" height=\"2\"/><path d=\"M17 9h3v12h-3z\"/><rect x=\"17\" y=\"7\" width=\"1\" height=\"2\"/><rect x=\"19\" y=\"7\" width=\"1\" height=\"2\"/><path d=\"M7 13h10v8H7Z M10 21v-4a2 2 0 0 1 4 0v4Z\" fill-rule=\"evenodd\"/><rect x=\"7\" y=\"11.5\" width=\"1.5\" height=\"1.5\"/><rect x=\"9.5\" y=\"11.5\" width=\"1.5\" height=\"1.5\"/><rect x=\"12\" y=\"11.5\" width=\"1.5\" height=\"1.5\"/><rect x=\"14.5\" y=\"11.5\" width=\"1.5\" height=\"1.5\"/><rect x=\"3.5\" y=\"20.4\" width=\"17\" height=\"1.6\" rx=\"0.4\"/>"
+  },
+  "pagoda": {
+    "category": "landmarks",
+    "keywords": [
+      "pagoda",
+      "temple",
+      "asian",
+      "japan",
+      "templo",
+      "asiatico",
+      "buddhist",
+      "tiers"
+    ],
+    "aliases": [
+      "pagoda-temple",
+      "asian-temple"
+    ],
+    "outline": "<path d=\"M8 21v-3h8v3\"/><path d=\"M4.5 18 7.5 15h9l3 3Z\"/><path d=\"M8.5 15v-2h7v2\"/><path d=\"M6 13 8.5 10.5h7l2.5 2.5Z\"/><path d=\"M9.5 10.5v-2h5v2\"/><path d=\"M7.5 8.5 9.5 6h5l2 2.5Z\"/><path d=\"M12 6V3.5\"/><circle cx=\"12\" cy=\"3\" r=\"0.8\"/>",
+    "solid": "<path d=\"M8 18h8v3H8z\"/><path d=\"M4.5 18 7.5 15h9l3 3Z\"/><path d=\"M8.5 13h7v2h-7z\"/><path d=\"M6 13 8.5 10.5h7l2.5 2.5Z\"/><path d=\"M9.5 8.5h5v2h-5z\"/><path d=\"M7.5 8.5 9.5 6h5l2 2.5Z\"/><rect x=\"11.5\" y=\"3.4\" width=\"1\" height=\"3\"/><circle cx=\"12\" cy=\"3\" r=\"0.9\"/>"
+  },
+  "stonehenge": {
+    "category": "landmarks",
+    "keywords": [
+      "stonehenge",
+      "megalith",
+      "stones",
+      "england",
+      "megalito",
+      "piedras",
+      "prehistoric",
+      "ancient"
+    ],
+    "aliases": [
+      "megalith",
+      "standing-stones"
+    ],
+    "outline": "<path d=\"M4 20v-8h2.5v8\"/><path d=\"M9 20v-8h2.5v8\"/><path d=\"M3.5 12h8.5v-2.3H3.5z\"/><path d=\"M15 20v-6h2v6\"/><path d=\"M18.5 20v-6h2v6\"/><path d=\"M14.5 14h6.5v-2h-6.5z\"/><path d=\"M13 20v-4h1.3v4\"/><path d=\"M2.5 20h19\"/>",
+    "solid": "<rect x=\"4\" y=\"12\" width=\"2.5\" height=\"8\"/><rect x=\"9\" y=\"12\" width=\"2.5\" height=\"8\"/><rect x=\"3.5\" y=\"9.7\" width=\"8.5\" height=\"2.3\"/><rect x=\"15\" y=\"14\" width=\"2\" height=\"6\"/><rect x=\"18.5\" y=\"14\" width=\"2\" height=\"6\"/><rect x=\"14.5\" y=\"12\" width=\"6.5\" height=\"2\"/><rect x=\"13\" y=\"16\" width=\"1.3\" height=\"4\"/><rect x=\"2.5\" y=\"20\" width=\"19\" height=\"1.5\" rx=\"0.4\"/>"
+  },
+  "ferris-wheel": {
+    "category": "landmarks",
+    "keywords": [
+      "ferris wheel",
+      "wheel",
+      "fair",
+      "noria",
+      "rueda",
+      "feria",
+      "amusement",
+      "carnival"
+    ],
+    "aliases": [
+      "big-wheel",
+      "observation-wheel"
+    ],
+    "outline": "<circle cx=\"12\" cy=\"10\" r=\"7\"/><circle cx=\"12\" cy=\"10\" r=\"1\"/><path d=\"M12 3v14M5 10h14M7.05 5.05l9.9 9.9M16.95 5.05l-9.9 9.9\"/><circle cx=\"12\" cy=\"3\" r=\"1\"/><circle cx=\"19\" cy=\"10\" r=\"1\"/><circle cx=\"12\" cy=\"17\" r=\"1\"/><circle cx=\"5\" cy=\"10\" r=\"1\"/><path d=\"M12 10 8.5 21M12 10l3.5 11\"/><path d=\"M6.5 21h11\"/>",
+    "solid": null
+  },
+  "windmill-landmark": {
+    "category": "landmarks",
+    "keywords": [
+      "windmill",
+      "mill",
+      "dutch",
+      "molino",
+      "viento",
+      "holanda",
+      "sails",
+      "flour"
+    ],
+    "aliases": [
+      "windmill",
+      "dutch-windmill"
+    ],
+    "outline": "<path d=\"M8.5 21 10 12h4l1.5 9Z\"/><path d=\"M9.7 12 10 10.5h4l.3 1.5Z\"/><circle cx=\"12\" cy=\"9.5\" r=\"1\"/><path d=\"M12 9.5 6.5 5.5M12 9.5 17.5 5.5M12 9.5 6.5 13.5M12 9.5 17.5 13.5\"/><path d=\"M11 21v-3h2v3\"/><path d=\"M7 21h10\"/>",
+    "solid": null
+  },
+  "temple-greek": {
+    "category": "landmarks",
+    "keywords": [
+      "greek temple",
+      "parthenon",
+      "temple",
+      "templo",
+      "griego",
+      "partenon",
+      "columns",
+      "pantheon"
+    ],
+    "aliases": [
+      "parthenon",
+      "greek-temple"
+    ],
+    "outline": "<path d=\"M4 9 12 5l8 4Z\"/><path d=\"M4 9h16v1.5H4z\"/><path d=\"M5.5 10.5v8M8.5 10.5v8M11.5 10.5v8M14.5 10.5v8M17.5 10.5v8\"/><path d=\"M3.5 18.5h17\"/><path d=\"M2.5 21h19\"/>",
+    "solid": "<path d=\"M4 9 12 5l8 4Z\"/><rect x=\"4\" y=\"9\" width=\"16\" height=\"1.6\"/><rect x=\"5\" y=\"10.6\" width=\"1.6\" height=\"7.9\"/><rect x=\"8.2\" y=\"10.6\" width=\"1.6\" height=\"7.9\"/><rect x=\"11.2\" y=\"10.6\" width=\"1.6\" height=\"7.9\"/><rect x=\"14.2\" y=\"10.6\" width=\"1.6\" height=\"7.9\"/><rect x=\"17.4\" y=\"10.6\" width=\"1.6\" height=\"7.9\"/><rect x=\"3.5\" y=\"18.5\" width=\"17\" height=\"1.4\"/><rect x=\"2.5\" y=\"20.5\" width=\"19\" height=\"1.5\" rx=\"0.3\"/>"
+  },
+  "acropolis": {
+    "category": "landmarks",
+    "keywords": [
+      "acropolis",
+      "athens",
+      "greece",
+      "ruins",
+      "acropolis",
+      "atenas",
+      "grecia",
+      "ruinas"
+    ],
+    "aliases": [
+      "acropolis-athens"
+    ],
+    "outline": "<path d=\"M5.5 9 11 6M13 6l5.5 3\"/><path d=\"M6 18V10M9 18v-6M12 18V10M15 18v-7.5M18 18V10\"/><path d=\"M5 10h5M13.5 10h5\"/><path d=\"M4 18h16\"/><path d=\"M4.5 18 3.5 21h17l-1-3\"/>",
+    "solid": null
+  },
+  "petra": {
+    "category": "landmarks",
+    "keywords": [
+      "petra",
+      "jordan",
+      "treasury",
+      "petra",
+      "jordania",
+      "tesoro",
+      "al-khazneh",
+      "rock"
+    ],
+    "aliases": [
+      "al-khazneh",
+      "treasury"
+    ],
+    "outline": "<path d=\"M6 11 12 8l6 3\"/><path d=\"M6 11h12v1H6z\"/><path d=\"M7 20v-8M10 20v-8M14 20v-8M17 20v-8\"/><path d=\"M11 20v-5a1 1 0 0 1 2 0v5\"/><path d=\"M10.5 8V6.5a1.5 1.5 0 0 1 3 0V8\"/><path d=\"M10.3 6.5a1.7 1.7 0 0 1 3.4 0\"/><path d=\"M12 4.8V3.6\"/><path d=\"M7.5 8 9.5 6M16.5 8l-2-2\"/><path d=\"M5.5 20h13\"/>",
+    "solid": null
+  },
+  "machu-picchu": {
+    "category": "landmarks",
+    "keywords": [
+      "machu picchu",
+      "peru",
+      "inca",
+      "ruins",
+      "peru",
+      "inca",
+      "ruinas",
+      "andes"
+    ],
+    "aliases": [
+      "machupicchu",
+      "inca-ruins"
+    ],
+    "outline": "<path d=\"M15 4 10 14h10Z\"/><path d=\"M2.5 21v-2h4v-2h4v-2h3.5\"/><path d=\"M4 19v-1.4h1.6v1.4M8 17v-1.4h1.6v1.4\"/><path d=\"M2 21h20\"/>",
+    "solid": null
+  },
+  "angkor-wat": {
+    "category": "landmarks",
+    "keywords": [
+      "angkor wat",
+      "cambodia",
+      "temple",
+      "templo",
+      "camboya",
+      "khmer",
+      "towers",
+      "hindu"
+    ],
+    "aliases": [
+      "angkor",
+      "khmer-temple"
+    ],
+    "outline": "<path d=\"M12 3.5c-1.4 1.5-1.8 3.5-1.8 6.5v3h3.6v-3c0-3-.4-5-1.8-6.5Z\"/><path d=\"M7 7c-1 1.2-1.3 2.8-1.3 5v1h2.6v-1c0-2.2-.3-3.8-1.3-5Z\"/><path d=\"M17 7c-1 1.2-1.3 2.8-1.3 5v1h2.6v-1c0-2.2-.3-3.8-1.3-5Z\"/><path d=\"M3.3 9.3c-.8 1-1 2-1 3.7v1h2v-1c0-1.7-.2-2.7-1-3.7Z\"/><path d=\"M20.7 9.3c-.8 1-1 2-1 3.7v1h2v-1c0-1.7-.2-2.7-1-3.7Z\"/><path d=\"M2 13.5h20\"/><path d=\"M3.5 13.5V19M20.5 13.5V19\"/><path d=\"M2.5 16.3h19\"/><path d=\"M2.5 19h19\"/>",
+    "solid": "<path d=\"M12 3.5c-1.4 1.5-1.8 3.5-1.8 6.5v3h3.6v-3c0-3-.4-5-1.8-6.5Z\"/><path d=\"M7 7c-1 1.2-1.3 2.8-1.3 5v1h2.6v-1c0-2.2-.3-3.8-1.3-5Z\"/><path d=\"M17 7c-1 1.2-1.3 2.8-1.3 5v1h2.6v-1c0-2.2-.3-3.8-1.3-5Z\"/><path d=\"M3.3 9.3c-.8 1-1 2-1 3.7v1h2v-1c0-1.7-.2-2.7-1-3.7Z\"/><path d=\"M20.7 9.3c-.8 1-1 2-1 3.7v1h2v-1c0-1.7-.2-2.7-1-3.7Z\"/><rect x=\"2.5\" y=\"13.3\" width=\"19\" height=\"5.2\"/><rect x=\"2\" y=\"18.5\" width=\"20\" height=\"2\" rx=\"0.4\"/>"
+  },
+  "white-house": {
+    "category": "landmarks",
+    "keywords": [
+      "white house",
+      "washington",
+      "president",
+      "casa blanca",
+      "gobierno",
+      "usa",
+      "government"
+    ],
+    "aliases": [
+      "whitehouse"
+    ],
+    "outline": "<path d=\"M9 8 12 6l3 2Z\"/><path d=\"M9.5 9v5M11 9v5M13 9v5M14.5 9v5\"/><path d=\"M4 19v-9h16v9\"/><path d=\"M4 10h16\"/><path d=\"M6 13h1.2v1.6H6zM16.8 13H18v1.6h-1.2zM6 16.5h1.2v1.6H6zM16.8 16.5H18v1.6h-1.2z\"/><path d=\"M3.5 19h17\"/><path d=\"M3 21h18\"/>",
+    "solid": null
+  },
+  "capitol-building": {
+    "category": "landmarks",
+    "keywords": [
+      "capitol",
+      "washington",
+      "congress",
+      "capitolio",
+      "congreso",
+      "dome",
+      "government",
+      "usa"
+    ],
+    "aliases": [
+      "capitol",
+      "us-capitol"
+    ],
+    "outline": "<path d=\"M9 10c0-2.2 1.3-4 3-4s3 1.8 3 4Z\"/><path d=\"M12 6V4\"/><circle cx=\"12\" cy=\"3.6\" r=\"0.7\"/><path d=\"M9 10h6\"/><path d=\"M9 12.5 12 11l3 1.5Z\"/><path d=\"M4 19v-6.5h16V19\"/><path d=\"M6 19v-6.5M8.5 19v-6.5M11 19v-6.5M13 19v-6.5M15.5 19v-6.5M18 19v-6.5\"/><path d=\"M3 19h18\"/><path d=\"M2.5 21h19\"/>",
+    "solid": "<path d=\"M9 10c0-2.2 1.3-4 3-4s3 1.8 3 4Z\"/><rect x=\"11.5\" y=\"3.9\" width=\"1\" height=\"2.3\"/><circle cx=\"12\" cy=\"3.5\" r=\"0.8\"/><path d=\"M9 12.5 12 11l3 1.5Z\"/><rect x=\"4\" y=\"12.5\" width=\"16\" height=\"1.5\"/><rect x=\"5.3\" y=\"14\" width=\"1.5\" height=\"5\"/><rect x=\"7.8\" y=\"14\" width=\"1.5\" height=\"5\"/><rect x=\"10.3\" y=\"14\" width=\"1.5\" height=\"5\"/><rect x=\"12.8\" y=\"14\" width=\"1.5\" height=\"5\"/><rect x=\"15.3\" y=\"14\" width=\"1.5\" height=\"5\"/><rect x=\"17.8\" y=\"14\" width=\"1.5\" height=\"5\"/><rect x=\"3\" y=\"19\" width=\"18\" height=\"1.4\"/><rect x=\"2.5\" y=\"20.4\" width=\"19\" height=\"1.6\" rx=\"0.3\"/>"
+  },
+  "mosque-dome": {
+    "category": "landmarks",
+    "keywords": [
+      "mosque",
+      "islam",
+      "dome",
+      "mezquita",
+      "islamico",
+      "cupula",
+      "minaret",
+      "religion"
+    ],
+    "aliases": [
+      "mosque",
+      "masjid"
+    ],
+    "outline": "<path d=\"M8 13c0-3 2-4.5 4-7 2 2.5 4 4 4 7Z\"/><path d=\"M11.5 3.5a1.6 1.6 0 1 0 1.4 2.6 1.9 1.9 0 0 1-1.4-2.6Z\"/><path d=\"M6 20v-7h12v7\"/><path d=\"M10.5 20v-3a1.5 1.5 0 0 1 3 0v3\"/><path d=\"M4 20V9\"/><circle cx=\"4\" cy=\"8\" r=\"0.9\"/><path d=\"M20 20V9\"/><circle cx=\"20\" cy=\"8\" r=\"0.9\"/><path d=\"M3 20h18\"/>",
+    "solid": "<path d=\"M8 13c0-3 2-4.5 4-7 2 2.5 4 4 4 7Z\"/><path d=\"M11.5 3.5a1.6 1.6 0 1 0 1.4 2.6 1.9 1.9 0 0 1-1.4-2.6Z\"/><path d=\"M6 13h12v7H6Z M10.5 20v-3a1.5 1.5 0 0 1 3 0v3Z\" fill-rule=\"evenodd\"/><rect x=\"3.2\" y=\"9\" width=\"1.6\" height=\"11\"/><rect x=\"19.2\" y=\"9\" width=\"1.6\" height=\"11\"/><circle cx=\"4\" cy=\"7.8\" r=\"1\"/><circle cx=\"20\" cy=\"7.8\" r=\"1\"/><rect x=\"3\" y=\"20\" width=\"18\" height=\"1.6\" rx=\"0.4\"/>"
+  },
+  "cathedral": {
+    "category": "landmarks",
+    "keywords": [
+      "cathedral",
+      "church",
+      "basilica",
+      "catedral",
+      "iglesia",
+      "basilica",
+      "gothic",
+      "religion"
+    ],
+    "aliases": [
+      "church",
+      "basilica"
+    ],
+    "outline": "<path d=\"M4.5 20V12l1.8-3 1.7 3v8\"/><path d=\"M16 20v-8l1.8-3 1.7 3v8\"/><path d=\"M8 20V9l4-4 4 4v11\"/><path d=\"M12 5V2.5M11 3.5h2\"/><circle cx=\"12\" cy=\"11\" r=\"1.6\"/><path d=\"M10.5 20v-3.5a1.5 1.5 0 0 1 3 0V20\"/><path d=\"M3.5 20h17\"/>",
+    "solid": "<path d=\"M4.5 20V12l1.8-3 1.7 3v8Z\"/><path d=\"M16 20v-8l1.8-3 1.7 3v8Z\"/><rect x=\"11.3\" y=\"2.5\" width=\"1.4\" height=\"3.5\"/><rect x=\"10.5\" y=\"3.3\" width=\"3\" height=\"1.2\"/><path d=\"M8 9l4-4 4 4v11H8Z M12 9.4a1.6 1.6 0 1 0 0 3.2 1.6 1.6 0 0 0 0-3.2Z M10.5 20v-3.5a1.5 1.5 0 0 1 3 0V20Z\" fill-rule=\"evenodd\"/><rect x=\"3.5\" y=\"20\" width=\"17\" height=\"1.6\" rx=\"0.4\"/>"
+  },
+  "skyscraper-landmark": {
+    "category": "landmarks",
+    "keywords": [
+      "skyscraper",
+      "building",
+      "tower",
+      "rascacielos",
+      "edificio",
+      "torre",
+      "city",
+      "highrise"
+    ],
+    "aliases": [
+      "skyscraper",
+      "high-rise"
+    ],
+    "outline": "<path d=\"M9 21V4h7v17\"/><path d=\"M12.5 4V2\"/><path d=\"M9 8h7M9 11.5h7M9 15h7M9 18.5h7\"/><path d=\"M12.5 4v17\"/><path d=\"M4 21V10h4v11\"/><path d=\"M4 13h4M4 16h4M4 19h4\"/><path d=\"M6 10v11\"/><path d=\"M3 21h18\"/>",
+    "solid": "<path d=\"M9 4h7v17H9Z M10.2 6h1.8v1.6h-1.8z M13 6h1.8v1.6H13z M10.2 9.5h1.8v1.6h-1.8z M13 9.5h1.8v1.6H13z M10.2 13h1.8v1.6h-1.8z M13 13h1.8v1.6H13z M10.2 16.5h1.8v1.6h-1.8z M13 16.5h1.8v1.6H13z\" fill-rule=\"evenodd\"/><rect x=\"11.9\" y=\"2\" width=\"1.2\" height=\"2.4\"/><path d=\"M4 10h4v11H4Z M5 12.5h2v1.5H5z M5 15.5h2v1.5H5z M5 18.5h2v1.5H5z\" fill-rule=\"evenodd\"/><rect x=\"3\" y=\"20.4\" width=\"18\" height=\"1.6\" rx=\"0.4\"/>"
+  }
+}

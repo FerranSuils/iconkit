@@ -1,0 +1,760 @@
+{
+  "heart-rate-monitor": {
+    "category": "fitness",
+    "keywords": [
+      "heart rate",
+      "monitor",
+      "ecg",
+      "pulse",
+      "ritmo cardiaco",
+      "pulso",
+      "cardio",
+      "electrocardiograma"
+    ],
+    "aliases": [
+      "ecg-monitor",
+      "cardiac-monitor",
+      "vitals-monitor"
+    ],
+    "outline": "<rect x=\"3\" y=\"4\" width=\"18\" height=\"13\" rx=\"2\"/><path d=\"M6 11h2l1.3-2.8 2.3 5.6 1.3-2.8H18\"/><path d=\"M12 17v3\"/><path d=\"M8.5 20.5h7\"/>",
+    "solid": null
+  },
+  "calories-burn": {
+    "category": "fitness",
+    "keywords": [
+      "calories",
+      "burn",
+      "fire",
+      "energy",
+      "calorias",
+      "quemar",
+      "fuego",
+      "energia",
+      "progress",
+      "ring",
+      "progreso",
+      "intensidad"
+    ],
+    "aliases": [
+      "calorie-burn",
+      "burn-calories"
+    ],
+    "outline": "<path d=\"M12 3a9 9 0 1 1-9 9\"/><path d=\"M12 8.5c.3 1.5 1.3 2.2 2.1 3.2a3.4 3.4 0 1 1-5.5 2.7c0-1.1.5-2 1.2-2.7.9-1 1.9-1.7 2.2-3.2Z\"/>",
+    "solid": "<path d=\"M12 3a9 9 0 1 1-9 9a1 1 0 0 1 2 0a7 7 0 1 0 7-7a1 1 0 0 1 0-2Z\"/><path d=\"M12 8.5c.3 1.5 1.3 2.2 2.1 3.2a3.4 3.4 0 1 1-5.5 2.7c0-1.1.5-2 1.2-2.7.9-1 1.9-1.7 2.2-3.2Z\"/>"
+  },
+  "steps-counter": {
+    "category": "fitness",
+    "keywords": [
+      "steps",
+      "footprints",
+      "walking",
+      "count",
+      "pasos",
+      "huellas",
+      "caminar",
+      "podometro",
+      "sole",
+      "planta",
+      "dedos"
+    ],
+    "aliases": [
+      "footprints",
+      "walk-steps"
+    ],
+    "outline": "<path d=\"M7 5.7C8.9 5.7 9.8 7.2 9.8 8.7C9.8 10.3 8.9 11.3 8.5 12.6C8.3 13.2 8.2 13.7 8.2 14.2A1.2 1.2 0 0 1 5.8 14.2C5.8 13.7 5.7 13.2 5.5 12.6C5.1 11.3 4.2 10.3 4.2 8.7C4.2 7.2 5.1 5.7 7 5.7Z\"/><path d=\"M15.3 10.3C17.2 10.3 18.1 11.8 18.1 13.3C18.1 14.9 17.2 15.9 16.8 17.2C16.6 17.8 16.5 18.3 16.5 18.8A1.2 1.2 0 0 1 14.1 18.8C14.1 18.3 14 17.8 13.8 17.2C13.4 15.9 12.5 14.9 12.5 13.3C12.5 11.8 13.4 10.3 15.3 10.3Z\"/><path d=\"M4.7 3.6v.01M7 3v.01M9.3 3.6v.01M13 8.2v.01M15.3 7.6v.01M17.6 8.2v.01\"/>",
+    "solid": "<path d=\"M7 5.7C8.9 5.7 9.8 7.2 9.8 8.7C9.8 10.3 8.9 11.3 8.5 12.6C8.3 13.2 8.2 13.7 8.2 14.2A1.2 1.2 0 0 1 5.8 14.2C5.8 13.7 5.7 13.2 5.5 12.6C5.1 11.3 4.2 10.3 4.2 8.7C4.2 7.2 5.1 5.7 7 5.7Z\"/><path d=\"M15.3 10.3C17.2 10.3 18.1 11.8 18.1 13.3C18.1 14.9 17.2 15.9 16.8 17.2C16.6 17.8 16.5 18.3 16.5 18.8A1.2 1.2 0 0 1 14.1 18.8C14.1 18.3 14 17.8 13.8 17.2C13.4 15.9 12.5 14.9 12.5 13.3C12.5 11.8 13.4 10.3 15.3 10.3Z\"/><circle cx=\"4.7\" cy=\"3.6\" r=\"1.05\"/><circle cx=\"7\" cy=\"3\" r=\"1.05\"/><circle cx=\"9.3\" cy=\"3.6\" r=\"1.05\"/><circle cx=\"13\" cy=\"8.2\" r=\"1.05\"/><circle cx=\"15.3\" cy=\"7.6\" r=\"1.05\"/><circle cx=\"17.6\" cy=\"8.2\" r=\"1.05\"/>"
+  },
+  "workout-plan": {
+    "category": "fitness",
+    "keywords": [
+      "workout",
+      "plan",
+      "routine",
+      "training",
+      "entrenamiento",
+      "rutina",
+      "plan",
+      "ejercicio"
+    ],
+    "aliases": [
+      "training-plan",
+      "routine"
+    ],
+    "outline": "<rect x=\"9\" y=\"3\" width=\"6\" height=\"4\" rx=\"1\"/><path d=\"M9 5H7a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-2\"/><path d=\"M8.5 13h7\"/><path d=\"M8.5 11.5v3M15.5 11.5v3\"/><path d=\"M9 17.5h6\"/>",
+    "solid": null
+  },
+  "gym-weights": {
+    "category": "fitness",
+    "keywords": [
+      "weight",
+      "plate",
+      "gym",
+      "lifting",
+      "disco",
+      "peso",
+      "pesas",
+      "gimnasio",
+      "grip",
+      "muescas",
+      "agarre"
+    ],
+    "aliases": [
+      "weight-plate",
+      "gym-plate"
+    ],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"9\"/><circle cx=\"12\" cy=\"12\" r=\"4.6\"/><circle cx=\"12\" cy=\"12\" r=\"1.3\"/><path d=\"M4.4 10.6v2.8M19.6 10.6v2.8\"/>",
+    "solid": "<path d=\"M3 12a9 9 0 1 0 18 0a9 9 0 1 0 -18 0ZM6.9 12a5.1 5.1 0 1 0 10.2 0a5.1 5.1 0 1 0 -10.2 0ZM7.9 12a4.1 4.1 0 1 0 8.2 0a4.1 4.1 0 1 0 -8.2 0ZM10.5 12a1.5 1.5 0 1 0 3 0a1.5 1.5 0 1 0 -3 0ZM3.3 11.8a1 1 0 0 1 2 0v.4a1 1 0 0 1-2 0ZM18.7 11.8a1 1 0 0 1 2 0v.4a1 1 0 0 1-2 0Z\" fill-rule=\"evenodd\"/>"
+  },
+  "body-scale": {
+    "category": "fitness",
+    "keywords": [
+      "scale",
+      "weight",
+      "body",
+      "bathroom",
+      "bascula",
+      "balanza",
+      "peso",
+      "cuerpo"
+    ],
+    "aliases": [
+      "weighing-scale",
+      "bathroom-scale"
+    ],
+    "outline": "<rect x=\"3.5\" y=\"3.5\" width=\"17\" height=\"17\" rx=\"3\"/><rect x=\"9\" y=\"6.5\" width=\"6\" height=\"4\" rx=\"1\"/><path d=\"M10.8 8.5h2.4\"/><path d=\"M7.5 14.5h3M13.5 14.5h3\"/>",
+    "solid": "<path d=\"M6.5 3.5A3 3 0 0 0 3.5 6.5v11a3 3 0 0 0 3 3h11a3 3 0 0 0 3-3v-11a3 3 0 0 0-3-3Zm2.5 3h6a1 1 0 0 1 1 1v2a1 1 0 0 1-1 1H9a1 1 0 0 1-1-1V7.5a1 1 0 0 1 1-1Z\" fill-rule=\"evenodd\"/>"
+  },
+  "bmi-chart": {
+    "category": "fitness",
+    "keywords": [
+      "bmi",
+      "chart",
+      "gauge",
+      "index",
+      "imc",
+      "indice",
+      "masa corporal",
+      "medidor",
+      "person",
+      "figura",
+      "rangos"
+    ],
+    "aliases": [
+      "bmi-gauge",
+      "body-mass-index"
+    ],
+    "outline": "<path d=\"M4.5 13.5a7.5 7.5 0 0 1 15 0\"/><path d=\"M6.25 8.68L7.71 9.9M12 6v1.9M17.75 8.68L16.29 9.9\"/><circle cx=\"12\" cy=\"14.2\" r=\"1.9\"/><path d=\"M8.3 20.5c0-2.1 1.6-3.4 3.7-3.4s3.7 1.3 3.7 3.4\"/>",
+    "solid": null
+  },
+  "water-intake": {
+    "category": "fitness",
+    "keywords": [
+      "water",
+      "hydration",
+      "drink",
+      "glass",
+      "agua",
+      "hidratacion",
+      "beber",
+      "vaso"
+    ],
+    "aliases": [
+      "hydration",
+      "drink-water"
+    ],
+    "outline": "<path d=\"M12 2.5c-.8 1.3-1.7 2-1.7 3a1.7 1.7 0 0 0 3.4 0c0-1-.9-1.7-1.7-3Z\"/><path d=\"M6.5 6.5h11l-1 12.9a1.3 1.3 0 0 1-1.3 1.1H8.8a1.3 1.3 0 0 1-1.3-1.1Z\"/><path d=\"M7.1 12h9.8\"/>",
+    "solid": "<path d=\"M12 2.5c-.8 1.3-1.7 2-1.7 3a1.7 1.7 0 0 0 3.4 0c0-1-.9-1.7-1.7-3Z\"/><path d=\"M6.4 7h11.2l-1 12.5a1.3 1.3 0 0 1-1.3 1.2H8.7a1.3 1.3 0 0 1-1.3-1.2Z\"/>"
+  },
+  "sleep-tracker": {
+    "category": "fitness",
+    "keywords": [
+      "sleep",
+      "rest",
+      "night",
+      "tracker",
+      "sueno",
+      "dormir",
+      "descanso",
+      "noche"
+    ],
+    "aliases": [
+      "sleep",
+      "rest-tracker"
+    ],
+    "outline": "<path d=\"M10.6 5A6.6 6.6 0 0 0 17.2 11.6 6.6 6.6 0 1 1 10.6 5Z\"/><path d=\"M14 3.5h2.6l-2.6 2.8h2.6\"/><path d=\"M18 7.5h2l-2 2.2h2\"/>",
+    "solid": null
+  },
+  "meditation-fitness": {
+    "category": "fitness",
+    "keywords": [
+      "meditation",
+      "mindfulness",
+      "relax",
+      "zen",
+      "meditacion",
+      "relajacion",
+      "yoga",
+      "calma"
+    ],
+    "aliases": [
+      "meditate",
+      "mindfulness"
+    ],
+    "outline": "<circle cx=\"12\" cy=\"5\" r=\"2.3\"/><path d=\"M12 7.3v4\"/><path d=\"M5 18.5c0-2.2 3.1-4 7-4s7 1.8 7 4a.9.9 0 0 1-.9.9H5.9a.9.9 0 0 1-.9-.9Z\"/><path d=\"M12 11.3c-1.8.2-4.8 1.2-5.8 2.4M12 11.3c1.8.2 4.8 1.2 5.8 2.4\"/>",
+    "solid": null
+  },
+  "treadmill": {
+    "category": "fitness",
+    "keywords": [
+      "treadmill",
+      "running",
+      "cardio",
+      "machine",
+      "cinta",
+      "correr",
+      "caminadora",
+      "maquina",
+      "deck",
+      "consola",
+      "inclinada"
+    ],
+    "aliases": [
+      "running-machine"
+    ],
+    "outline": "<path d=\"M4.88 19.77 L15.68 17.57A1.4 1.4 0 0 0 15.12 14.83L4.32 17.03A1.4 1.4 0 0 0 4.88 19.77Z\"/><path d=\"M18 16.8V7\"/><rect x=\"15\" y=\"3\" width=\"6\" height=\"3.8\" rx=\"1\"/><path d=\"M18 11.2h-4.6\"/>",
+    "solid": null
+  },
+  "jump-rope": {
+    "category": "fitness",
+    "keywords": [
+      "jump rope",
+      "skipping",
+      "cardio",
+      "rope",
+      "comba",
+      "cuerda",
+      "saltar",
+      "salto"
+    ],
+    "aliases": [
+      "skipping-rope",
+      "skip-rope"
+    ],
+    "outline": "<rect x=\"4.4\" y=\"3.5\" width=\"2.2\" height=\"5\" rx=\"1.1\"/><rect x=\"17.4\" y=\"3.5\" width=\"2.2\" height=\"5\" rx=\"1.1\"/><path d=\"M5.5 8.5c-2.2 5 .3 10.5 6.5 10.5s8.7-5.5 6.5-10.5\"/>",
+    "solid": null
+  },
+  "pull-up-bar": {
+    "category": "fitness",
+    "keywords": [
+      "pull up",
+      "bar",
+      "calisthenics",
+      "gym",
+      "dominadas",
+      "barra",
+      "gimnasio",
+      "fuerza"
+    ],
+    "aliases": [
+      "chin-up-bar",
+      "pullup"
+    ],
+    "outline": "<path d=\"M3.5 6h17\"/><path d=\"M6 6v13M18 6v13\"/><path d=\"M4 19.5h4M16 19.5h4\"/><path d=\"M9.5 6v2M14.5 6v2\"/>",
+    "solid": null
+  },
+  "bench-press": {
+    "category": "fitness",
+    "keywords": [
+      "bench",
+      "press",
+      "barbell",
+      "gym",
+      "banco",
+      "press",
+      "pesas",
+      "pecho"
+    ],
+    "aliases": [
+      "weight-bench",
+      "bench"
+    ],
+    "outline": "<rect x=\"3\" y=\"13\" width=\"11\" height=\"2.5\" rx=\"1.2\"/><path d=\"M4.5 15.5 3.5 20M12.5 15.5 13.5 20\"/><path d=\"M16.5 12.5V8.5\"/><path d=\"M9 8.5h9\"/><path d=\"M16.7 6.7v3.6M18.3 6.7v3.6\"/>",
+    "solid": null
+  },
+  "squat": {
+    "category": "fitness",
+    "keywords": [
+      "squat",
+      "legs",
+      "barbell",
+      "exercise",
+      "sentadilla",
+      "piernas",
+      "ejercicio",
+      "fuerza"
+    ],
+    "aliases": [
+      "squats",
+      "leg-day"
+    ],
+    "outline": "<circle cx=\"12\" cy=\"4.3\" r=\"2\"/><path d=\"M5.5 7.5h13\"/><path d=\"M6.2 6v3M17.8 6v3\"/><path d=\"M12 6.3v5l-3.2 3.2V19M12 11.3l3.2 3.2V19\"/>",
+    "solid": null
+  },
+  "plank-exercise": {
+    "category": "fitness",
+    "keywords": [
+      "plank",
+      "core",
+      "abs",
+      "exercise",
+      "plancha",
+      "abdominales",
+      "core",
+      "ejercicio"
+    ],
+    "aliases": [
+      "plank",
+      "core-exercise"
+    ],
+    "outline": "<path d=\"M3 19.5h18\"/><circle cx=\"6\" cy=\"10.3\" r=\"1.9\"/><path d=\"M7.5 11.5 19.5 18.5\"/><path d=\"M7.5 11.5 6 19.5\"/>",
+    "solid": null
+  },
+  "stretching": {
+    "category": "fitness",
+    "keywords": [
+      "stretch",
+      "warm up",
+      "mobility",
+      "flexibility",
+      "estiramiento",
+      "calentamiento",
+      "flexibilidad",
+      "movilidad"
+    ],
+    "aliases": [
+      "stretch",
+      "warm-up"
+    ],
+    "outline": "<circle cx=\"7.5\" cy=\"4.8\" r=\"2\"/><path d=\"M7.5 6.8 9.5 12\"/><path d=\"M9.5 12 8 16.5 5.5 19.5\"/><path d=\"M9.5 12 14 14 15.5 19.5\"/><path d=\"M8.4 9 12.5 8.2\"/>",
+    "solid": null
+  },
+  "protein-shake": {
+    "category": "fitness",
+    "keywords": [
+      "protein",
+      "shake",
+      "shaker",
+      "supplement",
+      "proteina",
+      "batido",
+      "suplemento",
+      "gimnasio"
+    ],
+    "aliases": [
+      "shaker",
+      "protein-drink"
+    ],
+    "outline": "<path d=\"M8 3.5h8v2H8z\"/><path d=\"M7.5 5.5h9v13a1.8 1.8 0 0 1-1.8 1.8H9.3A1.8 1.8 0 0 1 7.5 18.5Z\"/><path d=\"M9 9.5h2.2M9 12.5h2.2M9 15.5h2.2\"/>",
+    "solid": "<path d=\"M7.5 3a1 1 0 0 0-1 1v1.5H6a.9.9 0 0 0 0 1.8h.5V18.5A2.5 2.5 0 0 0 9 21h6a2.5 2.5 0 0 0 2.5-2.5V7.3H18a.9.9 0 0 0 0-1.8h-.5V4a1 1 0 0 0-1-1Zm1.5 6.6h2.2a.7.7 0 0 1 0 1.4H9a.7.7 0 0 1 0-1.4Zm0 3h2.2a.7.7 0 0 1 0 1.4H9a.7.7 0 0 1 0-1.4Z\" fill-rule=\"evenodd\"/>"
+  },
+  "vitamins-fitness": {
+    "category": "fitness",
+    "keywords": [
+      "vitamins",
+      "supplement",
+      "bottle",
+      "health",
+      "vitaminas",
+      "suplemento",
+      "salud",
+      "frasco"
+    ],
+    "aliases": [
+      "supplements",
+      "vitamin-bottle"
+    ],
+    "outline": "<rect x=\"8.5\" y=\"3\" width=\"7\" height=\"3\" rx=\"1\"/><rect x=\"7\" y=\"6\" width=\"10\" height=\"15\" rx=\"2\"/><path d=\"M12 10.5v6M9 13.5h6\"/>",
+    "solid": "<path d=\"M9.5 2.5A1.5 1.5 0 0 0 8 4v1.2A2.5 2.5 0 0 0 6 7.6v10.9A2.5 2.5 0 0 0 8.5 21h7a2.5 2.5 0 0 0 2.5-2.5V7.6a2.5 2.5 0 0 0-2-2.4V4a1.5 1.5 0 0 0-1.5-1.5Zm3.5 10.1a1 1 0 0 1 0 2h-1v1a1 1 0 0 1-2 0v-1h-1a1 1 0 0 1 0-2h1v-1a1 1 0 0 1 2 0v1Z\" fill-rule=\"evenodd\"/>"
+  },
+  "diet-plan": {
+    "category": "fitness",
+    "keywords": [
+      "diet",
+      "nutrition",
+      "plan",
+      "food",
+      "dieta",
+      "nutricion",
+      "plan",
+      "alimentacion"
+    ],
+    "aliases": [
+      "nutrition-plan",
+      "meal-plan"
+    ],
+    "outline": "<rect x=\"9\" y=\"3\" width=\"6\" height=\"4\" rx=\"1\"/><path d=\"M9 5H7a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-2\"/><path d=\"M8 10h8\"/><path d=\"M12 14c-.7-.7-2.2-.6-2.8.4-.6 1-.2 2.9.9 3.8.5.4 1.1.4 1.9 0 .8.4 1.4.4 1.9 0 1.1-.9 1.5-2.8.9-3.8-.6-1-2.1-1.1-2.8-.4Z\"/><path d=\"M12.2 13.9c.1-1 .9-1.6 1.9-1.6\"/>",
+    "solid": null
+  },
+  "nutrition-label": {
+    "category": "fitness",
+    "keywords": [
+      "nutrition",
+      "label",
+      "facts",
+      "food",
+      "nutricion",
+      "etiqueta",
+      "informacion",
+      "alimento"
+    ],
+    "aliases": [
+      "nutrition-facts",
+      "food-label"
+    ],
+    "outline": "<rect x=\"5\" y=\"3\" width=\"14\" height=\"18\" rx=\"1.5\"/><path d=\"M7.5 7h9\"/><path d=\"M7.5 10h9M7.5 12.5h9M7.5 15h9M7.5 17.5h6\"/>",
+    "solid": null
+  },
+  "muscle-flex": {
+    "category": "fitness",
+    "keywords": [
+      "muscle",
+      "flex",
+      "strength",
+      "biceps",
+      "musculo",
+      "fuerza",
+      "biceps",
+      "brazo"
+    ],
+    "aliases": [
+      "biceps",
+      "strength"
+    ],
+    "outline": "<path d=\"M6.5 4.5h3.5v5.5a2.5 2.5 0 0 0 2.5 2.5h5.5v3.5h-5.5A6 6 0 0 1 6.5 12Z\"/><path d=\"M10 7c2.4 0 3.9 1.7 4 4\"/>",
+    "solid": "<path d=\"M6.5 4a1.5 1.5 0 0 0-1.5 1.5V12a7 7 0 0 0 7 7h6a1.5 1.5 0 0 0 1.5-1.5V16a1.5 1.5 0 0 0-1.5-1.5h-4.5a1 1 0 0 1-1-1V5.5A1.5 1.5 0 0 0 11 4Z\"/>"
+  },
+  "gym-locker": {
+    "category": "fitness",
+    "keywords": [
+      "locker",
+      "gym",
+      "storage",
+      "changing",
+      "taquilla",
+      "gimnasio",
+      "vestuario",
+      "casillero"
+    ],
+    "aliases": [
+      "locker",
+      "changing-room"
+    ],
+    "outline": "<rect x=\"4\" y=\"3\" width=\"16\" height=\"18\" rx=\"1.5\"/><path d=\"M12 3v18\"/><path d=\"M6.5 6h3M6.5 8h3M15 6h3M15 8h3\"/><path d=\"M10.5 12.5v2.5M13.5 12.5v2.5\"/>",
+    "solid": "<path d=\"M6 2.5A2.5 2.5 0 0 0 3.5 5v14A2.5 2.5 0 0 0 6 21.5h12A2.5 2.5 0 0 0 20.5 19V5A2.5 2.5 0 0 0 18 2.5Zm.5 3.5h3a.8.8 0 0 1 0 1.6h-3a.8.8 0 0 1 0-1.6Zm8 0h3a.8.8 0 0 1 0 1.6h-3a.8.8 0 0 1 0-1.6ZM11.2 3.5h1.6v17h-1.6Zm-4.7 6h3a.8.8 0 0 1 0 1.6h-3a.8.8 0 0 1 0-1.6Zm8 0h3a.8.8 0 0 1 0 1.6h-3a.8.8 0 0 1 0-1.6Z\" fill-rule=\"evenodd\"/>"
+  },
+  "sports-shoe": {
+    "category": "fitness",
+    "keywords": [
+      "shoe",
+      "sneaker",
+      "running",
+      "trainer",
+      "zapatilla",
+      "deportiva",
+      "calzado",
+      "tenis"
+    ],
+    "aliases": [
+      "sneaker",
+      "running-shoe",
+      "trainer"
+    ],
+    "outline": "<path d=\"M2.8 13v4a1.8 1.8 0 0 0 1.8 1.8H19a1.8 1.8 0 0 0 1.8-1.7c.1-1.6-.8-2.5-2.7-3l-4-.9-3.4-3.2a.8.8 0 0 0-1.2.1l-1.4 2L5.8 11 2.8 13Z\"/><path d=\"M2.8 16.5h18\"/><path d=\"M11.5 10.2 12.6 11.2M13.2 8.8 14.3 9.8\"/>",
+    "solid": "<path d=\"M2.8 13 5.8 11l3.3 1.1 1.4-2a.8.8 0 0 1 1.2-.1l3.4 3.2 4 .9c1.9.5 2.8 1.4 2.7 3a1.8 1.8 0 0 1-1.8 1.7H4.6A1.8 1.8 0 0 1 2.8 17Zm.4 3v.9a1 1 0 0 0 1 1h14.7a.9.9 0 0 0 .2-1.9Z\" fill-rule=\"evenodd\"/>"
+  },
+  "fitness-tracker": {
+    "category": "fitness",
+    "keywords": [
+      "fitness",
+      "tracker",
+      "watch",
+      "wearable",
+      "pulsera",
+      "reloj",
+      "actividad",
+      "smartwatch"
+    ],
+    "aliases": [
+      "activity-tracker",
+      "fitness-band"
+    ],
+    "outline": "<rect x=\"6.5\" y=\"6.5\" width=\"11\" height=\"11\" rx=\"3\"/><path d=\"M9 6.5 9.3 3h5.4l.3 3.5\"/><path d=\"M9 17.5 9.3 21h5.4l.3-3.5\"/><path d=\"M9 11.8h1.4l.9-1.8 1.4 3.4.9-1.6H15\"/>",
+    "solid": "<path d=\"M8.4 2a1 1 0 0 0-1 .9L7.2 5.6A4 4 0 0 0 5 9v6a4 4 0 0 0 2.2 3.4l.2 2.7a1 1 0 0 0 1 .9h5.2a1 1 0 0 0 1-.9l.2-2.7A4 4 0 0 0 19 15V9a4 4 0 0 0-2.2-3.4l-.2-2.7a1 1 0 0 0-1-.9Zm.6 9.2h1l.9-1.7a.6.6 0 0 1 1.1 0l1 2.3.5-.9a.6.6 0 0 1 .5-.3H15a.6.6 0 0 1 0 1.2h-1.1l-.9 1.6a.6.6 0 0 1-1.1-.1l-1-2.3-.4.8a.6.6 0 0 1-.5.3H9a.6.6 0 0 1 0-1.2Z\" fill-rule=\"evenodd\"/>"
+  },
+  "cycling-machine": {
+    "category": "fitness",
+    "keywords": [
+      "cycling",
+      "spin bike",
+      "exercise bike",
+      "cardio",
+      "bicicleta estatica",
+      "spinning",
+      "ciclismo",
+      "maquina",
+      "sillin",
+      "manillar",
+      "pedal"
+    ],
+    "aliases": [
+      "exercise-bike",
+      "spin-bike",
+      "stationary-bike"
+    ],
+    "outline": "<path d=\"M4.2 6.8H8\"/><path d=\"M6.1 6.8v2.4l2.3 4.2\"/><circle cx=\"9.5\" cy=\"15.5\" r=\"2.4\"/><path d=\"M9.5 15.5l2.9 2.1M11.1 18.4h2.6\"/><path d=\"M16.8 6.8l-5.7 6.9\"/><path d=\"M16.2 6.7c2-.7 3.7.4 3.9 2.3.1.8-.2 1.6-.8 2.1\"/><path d=\"M4.5 20.5H19\"/>",
+    "solid": null
+  },
+  "rowing-machine": {
+    "category": "fitness",
+    "keywords": [
+      "rowing",
+      "rower",
+      "cardio",
+      "machine",
+      "remo",
+      "remar",
+      "maquina",
+      "ejercicio",
+      "riel",
+      "tirador",
+      "volante"
+    ],
+    "aliases": [
+      "rower",
+      "rowing-machine"
+    ],
+    "outline": "<path d=\"M3.5 19h17.5\"/><circle cx=\"5.6\" cy=\"14.9\" r=\"2.6\"/><path d=\"M8.5 12.6h3.4\"/><path d=\"M13.2 10.9v3.4\"/><rect x=\"15\" y=\"15.2\" width=\"4.4\" height=\"2.6\" rx=\"1.2\"/>",
+    "solid": null
+  },
+  "elliptical": {
+    "category": "fitness",
+    "keywords": [
+      "elliptical",
+      "cross trainer",
+      "cardio",
+      "machine",
+      "eliptica",
+      "maquina",
+      "cardio",
+      "gimnasio",
+      "pedales",
+      "brazos",
+      "columna"
+    ],
+    "aliases": [
+      "cross-trainer",
+      "elliptical-trainer"
+    ],
+    "outline": "<path d=\"M6.5 20V4.5\"/><path d=\"M4.5 4.5h4\"/><path d=\"M3.5 20.5h6.5\"/><path d=\"M6.5 9.2 13.6 12\"/><rect x=\"13.4\" y=\"10.8\" width=\"4.8\" height=\"2.4\" rx=\"1.2\"/><path d=\"M6.5 13 12.2 17\"/><rect x=\"12\" y=\"15.8\" width=\"4.8\" height=\"2.4\" rx=\"1.2\"/>",
+    "solid": null
+  },
+  "medicine-ball": {
+    "category": "fitness",
+    "keywords": [
+      "medicine ball",
+      "weighted",
+      "gym",
+      "fitness",
+      "balon medicinal",
+      "pelota",
+      "peso",
+      "gimnasio"
+    ],
+    "aliases": [
+      "med-ball",
+      "weighted-ball"
+    ],
+    "outline": "<circle cx=\"12\" cy=\"12\" r=\"8.5\"/><path d=\"M5 9.5c4.5 2 9.5 2 14 0M5 14.5c4.5-2 9.5-2 14 0\"/><path d=\"M12 3.5v17\"/>",
+    "solid": null
+  },
+  "resistance-band": {
+    "category": "fitness",
+    "keywords": [
+      "resistance band",
+      "elastic",
+      "band",
+      "training",
+      "banda elastica",
+      "goma",
+      "resistencia",
+      "entrenamiento"
+    ],
+    "aliases": [
+      "exercise-band",
+      "elastic-band"
+    ],
+    "outline": "<ellipse cx=\"4.5\" cy=\"12\" rx=\"1.8\" ry=\"3.6\"/><ellipse cx=\"19.5\" cy=\"12\" rx=\"1.8\" ry=\"3.6\"/><path d=\"M6.3 10.2c3.8 1.8 7.6 1.8 11.4 0M6.3 13.8c3.8-1.8 7.6-1.8 11.4 0\"/>",
+    "solid": null
+  },
+  "foam-roller": {
+    "category": "fitness",
+    "keywords": [
+      "foam roller",
+      "recovery",
+      "massage",
+      "mobility",
+      "rodillo",
+      "masaje",
+      "recuperacion",
+      "movilidad"
+    ],
+    "aliases": [
+      "roller",
+      "muscle-roller"
+    ],
+    "outline": "<rect x=\"3\" y=\"8\" width=\"18\" height=\"8\" rx=\"4\"/><ellipse cx=\"7.5\" cy=\"12\" rx=\"2\" ry=\"3.6\"/><path d=\"M12 9.5v5M15 9.5v5M18 9.5v5\"/>",
+    "solid": "<path d=\"M7.5 8A4 4 0 1 0 7.5 16H17a4 4 0 0 0 0-8Zm4.2 1.8h.6v4.4h-.6Zm3 0h.6v4.4h-.6Zm3 0h.6v4.4h-.6ZM7.5 10.2a1.8 1.8 0 1 1 0 3.6 1.8 1.8 0 0 1 0-3.6Z\" fill-rule=\"evenodd\"/>"
+  },
+  "gym-mat": {
+    "category": "fitness",
+    "keywords": [
+      "mat",
+      "yoga",
+      "exercise",
+      "fitness",
+      "esterilla",
+      "colchoneta",
+      "yoga",
+      "gimnasio"
+    ],
+    "aliases": [
+      "yoga-mat",
+      "exercise-mat"
+    ],
+    "outline": "<circle cx=\"7.5\" cy=\"11.5\" r=\"5\"/><circle cx=\"7.5\" cy=\"11.5\" r=\"2\"/><path d=\"M7.5 16.5h9.5a1.6 1.6 0 0 0 0-3.2H12\"/>",
+    "solid": "<path d=\"M7.5 6.5a5 5 0 1 0 0 10h9.5a1.6 1.6 0 0 0 0-3.2h-4.3A5 5 0 0 0 7.5 6.5Zm0 3a2 2 0 1 1 0 4 2 2 0 0 1 0-4Z\" fill-rule=\"evenodd\"/>"
+  },
+  "water-bottle-sport": {
+    "category": "fitness",
+    "keywords": [
+      "water bottle",
+      "sport",
+      "hydration",
+      "drink",
+      "botella",
+      "agua",
+      "deporte",
+      "hidratacion"
+    ],
+    "aliases": [
+      "sports-bottle",
+      "drink-bottle"
+    ],
+    "outline": "<path d=\"M11 2.5h2v2h-2z\"/><rect x=\"9.5\" y=\"4.5\" width=\"5\" height=\"2.2\" rx=\"0.6\"/><path d=\"M9.8 6.7h4.4a1 1 0 0 1 1 1v10.3a2.5 2.5 0 0 1-2.5 2.5h-1.4a2.5 2.5 0 0 1-2.5-2.5V7.7a1 1 0 0 1 1-1Z\"/><path d=\"M8.7 11.5h6.6\"/>",
+    "solid": "<path d=\"M10.8 2a1 1 0 0 0-1 1v1.3A1.5 1.5 0 0 0 8.5 5.8v.9a1.8 1.8 0 0 0-1 1.6v10.2A2.5 2.5 0 0 0 10 21h4a2.5 2.5 0 0 0 2.5-2.5V8.3a1.8 1.8 0 0 0-1-1.6v-.9a1.5 1.5 0 0 0-1.3-1.5V3a1 1 0 0 0-1-1Zm-2 9.3h6.4a.8.8 0 0 1 0 1.6H8.8a.8.8 0 0 1 0-1.6Z\" fill-rule=\"evenodd\"/>"
+  },
+  "energy-bar": {
+    "category": "fitness",
+    "keywords": [
+      "energy bar",
+      "protein bar",
+      "snack",
+      "nutrition",
+      "barrita",
+      "energetica",
+      "snack",
+      "proteina"
+    ],
+    "aliases": [
+      "protein-bar",
+      "snack-bar"
+    ],
+    "outline": "<rect x=\"5\" y=\"8.5\" width=\"14\" height=\"7\" rx=\"1.5\"/><path d=\"M5 10 3 8v8l2-2\"/><path d=\"M19 10 21 8v8l-2-2\"/><path d=\"M8.5 8.5v7M15.5 8.5v7\"/>",
+    "solid": "<path d=\"M5.5 8.5A1.5 1.5 0 0 0 4 10v.2L2.9 9.1A.6.6 0 0 0 2 9.5v5a.6.6 0 0 0 .9.4L4 13.8v.2A1.5 1.5 0 0 0 5.5 15.5h13A1.5 1.5 0 0 0 20 14v-.2l1.1 1.1a.6.6 0 0 0 .9-.4v-5a.6.6 0 0 0-.9-.5L20 10.2V10a1.5 1.5 0 0 0-1.5-1.5Zm3.2 1.2h.8v4.6h-.8Zm6.6 0h.8v4.6h-.8Z\" fill-rule=\"evenodd\"/>"
+  },
+  "step-counter": {
+    "category": "fitness",
+    "keywords": [
+      "pedometer",
+      "steps",
+      "counter",
+      "tracker",
+      "podometro",
+      "pasos",
+      "contador",
+      "cuentapasos",
+      "clip",
+      "display",
+      "dispositivo"
+    ],
+    "aliases": [
+      "pedometer",
+      "step-tracker"
+    ],
+    "outline": "<rect x=\"4.5\" y=\"6.5\" width=\"15\" height=\"13.5\" rx=\"3\"/><rect x=\"9\" y=\"3\" width=\"6\" height=\"3.5\" rx=\"1.2\"/><rect x=\"7.5\" y=\"10\" width=\"9\" height=\"4.5\" rx=\"1\"/><path d=\"M9.5 17.5h5\"/>",
+    "solid": null
+  },
+  "personal-trainer": {
+    "category": "fitness",
+    "keywords": [
+      "trainer",
+      "coach",
+      "fitness",
+      "instructor",
+      "entrenador",
+      "personal",
+      "coach",
+      "gimnasio"
+    ],
+    "aliases": [
+      "coach",
+      "fitness-coach"
+    ],
+    "outline": "<circle cx=\"12\" cy=\"6\" r=\"3.2\"/><path d=\"M5.5 20.5c0-3.6 2.9-5.8 6.5-5.8s6.5 2.2 6.5 5.8\"/><path d=\"M12 9.2v2.3l-2.4 1.6\"/><circle cx=\"8.8\" cy=\"14\" r=\"1.6\"/>",
+    "solid": null
+  },
+  "workout-timer": {
+    "category": "fitness",
+    "keywords": [
+      "timer",
+      "stopwatch",
+      "interval",
+      "workout",
+      "cronometro",
+      "temporizador",
+      "intervalo",
+      "tiempo",
+      "hiit",
+      "segments",
+      "segmentos"
+    ],
+    "aliases": [
+      "interval-timer",
+      "stopwatch"
+    ],
+    "outline": "<circle cx=\"12\" cy=\"13.5\" r=\"7\"/><path d=\"M12 6.5V4.5\"/><path d=\"M9.7 3h4.6\"/><path d=\"M12 9.1A4.4 4.4 0 0 1 15.37 16.33\"/><path d=\"M12 13.5v.01\"/>",
+    "solid": "<rect x=\"9.6\" y=\"2.4\" width=\"4.8\" height=\"2.2\" rx=\"1\"/><rect x=\"11\" y=\"4.2\" width=\"2\" height=\"2.4\"/><path d=\"M4 13.5a8 8 0 1 0 16 0a8 8 0 1 0 -16 0ZM12 8.3A5.2 5.2 0 0 1 15.98 16.84L14.45 15.56A3.2 3.2 0 0 0 12 10.3ZM10.7 13.5a1.3 1.3 0 1 0 2.6 0a1.3 1.3 0 1 0 -2.6 0Z\" fill-rule=\"evenodd\"/>"
+  },
+  "body-measurement": {
+    "category": "fitness",
+    "keywords": [
+      "measurement",
+      "tape",
+      "body",
+      "measure",
+      "medida",
+      "cinta metrica",
+      "cuerpo",
+      "medir",
+      "waist",
+      "cintura",
+      "colilla"
+    ],
+    "aliases": [
+      "measuring-tape",
+      "body-measure"
+    ],
+    "outline": "<circle cx=\"11.5\" cy=\"10.5\" r=\"6.5\"/><rect x=\"3\" y=\"9\" width=\"17\" height=\"3.4\" rx=\"1.7\"/><path d=\"M18.4 12.4c.3 2.6 0 5.1-.9 7.4\"/><path d=\"M17.7 15.4h1.9M17.3 17.8h1.9\"/>",
+    "solid": "<path d=\"M5 10.5a6.5 6.5 0 1 0 13 0a6.5 6.5 0 1 0 -13 0ZM6.8 10.5a4.7 4.7 0 1 0 9.4 0a4.7 4.7 0 1 0 -9.4 0Z\" fill-rule=\"evenodd\"/><rect x=\"3\" y=\"8.8\" width=\"17\" height=\"3.6\" rx=\"1.8\"/><path d=\"M17.4 12.4h2.1v6.3a1.05 1.05 0 0 1-2.1 0Z\"/>"
+  }
+}
